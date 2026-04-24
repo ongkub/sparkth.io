@@ -1,0 +1,2319 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Uighur
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-12-29 01:33:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ug_CN\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: lib/experimental/blocks.php:102
+msgid "Block name must be a string or array."
+msgstr "بۆلەك ئىسمى چوقۇم ھەرپ تىزىقى ياكى سانلار قاتارى بولۇشى كېرەك."
+
+#: build/scripts/widgets/blocks/widget-group/block.json
+msgctxt "block title"
+msgid "Widget Group"
+msgstr "ئەپچە گۇرۇپپىسى"
+
+#: build/scripts/edit-widgets/blocks/widget-area/block.json
+msgctxt "block title"
+msgid "Widget Area"
+msgstr "ئەپچە دائىرىسى"
+
+#: lib/compat/wordpress-7.0/class-gutenberg-rest-templates-controller-7-0.php:405
+msgid "Unknown author"
+msgstr "نامەلۇم يازغۇچى"
+
+#: build/scripts/block-library/form/block.json
+msgctxt "block title"
+msgid "Form"
+msgstr "كۆزنەك"
+
+#: build/scripts/block-library/form-submit-button/block.json
+msgctxt "block keyword"
+msgid "button"
+msgstr "توپچە"
+
+#: build/scripts/block-library/form-submit-button/block.json
+msgctxt "block keyword"
+msgid "submit"
+msgstr "تاپشۇر"
+
+#: build/scripts/block-library/form/block.json
+msgctxt "block description"
+msgid "A form."
+msgstr "كۆزنەك."
+
+#: build/scripts/block-library/form-submit-button/block.json
+msgctxt "block description"
+msgid "A submission button for forms."
+msgstr "كۆزنەكنىڭ يوللاش توپچىسى."
+
+#: build/scripts/block-library/form-submit-button/block.json
+msgctxt "block title"
+msgid "Form Submit Button"
+msgstr "كۆزنەك يوللاش توپچىسى"
+
+#: build/scripts/block-library/form-submission-notification/block.json
+msgctxt "block keyword"
+msgid "message"
+msgstr "ئۇچۇر"
+
+#: build/scripts/block-library/form-submission-notification/block.json
+msgctxt "block keyword"
+msgid "notification"
+msgstr "ئۇقتۇرۇش"
+
+#: build/scripts/block-library/form-submission-notification/block.json
+msgctxt "block keyword"
+msgid "feedback"
+msgstr "قايتۇرما ئىنكاس"
+
+#: build/scripts/block-library/form-submission-notification/block.json
+msgctxt "block description"
+msgid "Provide a notification message after the form has been submitted."
+msgstr "كۆزنەك يوللانغاندىن كېيىن ئۇقتۇرۇش ئۇچۇرى بىلەن تەمىنلەڭ."
+
+#: build/scripts/block-library/form-submission-notification/block.json
+msgctxt "block title"
+msgid "Form Submission Notification"
+msgstr "كۆزنەك يوللاش ئۇقتۇرۇشى"
+
+#: build/scripts/block-library/form-input/block.json
+msgctxt "block keyword"
+msgid "input"
+msgstr "كىرگۈزۈش"
+
+#: build/scripts/block-library/form-input/block.json
+msgctxt "block title"
+msgid "Input Field"
+msgstr "كىرگۈزۈش سۆز بۆلىكى"
+
+#: build/scripts/block-library/image.php:201
+msgid "Enlarged image"
+msgstr "چوڭايتىلغان سۈرەت"
+
+#: build/scripts/block-library/form.php:94
+msgid "Form submission"
+msgstr "كۆزنەك تاپشۇرۇش"
+
+#. translators: %s: The request URI.
+#: build/scripts/block-library/form.php:76
+msgid "Form submission from %1$s"
+msgstr "كۆزنەك %1$s دىن يوللاندى"
+
+#: build/scripts/block-library/footnotes/block.json
+msgctxt "block description"
+msgid "Display footnotes added to the page."
+msgstr "بەتكە قوشۇلغان بەت ئاستى ئىزاھاتنى كۆرسىتىدۇ."
+
+#. Translators: %d: Integer representing the number of return links on the
+#. page.
+#: build/scripts/block-library/footnotes.php:48
+msgid "Jump to footnote reference %1$d"
+msgstr "بەت ئاستى %1$d-نەقىلگە ئاتلايدۇ"
+
+#: lib/experimental/fonts/load.php:21 lib/experimental/fonts/load.php:22
+#: lib/experimental/pages/site-editor.php:34
+#: build/routes/font-list/content.js:15047 build/routes/font-list/route.js:37
+#: build/scripts/editor/index.js:29200 build/scripts/editor/index.js:29289
+msgid "Fonts"
+msgstr "خەت نۇسخا"
+
+#. translators: %s: taxonomy's label
+#: build/scripts/block-library/post-terms.php:93
+msgid "Display a list of assigned terms from the taxonomy: %s"
+msgstr "تۈرلىنىشنىڭ بېكىتىلگەن تۈرلىرىنىڭ تىزىملىكىنى كۆرسىتىدۇ: %s"
+
+#: lib/interactivity-api.php:27
+msgid "Page Loaded."
+msgstr "بەت يۈكلەندى."
+
+#: lib/interactivity-api.php:26
+msgid "Loading page, please wait."
+msgstr "بەت يۈكلەۋاتىدۇ، سەل كۈتۈڭ."
+
+#: build/scripts/block-library/post-date/block.json
+msgctxt "block title"
+msgid "Date"
+msgstr "چېسلا"
+
+#: build/scripts/block-library/post-content/block.json
+msgctxt "block title"
+msgid "Content"
+msgstr "مەزمۇن"
+
+#: build/scripts/block-library/post-author/block.json
+msgctxt "block title"
+msgid "Author"
+msgstr "يازغۇچى"
+
+#: build/scripts/block-library/details/block.json
+msgctxt "block keyword"
+msgid "toggle"
+msgstr "ئالماشتۇر"
+
+#: build/scripts/block-library/search.php:172
+msgid "Submit Search"
+msgstr "ئىزدەش تاپشۇر"
+
+#: build/scripts/block-library/block/block.json
+msgctxt "block keyword"
+msgid "reusable"
+msgstr "ئىشلىتىشچان"
+
+#: build/scripts/block-library/footnotes.php:124
+#: build/scripts/block-library/index.js:71090
+#: build/scripts/block-library/index.js:71102
+msgid "Footnotes"
+msgstr "بەت ئاستى ئىزاھات"
+
+#: build/scripts/block-library/footnotes/block.json
+msgctxt "block keyword"
+msgid "references"
+msgstr "پايدىلانمىلار"
+
+#: build/scripts/block-library/footnotes/block.json
+msgctxt "block title"
+msgid "Footnotes"
+msgstr "بەت ئاستى ئىزاھات"
+
+#. translators: %s: duotone colors
+#: lib/class-wp-duotone-gutenberg.php:536
+msgid "\"%s\" in theme.json settings.color.duotone is not a hex or rgb string."
+msgstr "theme.json settings.color.duotone دىكى «%s» hex ياكى rgb تىزىقى ئەمەس."
+
+#: build/scripts/block-library/post-title/block.json
+msgctxt "block title"
+msgid "Title"
+msgstr "ماۋزۇ"
+
+#: build/scripts/block-library/post-excerpt/block.json
+msgctxt "block title"
+msgid "Excerpt"
+msgstr "ئۈزۈندە"
+
+#: build/scripts/block-library/search.php:143
+#: build/scripts/block-library/search.php:173
+msgid "Expand search field"
+msgstr "ئىزدە بۆلىكىنى ياي"
+
+#. translators: %s: duotone filter ID
+#: lib/class-wp-duotone-gutenberg.php:729
+msgid "The duotone id \"%s\" is not registered in theme.json settings"
+msgstr "بۇ duotone id \"%s\" نى theme.json دىكى تەڭشەككە خەتلەتمىگەن"
+
+#: build/scripts/block-library/details/block.json
+msgctxt "block description"
+msgid "Hide and show additional content."
+msgstr "قوشۇمچە مەزمۇننى يوشۇرۇش ۋە كۆرسىتىش."
+
+#: build/scripts/block-library/cover/block.json
+msgctxt "block description"
+msgid "Add an image or video with a text overlay."
+msgstr "تېكىست قاپلىمىسى بار سۈرەت ياكى سىن قوشىدۇ."
+
+#: build/scripts/block-library/site-logo/block.json
+msgctxt "block description"
+msgid "Display an image to represent this site. Update this block and the changes apply everywhere."
+msgstr "بۇ بېكەتكە ۋەكىللىك قىلىدىغان سۈرەتنى كۆرسىتىدۇ. بۇ بۆلەك يېڭىلانسا ئۆزگىرىشلەر ھەممە يەردە قوللىنىلىدۇ."
+
+#: build/scripts/block-library/details/block.json
+msgctxt "block keyword"
+msgid "disclosure"
+msgstr "ئاشكارىلا"
+
+#: build/scripts/block-library/details/block.json
+msgctxt "block title"
+msgid "Details"
+msgstr "تەپسىلاتلار"
+
+#. translators: %s: the number of minutes to read the post.
+#: build/scripts/block-library/post-time-to-read.php:136
+#: build/scripts/block-library/index.js:50776
+#: build/scripts/editor/index.js:56417
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] "%s مىنۇت"
+msgstr[1] ""
+
+#. translators: %d is the post ID.
+#: build/scripts/block-library/post-featured-image.php:36
+msgid "Untitled post %d"
+msgstr "ماۋزۇسىز يازما %d"
+
+#. translators: 1: theme.json, 2: Value name, 3: Value path, 4: Another value
+#. name.
+#: lib/class-wp-theme-json-gutenberg.php:2544
+msgid "Your %1$s file uses a dynamic value (%2$s) for the path at %3$s. However, the value at %3$s is also a dynamic value (pointing to %4$s) and pointing to another dynamic value is not supported. Please update %3$s to point directly to %4$s."
+msgstr "سىز %3$s. يولنىڭ (%2$s) ئۆزگىرىشچان قىممەتنى %1$s ھۆججەتتە ئىشلەتكەن، %3$s دىكى قىممەتمۇ ئۆزگىرىشچان قىممەت (%4$s نى كۆرسەتكەن) ھەمدە باشقا بىر ئۆزگىرىشچان قىممەتنى كۆرسىتىشنى قوللىمايدۇ. %3$s نى بىۋاسىتە %4$s نى كۆرسىتىدىغان قىلىپ يېڭىلاڭ."
+
+#: build/scripts/block-library/page-list-item/block.json
+msgctxt "block keyword"
+msgid "page"
+msgstr "بەت"
+
+#: build/scripts/block-library/page-list-item/block.json
+msgctxt "block description"
+msgid "Displays a page inside a list of all pages."
+msgstr "بارلىق بەتلەرنىڭ تىزىمى ئىچىدىكى بىر بەتنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/page-list-item/block.json
+msgctxt "block title"
+msgid "Page List Item"
+msgstr "بەت تىزىمى تۈرى"
+
+#. translators: %s is post ID to describe the link for screen readers.
+#: build/scripts/block-library/read-more.php:28
+msgid "untitled post %s"
+msgstr "ماۋزۇسىز يازما %s"
+
+#. translators: %s is either the post title or post ID to describe the link for
+#. screen readers.
+#: build/scripts/block-library/read-more.php:34
+msgid ": %s"
+msgstr ": %s"
+
+#: build/scripts/block-library/tag-cloud.php:35
+msgid "There&#8217;s no content to show here yet."
+msgstr "تېخى بۇ جايدا كۆرسىتىدىغان مەزمۇن يوق."
+
+#: build/scripts/block-library/comments-pagination-previous/block.json
+msgctxt "block title"
+msgid "Comments Previous Page"
+msgstr "ئىزاھات ئالدىنقى بەت"
+
+#: build/scripts/block-library/comments-pagination-next/block.json
+msgctxt "block title"
+msgid "Comments Next Page"
+msgstr "ئىزاھات كېيىنكى بەت"
+
+#. translators: %s: search query
+#: build/scripts/block-library/breadcrumbs.php:63
+msgid "Search results for: \"%s\""
+msgstr "ئىزدەش نەتىجىسى: «%s»"
+
+#. translators: %s: Digit to indicate multiple of sizing, eg. 2X-Large.
+#: lib/class-wp-theme-json-gutenberg.php:4392
+msgid "%sX-Large"
+msgstr "%sX-چوڭ"
+
+#. translators: %s: Digit to indicate multiple of sizing, eg. 2X-Small.
+#: lib/class-wp-theme-json-gutenberg.php:4355
+msgid "%sX-Small"
+msgstr "%sX-كىچىك"
+
+#: lib/class-wp-theme-json-gutenberg.php:4228
+msgid "Some of the theme.json settings.spacing.spacingScale values are invalid"
+msgstr "بەزى theme.json نىڭ settings.spacing.spacingScale قىممىتى ئىناۋەتسىز"
+
+#. translators: %s: Number of comments.
+#: build/scripts/block-library/comments-title.php:60
+#: build/scripts/block-library/index.js:15570
+msgid "%s response"
+msgid_plural "%s responses"
+msgstr[0] "%s جاۋاب"
+msgstr[1] ""
+
+#: build/scripts/block-library/comments/block.json
+msgctxt "block title"
+msgid "Comments"
+msgstr "ئىزاھات"
+
+#: build/scripts/block-library/comments-title.php:73
+#: build/scripts/block-library/index.js:15581
+msgid "Response"
+msgstr "ئىنكاس"
+
+#: build/scripts/block-library/comment-content.php:46
+msgid "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
+msgstr "باھايىڭىز تەستىقلىنىشنى كۈتۈۋاتىدۇ. بۇ ئالدىن كۆرۈش، باھايىڭىز تەستىقلانغاندىن كېيىن ئاندىن كۆرۈنىدۇ."
+
+#: build/scripts/block-library/comment-content.php:44
+msgid "Your comment is awaiting moderation."
+msgstr "باھايىڭىز تەستىق كۈتۈۋاتىدۇ."
+
+#: build/scripts/block-library/comments-title/block.json
+msgctxt "block title"
+msgid "Comments Title"
+msgstr "ئىنكاس ماۋزۇسى"
+
+#: build/scripts/block-library/comments-title.php:75
+#: build/scripts/block-library/index.js:15583
+msgid "Responses"
+msgstr "ئىنكاس"
+
+#: build/scripts/block-library/comments-title.php:56
+#: build/scripts/block-library/index.js:15566
+msgid "One response"
+msgstr "بىر جاۋاب"
+
+#: build/scripts/block-library/group/block.json
+msgctxt "block description"
+msgid "Gather blocks in a layout container."
+msgstr "بۆلەكلەرنى جايلاشتۇرۇش قاچىسىغا يىغىدۇ."
+
+#: build/scripts/block-library/comments/block.json
+msgctxt "block description"
+msgid "An advanced block that allows displaying post comments using different visual configurations."
+msgstr "پەرقلىق كۆرۈنۈش ئۈنۈمى سەپلىمىسىدە يازما ئىنكاسىنى كۆرسىتىشكە يول قويىدىغان ئالىي دەرىجىلىك بۆلەك."
+
+#: build/scripts/block-library/comment-date/block.json
+msgctxt "block description"
+msgid "Displays the date on which the comment was posted."
+msgstr "ئىنكاسنىڭ قايسى چېسلادا يوللانغانلىقىنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/comment-author-name/block.json
+msgctxt "block description"
+msgid "Displays the name of the author of the comment."
+msgstr "ئىنكاس يازغۇچىنىڭ ئىسمىنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/comment-author-avatar/block.json
+msgctxt "block description"
+msgid "This block is deprecated. Please use the Avatar block instead."
+msgstr "بۇ بۆلەك قوللىمايدۇ. ئورنىغا سىما بۆلەك ئىشلىتىڭ."
+
+#: build/scripts/block-library/comment-author-avatar/block.json
+msgctxt "block title"
+msgid "Comment Author Avatar (deprecated)"
+msgstr "يازغۇچى سىماسىغا ئىنكاس (قوللىمايدۇ)"
+
+#: build/scripts/block-library/query-no-results/block.json
+msgctxt "block description"
+msgid "Contains the block elements used to render content when no query results are found."
+msgstr "ھېچقانداق سۈرۈشتۈرۈش نەتىجىسى تېپىلمىغاندا مەزمۇننى ھاسىللاشتا ئىشلىتىدىغان بۆلەك ئېلېمېنتى."
+
+#: build/scripts/block-library/avatar/block.json
+msgctxt "block description"
+msgid "Add a user’s avatar."
+msgstr "ئىشلەتكۈچىگە سىما قوشىدۇ."
+
+#: build/scripts/block-library/avatar/block.json
+msgctxt "block title"
+msgid "Avatar"
+msgstr "سىما"
+
+#. translators: %s: Comment author name.
+#: build/scripts/block-library/avatar.php:92
+msgid "(%s website link, opens in a new tab)"
+msgstr "(%s  تور بېكەت ئۇلانمىسى، يېڭى بىر بەتكۈچتە ئاچىدۇ)"
+
+#. translators: %s is the Author name.
+#: build/scripts/block-library/avatar.php:65
+msgid "(%s author archive, opens in a new tab)"
+msgstr "(%s  يازغۇچى ئارخىپى، يېڭى بىر بەتكۈچتە ئاچىدۇ)"
+
+#: build/scripts/block-library/read-more/block.json
+msgctxt "block description"
+msgid "Displays the link of a post, page, or any other content-type."
+msgstr "يازما، بەت ياكى خالىغان باشقا مەزمۇن تىپىنىڭ ئۇلانمىسىنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/read-more/block.json
+msgctxt "block title"
+msgid "Read More"
+msgstr "تېخىمۇ كۆپ بىلدۈرگۈ"
+
+#: build/scripts/block-library/post-author-biography/block.json
+msgctxt "block description"
+msgid "The author biography."
+msgstr "يازغۇچىنىڭ تەرجىمىھالى."
+
+#: build/scripts/block-library/post-author-biography/block.json
+msgctxt "block title"
+msgid "Author Biography"
+msgstr "يازغۇچىنىڭ تەرجىمىھالى"
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:208
+msgid "Sorry, you are not allowed to view this global style."
+msgstr "كەچۈرۈڭ، بۇ ئومۇمىيەت ئۇسلۇبىنى كۆرۈش ئىجازىتىڭىز يوق."
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:200
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:245
+msgid "Sorry, you are not allowed to edit this global style."
+msgstr "كەچۈرۈڭ، بۇ ئومۇمىيەت ئۇسلۇبىنى تەھرىرلەش ئىجازىتىڭىز يوق."
+
+#: build/scripts/block-library/comments-pagination-previous.php:20
+#: build/scripts/block-library/index.js:13034
+#: build/scripts/block-library/index.js:13109
+#: build/scripts/block-library/index.js:14895
+#: build/scripts/block-library/index.js:14912
+msgid "Older Comments"
+msgstr "كونىراق ئىنكاسلار"
+
+#: build/scripts/block-library/comments-pagination-next.php:27
+#: build/scripts/block-library/index.js:13037
+#: build/scripts/block-library/index.js:13112
+#: build/scripts/block-library/index.js:15224
+#: build/scripts/block-library/index.js:15248
+msgid "Newer Comments"
+msgstr "يېڭى ئىنكاسلار"
+
+#: build/scripts/block-library/post-author/block.json
+msgctxt "block description"
+msgid "Display post author details such as name, avatar, and bio."
+msgstr "يازما يازغۇچىنىڭ ئىسىم، سىما ۋە تەرجىمھالغا ئوخشاش تەپسىلاتلىرىنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/post-author-name/block.json
+msgctxt "block description"
+msgid "The author name."
+msgstr "يازغۇچىنىڭ ئاتى."
+
+#: build/scripts/block-library/post-author-name/block.json
+msgctxt "block title"
+msgid "Author Name"
+msgstr "يازغۇچى ئاتى"
+
+#: build/scripts/block-library/comments-pagination-previous/block.json
+msgctxt "block description"
+msgid "Displays the previous comment's page link."
+msgstr "ئالدىنقى ئىنكاسنىڭ بەت ئۇلانمىسىنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/comments-pagination-next/block.json
+msgctxt "block description"
+msgid "Displays the next comment's page link."
+msgstr "كېيىنكى ئىنكاسنىڭ بەت ئۇلانمىسىنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/site-logo.php:97
+#: build/scripts/block-library/index.js:38479
+#: build/scripts/block-library/index.js:38488
+#: build/scripts/block-library/index.js:39043
+#: build/scripts/block-library/index.js:44328
+msgid "Icon"
+msgstr "سىنبەلگە"
+
+#: build/scripts/block-library/site-logo.php:98
+msgid "Site icon."
+msgstr "بېكەت سىنبەلگىسى."
+
+#: lib/theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "زىيادە چوڭ"
+
+#: build/scripts/block-library/query-pagination/block.json
+msgctxt "block title"
+msgid "Pagination"
+msgstr "بەتكە ئايرىش"
+
+#: build/scripts/block-library/query-pagination-previous/block.json
+msgctxt "block title"
+msgid "Previous Page"
+msgstr "ئالدىنقى بەت"
+
+#: build/scripts/block-library/query-pagination-numbers/block.json
+msgctxt "block title"
+msgid "Page Numbers"
+msgstr "بەت نومۇرى"
+
+#: build/scripts/block-library/query-pagination-next/block.json
+msgctxt "block title"
+msgid "Next Page"
+msgstr "كېيىنكى بەت"
+
+#: build/scripts/block-library/comments-pagination-numbers/block.json
+msgctxt "block description"
+msgid "Displays a list of page numbers for comments pagination."
+msgstr "ئىنكاسلارنى بەتكە ئايرىشنىڭ بەت نومۇرى تىزىمىنى كۆرسىتىدۇ."
+
+#. translators: Accessibility text. %s: Parent page title.
+#: build/scripts/block-library/navigation-submenu.php:179
+#: build/scripts/block-library/page-list.php:199
+msgid "%s submenu"
+msgstr "%s تارماق تىزىملىك"
+
+#: build/scripts/block-library/comments-pagination/block.json
+msgctxt "block description"
+msgid "Displays a paginated navigation to next/previous set of comments, when applicable."
+msgstr "ئەگەر قوللانغىلى بولغاندا كېيىنكى/ئالدىنقى ئىنكاس توپلامىنى بەتكە ئايرىغان ھالدا يولباشچىدا كۆرسىتىدۇ."
+
+#: build/scripts/block-library/comments-pagination/block.json
+msgctxt "block title"
+msgid "Comments Pagination"
+msgstr "ئىنكاسنى بەتكە ئايرىش"
+
+#: build/scripts/block-library/post-comment/block.json
+msgctxt "block title"
+msgid "Comment (deprecated)"
+msgstr "ئىنكاس (قوللىمايدۇ)"
+
+#: build/scripts/block-library/pattern/block.json
+msgctxt "block description"
+msgid "Show a block pattern."
+msgstr "بۆلەك ئەندىزە كۆرسىتىدۇ."
+
+#: build/scripts/block-library/block/block.json
+msgctxt "block title"
+msgid "Pattern"
+msgstr "ئەندىزە"
+
+#: build/scripts/block-library/comment-template/block.json
+msgctxt "block description"
+msgid "Contains the block elements used to display a comment, like the title, date, author, avatar and more."
+msgstr "ماۋزۇ، چېسلا، ئاپتور، سىما ۋە باشقىلارغا ئوخشاش ئىنكاسنى كۆرسىتىشكە ئىشلىتىدىغان بۆلەك ئېلېمېنتىنى ئۆز ئىچىگە ئالىدۇ."
+
+#: build/scripts/block-library/comment-template/block.json
+msgctxt "block title"
+msgid "Comment Template"
+msgstr "ئىنكاس قېلىپى"
+
+#: build/scripts/block-library/comment-reply-link/block.json
+msgctxt "block description"
+msgid "Displays a link to reply to a comment."
+msgstr "ئىنكاسقا جاۋاب قايتۇرۇش ئۇلانمىسىنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/comment-reply-link/block.json
+msgctxt "block title"
+msgid "Comment Reply Link"
+msgstr "ئىنكاسقا جاۋاب قايتۇرۇش ئۇلانمىسى"
+
+#: build/scripts/block-library/comment-edit-link/block.json
+msgctxt "block description"
+msgid "Displays a link to edit the comment in the WordPress Dashboard. This link is only visible to users with the edit comment capability."
+msgstr "WordPress باشقۇرۇش تاختىسىدىكى ئىنكاس تەھرىرلەش ئۇلانمىسىنى كۆرسىتىدۇ. بۇ ئۇلانما ئىنكاس تەھرىرلىيەلەيدىغان ئىشلەتكۈچىلەرگىلا كۆرۈنىدۇ."
+
+#: build/scripts/block-library/comment-edit-link/block.json
+msgctxt "block title"
+msgid "Comment Edit Link"
+msgstr "ئىنكاس تەھرىرلەش ئۇلانمىسى"
+
+#: build/scripts/block-library/comment-content/block.json
+msgctxt "block description"
+msgid "Displays the contents of a comment."
+msgstr "ئىنكاسنىڭ مەزمۇنىنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/comment-author-name/block.json
+msgctxt "block title"
+msgid "Comment Author Name"
+msgstr "ئىنكاس يازغۇچىنىڭ ئىسمى"
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:590
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:659
+msgid "Theme not found."
+msgstr "ئۆرنەك تېپىلمىدى."
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:523
+msgid "HTML title for the post, transformed for display."
+msgstr "ئوبيېكتنىڭ كۆرسەتكەندە ئۆزگىرىدىغان HTML ماۋزۇسى."
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:518
+msgid "Title for the global styles variation, as it exists in the database."
+msgstr "سانداندا مەۋجۇت بولغان، ئومۇمىيەت ئۇسلۇب ئۆزگەرگۈچىنىڭ ماۋزۇسى."
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:512
+msgid "Title of the global styles variation."
+msgstr "ئۇمۇمىيەت ئۇسلۇب ئۆزگەرگۈچىنىڭ ماۋزۇسى."
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:507
+msgid "Global settings."
+msgstr "ئومۇمىيەت تەڭشەكلەر."
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:502
+msgid "Global styles."
+msgstr "ئومۇمىيەت ئۇسلۇبلىرى."
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:496
+msgid "ID of global styles config."
+msgstr "ئومۇمىيەت ئۇسلۇب يامىللىقىنىڭ كىملىكى."
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:166
+msgid "No global styles config exist with that id."
+msgstr "بۇ كىملىكنىڭ ھېچقانداق ئومۇمىيەت ئۇسلۇب مايىللىقى مەۋجۇت ئەمەس."
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:570
+msgid "Sorry, you are not allowed to access the global styles on this site."
+msgstr "كەچۈرۈڭ، بۇ بېكەتتىكى ئومۇمىيەت ئۇسلۇبلارنى زىيارەت قىلىش ئىجازىتىڭىز يوق."
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:58
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:92
+msgid "The theme identifier"
+msgstr "ئۆرنەك دەلىللىگۈچ"
+
+#. translators: %s: Author name.
+#: build/scripts/block-library/avatar.php:50
+#: build/scripts/block-library/avatar.php:77
+#: build/scripts/block-library/comment-author-avatar.php:50
+#: build/scripts/block-library/index.js:6389
+#: build/scripts/block-library/index.js:6423
+msgid "%s Avatar"
+msgstr "%s  سىما"
+
+#: build/scripts/block-library/quote/block.json
+msgctxt "block style label"
+msgid "Plain"
+msgstr "تەكشىلىك"
+
+#: build/scripts/block-library/site-title/block.json
+msgctxt "block description"
+msgid "Displays the name of this site. Update the block, and the changes apply everywhere it’s used. This will also appear in the browser title bar and in search results."
+msgstr "بۇ تور بېكەتنىڭ ئىسمىنى كۆرسىتىدۇ. بۆلەك يېڭىلانسا ئۆزگىرىشلەر ئۇنى ئىشلەتكەن جايلارنىڭ ھەممىسىدە قوللىنىلىدۇ. توركۆرگۈنىڭ ماۋزۇ بالدىقى ۋە ئىزدەش نەتىجىسىدىمۇ ئىپادىلىنىدۇ."
+
+#: build/scripts/block-library/post-navigation-link.php:83
+msgctxt "label before the title of the previous post"
+msgid "Previous:"
+msgstr "ئالدىنقى:"
+
+#: build/scripts/block-library/post-navigation-link.php:83
+msgctxt "label before the title of the next post"
+msgid "Next:"
+msgstr "كېيىنكى:"
+
+#: build/scripts/block-library/navigation-submenu/block.json
+msgctxt "block description"
+msgid "Add a submenu to your navigation."
+msgstr "يولباشچىڭىزغا تارماق تىزىملىك قوشىدۇ."
+
+#: build/scripts/block-library/navigation-submenu/block.json
+msgctxt "block title"
+msgid "Submenu"
+msgstr "تارماق تىزىملىك"
+
+#: build/scripts/block-library/columns/block.json
+msgctxt "block description"
+msgid "Display content in multiple columns, with blocks added to each column."
+msgstr "كۆپ رەتتىكى ھەر بىر رەتكە قوشۇلغان بۆلەكتە مەزمۇن كۆرسىتىدۇ."
+
+#: build/scripts/block-library/table/block.json
+msgctxt "block description"
+msgid "Create structured content in rows and columns to display information."
+msgstr "قۇر ۋە رەتتە ئۇچۇر كۆرسىتىش ئۈچۈن قۇرۇلمىلىق مەزمۇن قۇرىدۇ."
+
+#: lib/theme.json
+msgctxt "Duotone name"
+msgid "Blue and orange"
+msgstr "كۆك ۋە قىزغۇچ سېرىق"
+
+#: lib/theme.json
+msgctxt "Duotone name"
+msgid "Purple and green"
+msgstr "بىنەپشە ۋە يېشىل"
+
+#: lib/theme.json
+msgctxt "Duotone name"
+msgid "Magenta and yellow"
+msgstr "ھالرەڭ ۋە سېرىق"
+
+#: lib/theme.json
+msgctxt "Duotone name"
+msgid "Midnight"
+msgstr "يېرىم كېچە"
+
+#: lib/theme.json
+msgctxt "Duotone name"
+msgid "Blue and red"
+msgstr "كۆك ۋە قىزىل"
+
+#: lib/theme.json
+msgctxt "Duotone name"
+msgid "Purple and yellow"
+msgstr "بىنەپشە ۋە سېرىق"
+
+#: lib/theme.json
+msgctxt "Duotone name"
+msgid "Grayscale"
+msgstr "كۈلرەڭ"
+
+#: lib/theme.json
+msgctxt "Duotone name"
+msgid "Dark grayscale"
+msgstr "قارامتۇل كۈلرەڭ"
+
+#: lib/theme.json
+msgctxt "Gradient name"
+msgid "Midnight"
+msgstr "يېرىم كېچە"
+
+#: lib/theme.json
+msgctxt "Gradient name"
+msgid "Electric grass"
+msgstr "توك چىملىق"
+
+#: lib/theme.json
+msgctxt "Gradient name"
+msgid "Pale ocean"
+msgstr "سۇس ئوكيان"
+
+#: lib/theme.json
+msgctxt "Gradient name"
+msgid "Luminous dusk"
+msgstr "گۈگۈمدىكى شەپەق"
+
+#: lib/theme.json
+msgctxt "Gradient name"
+msgid "Blush bordeaux"
+msgstr "سۇس توق قىزىل"
+
+#: lib/theme.json
+msgctxt "Gradient name"
+msgid "Blush light purple"
+msgstr "سۇس قىزغۇچ بىنەپشە"
+
+#: lib/theme.json
+msgctxt "Gradient name"
+msgid "Cool to warm spectrum"
+msgstr "سوغۇقتىن ئىسسىق نۇر دەستىسى"
+
+#: lib/theme.json
+msgctxt "Gradient name"
+msgid "Very light gray to cyan bluish gray"
+msgstr "ئىنتايىن سۇس كۈلرەڭدىن سۇس كۈمۈشرەڭ كۈلرەڭگىچە"
+
+#: lib/theme.json
+msgctxt "Gradient name"
+msgid "Luminous vivid orange to vivid red"
+msgstr "ئوچۇق پارقىراق سارغۇچ سېرىقتىن ئوچۇق قىزىلغا"
+
+#: lib/theme.json
+msgctxt "Gradient name"
+msgid "Luminous vivid amber to luminous vivid orange"
+msgstr "ئوچۇق پارقىراق سارغۇچتىن ئوچۇق پارقىراق سارغۇچ سېرىققا"
+
+#: lib/theme.json
+msgctxt "Gradient name"
+msgid "Light green cyan to vivid green cyan"
+msgstr "ئوچۇق قېنىق يېشىل كۆكۈچتىن پارقىراق قېنىق يېشىل كۆكۈچكە"
+
+#: lib/theme.json
+msgctxt "Gradient name"
+msgid "Vivid cyan blue to vivid purple"
+msgstr "پارقىراق قېنىق كۆكۈچ كۆكتىن پارقىراق بېنەپشەگىچە"
+
+#: lib/theme.json
+msgctxt "Color name"
+msgid "Vivid purple"
+msgstr "پارقىراق بىنەپشە"
+
+#: lib/theme.json
+msgctxt "Color name"
+msgid "Vivid cyan blue"
+msgstr "پارقىراق كۈمۈشرەڭ كۆك"
+
+#: lib/theme.json
+msgctxt "Color name"
+msgid "Pale cyan blue"
+msgstr "سۇس كۈمۈشرەڭ كۆك"
+
+#: lib/theme.json
+msgctxt "Color name"
+msgid "Vivid green cyan"
+msgstr "پارقىراق يېشىل كۈمۈشرەڭ"
+
+#: lib/theme.json
+msgctxt "Color name"
+msgid "Light green cyan"
+msgstr "سۇس يېشىل كۈمۈشرەڭ"
+
+#: lib/theme.json
+msgctxt "Color name"
+msgid "Luminous vivid amber"
+msgstr "پارلاق قەھرىۋا رەڭ"
+
+#: lib/theme.json
+msgctxt "Color name"
+msgid "Luminous vivid orange"
+msgstr "ئوچۇق سىرىق"
+
+#: lib/theme.json
+msgctxt "Color name"
+msgid "Vivid red"
+msgstr "پارقىراق قىزىل"
+
+#: lib/theme.json
+msgctxt "Color name"
+msgid "Pale pink"
+msgstr "سۇس شاپتۇل چېچىكى"
+
+#: lib/theme.json
+msgctxt "Color name"
+msgid "White"
+msgstr "ئاق"
+
+#: lib/theme.json
+msgctxt "Color name"
+msgid "Cyan bluish gray"
+msgstr "كۆكۈش كۈلرەڭ"
+
+#: lib/theme.json
+msgctxt "Color name"
+msgid "Black"
+msgstr "قارا"
+
+#: lib/theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "چوڭ"
+
+#: lib/theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "ئوتتۇرا"
+
+#: lib/theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "كىچىك"
+
+#: build/scripts/block-library/query/block.json
+msgctxt "block description"
+msgid "An advanced block that allows displaying post types based on different query parameters and visual configurations."
+msgstr "پەرقلىق سۈرۈشتۈرۈش پارامېتىرلىرى ۋە كۆرۈنۈش سەپلىمىلىرىگە ئاساسەن يازما تىپىنى كۆرسىتىشكە يول قويىدىغان ئالىي بۆلەك."
+
+#: build/scripts/block-library/post-template/block.json
+msgctxt "block description"
+msgid "Contains the block elements used to render a post, like the title, date, featured image, content or excerpt, and more."
+msgstr "ماۋزۇ، چېسلا، تەۋسىيەلىك سۈرەت، مەزمۇن ياكى ئۈزۈندە ۋە باشقىلارغا ئوخشاش يازما ھاسىللاشقا ئىشلىتىلىدىغان بۆلەك ئېلېمېنتلىرىنى ئۆز ئىچىگە ئالىدۇ."
+
+#: build/scripts/block-library/post-template/block.json
+msgctxt "block title"
+msgid "Post Template"
+msgstr "يازما قېلىپى"
+
+#: build/scripts/block-library/button/block.json
+#: build/scripts/block-library/buttons/block.json
+msgctxt "block keyword"
+msgid "link"
+msgstr "ئۇلانما"
+
+#: build/scripts/block-library/calendar.php:27
+msgid "The calendar block is hidden because there are no published posts."
+msgstr "يىلنامە بۆلىكى يوشۇرۇن چۈنكى ھېچقانداق يازما ئېلان قىلىنمىغان."
+
+#: build/scripts/block-library/video/block.json
+msgctxt "block keyword"
+msgid "movie"
+msgstr "كىنو"
+
+#: build/scripts/block-library/video/block.json
+msgctxt "block description"
+msgid "Embed a video from your media library or upload a new one."
+msgstr "ۋاسىتە ئامبىرىڭىزدىن بىر سىننى سىڭدۈرىدۇ ياكى يېڭىدىن بىرنى يۈكلەيدۇ."
+
+#: build/scripts/block-library/verse/block.json
+msgctxt "block keyword"
+msgid "poem"
+msgstr "شېئىر"
+
+#: build/scripts/block-library/verse/block.json
+msgctxt "block keyword"
+msgid "poetry"
+msgstr "شېئىرىيەت"
+
+#: build/scripts/block-library/verse/block.json
+msgctxt "block description"
+msgid "Insert poetry. Use special spacing formats. Or quote song lyrics."
+msgstr "شېئىر قىستۇرىدۇ. ئالاھىدە بوشلۇق پىچىمى ئىشلىتىدۇ. ياكى ناخشا تېكىستىنى نەقىل كەلتۈرۈشتە ئىشلىتىلىدۇ."
+
+#: build/scripts/block-library/text-columns/block.json
+msgctxt "block description"
+msgid "This block is deprecated. Please use the Columns block instead."
+msgstr "بۇ بۆلەك قوللىمايدۇ. ئورنىغا رەت بۆلەك ئىشلىتىڭ."
+
+#: build/scripts/block-library/table/block.json
+msgctxt "block style label"
+msgid "Stripes"
+msgstr "بالداق"
+
+#: build/scripts/block-library/details/block.json
+#: build/scripts/block-library/table-of-contents/block.json
+msgctxt "block keyword"
+msgid "summary"
+msgstr "ئۈزۈندە"
+
+#: build/scripts/block-library/table-of-contents/block.json
+msgctxt "block title"
+msgid "Table of Contents"
+msgstr "مەزمۇن جەدۋىلى"
+
+#: build/scripts/block-library/spacer/block.json
+msgctxt "block description"
+msgid "Add white space between blocks and customize its height."
+msgstr "بۆلەكلەر ئارىسىغا بوشلۇق قوشۇپ ئۇلارنىڭ ئېگىزلىكىنى خاسلاشتۇرىدۇ."
+
+#: build/scripts/block-library/social-links/block.json
+msgctxt "block style label"
+msgid "Pill Shape"
+msgstr "كاپسۇل شەكلى"
+
+#: build/scripts/block-library/social-links/block.json
+msgctxt "block style label"
+msgid "Logos Only"
+msgstr "تۇغىلا"
+
+#: build/scripts/block-library/site-tagline/block.json
+msgctxt "block keyword"
+msgid "description"
+msgstr "چۈشەندۈرۈش"
+
+#: build/scripts/block-library/shortcode/block.json
+msgctxt "block description"
+msgid "Insert additional custom elements with a WordPress shortcode."
+msgstr "WordPress قىسقا كودى ئارقىلىق قوشۇمچە ئىختىيارى ئېلېمېنتىنى قىستۇرىدۇ."
+
+#: build/scripts/block-library/separator/block.json
+msgctxt "block style label"
+msgid "Dots"
+msgstr "چېكىت"
+
+#: build/scripts/block-library/separator/block.json
+msgctxt "block style label"
+msgid "Wide Line"
+msgstr "كەڭ سىزىق"
+
+#: build/scripts/block-library/separator/block.json
+msgctxt "block keyword"
+msgid "divider"
+msgstr "ئايرىغۇچ"
+
+#: build/scripts/block-library/separator/block.json
+msgctxt "block keyword"
+msgid "hr"
+msgstr "hr"
+
+#: build/scripts/block-library/separator/block.json
+msgctxt "block keyword"
+msgid "horizontal-line"
+msgstr "توغرا سىزىق"
+
+#: build/scripts/block-library/separator/block.json
+msgctxt "block description"
+msgid "Create a break between ideas or sections with a horizontal separator."
+msgstr "توغرىسىغا ئايرىغۇچ ئارقىلىق بۆلەك ۋە مەزمۇنلارنىڭ ئارىسىنى ئايرىيدۇ."
+
+#: build/scripts/block-library/search/block.json
+msgctxt "block keyword"
+msgid "find"
+msgstr "ئىزدە"
+
+#: build/scripts/block-library/search/block.json
+msgctxt "block description"
+msgid "Help visitors find your content."
+msgstr "زىيارەتچىلەرنىڭ مەزمۇنلىرىڭىزنى ئىزدىشىگە ياردەم قىلىدۇ."
+
+#: build/scripts/block-library/rss/block.json
+msgctxt "block keyword"
+msgid "feed"
+msgstr "قانال"
+
+#: build/scripts/block-library/rss/block.json
+msgctxt "block keyword"
+msgid "atom"
+msgstr "ئاتوم"
+
+#: build/scripts/block-library/rss/block.json
+msgctxt "block description"
+msgid "Display entries from any RSS or Atom feed."
+msgstr "خالىغان RSS ياكى ئاتوم قانىلىدىن مەزمۇنلارنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/quote/block.json
+msgctxt "block keyword"
+msgid "cite"
+msgstr "نەقىل"
+
+#: build/scripts/block-library/quote/block.json
+msgctxt "block keyword"
+msgid "blockquote"
+msgstr "بۆلەك نەقىل"
+
+#: build/scripts/block-library/query-title/block.json
+msgctxt "block description"
+msgid "Display the query title."
+msgstr "سۈرۈشتۈرۈش ماۋزۇسىنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/query-title/block.json
+msgctxt "block title"
+msgid "Query Title"
+msgstr "سۈرۈشتۈرۈش ماۋزۇسى"
+
+#: build/scripts/block-library/query-pagination/block.json
+msgctxt "block description"
+msgid "Displays a paginated navigation to next/previous set of posts, when applicable."
+msgstr "ئەگەر قوللانغىلى بولغاندا كېيىنكى/ئالدىنقى يازما توپلامىنى بەتكە ئايرىغان ھالدا يولباشچىدا كۆرسىتىدۇ."
+
+#: build/scripts/block-library/query-pagination-previous/block.json
+msgctxt "block description"
+msgid "Displays the previous posts page link."
+msgstr "ئالدىنقى يازمىنىڭ بەت ئۇلانمىسىنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/query-pagination-next/block.json
+msgctxt "block description"
+msgid "Displays the next posts page link."
+msgstr "كېيىنكى يازمىنىڭ بەت ئۇلانمىسىنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/preformatted/block.json
+msgctxt "block description"
+msgid "Add text that respects your spacing and tabs, and also allows styling."
+msgstr "بوشلۇق ۋە بەتكۈچنىڭ ئارىلىقىغا ۋە ئۇسلۇبىغا لايىق تېكىست قوشىدۇ."
+
+#: build/scripts/block-library/post-title/block.json
+msgctxt "block description"
+msgid "Displays the title of a post, page, or any other content-type."
+msgstr "يازما، بەت ياكى خالىغان باشقا مەزمۇن تىپىنىڭ ماۋزۇسىنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/post-terms/block.json
+msgctxt "block description"
+msgid "Post terms."
+msgstr "يازما ئاتالغۇلىرى."
+
+#: build/scripts/block-library/post-navigation-link/block.json
+msgctxt "block description"
+msgid "Displays the next or previous post link that is adjacent to the current post."
+msgstr "نۆۋەتتىكى يازمىغا قوشنا كېيىنكى ياكى ئالدىنقى يازما ئۇلانمىسىنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/post-navigation-link/block.json
+msgctxt "block title"
+msgid "Post Navigation Link"
+msgstr "يازما يولباشچى ئۇلانما"
+
+#: build/scripts/block-library/post-featured-image/block.json
+msgctxt "block description"
+msgid "Display a post's featured image."
+msgstr "يازمىنىڭ تەۋسىيەلىك سۈرىتىنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/post-excerpt/block.json
+msgctxt "block description"
+msgid "Display the excerpt."
+msgstr "ئۈزۈندىنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/post-content/block.json
+msgctxt "block description"
+msgid "Displays the contents of a post or page."
+msgstr "يازما ياكى بەت مەزمۇنىنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/post-comments-form/block.json
+msgctxt "block description"
+msgid "Display a post's comments form."
+msgstr "بىر يازمىنىڭ ئىنكاس جەدۋىلىنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/paragraph/block.json
+msgctxt "block keyword"
+msgid "text"
+msgstr "تېكىست"
+
+#: build/scripts/block-library/paragraph/block.json
+msgctxt "block description"
+msgid "Start with the basic building block of all narrative."
+msgstr "بارلىق بايانلارنىڭ ئاساسىي قۇرۇلما بۆلەكلىرى مۇشۇ جايدىن باشلىنىدۇ."
+
+#: build/scripts/block-library/page-list/block.json
+msgctxt "block description"
+msgid "Display a list of all pages."
+msgstr "ھەممە بەتنىڭ تىزىمىنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/nextpage/block.json
+msgctxt "block keyword"
+msgid "pagination"
+msgstr "بەتكە ئايرىش"
+
+#: build/scripts/block-library/nextpage/block.json
+msgctxt "block keyword"
+msgid "next page"
+msgstr "كېيىنكى بەت"
+
+#: build/scripts/block-library/nextpage/block.json
+msgctxt "block description"
+msgid "Separate your content into a multi-page experience."
+msgstr "مەزمۇنلىرىڭىزنى كۆپ بەتلىك كەچمىشكە بۆلىدۇ."
+
+#: build/scripts/block-library/navigation-overlay-close/block.json
+#: build/scripts/block-library/navigation/block.json
+#: build/scripts/block-library/page-list-item/block.json
+#: build/scripts/block-library/page-list/block.json
+msgctxt "block keyword"
+msgid "navigation"
+msgstr "يولباشچى"
+
+#: build/scripts/block-library/navigation-overlay-close/block.json
+#: build/scripts/block-library/navigation/block.json
+#: build/scripts/block-library/page-list-item/block.json
+#: build/scripts/block-library/page-list/block.json
+msgctxt "block keyword"
+msgid "menu"
+msgstr "تىزىملىك"
+
+#: build/scripts/block-library/navigation/block.json
+msgctxt "block description"
+msgid "A collection of blocks that allow visitors to get around your site."
+msgstr "زىيارەتچىلەرنىڭ تور بېكىتىڭىزنى كۆرۈشىگە يول قويىدىغان بۆلەكلەر توپلىمى."
+
+#: build/scripts/block-library/navigation-link/block.json
+msgctxt "block description"
+msgid "Add a page, link, or another item to your navigation."
+msgstr "يولباشچىڭىزغا بىر بەت، ئۇلىنىش ياكى باشقا تۈر قوشىدۇ."
+
+#: build/scripts/block-library/more/block.json
+msgctxt "block keyword"
+msgid "read more"
+msgstr "تېخىمۇ كۆپ بىلدۈرگۈ"
+
+#: build/scripts/block-library/more/block.json
+msgctxt "block description"
+msgid "Content before this block will be shown in the excerpt on your archives page."
+msgstr "بۇ بۆلەكتىن بۇرۇنقى مەزمۇنلار ئارخىپ بېتىڭىزدىكى ئۈزۈندىدە كۆرسىتىلىدۇ."
+
+#: build/scripts/block-library/missing/block.json
+msgctxt "block description"
+msgid "Your site doesn’t include support for this block."
+msgstr "تور بېكىتىڭىز بۇ بۆلەكنى قوللىمايدۇ."
+
+#: build/scripts/block-library/media-text/block.json
+msgctxt "block keyword"
+msgid "video"
+msgstr "سىن"
+
+#: build/scripts/block-library/media-text/block.json
+msgctxt "block keyword"
+msgid "image"
+msgstr "سۈرەت"
+
+#: build/scripts/block-library/media-text/block.json
+msgctxt "block description"
+msgid "Set media and words side-by-side for a richer layout."
+msgstr "ۋاسىتە ۋە تېكىستنى يانمۇيان تەڭشەپ ئورۇنلاشتۇرۇشنى موللاشتۇرىدۇ."
+
+#: build/scripts/block-library/form-input/block.json
+#: build/scripts/block-library/form-submission-notification/block.json
+#: build/scripts/block-library/form-submit-button/block.json
+#: build/scripts/block-library/loginout/block.json
+msgctxt "block keyword"
+msgid "form"
+msgstr "كۆزنەك"
+
+#: build/scripts/block-library/loginout/block.json
+msgctxt "block keyword"
+msgid "logout"
+msgstr "تىزىمدىن چىق"
+
+#: build/scripts/block-library/loginout/block.json
+msgctxt "block keyword"
+msgid "login"
+msgstr "تىزىمغا كىر"
+
+#: build/scripts/block-library/loginout/block.json
+msgctxt "block description"
+msgid "Show login & logout links."
+msgstr "تىزىمغا كىر ۋە چىق ئۇلانمىنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/list/block.json
+msgctxt "block keyword"
+msgid "numbered list"
+msgstr "نومۇرلۇق تىزىم"
+
+#: build/scripts/block-library/list/block.json
+msgctxt "block keyword"
+msgid "ordered list"
+msgstr "تەرتىپلەنگەن تىزىم"
+
+#: build/scripts/block-library/list/block.json
+msgctxt "block keyword"
+msgid "bullet list"
+msgstr "بەلگە تىزىم"
+
+#: build/scripts/widgets/blocks/legacy-widget/block.json
+msgctxt "block description"
+msgid "Display a legacy widget."
+msgstr "كونا ئەپچەنى كۆرسىتىدۇ."
+
+#: build/scripts/widgets/blocks/legacy-widget/block.json
+msgctxt "block title"
+msgid "Legacy Widget"
+msgstr "كونا ئەپچە"
+
+#: build/scripts/block-library/latest-posts/block.json
+msgctxt "block keyword"
+msgid "recent posts"
+msgstr "يېقىنقى يازمىلار"
+
+#: build/scripts/block-library/latest-posts/block.json
+msgctxt "block description"
+msgid "Display a list of your most recent posts."
+msgstr "ئەڭ يېڭى يازمىلىرىڭىزنىڭ تىزىمىنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/latest-comments/block.json
+msgctxt "block keyword"
+msgid "recent comments"
+msgstr "يېقىنقى ئىنكاسلار"
+
+#: build/scripts/block-library/latest-comments/block.json
+msgctxt "block description"
+msgid "Display a list of your most recent comments."
+msgstr "ئەڭ يېڭى ئىنكاسلىرىڭىزنىڭ تىزىمىنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/image/block.json
+#: build/scripts/block-library/site-logo/block.json
+msgctxt "block style label"
+msgid "Rounded"
+msgstr "ياي بۇلۇڭلۇق"
+
+#: build/scripts/block-library/image/block.json
+#: build/scripts/block-library/quote/block.json
+#: build/scripts/block-library/separator/block.json
+#: build/scripts/block-library/site-logo/block.json
+#: build/scripts/block-library/social-links/block.json
+#: build/scripts/block-library/table/block.json
+#: build/scripts/block-library/tag-cloud/block.json
+msgctxt "block style label"
+msgid "Default"
+msgstr "كۆڭۈلدىكى"
+
+#: build/scripts/block-library/image/block.json
+msgctxt "block keyword"
+msgid "picture"
+msgstr "رەسىم"
+
+#: build/scripts/block-library/image/block.json
+msgctxt "block keyword"
+msgid "photo"
+msgstr "سۈرەت"
+
+#: build/scripts/block-library/image/block.json
+msgctxt "block keyword"
+msgid "img"
+msgstr "img"
+
+#: build/scripts/block-library/image/block.json
+msgctxt "block description"
+msgid "Insert an image to make a visual statement."
+msgstr "سۈرەت قىستۇرۇپ كۆرۈنۈشلۈك بايان شەكىللەندۈرىدۇ."
+
+#: build/scripts/block-library/html/block.json
+msgctxt "block keyword"
+msgid "embed"
+msgstr "سىڭدۈرمە"
+
+#: build/scripts/block-library/html/block.json
+msgctxt "block description"
+msgid "Add custom HTML code and preview it as you edit."
+msgstr "ئىختىيارى HTML كودى قوشۇپ، تەھرىرلىگۈچىڭىزدە ئالدىن كۆرسىتىدۇ."
+
+#: build/scripts/block-library/home-link/block.json
+msgctxt "block description"
+msgid "Create a link that always points to the homepage of the site. Usually not necessary if there is already a site title link present in the header."
+msgstr "تور بېكەتنىڭ ھەمىشە باش بېتىنى كۆرسىتىدىغان ئۇلانمىدىن بىرنى قۇرىدۇ. ئەگەر بېكەت ماۋزۇ ئۇلانمىسى بەت قاشتا كۆرۈلگەن بولسا ئۇنداق قىلىشنىڭ ھاجىتى يوق."
+
+#: build/scripts/block-library/home-link/block.json
+msgctxt "block title"
+msgid "Home Link"
+msgstr "باش بەت ئۇلانمىسى"
+
+#: build/scripts/block-library/heading/block.json
+msgctxt "block keyword"
+msgid "subtitle"
+msgstr "قوشۇمچە ماۋزۇ"
+
+#: build/scripts/block-library/heading/block.json
+msgctxt "block keyword"
+msgid "title"
+msgstr "ماۋزۇ"
+
+#: build/scripts/block-library/form/block.json
+#: build/scripts/block-library/group/block.json
+msgctxt "block keyword"
+msgid "section"
+msgstr "دائىرە"
+
+#: build/scripts/block-library/form/block.json
+#: build/scripts/block-library/group/block.json
+msgctxt "block keyword"
+msgid "row"
+msgstr "قۇر"
+
+#: build/scripts/block-library/form/block.json
+#: build/scripts/block-library/group/block.json
+msgctxt "block keyword"
+msgid "wrapper"
+msgstr "ئورىغۇچ"
+
+#: build/scripts/block-library/form/block.json
+#: build/scripts/block-library/group/block.json
+msgctxt "block keyword"
+msgid "container"
+msgstr "قاچا"
+
+#: build/scripts/block-library/gallery/block.json
+msgctxt "block keyword"
+msgid "photos"
+msgstr "سۈرەتلەر"
+
+#: build/scripts/block-library/gallery/block.json
+msgctxt "block keyword"
+msgid "images"
+msgstr "تەسۋىرلەر"
+
+#: build/scripts/block-library/gallery/block.json
+msgctxt "block description"
+msgid "Display multiple images in a rich gallery."
+msgstr "مول سۈرەتداندا كۆپلىگەن سۈرەتلەرنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/freeform/block.json
+msgctxt "block description"
+msgid "Use the classic WordPress editor."
+msgstr "ئەنئەنىۋى WordPress تەھرىرلىگۈچنى ئىشلىتىدۇ."
+
+#: build/scripts/block-library/file/block.json
+msgctxt "block keyword"
+msgid "download"
+msgstr "چۈشۈرۈش"
+
+#: build/scripts/block-library/file/block.json
+msgctxt "block keyword"
+msgid "pdf"
+msgstr "pdf"
+
+#: build/scripts/block-library/file/block.json
+msgctxt "block keyword"
+msgid "document"
+msgstr "پۈتۈك"
+
+#: build/scripts/block-library/file/block.json
+msgctxt "block description"
+msgid "Add a link to a downloadable file."
+msgstr "چۈشۈرگىلى بولىدىغان ھۆججەتكە ئۇلانما قوشىدۇ."
+
+#: build/scripts/block-library/column/block.json
+msgctxt "block description"
+msgid "A single column within a columns block."
+msgstr "رەتلەر بۆلىكى ئارىسىدىكى يەككە رەت."
+
+#: build/scripts/block-library/code/block.json
+msgctxt "block description"
+msgid "Display code snippets that respect your spacing and tabs."
+msgstr "ئارىلىق ۋە جەدۋەل بەلگىسىگە ماس كېلىدىغان كود بۆلىكىنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/calendar/block.json
+msgctxt "block keyword"
+msgid "archive"
+msgstr "ئارخىپ"
+
+#: build/scripts/block-library/calendar/block.json
+#: build/scripts/block-library/query/block.json
+msgctxt "block keyword"
+msgid "posts"
+msgstr "يازمىلار"
+
+#: build/scripts/block-library/calendar/block.json
+msgctxt "block description"
+msgid "A calendar of your site’s posts."
+msgstr "بېكىتىڭىزدىكى يازمىلارنىڭ يىلنامىسى."
+
+#: build/scripts/block-library/buttons/block.json
+msgctxt "block description"
+msgid "Prompt visitors to take action with a group of button-style links."
+msgstr "زىيارەتچىلەرنى بىر گۇرۇپپا توپچە ئۇسلۇبىدىكى ئۇلانمىلار بىلەن مەشغۇلات قىلىشنى ئەسكەرتىدۇ."
+
+#: build/scripts/block-library/button/block.json
+#: build/scripts/block-library/tag-cloud/block.json
+msgctxt "block style label"
+msgid "Outline"
+msgstr "ئىزنا"
+
+#: build/scripts/block-library/button/block.json
+msgctxt "block style label"
+msgid "Fill"
+msgstr "تولدۇر"
+
+#: build/scripts/block-library/button/block.json
+msgctxt "block description"
+msgid "Prompt visitors to take action with a button-style link."
+msgstr "زىيارەتچىلەرنى توپچە ئۇسلۇبىدىكى ئۇلانمىلار بىلەن مەشغۇلات قىلىشنى ئەسكەرتىدۇ."
+
+#: build/scripts/block-library/audio/block.json
+msgctxt "block keyword"
+msgid "recording"
+msgstr "ئاۋاز ئېلىش"
+
+#: build/scripts/block-library/audio/block.json
+msgctxt "block keyword"
+msgid "podcast"
+msgstr "تارقىتىش"
+
+#: build/scripts/block-library/audio/block.json
+msgctxt "block keyword"
+msgid "sound"
+msgstr "ئاۋاز"
+
+#: build/scripts/block-library/audio/block.json
+msgctxt "block keyword"
+msgid "music"
+msgstr "نەغمە"
+
+#: build/scripts/block-library/audio/block.json
+msgctxt "block description"
+msgid "Embed a simple audio player."
+msgstr "ئاددىي ئۈن قويغۇنى سىڭدۈرىدۇ."
+
+#: build/scripts/block-library/archives/block.json
+msgctxt "block description"
+msgid "Display a date archive of your posts."
+msgstr "يازمىڭىزنىڭ ئاخىپلاشتۇرۇلغان چېسلاسىنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/site-logo.php:47
+msgid "(Home link, opens in a new tab)"
+msgstr "(باش بەت ئۇلانمىسى، يېڭى بىر بەتكۈچتە ئاچىدۇ)"
+
+#: build/scripts/block-library/navigation.php:747
+#: build/scripts/block-library/index.js:38148
+msgid "Close menu"
+msgstr "تىزىملىك ياپ"
+
+#: build/scripts/block-library/navigation.php:746
+#: build/scripts/block-library/index.js:38122
+msgid "Open menu"
+msgstr "تىزىملىك ئاچ"
+
+#: build/scripts/block-library/site-logo.php:77
+#: build/scripts/block-library/index.js:59500
+msgid "Logo"
+msgstr "تۇغ"
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:305
+msgid "Active theme gradients."
+msgstr "ئاكتىپ ئۆرنەك رەڭ ئۆزگىرىشى."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:299
+msgid "Active theme font sizes."
+msgstr "ئاكتىپ ئۆرنەك خەت چوڭلۇقى."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:293
+msgid "Active theme color palette."
+msgstr "ئاكتىپ ئۆرنەك رەڭ تاختىسى."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:287
+msgid "Maximum upload size in bytes allowed for the site."
+msgstr "تور بېكەتكە يوللاشقا بولىدىغان بايت بويىچە ھېسابلىغاندىكى ئەڭ چوڭ يۈكلەش چوڭلۇقى."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:281
+msgid "Available image sizes."
+msgstr "ئىشلەتكىلى بولىدىغان سۈرەت چوڭلۇقى."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:275
+msgid "Determines whether the image editing feature is enabled."
+msgstr "سۈرەت تەھرىرلەش ئىقتىدارىنىڭ قوزغىتىلغان ياكى قوزغىتىلمىغانلىقىنى بەلگىلەيدۇ."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:269
+msgid "Available image dimensions."
+msgstr "ئىشلەتكىلى بولىدىغان سۈرەت ئۆلچىمى."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:263
+msgid "Default size for images."
+msgstr "سۈرەتنىڭ كۆڭۈلدىكى چوڭلۇقى."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:257
+msgid "Determines whether the current locale is right-to-left (RTL)."
+msgstr "نۆۋەتتىكى تىلنىڭ ئوڭدىن سولغا (RTL) يېزىلىدىغان ياكى يېزىلمايدىغانلىقىنى بەلگىلەيدۇ."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:251
+msgid "Enables custom units."
+msgstr "ئىختىيارى بىرلىكلەرنى قوزغىتىدۇ."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:245
+msgid "Enables custom spacing."
+msgstr "ئىختىيارى بوشلۇقنى قوزغىتىدۇ."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:239
+msgid "Enables custom line height."
+msgstr "ئىختىيارى قۇر ئېگىزلىكىنى قوزغىتىدۇ."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:221
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:227
+msgid "Disables custom font size."
+msgstr "ئىختىيارى خەت نۇسخا چوڭلۇقىنى چەكلەيدۇ."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:215
+msgid "Disables custom colors."
+msgstr "ئىختىيارى رەڭنى چەكلەيدۇ."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:203
+msgid "Returns all the categories for block types that will be shown in the block editor."
+msgstr "بۆلەك تەھرىرلىگۈچتە كۆرسىتىلىدىغان بۆلەك تىپىنىڭ بارلىق سەھىپىلىرىنى قايتۇرىدۇ."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:197
+msgid "List of allowed mime types and file extensions."
+msgstr "يول قويىدىغان mime تىپى ۋە ھۆججەت كېڭەيتىلمىسىنىڭ تىزىمى."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:191
+msgid "List of allowed block types."
+msgstr "يول قويىدىغان بۆلەك تىپىنىڭ تىزىمى."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:185
+msgid "Enable/Disable Wide/Full Alignments."
+msgstr "كەڭ/تولۇق توغرىلاشنى قوزغىتىدۇ/چەكلەيدۇ."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:155
+msgid "Widget types to hide from Legacy Widget block."
+msgstr "كونا ئەپچە بۆلەكتىن يوشۇرىدىغان ئەپچە تىپى."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:149
+msgid "Enable/disable layouts support in container blocks."
+msgstr "يۈكدان بۆلەكتە جايلاشتۇرۇشنى قوزغىتىدۇ/چەكلەيدۇ."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:137
+msgid "Editor styles"
+msgstr "تەھرىرلىگۈچ ئۇسلۇبى"
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:131
+msgid "Enables experimental Site Editor blocks"
+msgstr "تەجرىبە بېكەت تەھرىرلىگۈچ بۆلەكنى قوزغىتىدۇ"
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:78
+msgid "Sorry, you are not allowed to read the block editor settings."
+msgstr "كەچۈرۈڭ، بۆلەك تەھرىرلىگۈچ تەڭشەكلىرىنى ئوقۇش ئىجازىتىڭىز يوق."
+
+#: build/scripts/block-library/term-description/block.json
+msgctxt "block description"
+msgid "Display the description of categories, tags and custom taxonomies when viewing an archive."
+msgstr "ئارخىپنى كۆرسەتكەندە سەھىپە، بەلگە ۋە تۈرلىنىشىنىڭ چۈشەندۈرۈشىنى كۆرسىتىدۇ."
+
+#: build/scripts/block-library/term-description/block.json
+msgctxt "block title"
+msgid "Term Description"
+msgstr "ئاتالغۇ چۈشەندۈرۈشى"
+
+#: build/scripts/block-library/post-comments-link/block.json
+msgctxt "block title"
+msgid "Comments Link"
+msgstr "ئىنكاس ئۇلانما"
+
+#: build/scripts/block-library/loginout/block.json
+msgctxt "block title"
+msgid "Login/out"
+msgstr "تىزىمغا كىر/چىق"
+
+#: build/scripts/block-library/navigation-link/block.json
+msgctxt "block title"
+msgid "Custom Link"
+msgstr "ئىختىيارى ئۇلانما"
+
+#. translators: %s: filename.
+#: build/scripts/block-library/file.php:43
+#: build/scripts/block-library/index.js:21893
+#: build/scripts/block-library/index.js:22004
+#: build/scripts/block-library/index.js:22105
+msgid "Embed of %s."
+msgstr "%s غا سىڭدۈرۈلگەن."
+
+#: build/scripts/block-library/file.php:45
+#: build/scripts/block-library/index.js:21891
+#: build/scripts/block-library/index.js:22002
+#: build/scripts/block-library/index.js:22103
+msgid "PDF embed"
+msgstr "PDF سىڭدۈرۈلگەن"
+
+#: build/scripts/block-library/navigation-link.php:372
+msgid "A link to a post format"
+msgstr "يازما پىچىمنىڭ بىر ئۇلانمىسى"
+
+#: build/scripts/block-library/navigation-link.php:371
+msgid "Post Format Link"
+msgstr "يازما پىچىم ئۇلانمىسى"
+
+#: build/scripts/block-library/latest-posts.php:172
+#: build/scripts/block-library/latest-posts.php:187
+#: build/scripts/block-library/index.js:47751
+msgid "This content is password protected."
+msgstr "بۇ مەزمۇن ئىم بىلەن قوغدالغان."
+
+#: build/scripts/block-library/template-part/block.json
+msgctxt "block description"
+msgid "Edit the different global regions of your site, like the header, footer, sidebar, or create your own."
+msgstr "بېكىتىڭىزنىڭ ماۋزۇ، بەت ئاستى، يان بالداققا ئوخشاش پەرقلىق ئومۇمىيەت دائىرىسىنى تەھرىرلەڭ ياكى ئۆزىڭىزنىڭكىنى قۇرۇڭ."
+
+#: build/scripts/block-library/page-list/block.json
+msgctxt "block title"
+msgid "Page List"
+msgstr "بەت تىزىمى"
+
+#: build/scripts/block-library/post-navigation-link.php:40
+msgctxt "label for previous post link"
+msgid "Previous"
+msgstr "ئالدىنقى"
+
+#: build/scripts/block-library/post-navigation-link.php:40
+msgctxt "label for next post link"
+msgid "Next"
+msgstr "كېيىنكى"
+
+#: build/scripts/block-library/query-pagination-previous.php:26
+#: build/scripts/block-library/index.js:55596
+msgid "Previous Page"
+msgstr "ئالدىنقى بەت"
+
+#: build/scripts/block-library/comments-pagination-numbers/block.json
+msgctxt "block title"
+msgid "Comments Page Numbers"
+msgstr "ئىزاھات بەت نومۇرى"
+
+#: build/scripts/block-library/query-pagination-next.php:29
+#: build/scripts/block-library/index.js:55336
+msgid "Next Page"
+msgstr "كېيىنكى بەت"
+
+#. translators: %s: Template part slug.
+#: build/scripts/block-library/template-part.php:122
+#: build/scripts/block-library/index.js:67598
+msgid "Template part has been deleted or is unavailable: %s"
+msgstr "قېلىپ پارچىسى ئۆچۈرۈلگەن ياكى ئىشلەتكىلى بولمايدۇ: %s"
+
+#. translators: Visible only in the front end, this warning takes the place of
+#. a faulty block.
+#: build/scripts/block-library/block.php:38
+#: build/scripts/block-library/post-content.php:34
+#: build/scripts/block-library/template-part.php:133
+msgid "[block rendering halted]"
+msgstr "[بۆلەك رەڭلەش توختىتىلدى]"
+
+#: build/scripts/block-library/post-terms/block.json
+msgctxt "block title"
+msgid "Post Terms"
+msgstr "يازما ئاتالغۇلىرى"
+
+#: build/scripts/block-library/post-featured-image/block.json
+msgctxt "block title"
+msgid "Featured Image"
+msgstr "تەۋسىيەلىك سۈرەت"
+
+#: build/scripts/block-library/post-comments-form/block.json
+msgctxt "block title"
+msgid "Comments Form"
+msgstr "ئىنكاس جەدۋىلى"
+
+#: build/scripts/block-library/index.js:14028
+#: build/scripts/block-library/comment-date/block.json
+msgctxt "block title"
+msgid "Comment Date"
+msgstr "ئىنكاس چېسلاسى"
+
+#: build/scripts/block-library/index.js:13818
+#: build/scripts/block-library/comment-content/block.json
+msgctxt "block title"
+msgid "Comment Content"
+msgstr "ئىنكاس مەزمۇنى"
+
+#: build/scripts/block-library/query/block.json
+msgctxt "block title"
+msgid "Query Loop"
+msgstr "سۈرۈشتۈرۈش دەۋرىيلىكى"
+
+#: build/scripts/block-library/template-part/block.json
+msgctxt "block title"
+msgid "Template Part"
+msgstr "قېلىپ پارچىسى"
+
+#: build/scripts/block-library/site-title/block.json
+msgctxt "block title"
+msgid "Site Title"
+msgstr "تور بېكەت ماۋزۇسى"
+
+#: build/scripts/block-library/site-tagline/block.json
+msgctxt "block title"
+msgid "Site Tagline"
+msgstr "بېكەت يانداش ماۋزۇسى"
+
+#: build/scripts/block-library/site-logo/block.json
+msgctxt "block title"
+msgid "Site Logo"
+msgstr "بېكەت تۇغى"
+
+#: build/scripts/block-library/social-link/block.json
+msgctxt "block title"
+msgid "Social Icon"
+msgstr "ئىجتىمائىي تاراتقۇ سىنبەلگە"
+
+#: build/scripts/block-library/social-links/block.json
+msgctxt "block title"
+msgid "Social Icons"
+msgstr "ئىجتىمائىي تاراتقۇ سىنبەلگە"
+
+#: build/scripts/block-library/tag-cloud/block.json
+msgctxt "block title"
+msgid "Tag Cloud"
+msgstr "بەلگە بۇلۇتى"
+
+#: build/scripts/block-library/video/block.json
+msgctxt "block title"
+msgid "Video"
+msgstr "سىن"
+
+#: build/scripts/block-library/verse/block.json
+msgctxt "block title"
+msgid "Verse"
+msgstr "شېئىر"
+
+#: build/scripts/block-library/text-columns/block.json
+msgctxt "block title"
+msgid "Text Columns (deprecated)"
+msgstr "تېكست رەتلىرى (ۋاقتى ئۆتكەن)"
+
+#: build/scripts/block-library/table/block.json
+msgctxt "block title"
+msgid "Table"
+msgstr "جەدۋەل"
+
+#: build/scripts/block-library/spacer/block.json
+msgctxt "block title"
+msgid "Spacer"
+msgstr "بوشلۇق"
+
+#: build/scripts/block-library/shortcode/block.json
+msgctxt "block title"
+msgid "Shortcode"
+msgstr "قىسقا كود"
+
+#: build/scripts/block-library/separator/block.json
+msgctxt "block title"
+msgid "Separator"
+msgstr "ئايرىغۇچ"
+
+#: build/scripts/block-library/group/block.json
+msgctxt "block title"
+msgid "Group"
+msgstr "گۇرۇپپا"
+
+#: build/scripts/block-library/search/block.json
+msgctxt "block title"
+msgid "Search"
+msgstr "ئىزدە"
+
+#: build/scripts/block-library/rss/block.json
+msgctxt "block title"
+msgid "RSS"
+msgstr "RSS"
+
+#: build/scripts/block-library/preformatted/block.json
+msgctxt "block title"
+msgid "Preformatted"
+msgstr "پىچىملىق"
+
+#: build/scripts/block-library/nextpage/block.json
+msgctxt "block title"
+msgid "Page Break"
+msgstr "بەت ئايرىغۇچ"
+
+#: build/scripts/block-library/more/block.json
+msgctxt "block title"
+msgid "More"
+msgstr "تېخىمۇ كۆپ"
+
+#: build/scripts/block-library/missing/block.json
+msgctxt "block title"
+msgid "Unsupported"
+msgstr "قوللىمايدۇ"
+
+#: build/scripts/block-library/list/block.json
+msgctxt "block title"
+msgid "List"
+msgstr "تىزىم"
+
+#: build/scripts/block-library/latest-posts/block.json
+msgctxt "block title"
+msgid "Latest Posts"
+msgstr "يېڭى يازمىلار"
+
+#: build/scripts/block-library/latest-comments/block.json
+msgctxt "block title"
+msgid "Latest Comments"
+msgstr "يېڭى ئىنكاسلار"
+
+#: build/scripts/block-library/navigation/block.json
+msgctxt "block title"
+msgid "Navigation"
+msgstr "يولباشچى"
+
+#: build/scripts/block-library/media-text/block.json
+msgctxt "block title"
+msgid "Media & Text"
+msgstr "ۋاسىتە ۋە تېكىست"
+
+#: build/scripts/block-library/html/block.json
+msgctxt "block title"
+msgid "Custom HTML"
+msgstr "ئىختىيارىچە HTML"
+
+#: build/scripts/block-library/file/block.json
+msgctxt "block title"
+msgid "File"
+msgstr "ھۆججەت"
+
+#: build/scripts/block-library/cover/block.json
+msgctxt "block title"
+msgid "Cover"
+msgstr "مۇقاۋا"
+
+#: build/scripts/block-library/column/block.json
+msgctxt "block title"
+msgid "Column"
+msgstr "رەت"
+
+#: build/scripts/block-library/columns/block.json
+msgctxt "block title"
+msgid "Columns"
+msgstr "رەت"
+
+#: build/scripts/block-library/code/block.json
+msgctxt "block title"
+msgid "Code"
+msgstr "كودى"
+
+#: build/scripts/block-library/calendar/block.json
+msgctxt "block title"
+msgid "Calendar"
+msgstr "يىلنامە"
+
+#: build/scripts/block-library/buttons/block.json
+msgctxt "block title"
+msgid "Buttons"
+msgstr "توپچە"
+
+#: build/scripts/block-library/button/block.json
+msgctxt "block title"
+msgid "Button"
+msgstr "توپچە"
+
+#: build/scripts/block-library/audio/block.json
+msgctxt "block title"
+msgid "Audio"
+msgstr "ئۈن"
+
+#: build/scripts/block-library/archives/block.json
+msgctxt "block title"
+msgid "Archives"
+msgstr "ئارخىپلار"
+
+#: build/scripts/block-library/gallery/block.json
+msgctxt "block title"
+msgid "Gallery"
+msgstr "سۈرەتدان"
+
+#: build/scripts/block-library/quote/block.json
+msgctxt "block title"
+msgid "Quote"
+msgstr "نەقىل"
+
+#: build/scripts/block-library/heading/block.json
+msgctxt "block title"
+msgid "Heading"
+msgstr "ماۋزۇ"
+
+#: build/scripts/block-library/image/block.json
+msgctxt "block title"
+msgid "Image"
+msgstr "سۈرەت"
+
+#: build/scripts/block-library/paragraph/block.json
+msgctxt "block title"
+msgid "Paragraph"
+msgstr "ئابزاس"
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:118
+#: lib/compat/wordpress-7.0/class-gutenberg-rest-static-templates-controller.php:45
+#: lib/compat/wordpress-7.0/class-gutenberg-rest-templates-controller-7-0.php:99
+msgid "The id of a template"
+msgstr "بىر قېلىپنىڭ كىملىكى"
+
+#: build/scripts/block-library/site-logo.php:78
+msgid "Site logo."
+msgstr "بېكەت تۇغى."
+
+#. translators: byline. %s: author.
+#: build/scripts/block-library/latest-posts.php:130
+#: build/scripts/block-library/rss.php:86
+#: build/scripts/block-library/index.js:33027
+msgid "by %s"
+msgstr "يازغۇچى %s"
+
+#: lib/experimental/pages/site-editor.php:30
+#: build/scripts/edit-site/index.js:20997
+#: build/scripts/edit-site/index.js:46634
+#: build/scripts/edit-site/index.js:46687
+msgid "Pages"
+msgstr "بەتلەر"
+
+#: build/scripts/block-library/query-title.php:46
+#: build/scripts/block-library/index.js:55929
+msgid "Search results"
+msgstr "ئىزدەش نەتىجىسى"
+
+#: lib/experimental/pages/site-editor.php:33
+#: build/routes/pattern-list/content.js:17432
+#: build/routes/pattern-list/route.js:37
+#: build/scripts/block-editor/index.js:28934
+#: build/scripts/block-editor/index.js:30569
+#: build/scripts/block-editor/index.js:39814
+#: build/scripts/edit-site/index.js:21028
+#: build/scripts/edit-site/index.js:23825
+msgid "Patterns"
+msgstr "ئەندىزە"
+
+#. translators: accessibility text for the content landmark region.
+#: lib/experimental/navigation-theme-opt-in.php:347
+#: build/scripts/block-editor/index.js:54639
+#: build/scripts/block-editor/index.js:59798
+#: build/scripts/block-editor/index.js:70153
+#: build/scripts/block-library/index.js:10092
+#: build/scripts/block-library/index.js:28325
+#: build/scripts/block-library/index.js:34835
+#: build/scripts/block-library/index.js:37423
+#: build/scripts/block-library/index.js:46244
+#: build/scripts/block-library/index.js:51451
+#: build/scripts/block-library/index.js:52229
+#: build/scripts/block-library/index.js:69973
+#: build/scripts/edit-widgets/index.js:1269 build/scripts/editor/index.js:13569
+#: build/scripts/editor/index.js:57196 build/scripts/editor/index.js:57236
+msgid "Content"
+msgstr "مەزمۇن"
+
+#. translators: 'menu' as in website navigation menu.
+#: build/scripts/block-library/navigation.php:743
+#: build/scripts/block-library/navigation.php:895
+#: build/scripts/block-library/index.js:38099
+#: build/scripts/block-library/index.js:38127
+#: build/scripts/block-library/index.js:39102
+#: build/scripts/block-library/index.js:39747
+#: build/scripts/block-library/index.js:41308
+#: build/scripts/core-data/index.js:13727 build/scripts/editor/index.js:30462
+msgid "Menu"
+msgstr "تىزىملىك"
+
+#. translators: 'Home' as in a website's home page.
+#: build/scripts/block-library/breadcrumbs.php:35
+#: build/scripts/block-library/breadcrumbs.php:39
+#: build/scripts/block-library/home-link.php:140
+#: lib/experimental/pages/site-editor.php:27 build/routes/home/route.js:37
+#: build/scripts/block-library/index.js:7818
+#: build/scripts/block-library/index.js:28443
+#: build/scripts/block-library/index.js:42923
+msgid "Home"
+msgstr "باش بەت"
+
+#: build/scripts/block-library/navigation/block.json
+#: build/scripts/block-library/social-links/block.json
+msgctxt "block keyword"
+msgid "links"
+msgstr "ئۇلانمىلار"
+
+#: lib/experimental/pages/site-editor.php:32
+#: build/routes/template-part-list/route.js:233
+#: build/scripts/editor/index.js:36386
+msgid "Template Parts"
+msgstr "قېلىپ پارچىسى"
+
+#: lib/experimental/pages/site-editor.php:29
+#: build/routes/navigation-edit/content.js:509
+#: build/routes/navigation-edit/route.js:95
+#: build/routes/navigation-list/content.js:16919
+#: build/routes/navigation-list/route.js:60
+#: build/scripts/block-library/index.js:37780
+#: build/scripts/block-library/index.js:37980
+#: build/scripts/edit-site/index.js:1144 build/scripts/edit-site/index.js:6308
+#: build/scripts/edit-site/index.js:20987
+#: build/scripts/edit-site/index.js:23128 build/scripts/editor/index.js:60245
+msgid "Navigation"
+msgstr "يولباشچى"
+
+#: lib/experimental/pages/site-editor.php:31
+#: build/routes/template-list/content.js:18785
+#: build/routes/template-list/content.js:19084
+#: build/routes/template-list/route.js:170
+#: build/scripts/block-library/index.js:67507
+#: build/scripts/edit-site/index.js:21007
+#: build/scripts/edit-site/index.js:42470
+#: build/scripts/edit-site/index.js:44215
+#: build/scripts/edit-site/index.js:45697 build/scripts/editor/index.js:6076
+#: build/scripts/editor/index.js:38045 build/scripts/editor/index.js:57030
+msgid "Templates"
+msgstr "قېلىپ"
+
+#: build/scripts/block-library/rss.php:29
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "خاتالىق كۆرۈلدى، بەلكىم بۇ مەنبە بېتىنىڭ ئېچىلماسلىقتىن كېلىپ چىققان بولۇشى مۇمكىن. سەل تۇرۇپ قايتا سىناڭ."
+
+#: build/scripts/block-library/rss.php:25
+msgid "RSS Error:"
+msgstr "RSS خاتالىقى:"
+
+#: build/scripts/block-library/search.php:25
+#: build/scripts/block-library/search.php:26
+#: build/scripts/block-library/search.php:50
+#: build/routes/font-list/content.js:3991
+#: build/routes/navigation-list/content.js:10097
+#: build/routes/navigation-list/content.js:13154
+#: build/routes/pattern-list/content.js:10008
+#: build/routes/pattern-list/content.js:13065
+#: build/routes/post-list/content.js:9987
+#: build/routes/post-list/content.js:13044
+#: build/routes/template-list/content.js:10142
+#: build/routes/template-list/content.js:13199
+#: build/routes/template-part-list/content.js:10032
+#: build/routes/template-part-list/content.js:13089
+#: build/scripts/block-editor/index.js:28028
+#: build/scripts/block-editor/index.js:28029
+#: build/scripts/block-editor/index.js:29884
+#: build/scripts/block-editor/index.js:30415
+#: build/scripts/block-editor/index.js:30416
+#: build/scripts/block-editor/index.js:30687
+#: build/scripts/block-editor/index.js:30688
+#: build/scripts/block-library/index.js:53855
+#: build/scripts/block-library/index.js:53856
+#: build/scripts/block-library/index.js:58201
+#: build/scripts/block-library/index.js:58498
+#: build/scripts/block-library/index.js:58509
+#: build/scripts/block-library/index.js:66985
+#: build/scripts/block-library/index.js:66986
+#: build/scripts/components/index.js:44773
+#: build/scripts/components/index.js:44774
+#: build/scripts/edit-site/index.js:32882
+#: build/scripts/edit-site/index.js:35939 build/scripts/editor/index.js:16427
+#: build/scripts/editor/index.js:16428 build/scripts/editor/index.js:18693
+#: build/scripts/editor/index.js:38037 build/scripts/editor/index.js:38038
+#: build/scripts/media-utils/index.js:10518
+#: build/scripts/media-utils/index.js:13544
+msgid "Search"
+msgstr "ئىزدە"
+
+#: build/scripts/block-library/index.js:21155
+#: build/scripts/block-library/embed/block.json
+msgctxt "block title"
+msgid "Embed"
+msgstr "سىڭدۈرمە"
+
+#: build/scripts/block-library/freeform/block.json
+msgctxt "block title"
+msgid "Classic"
+msgstr "كىلاسسىك"
+
+#: build/scripts/block-library/quote/block.json
+msgctxt "block description"
+msgid "Give quoted text visual emphasis. \"In quoting others, we cite ourselves.\" — Julio Cortázar"
+msgstr "نەقىل ئېلىنغان تېكىستكە كۆرۈنمە ئۇرغۇ بىرىڭ. «باشقىلارنى نەقىل كەلتۈرگەندە، بىر ئۆزىمىزنى تىلغا ئالىمىز.» - جۇلىيو كورتازار"
+
+#: build/scripts/block-library/heading/block.json
+msgctxt "block description"
+msgid "Introduce new sections and organize content to help visitors (and search engines) understand the structure of your content."
+msgstr "زىيارەت قىلغۇچىلارنىڭ (ھەم ئ‍ىزدەش موتورلىرىنىڭ) مەزمۇنىڭىزنىڭ قۇرۇلمىسىنى چۈشىنىشىگە ياردەم قىلىش ئۈچۈن يىڭى قىسىم تونۇشتۇرۇڭ ۋە مەمۇننى رەتلەڭ."
+
+#: lib/experimental/pages/site-editor.php:28 build/routes/styles/content.js:280
+#: build/routes/styles/route.js:37 build/scripts/block-editor/index.js:39677
+#: build/scripts/block-editor/index.js:43819
+#: build/scripts/block-editor/index.js:54633
+#: build/scripts/edit-site/index.js:20977
+#: build/scripts/edit-site/index.js:21018
+#: build/scripts/edit-site/index.js:22247
+#: build/scripts/edit-site/index.js:46737 build/scripts/editor/index.js:44447
+#: build/scripts/editor/index.js:59689 build/scripts/editor/index.js:59699
+msgid "Styles"
+msgstr "ئۇسلۇبلار"
+
+#: lib/class-wp-theme-json-gutenberg.php:4374
+#: build/scripts/block-editor/index.js:7705
+#: build/scripts/components/index.js:42776
+msgid "Medium"
+msgstr "ئوتتۇرا"
+
+#: build/scripts/block-library/archives.php:101
+msgid "No archives to show."
+msgstr "كۆرسەتكۈدەك ئارخىپ يوق."
+
+#: post-content.php:179 build/scripts/block-library/index.js:28282
+msgid "Code is Poetry"
+msgstr "كود بىر شىئىر"
+
+#: post-content.php:70
+msgid "Galleries"
+msgstr "سۈرەتدان"
+
+#: lib/experimental/overlay-patterns.php:108 lib/experiments-page.php:30
+#: build/scripts/edit-post/index.js:2066
+#: build/scripts/edit-widgets/index.js:4012 build/scripts/editor/index.js:5096
+#: build/scripts/editor/index.js:59596
+msgid "Learn more"
+msgstr "تەپسىلات بىلدۈرگۈسى"
+
+#. translators: %s: Digit to indicate multiple of sizing, eg. 2X-Small.
+#: lib/class-wp-theme-json-gutenberg.php:4355
+#: build/scripts/block-library/index.js:61129
+#: build/scripts/components/index.js:42776
+msgid "Small"
+msgstr "كىچىك"
+
+#: lib/init.php:36 lib/init.php:37
+msgid "Support"
+msgstr "قوللاش"
+
+#: build/scripts/block-library/latest-comments.php:153
+msgid "No comments to show."
+msgstr "كۆرسەتكۈدەك ھېچقانداق ئىنكاس يوق."
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/scripts/block-library/latest-comments.php:109
+msgid "%1$s on %2$s"
+msgstr "%1$s ھەققىدە %2$s"
+
+#: build/scripts/block-library/archives.php:62
+msgid "Select Post"
+msgstr "يازما تاللاڭ"
+
+#: build/scripts/block-library/archives.php:59
+msgid "Select Week"
+msgstr "ھەپتە تاللاڭ"
+
+#: build/scripts/block-library/archives.php:56
+msgid "Select Day"
+msgstr "كۈن تاللاڭ"
+
+#: build/scripts/block-library/archives.php:53
+msgid "Select Month"
+msgstr "ئاي تاللاش"
+
+#: build/scripts/block-library/archives.php:50
+msgid "Select Year"
+msgstr "يىل تاللاڭ"
+
+#: build/scripts/block-library/archives.php:30
+msgid "Archives"
+msgstr "ئارخىپلار"
+
+#. translators: %s: Digit to indicate multiple of sizing, eg. 2X-Large.
+#: lib/class-wp-theme-json-gutenberg.php:4392
+#: build/scripts/block-editor/index.js:7706
+#: build/scripts/block-library/index.js:61131
+#: build/scripts/components/index.js:42776
+msgid "Large"
+msgstr "چوڭ"
+
+#: build/scripts/block-library/embed/block.json
+msgctxt "block description"
+msgid "Add a block that displays content pulled from other sites, like Twitter or YouTube."
+msgstr "Twitter ياكى YouTube ۋە باشقا بېكەتلەردىن تارتىلغان مەزمۇننى كۆرسىتىدىغان بۆلەك قوشىدۇ."
+
+#: build/scripts/block-library/query-pagination.php:26
+#: build/scripts/editor/index.js:31439
+msgid "Pagination"
+msgstr "بەتكە ئايرىش"
+
+#: lib/experimental/navigation-theme-opt-in.php:93
+#: lib/experimental/navigation-theme-opt-in.php:98
+#: build/scripts/edit-widgets/index.js:2686 build/scripts/editor/index.js:57144
+msgid "Block"
+msgstr "بۆلەك"
+
+#: build/scripts/block-library/table-of-contents.php:22
+#: build/scripts/block-library/index.js:64846
+msgid "Table of Contents"
+msgstr "مەزمۇن جەدۋىلى"
+
+#. translators: displayed when a page has an empty title.
+#: build/scripts/block-library/breadcrumbs.php:289
+#: build/scripts/block-library/latest-comments.php:31
+#: build/scripts/block-library/latest-posts.php:79
+#: build/scripts/block-library/page-list.php:195
+#: build/scripts/block-library/rss.php:52
+#: build/routes/navigation-list/content.js:1717
+#: build/routes/navigation-list/content.js:4852
+#: build/routes/pattern-list/content.js:1628
+#: build/routes/pattern-list/content.js:4763
+#: build/routes/post-list/content.js:1607
+#: build/routes/post-list/content.js:4742
+#: build/routes/template-list/content.js:1762
+#: build/routes/template-list/content.js:4897
+#: build/routes/template-list/content.js:18396
+#: build/routes/template-part-list/content.js:1652
+#: build/routes/template-part-list/content.js:4787
+#: build/scripts/block-library/index.js:32985
+#: build/scripts/block-library/index.js:33022
+#: build/scripts/block-library/index.js:45048
+#: build/scripts/block-library/index.js:45052
+#: build/scripts/block-library/index.js:51047
+#: build/scripts/block-library/index.js:51059
+#: build/scripts/block-library/index.js:51072
+#: build/scripts/block-library/index.js:51086
+#: build/scripts/core-commands/index.js:379
+#: build/scripts/core-commands/index.js:464
+#: build/scripts/core-data/index.js:16327
+#: build/scripts/core-data/index.js:16351
+#: build/scripts/core-data/index.js:16375
+#: build/scripts/core-data/index.js:16397 build/scripts/edit-post/index.js:2691
+#: build/scripts/edit-site/index.js:22015
+#: build/scripts/edit-site/index.js:24502
+#: build/scripts/edit-site/index.js:27637
+#: build/scripts/edit-site/index.js:43607
+#: build/scripts/edit-site/index.js:44168
+#: build/scripts/edit-site/index.js:45418
+#: build/scripts/edit-site/index.js:46098 build/scripts/editor/index.js:5025
+#: build/scripts/editor/index.js:5220 build/scripts/editor/index.js:41902
+#: build/scripts/media-utils/index.js:2256
+#: build/scripts/media-utils/index.js:5273
+#: build/scripts/media-utils/index.js:17804
+#: build/scripts/core-commands/index.js:384
+#: build/scripts/core-commands/index.js:492
+#: build/scripts/core-commands/index.min.js:384
+#: build/scripts/core-commands/index.min.js:492
+msgid "(no title)"
+msgstr "(تېمىسىز)"
+
+#: build/scripts/block-library/image.php:307
+#: build/scripts/block-library/navigation-overlay-close.php:16
+#: build/scripts/block-library/navigation-overlay-close.php:34
+#: build/scripts/block-library/navigation.php:745
+#: build/scripts/block-editor/index.js:53634
+#: build/scripts/block-editor/index.js:60592
+#: build/scripts/block-editor/index.js:68044
+#: build/scripts/block-library/index.js:38152
+#: build/scripts/block-library/index.js:39103
+#: build/scripts/block-library/index.js:44357
+#: build/scripts/block-library/index.js:44366
+#: build/scripts/components/index.js:29467
+#: build/scripts/components/index.js:39545
+#: build/scripts/components/index.js:46215
+#: build/scripts/edit-site/index.js:39640
+#: build/scripts/edit-widgets/index.js:3744 build/scripts/editor/index.js:14586
+#: build/scripts/editor/index.js:35453 build/scripts/editor/index.js:44724
+#: build/scripts/editor/index.js:45801 build/scripts/editor/index.js:53872
+msgid "Close"
+msgstr "ياپ"
+
+#: build/scripts/block-library/read-more.php:39
+#: build/scripts/block-library/index.js:27574
+#: build/scripts/block-library/index.js:37272
+#: build/scripts/block-library/index.js:57454
+#: build/scripts/block-library/index.js:57472
+msgid "Read more"
+msgstr "تېخىمۇ كۆپ بىلدۈرگۈ"
+
+#: build/scripts/block-library/comment-edit-link.php:47
+#: build/routes/navigation-list/content.js:16696
+#: build/routes/post-edit/route.js:99 build/scripts/block-editor/index.js:50809
+#: build/scripts/block-library/index.js:11288
+#: build/scripts/block-library/index.js:13070
+#: build/scripts/block-library/index.js:14216
+#: build/scripts/block-library/index.js:38969
+#: build/scripts/block-library/index.js:44909
+#: build/scripts/block-library/index.js:45178
+#: build/scripts/block-library/index.js:45189
+#: build/scripts/block-library/index.js:45191
+#: build/scripts/block-library/index.js:70383
+#: build/scripts/edit-post/index.js:2698 build/scripts/edit-site/index.js:21591
+#: build/scripts/edit-site/index.js:22022
+#: build/scripts/edit-site/index.js:22464
+#: build/scripts/edit-site/index.js:41881
+#: build/scripts/edit-site/index.js:44175 build/scripts/editor/index.js:58893
+msgid "Edit"
+msgstr "تەھرىر"
+
+#. translators: %s: human-readable time difference.
+#: build/scripts/block-library/comment-date.php:33
+#: build/scripts/block-library/post-date.php:68
+msgid "%s ago"
+msgstr "%s بۇرۇن"
+
+#. translators: %s: human-readable time difference.
+#: build/scripts/block-library/post-date.php:65
+msgid "%s from now"
+msgstr "ھازىردىن ئ‍ۆتكەن ۋاقىت: %s"
+
+#: lib/init.php:43 lib/init.php:44
+msgid "Documentation"
+msgstr "قوللانمىلار"

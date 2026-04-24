@@ -1,0 +1,135 @@
+# Translation of Plugins - Page Optimize - Stable (latest release) in Korean
+# This file is distributed under the same license as the Plugins - Page Optimize - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-10-28 05:06:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Plugins - Page Optimize - Stable (latest release)\n"
+
+#: settings.php:79
+msgid "Concatenate styles"
+msgstr "스타일 연결"
+
+#: settings.php:172
+msgid "Non-critical script execution mode (experimental)"
+msgstr "중요하지 않은 스크립트 실행 모드(실험 버전)"
+
+#. translators: a filesystem path to a directory
+#: service.php:22
+msgid "Disabling page-optimize cache. Unable to write to cache directory '%s'."
+msgstr "Page-optimize 캐시를 비활성화하는 중입니다. 캐시 디렉터리 '%s'에 쓸 수 없습니다."
+
+#. translators: a filesystem path to a directory
+#: service.php:14
+msgid "Disabling page-optimize cache. Unable to create cache directory '%s'."
+msgstr "Page-optimize 캐시를 비활성화하는 중입니다. 캐시 디렉터리 '%s'를 생성할 수 없습니다."
+
+#: settings.php:195
+msgid "Settings"
+msgstr "설정"
+
+#: settings.php:179
+msgid "CSS"
+msgstr "CSS"
+
+#: settings.php:165
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: settings.php:159
+msgid "Page Optimization"
+msgstr "페이지 최적화"
+
+#: settings.php:150
+msgid "Comma separated list of strings to exclude from CSS concating"
+msgstr "CSS 연결에서 제외할 문자열을 쉼표로 구분한 목록"
+
+#: settings.php:141
+msgid "CSS concatenation"
+msgstr "CSS 연결"
+
+#: settings.php:131
+msgid "Comma separated list of strings to exclude from JS concatenating"
+msgstr "JS 연결에서 제외할 문자열을 쉼표로 구분한 목록"
+
+#: settings.php:121
+msgid "Non-critical script execution mode"
+msgstr "중요하지 않은 스크립트 실행 모드"
+
+#: settings.php:112
+msgid "JavaScript concatenation"
+msgstr "JavaScript 연결"
+
+#: settings.php:98
+msgid "Performance"
+msgstr "성능"
+
+#: settings.php:83
+msgid "Comma separated list of strings to exclude from CSS concatenating:"
+msgstr "CSS 연결에서 제외할 문자열을 쉼표로 구분한 목록:"
+
+#: settings.php:68
+msgid "You can choose the execution mode of the concatenated JavaScript. <strong>This option might break your site, so use carefully.</strong>"
+msgstr "연결된 JavaScript의 실행 모드를 선택할 수 있습니다. <strong>이 옵션을 사용하면 사이트가 손상될 수 있으므로 신중하게 사용하세요.</strong>"
+
+#: settings.php:64
+msgid "Defer"
+msgstr "지연 실행"
+
+#: settings.php:60
+msgid "Async"
+msgstr "비동기"
+
+#: settings.php:56
+msgid "None"
+msgstr "없음"
+
+#: settings.php:39
+msgid "Comma separated list of strings to exclude from JS concatenating:"
+msgstr "JS 연결에서 제외할 문자열을 쉼표로 구분한 목록:"
+
+#: settings.php:35
+msgid "Concatenate scripts"
+msgstr "스크립트 연결"
+
+#: settings.php:24
+msgid "This plugin disables Jetpack \"Speed up static file load times\"."
+msgstr "이 플러그인을 사용하면 \"정적 파일 로드 시간이 빨라짐\" 젯팩이 비활성화됩니다."
+
+#: settings.php:19
+msgid "Concatenating JavaScript and CSS for faster site loading and lower number of requests. Scripts are grouped by the original placement."
+msgstr "사이트 로드 속도를 높이고 요청 횟수를 줄이기 위해 JavaScript와 CSS를 연결합니다. 스크립트는 원래 배치에 따라 그룹화됩니다."
+
+#: settings.php:6 settings.php:97
+msgid "Performance Settings"
+msgstr "성능 설정"
+
+#. Author URI of the plugin
+#: page-optimize.php
+msgid "http://automattic.com/"
+msgstr "http://automattic.com/"
+
+#. Author of the plugin
+#: page-optimize.php
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin
+#: page-optimize.php
+msgid "Optimizes JS and CSS for faster page load and render in the browser."
+msgstr "브라우저의 페이지 로딩 속도와 렌더링 속도를 높일 수 있게 JS, CSS를 최적화합니다."
+
+#. Plugin URI of the plugin
+#: page-optimize.php
+msgid "https://wordpress.org/plugins/page-optimize/"
+msgstr "https://wordpress.org/plugins/page-optimize/"
+
+#. Plugin Name of the plugin
+#: page-optimize.php
+msgid "Page Optimize"
+msgstr "페이지 최적화"

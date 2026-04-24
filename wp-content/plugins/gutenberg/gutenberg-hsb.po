@@ -1,0 +1,841 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Upper Sorbian
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-02-22 17:43:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n % 100 == 1) ? 0 : ((n % 100 == 2) ? 1 : ((n % 100 == 3 || n % 100 == 4) ? 2 : 3));\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: hsb_DE\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: build/scripts/block-library/page-list/block.json
+msgctxt "block title"
+msgid "Page List"
+msgstr "Lisćina stronow"
+
+#. translators: %s: taxonomy's singular name
+#: build/scripts/block-library/categories.php:46
+#: build/scripts/block-library/index.js:10868
+msgid "Select %s"
+msgstr "%s wubrać"
+
+#: build/scripts/block-library/post-navigation-link.php:40
+msgctxt "label for previous post link"
+msgid "Previous"
+msgstr "Předchadny"
+
+#: build/scripts/block-library/post-navigation-link.php:40
+msgctxt "label for next post link"
+msgid "Next"
+msgstr "Přichodny"
+
+#: build/scripts/block-library/query-pagination-previous.php:26
+#: build/scripts/block-library/index.js:55596
+msgid "Previous Page"
+msgstr "Předchadna strona"
+
+#: build/scripts/block-library/query-pagination-next.php:29
+#: build/scripts/block-library/index.js:55336
+msgid "Next Page"
+msgstr "Přichodna strona"
+
+#. translators: Visible only in the front end, this warning takes the place of
+#. a faulty block.
+#: build/scripts/block-library/block.php:38
+#: build/scripts/block-library/post-content.php:34
+#: build/scripts/block-library/template-part.php:133
+msgid "[block rendering halted]"
+msgstr "[blokowe rysowanje zastajene]"
+
+#: build/scripts/block-library/query/block.json
+msgctxt "block title"
+msgid "Query Loop"
+msgstr "Sekla naprašowanja"
+
+#: build/scripts/block-library/template-part/block.json
+msgctxt "block title"
+msgid "Template Part"
+msgstr "Předłohowy dźěl"
+
+#: build/scripts/block-library/site-title/block.json
+msgctxt "block title"
+msgid "Site Title"
+msgstr "Sydłowy titul"
+
+#: build/scripts/block-library/site-tagline/block.json
+msgctxt "block title"
+msgid "Site Tagline"
+msgstr "Podtitul sydła."
+
+#: build/scripts/block-library/site-logo/block.json
+msgctxt "block title"
+msgid "Site Logo"
+msgstr "Logo sydła"
+
+#: build/scripts/block-library/social-link/block.json
+msgctxt "block title"
+msgid "Social Icon"
+msgstr "Symbol socialneje syće"
+
+#: build/scripts/block-library/social-links/block.json
+msgctxt "block title"
+msgid "Social Icons"
+msgstr "Symbole socialnych syćow"
+
+#: build/scripts/block-library/tag-cloud/block.json
+msgctxt "block title"
+msgid "Tag Cloud"
+msgstr "Značkowa mróčel"
+
+#: build/scripts/block-library/video/block.json
+msgctxt "block title"
+msgid "Video"
+msgstr "Widejo"
+
+#: build/scripts/block-library/verse/block.json
+msgctxt "block title"
+msgid "Verse"
+msgstr "Wjerš"
+
+#: build/scripts/block-library/text-columns/block.json
+msgctxt "block title"
+msgid "Text Columns (deprecated)"
+msgstr "Tekstowe špalty (zestarjene)"
+
+#: build/scripts/block-library/table/block.json
+msgctxt "block title"
+msgid "Table"
+msgstr "Tabela"
+
+#: build/scripts/block-library/spacer/block.json
+msgctxt "block title"
+msgid "Spacer"
+msgstr "Wotstup"
+
+#: build/scripts/block-library/shortcode/block.json
+msgctxt "block title"
+msgid "Shortcode"
+msgstr "Skrótšeny kod"
+
+#: build/scripts/block-library/separator/block.json
+msgctxt "block title"
+msgid "Separator"
+msgstr "Dźělatko"
+
+#: build/scripts/block-library/group/block.json
+msgctxt "block title"
+msgid "Group"
+msgstr "Skupina"
+
+#: build/scripts/block-library/search/block.json
+msgctxt "block title"
+msgid "Search"
+msgstr "Pytać"
+
+#: build/scripts/block-library/rss/block.json
+msgctxt "block title"
+msgid "RSS"
+msgstr "RSS"
+
+#: build/scripts/block-library/preformatted/block.json
+msgctxt "block title"
+msgid "Preformatted"
+msgstr "Předformatowany"
+
+#: build/scripts/block-library/nextpage/block.json
+msgctxt "block title"
+msgid "Page Break"
+msgstr "Łamanje strony"
+
+#: build/scripts/block-library/more/block.json
+msgctxt "block title"
+msgid "More"
+msgstr "Wjace"
+
+#: build/scripts/block-library/missing/block.json
+msgctxt "block title"
+msgid "Unsupported"
+msgstr "Njepodpěrane"
+
+#: build/scripts/block-library/list/block.json
+msgctxt "block title"
+msgid "List"
+msgstr "Lisćina"
+
+#: build/scripts/block-library/latest-posts/block.json
+msgctxt "block title"
+msgid "Latest Posts"
+msgstr "Najnowše přinoški"
+
+#: build/scripts/block-library/latest-comments/block.json
+msgctxt "block title"
+msgid "Latest Comments"
+msgstr "Najnowše komentary"
+
+#: build/scripts/block-library/navigation/block.json
+msgctxt "block title"
+msgid "Navigation"
+msgstr "Nawigacija"
+
+#: build/scripts/block-library/media-text/block.json
+msgctxt "block title"
+msgid "Media & Text"
+msgstr "Medije a tekst"
+
+#: build/scripts/block-library/html/block.json
+msgctxt "block title"
+msgid "Custom HTML"
+msgstr "Swójski HTML"
+
+#: build/scripts/block-library/file/block.json
+msgctxt "block title"
+msgid "File"
+msgstr "Dataja"
+
+#: build/scripts/block-library/cover/block.json
+msgctxt "block title"
+msgid "Cover"
+msgstr "Krywny blok"
+
+#: build/scripts/block-library/column/block.json
+msgctxt "block title"
+msgid "Column"
+msgstr "Špalta"
+
+#: build/scripts/block-library/columns/block.json
+msgctxt "block title"
+msgid "Columns"
+msgstr "Špalty"
+
+#: build/scripts/block-library/code/block.json
+msgctxt "block title"
+msgid "Code"
+msgstr "Kod"
+
+#: build/scripts/block-library/calendar/block.json
+msgctxt "block title"
+msgid "Calendar"
+msgstr "Protyka"
+
+#: build/scripts/block-library/buttons/block.json
+msgctxt "block title"
+msgid "Buttons"
+msgstr "Tłóčatka"
+
+#: build/scripts/block-library/button/block.json
+msgctxt "block title"
+msgid "Button"
+msgstr "Tłóčatko"
+
+#: build/scripts/block-library/audio/block.json
+msgctxt "block title"
+msgid "Audio"
+msgstr "Awdio"
+
+#: build/scripts/block-library/archives/block.json
+msgctxt "block title"
+msgid "Archives"
+msgstr "Archiwy"
+
+#: build/scripts/block-library/gallery/block.json
+msgctxt "block title"
+msgid "Gallery"
+msgstr "Galerija"
+
+#: build/scripts/block-library/quote/block.json
+msgctxt "block title"
+msgid "Quote"
+msgstr "Citat"
+
+#: build/scripts/block-library/heading/block.json
+msgctxt "block title"
+msgid "Heading"
+msgstr "Nadpismo"
+
+#: build/scripts/block-library/image/block.json
+msgctxt "block title"
+msgid "Image"
+msgstr "Wobraz"
+
+#: build/scripts/block-library/paragraph/block.json
+msgctxt "block title"
+msgid "Paragraph"
+msgstr "Wotstawk"
+
+#: lib/compat/wordpress-7.0/class-gutenberg-rest-static-templates-controller.php:102
+msgid "No templates exist with that id."
+msgstr "Předłohi z tym ID njeeksistuja."
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:118
+#: lib/compat/wordpress-7.0/class-gutenberg-rest-static-templates-controller.php:45
+#: lib/compat/wordpress-7.0/class-gutenberg-rest-templates-controller-7-0.php:99
+msgid "The id of a template"
+msgstr "ID předłohi"
+
+#: lib/compat/wordpress-7.0/class-gutenberg-rest-templates-controller-7-0.php:126
+msgid "Whether to bypass Trash and force deletion."
+msgstr "Hač ma so papjernik wobeńć a zhašenje wunuzować."
+
+#: build/scripts/block-library/site-logo.php:78
+msgid "Site logo."
+msgstr "Logo sydła."
+
+#. translators: byline. %s: author.
+#: build/scripts/block-library/latest-posts.php:130
+#: build/scripts/block-library/rss.php:86
+#: build/scripts/block-library/index.js:33027
+msgid "by %s"
+msgstr "wot %s"
+
+#: lib/experimental/pages/site-editor.php:30
+#: build/scripts/edit-site/index.js:20997
+#: build/scripts/edit-site/index.js:46634
+#: build/scripts/edit-site/index.js:46687
+msgid "Pages"
+msgstr "Strony"
+
+#: build/scripts/block-library/query-title.php:46
+#: build/scripts/block-library/index.js:55929
+msgid "Search results"
+msgstr "Pytanske wuslědki"
+
+#: lib/experimental/pages/site-editor.php:33
+#: build/routes/pattern-list/content.js:17432
+#: build/routes/pattern-list/route.js:37
+#: build/scripts/block-editor/index.js:28934
+#: build/scripts/block-editor/index.js:30569
+#: build/scripts/block-editor/index.js:39814
+#: build/scripts/edit-site/index.js:21028
+#: build/scripts/edit-site/index.js:23825
+msgid "Patterns"
+msgstr "Mustry"
+
+#. translators: 'menu' as in website navigation menu.
+#: build/scripts/block-library/navigation.php:743
+#: build/scripts/block-library/navigation.php:895
+#: build/scripts/block-library/index.js:38099
+#: build/scripts/block-library/index.js:38127
+#: build/scripts/block-library/index.js:39102
+#: build/scripts/block-library/index.js:39747
+#: build/scripts/block-library/index.js:41308
+#: build/scripts/core-data/index.js:13727 build/scripts/editor/index.js:30462
+msgid "Menu"
+msgstr "Meni"
+
+#. translators: accessibility text for the content landmark region.
+#: lib/experimental/navigation-theme-opt-in.php:347
+#: build/scripts/block-editor/index.js:54639
+#: build/scripts/block-editor/index.js:59798
+#: build/scripts/block-editor/index.js:70153
+#: build/scripts/block-library/index.js:10092
+#: build/scripts/block-library/index.js:28325
+#: build/scripts/block-library/index.js:34835
+#: build/scripts/block-library/index.js:37423
+#: build/scripts/block-library/index.js:46244
+#: build/scripts/block-library/index.js:51451
+#: build/scripts/block-library/index.js:52229
+#: build/scripts/block-library/index.js:69973
+#: build/scripts/edit-widgets/index.js:1269 build/scripts/editor/index.js:13569
+#: build/scripts/editor/index.js:57196 build/scripts/editor/index.js:57236
+msgid "Content"
+msgstr "Wobsah"
+
+#. translators: 'Home' as in a website's home page.
+#: build/scripts/block-library/breadcrumbs.php:35
+#: build/scripts/block-library/breadcrumbs.php:39
+#: build/scripts/block-library/home-link.php:140
+#: lib/experimental/pages/site-editor.php:27 build/routes/home/route.js:37
+#: build/scripts/block-library/index.js:7818
+#: build/scripts/block-library/index.js:28443
+#: build/scripts/block-library/index.js:42923
+msgid "Home"
+msgstr "Startowa strona"
+
+#: lib/compat/wordpress-7.0/template-activate.php:526
+msgid "No matching template found."
+msgstr "Žana wotpowědna předłoha namakana."
+
+#: lib/experimental/pages/site-editor.php:14
+#: lib/experimental/pages/site-editor.php:15
+msgid "Site Editor"
+msgstr "Sydłowy editor"
+
+#: lib/experimental/pages/site-editor.php:32
+#: build/routes/template-part-list/route.js:233
+#: build/scripts/editor/index.js:36386
+msgid "Template Parts"
+msgstr "Předłohowe dźěle"
+
+#: lib/experimental/pages/site-editor.php:29
+#: build/routes/navigation-edit/content.js:509
+#: build/routes/navigation-edit/route.js:95
+#: build/routes/navigation-list/content.js:16919
+#: build/routes/navigation-list/route.js:60
+#: build/scripts/block-library/index.js:37780
+#: build/scripts/block-library/index.js:37980
+#: build/scripts/edit-site/index.js:1144 build/scripts/edit-site/index.js:6308
+#: build/scripts/edit-site/index.js:20987
+#: build/scripts/edit-site/index.js:23128 build/scripts/editor/index.js:60245
+msgid "Navigation"
+msgstr "Nawigacija"
+
+#: lib/experimental/pages/site-editor.php:31
+#: build/routes/template-list/content.js:18785
+#: build/routes/template-list/content.js:19084
+#: build/routes/template-list/route.js:170
+#: build/scripts/block-library/index.js:67507
+#: build/scripts/edit-site/index.js:21007
+#: build/scripts/edit-site/index.js:42470
+#: build/scripts/edit-site/index.js:44215
+#: build/scripts/edit-site/index.js:45697 build/scripts/editor/index.js:6076
+#: build/scripts/editor/index.js:38045 build/scripts/editor/index.js:57030
+msgid "Templates"
+msgstr "Předłohi"
+
+#: lib/init.php:52
+msgid "Experiments Settings"
+msgstr "Nastajenja za eksperimenty"
+
+#: lib/experiments-page.php:20
+msgid "Experimental settings"
+msgstr "Eksperimentelne nastajenja"
+
+#: build/scripts/block-library/rss.php:25
+msgid "RSS Error:"
+msgstr "RSS-zmylk:"
+
+#: build/scripts/block-library/rss.php:29
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Zmylk je nastał, kotryž najskerje woznamjenja, zo kanal je spadnył. Spytajće pozdźišo hišće raz."
+
+#: build/scripts/block-library/search.php:25
+#: build/scripts/block-library/search.php:26
+#: build/scripts/block-library/search.php:50
+#: build/routes/font-list/content.js:3991
+#: build/routes/navigation-list/content.js:10097
+#: build/routes/navigation-list/content.js:13154
+#: build/routes/pattern-list/content.js:10008
+#: build/routes/pattern-list/content.js:13065
+#: build/routes/post-list/content.js:9987
+#: build/routes/post-list/content.js:13044
+#: build/routes/template-list/content.js:10142
+#: build/routes/template-list/content.js:13199
+#: build/routes/template-part-list/content.js:10032
+#: build/routes/template-part-list/content.js:13089
+#: build/scripts/block-editor/index.js:28028
+#: build/scripts/block-editor/index.js:28029
+#: build/scripts/block-editor/index.js:29884
+#: build/scripts/block-editor/index.js:30415
+#: build/scripts/block-editor/index.js:30416
+#: build/scripts/block-editor/index.js:30687
+#: build/scripts/block-editor/index.js:30688
+#: build/scripts/block-library/index.js:53855
+#: build/scripts/block-library/index.js:53856
+#: build/scripts/block-library/index.js:58201
+#: build/scripts/block-library/index.js:58498
+#: build/scripts/block-library/index.js:58509
+#: build/scripts/block-library/index.js:66985
+#: build/scripts/block-library/index.js:66986
+#: build/scripts/components/index.js:44773
+#: build/scripts/components/index.js:44774
+#: build/scripts/edit-site/index.js:32882
+#: build/scripts/edit-site/index.js:35939 build/scripts/editor/index.js:16427
+#: build/scripts/editor/index.js:16428 build/scripts/editor/index.js:18693
+#: build/scripts/editor/index.js:38037 build/scripts/editor/index.js:38038
+#: build/scripts/media-utils/index.js:10518
+#: build/scripts/media-utils/index.js:13544
+msgid "Search"
+msgstr "Pytać"
+
+#: build/scripts/block-library/freeform/block.json
+msgctxt "block title"
+msgid "Classic"
+msgstr "Klasisiki editor"
+
+#: build/scripts/block-library/index.js:21155
+#: build/scripts/block-library/embed/block.json
+msgctxt "block title"
+msgid "Embed"
+msgstr "Zasadźić"
+
+#: lib/experimental/pages/site-editor.php:28 build/routes/styles/content.js:280
+#: build/routes/styles/route.js:37 build/scripts/block-editor/index.js:39677
+#: build/scripts/block-editor/index.js:43819
+#: build/scripts/block-editor/index.js:54633
+#: build/scripts/edit-site/index.js:20977
+#: build/scripts/edit-site/index.js:21018
+#: build/scripts/edit-site/index.js:22247
+#: build/scripts/edit-site/index.js:46737 build/scripts/editor/index.js:44447
+#: build/scripts/editor/index.js:59689 build/scripts/editor/index.js:59699
+msgid "Styles"
+msgstr "Stile"
+
+#: lib/class-wp-theme-json-gutenberg.php:4374
+#: build/scripts/block-editor/index.js:7705
+#: build/scripts/components/index.js:42776
+msgid "Medium"
+msgstr "Srěni"
+
+#: build/scripts/block-library/archives.php:101
+msgid "No archives to show."
+msgstr "Žane archiwy."
+
+#: post-content.php:40
+msgid "Beautiful landscape"
+msgstr "Rjana krajina"
+
+#: post-content.php:101
+msgid "Matt Mullenweg, 2017"
+msgstr "Matt Mullenweg, 2017"
+
+#: post-content.php:132
+msgid "Media Rich"
+msgstr "Multimedialny"
+
+#: post-content.php:207
+msgid "Thanks for testing Gutenberg!"
+msgstr "Dźakujemy so, zo Gutenberg testujeće!"
+
+#: post-content.php:199
+msgid "Help build Gutenberg"
+msgstr "Pomhajće Gutenberg testować"
+
+#: post-content.php:181
+msgid "The WordPress community"
+msgstr "Zhromadźenstwo WordPress"
+
+#: post-content.php:179 build/scripts/block-library/index.js:28282
+msgid "Code is Poetry"
+msgstr "Kod je poezija"
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:190
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "Jeli chceće wjace wo tym zhonić, kak móžeće přidatne bloki tworić, abo jeli chceće při projekće sobu pomhać, wopytajće <a href=\"%s\">repozitorij GitHub</a>."
+
+#: post-content.php:140
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "Bjezbarjernosć je wažna &ndash; njezabywajće wobrazowy atribut „alt“"
+
+#: post-content.php:163
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "Kóždy blok móže so tutym wusměrjenjam přiměrić. Zasadźenski blok ma je tež, a je po standardźe responsiwny:"
+
+#: post-content.php:159
+msgid "The above is a gallery with just two images. It&#8217;s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher."
+msgstr "Horjeka je galerija z jenož dwěmaj wobrazomaj. Je lóša móžnosć, zo bychu so wizuelnje spodobne wuhotowanja wutworili, bjeztoho zo byšće dyrbjał wisate elementy wužiwać. Móžeće tež galeriju lochko do jednotliwych wobrazow wróćo konwertować, hdyž blokowy přepinak wužiwaće."
+
+#: post-content.php:144
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "Jasnje, wobraz z połnej šěrokosću móže chětro wulki być. Ale druhdy wobraz to je hódny."
+
+#: post-content.php:136
+msgid "If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:"
+msgstr "Jeli nowe wusměrjenja <strong>šěroke</strong> a <strong>połnošěroke</strong> z galerijemi kombinujeće, móžeće jara spěšnje nimoměry multimedialne wuhotowanje wutworić:"
+
+#: post-content.php:128
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "Móžeće ličbu špaltow w swojich galerijach změnić, hdyž suwak w blokowym inspektorje w bóčnicy ćehnjeće."
+
+#: post-content.php:110
+msgid "Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter."
+msgstr "Bloki móža wšitko być, štož trjebaće. Chceće snano decentny citat jako dźěl swojeje tekstoweje kompozicije přidać abo chceće radšo hoberski stil. Wšě tute nastajenja su w zasadźaku k dispozicji."
+
+#: post-content.php:106
+msgid "The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It&#8217;s always easy to add it back."
+msgstr "Informacije, kotrež k žórłu citata słušeja, je separatne tekstowe polo, podobne na popisy pod wobrazami, zo by strukturu citata škitało, samo hdyž žórło wuběraće, měnjeće abo wotstronjeće. Da so kóždy čas zaso přidać."
+
+#: post-content.php:99
+msgid "The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery."
+msgstr "Editor budźe so prócować, lěpše nazhonjenje při tworjenju nowych stronow a přinoškow wutworić, kotraž pisanje wobšěrnych přinoški wosnadnja, a ma „bloki“, zo by so zasadźenje wosnadniło, štož je so dotal z krótkimi kodami, swójskim HTML abo kodom njeznateho pochada sčiniło."
+
+#: post-content.php:64
+msgid "Text &amp; Headings"
+msgstr "Tekst a nadpisma"
+
+#: post-content.php:67
+msgid "Images &amp; Videos"
+msgstr "Wobrazy a wideja"
+
+#: post-content.php:41
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "Jeli waša drasta to podpěruje, widźiće tłóčatko „Šěroki“ na wobrazowej symbolowej lajsće. Wupruwujće to."
+
+#: post-content.php:89
+msgid "Visual Editing"
+msgstr "Wizuelne wobdźěłowanje"
+
+#: post-content.php:70
+msgid "Galleries"
+msgstr "Galerije"
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "Wobraz wjace hač tysac słowow praji"
+
+#: lib/demo.php:61
+msgid "Welcome to the Gutenberg Editor"
+msgstr "Witajće k editorej Gutenberg"
+
+#: post-content.php:79
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "A <em>lisćiny</em> kaž tuta, wězo :)"
+
+#: post-content.php:73
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "Zasadźenja kaž YouTube, ćikoty abo druhe přinoški WordPress."
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "... kaž tutón, kotryž je naprawo wusměrjeny."
+
+#: post-content.php:11
+msgid "Of Mountains &amp; Printing Presses"
+msgstr "Wo horach a ćišćerskich mašinach"
+
+#: post-content.php:76
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "Wuhotowanske bloki kaž tłóčatka, rjekowobrazy, dźělatka atd."
+
+#: post-content.php:28
+msgid "Headings are separate blocks as well, which helps with the outline and organization of your content."
+msgstr "Nadpisma su tež separatne bloki, kotrež při rozrjadowanju a organizowanju wašeho wobsaha pomhaja."
+
+#: post-content.php:50
+msgid "The <em>Inserter</em> Tool"
+msgstr "Nastroj <em>Zasadźak</em>"
+
+#: post-content.php:20
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "Štož runje čitaće, je <strong>tekstowy blok</strong>, najzakładniši blok ze wšěch. Tekstowy blok maj swójske wodźenske elementy, zo by so móhł wólnje wokoło přinoška pohibować&nbsp;&hellip;"
+
+#: post-content.php:16
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "Cil tutoho noweho editora je, přidawanje wobšěrneho wobsaha k WordPress zjednorić  a přijomne wuhotować. Tutón cyły přinošk so z <em>dźělow wobsaha</em> zestaja - podobny na LEGO-cyhelki -, kotrež móžeće pohibować a z kotrymiž móžeće interagować. Pohibujće swój kursor a pytnjeće, zo so rozdźělne bloki z wobrysami a šipkami zaswěća. Tłóčće šipki, zo byšće bloki spěšnje nowo pozicioněrował, bjeztoho zo byšće so dyrbjał bojeć, zo při kopěrowanju wěcy zhubiće."
+
+#: post-content.php:93
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "Wulka lěpšina blokow je, zo móžeće je na městnje wobdźěłać a jich wobsah direktnje manipulować. Město toho zo byšće pola za wobdźěłowanje wěcow kaž žórło citata abo tekst tłóčatka wužiwał, móžeće wobsah direktnje změnić. Spytajće slědowacy citat wobdźěłować:"
+
+#: post-content.php:58
+msgid "Go give it a try, you may discover things WordPress can already add into your posts that you didn&#8217;t know about. Here&#8217;s a short list of what you can currently find there:"
+msgstr "Syptajće, wotkryjeće snano wěcy, kotrež WordPressmóže hižo do wašich přinoškow zasadźić, wo kotrychž dotal njejsće wědźał. Tu je krótka lisćina wo tym, štož tuchwilu tam namakaće:"
+
+#: post-content.php:46
+msgid "Try selecting and removing or editing the caption, now you don&#8217;t have to be careful about selecting the image or other text by mistake and ruining the presentation."
+msgstr "Spytajće popis wuběrać, wotstronjeć abo wobdźěłować, nětko njetrjebaće při mylnym wuběranju wobraza abo druheho teksta kedźbliwy być, zo so prezentaciju ruinujeće."
+
+#: post-content.php:54
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "Předstajće sej, wšitko, štož WordPress móže činić, je wam spěšnje a na samsnym městnje na wužiwarskim powjerchu k dispoziciji. Njetrjebaće ničo wo HTML-značkach a klasach wědźeć abo sej komplikowanu syntaksu krótkeho koda spomjatkować. To je duch za zasadźakom  - tłóčatko <code>(+)</code>, kotrež wokoło editora widźiće -, kotryž wam zmóžnja, wšě wobsahowe bloki přehladować, kotrež su k dispoziciji, a je do wašeho přinoška zasadźić. Tykače a drasty móža so same registrować a wotewru wam wšě móžnosće za wobšěrne wobdźěłowanje a wozjewjenje."
+
+#: post-content.php:36
+msgid "Handling images and media with the utmost care is a primary focus of the new editor. Hopefully, you&#8217;ll find aspects of adding captions or going full-width with your pictures much easier and robust than before."
+msgstr "Wobchadźenje z wobrazami a medijemi z najwjetšej kedźbliwosću je primarne ćežišćo noweho editora. Nadźijamy so, zo maće přidawanje popisow abo pokazowanje wobrazow w połnej šěrokosći za wjele lóše a jednoriše hač do toho."
+
+#. translators: %s: Digit to indicate multiple of sizing, eg. 2X-Small.
+#: lib/class-wp-theme-json-gutenberg.php:4355
+#: build/scripts/block-library/index.js:61129
+#: build/scripts/components/index.js:42776
+msgid "Small"
+msgstr "Mały"
+
+#: build/scripts/block-library/archives.php:62
+msgid "Select Post"
+msgstr "Přinošk wubrać"
+
+#: build/scripts/block-library/archives.php:59
+msgid "Select Week"
+msgstr "Tydźeń wubrać"
+
+#: build/scripts/block-library/archives.php:56
+msgid "Select Day"
+msgstr "Dźeń wubrać"
+
+#: build/scripts/block-library/archives.php:53
+msgid "Select Month"
+msgstr "Měsac wubrać"
+
+#: build/scripts/block-library/archives.php:50
+msgid "Select Year"
+msgstr "Lěto wubrać"
+
+#: build/scripts/block-library/archives.php:30
+msgid "Archives"
+msgstr "Archiwy"
+
+#: lib/init.php:36 lib/init.php:37
+msgid "Support"
+msgstr "Podpěra"
+
+#: build/scripts/block-library/latest-comments.php:153
+msgid "No comments to show."
+msgstr "Žane komentary."
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/scripts/block-library/latest-comments.php:109
+msgid "%1$s on %2$s"
+msgstr "%1$s pola %2$s"
+
+#: lib/init.php:39
+msgid "https://wordpress.org/support/plugin/gutenberg/"
+msgstr "https://wordpress.org/support/plugin/gutenberg/"
+
+#. translators: %s: Digit to indicate multiple of sizing, eg. 2X-Large.
+#: lib/class-wp-theme-json-gutenberg.php:4392
+#: build/scripts/block-editor/index.js:7706
+#: build/scripts/block-library/index.js:61131
+#: build/scripts/components/index.js:42776
+msgid "Large"
+msgstr "Wulki"
+
+#: lib/experimental/navigation-theme-opt-in.php:93
+#: lib/experimental/navigation-theme-opt-in.php:98
+#: build/scripts/edit-widgets/index.js:2686 build/scripts/editor/index.js:57144
+msgid "Block"
+msgstr "Blok"
+
+#. translators: displayed when a page has an empty title.
+#: build/scripts/block-library/breadcrumbs.php:289
+#: build/scripts/block-library/latest-comments.php:31
+#: build/scripts/block-library/latest-posts.php:79
+#: build/scripts/block-library/page-list.php:195
+#: build/scripts/block-library/rss.php:52
+#: build/routes/navigation-list/content.js:1717
+#: build/routes/navigation-list/content.js:4852
+#: build/routes/pattern-list/content.js:1628
+#: build/routes/pattern-list/content.js:4763
+#: build/routes/post-list/content.js:1607
+#: build/routes/post-list/content.js:4742
+#: build/routes/template-list/content.js:1762
+#: build/routes/template-list/content.js:4897
+#: build/routes/template-list/content.js:18396
+#: build/routes/template-part-list/content.js:1652
+#: build/routes/template-part-list/content.js:4787
+#: build/scripts/block-library/index.js:32985
+#: build/scripts/block-library/index.js:33022
+#: build/scripts/block-library/index.js:45048
+#: build/scripts/block-library/index.js:45052
+#: build/scripts/block-library/index.js:51047
+#: build/scripts/block-library/index.js:51059
+#: build/scripts/block-library/index.js:51072
+#: build/scripts/block-library/index.js:51086
+#: build/scripts/core-commands/index.js:379
+#: build/scripts/core-commands/index.js:464
+#: build/scripts/core-data/index.js:16327
+#: build/scripts/core-data/index.js:16351
+#: build/scripts/core-data/index.js:16375
+#: build/scripts/core-data/index.js:16397 build/scripts/edit-post/index.js:2691
+#: build/scripts/edit-site/index.js:22015
+#: build/scripts/edit-site/index.js:24502
+#: build/scripts/edit-site/index.js:27637
+#: build/scripts/edit-site/index.js:43607
+#: build/scripts/edit-site/index.js:44168
+#: build/scripts/edit-site/index.js:45418
+#: build/scripts/edit-site/index.js:46098 build/scripts/editor/index.js:5025
+#: build/scripts/editor/index.js:5220 build/scripts/editor/index.js:41902
+#: build/scripts/media-utils/index.js:2256
+#: build/scripts/media-utils/index.js:5273
+#: build/scripts/media-utils/index.js:17804
+#: build/scripts/core-commands/index.js:384
+#: build/scripts/core-commands/index.js:492
+#: build/scripts/core-commands/index.min.js:384
+#: build/scripts/core-commands/index.min.js:492
+msgid "(no title)"
+msgstr "(žadyn titul)"
+
+#: build/scripts/block-library/image.php:307
+#: build/scripts/block-library/navigation-overlay-close.php:16
+#: build/scripts/block-library/navigation-overlay-close.php:34
+#: build/scripts/block-library/navigation.php:745
+#: build/scripts/block-editor/index.js:53634
+#: build/scripts/block-editor/index.js:60592
+#: build/scripts/block-editor/index.js:68044
+#: build/scripts/block-library/index.js:38152
+#: build/scripts/block-library/index.js:39103
+#: build/scripts/block-library/index.js:44357
+#: build/scripts/block-library/index.js:44366
+#: build/scripts/components/index.js:29467
+#: build/scripts/components/index.js:39545
+#: build/scripts/components/index.js:46215
+#: build/scripts/edit-site/index.js:39640
+#: build/scripts/edit-widgets/index.js:3744 build/scripts/editor/index.js:14586
+#: build/scripts/editor/index.js:35453 build/scripts/editor/index.js:44724
+#: build/scripts/editor/index.js:45801 build/scripts/editor/index.js:53872
+msgid "Close"
+msgstr "Začinić"
+
+#: build/scripts/block-library/read-more.php:39
+#: build/scripts/block-library/index.js:27574
+#: build/scripts/block-library/index.js:37272
+#: build/scripts/block-library/index.js:57454
+#: build/scripts/block-library/index.js:57472
+msgid "Read more"
+msgstr "Dale čitać"
+
+#: lib/init.php:53
+msgid "Experiments"
+msgstr "Eksperimenty"
+
+#: build/scripts/block-library/comment-edit-link.php:47
+#: build/routes/navigation-list/content.js:16696
+#: build/routes/post-edit/route.js:99 build/scripts/block-editor/index.js:50809
+#: build/scripts/block-library/index.js:11288
+#: build/scripts/block-library/index.js:13070
+#: build/scripts/block-library/index.js:14216
+#: build/scripts/block-library/index.js:38969
+#: build/scripts/block-library/index.js:44909
+#: build/scripts/block-library/index.js:45178
+#: build/scripts/block-library/index.js:45189
+#: build/scripts/block-library/index.js:45191
+#: build/scripts/block-library/index.js:70383
+#: build/scripts/edit-post/index.js:2698 build/scripts/edit-site/index.js:21591
+#: build/scripts/edit-site/index.js:22022
+#: build/scripts/edit-site/index.js:22464
+#: build/scripts/edit-site/index.js:41881
+#: build/scripts/edit-site/index.js:44175 build/scripts/editor/index.js:58893
+msgid "Edit"
+msgstr "Wobdźěłać"
+
+#: lib/init.php:43 lib/init.php:44
+msgid "Documentation"
+msgstr "Dokumentacija"
+
+#: lib/init.php:27 lib/init.php:28
+msgid "Demo"
+msgstr "Demo"
+
+#. Author of the plugin
+#: gutenberg.php
+msgid "Gutenberg Team"
+msgstr "Team Gutenberg"
+
+#. Plugin URI of the plugin
+#: gutenberg.php
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin
+#: gutenberg.php lib/init.php:17 lib/init.php:18
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#. translators: %s: human-readable time difference.
+#: build/scripts/block-library/comment-date.php:33
+#: build/scripts/block-library/post-date.php:68
+msgid "%s ago"
+msgstr "před %s"
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:27
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "Gutenberg sej WordPress %s abo nowši wužaduje, zo by porjadnje fungował. Prošu aktualizujće WordPress, prjedy hač Gutenberg aktiwizujeće."
+
+#. translators: %s: human-readable time difference.
+#: build/scripts/block-library/post-date.php:65
+msgid "%s from now"
+msgstr "%s wot nětka"

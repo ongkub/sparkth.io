@@ -1,0 +1,3902 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-02-06 07:43:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: build/scripts/block-library/tabs-menu/block.json
+msgctxt "block description"
+msgid "Display the tab buttons for a tabbed interface."
+msgstr "نمایش دکمه‌های زبانه برای رابط کاربری زبانه‌دار."
+
+#: build/scripts/block-library/tabs-menu/block.json
+msgctxt "block title"
+msgid "Tabs Menu"
+msgstr "فهرست زبانه‌ها"
+
+#: build/scripts/block-library/tabs-menu-item/block.json
+msgctxt "block description"
+msgid "A single tab button in the tabs menu. Used as a template for styling all tab buttons."
+msgstr "یک دکمه زبانه تکی در فهرست زبانه‌ها. به‌عنوان یک قالب برای استایل‌دهی تمام دکمه‌های زبانه استفاده می‌شود."
+
+#: build/scripts/block-library/tabs-menu-item/block.json
+msgctxt "block title"
+msgid "Tab Menu Item"
+msgstr "گزینه فهرست زبانه"
+
+#: build/scripts/block-library/tab-panels/block.json
+msgctxt "block description"
+msgid "Container for tab panel content in a tabbed interface."
+msgstr "نگهدارنده برای محتوای پنل زبانه در یک رابط کاربری زبانه‌دار."
+
+#: build/scripts/block-library/tab-panels/block.json
+msgctxt "block title"
+msgid "Tab Panels"
+msgstr "پنل‌های زبانه"
+
+#: lib/experiments-page.php:231
+msgid "Enables editing media items (attachments) directly in the block editor with a dedicated media preview and metadata panel."
+msgstr "ویرایش موارد رسانه‌ای (پیوست‌ها) را به‌طور مستقیم در ویرایشگر بلوک با پیش‌نمایش اختصاصی رسانه و پنل فراداده فعال می‌کند."
+
+#: lib/experiments-page.php:226
+msgid "Media Editor"
+msgstr "ویرایشگر رسانه"
+
+#: lib/experimental/overlay-patterns.php:131
+msgctxt "Block pattern description"
+msgid "A navigation overlay with vertically and horizontally centered navigation"
+msgstr "یک پوشش راهبری با راهبری وسط‌چین شده عمودی و افقی"
+
+#: lib/experimental/overlay-patterns.php:130
+msgid "Overlay with centered navigation"
+msgstr "پوشش با راهبری وسط‌چین"
+
+#: lib/experimental/overlay-patterns.php:113
+msgid "Get started today!"
+msgstr "امروز شروع کنید!"
+
+#: lib/experimental/overlay-patterns.php:108
+msgid "Find out how we can help your business."
+msgstr "دریابید که چگونه می‌توانیم به کسب‌وکار شما کمک کنیم."
+
+#: lib/experimental/overlay-patterns.php:89
+msgctxt "Block pattern description"
+msgid "A navigation overlay with vertically and horizontally centered navigation, site info, and a CTA"
+msgstr "یک پوشش راهبری با راهبری وسط‌چین شده عمودی و افقی، اطلاعات سایت و یک فراخوان عمل (CTA)"
+
+#: lib/experimental/overlay-patterns.php:88
+msgid "Overlay with site info and CTA"
+msgstr "پوشش با اطلاعات سایت و CTA"
+
+#: lib/experimental/overlay-patterns.php:63
+msgctxt "Block pattern description"
+msgid "A navigation overlay with orange background site title and tagline"
+msgstr "یک پوشش راهبری با پس‌زمینه نارنجی عنوان سایت و معرفی کوتاه"
+
+#: lib/experimental/overlay-patterns.php:62
+msgid "Overlay with orange background"
+msgstr "پوشش با پس‌زمینه نارنجی"
+
+#: lib/experimental/overlay-patterns.php:47
+msgctxt "Block pattern description"
+msgid "A navigation overlay with black background and big white text"
+msgstr "یک پوشش راهبری با پس‌زمینه سیاه و متن سفید بزرگ"
+
+#: lib/experimental/overlay-patterns.php:46
+msgid "Overlay with black background"
+msgstr "پوشش با پس‌زمینه سیاه"
+
+#. translators: %s is the CSS that was provided.
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:765
+msgid "The CSS must not contain \"%s\"."
+msgstr "کد CSS نباید شامل «%s» باشد."
+
+#. translators: %s is the CSS that was provided.
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:753
+msgid "The CSS must not end in \"%s\"."
+msgstr "کد CSS نباید با «%s» پایان یابد."
+
+#: build/scripts/block-library/navigation-overlay-close/block.json
+msgctxt "block keyword"
+msgid "overlay"
+msgstr "پوشش"
+
+#: build/scripts/block-library/navigation-overlay-close/block.json
+msgctxt "block keyword"
+msgid "close"
+msgstr "بستن"
+
+#: build/scripts/block-library/navigation-overlay-close/block.json
+msgctxt "block description"
+msgid "A customizable button to close overlays."
+msgstr "یک دکمه قابل سفارشی‌سازی برای بستن پوشش‌ها."
+
+#: build/scripts/block-library/navigation-overlay-close/block.json
+msgctxt "block title"
+msgid "Navigation Overlay Close"
+msgstr "بستن پوشش راهبری"
+
+#: build/scripts/block-library/breadcrumbs/block.json
+msgctxt "block description"
+msgid "Display a breadcrumb trail showing the path to the current page."
+msgstr "نمایش یک دنباله خرده‌نان که مسیر به برگه کنونی را نشان می‌دهد."
+
+#: lib/experiments-page.php:219
+msgid "Redirects the default site editor (Appearance > Design) to use the extensible site editor page."
+msgstr "ویرایشگر سایت پیش‌فرض (نمایش > طراحی) را برای استفاده از برگه ویرایشگر سایت توسعه‌پذیر تغییر مسیر می‌دهد."
+
+#: lib/experiments-page.php:214
+msgid "Extensible Site Editor"
+msgstr "ویرایشگر سایت توسعه‌پذیر"
+
+#: lib/experiments-page.php:183
+msgid "Enables editable block inspector fields that are generated using a dataform."
+msgstr "فیلدهای بازرس بلوک قابل ویرایش را که با استفاده از فرم داده تولید می‌شوند، فعال می‌کند."
+
+#: lib/experiments-page.php:178
+msgid "Block fields: Show dataform driven inspector fields on blocks that support them"
+msgstr "فیلدهای بلوک: نمایش فیلدهای بازرس مبتنی بر فرم داده در بلوک‌هایی که از آن‌ها پشتیبانی می‌کنند"
+
+#: lib/experimental/overlay-patterns.php:30
+msgctxt "Block pattern description"
+msgid "A simple pattern with a navigation block and a navigation overlay close button."
+msgstr "یک الگوی ساده با یک بلوک راهبری و یک دکمه بستن پوشش راهبری."
+
+#: lib/experimental/overlay-patterns.php:22
+msgctxt "Block pattern category"
+msgid "Display your website navigation."
+msgstr "نمایش راهبری وب‌سایت شما."
+
+#: lib/experimental/overlay-patterns.php:21
+msgctxt "Block pattern category"
+msgid "Navigation"
+msgstr "راهبری"
+
+#: lib/compat/wordpress-7.0/rest-api.php:61
+#: lib/experimental/overlay-patterns.php:29
+#: lib/experimental/overlay-patterns.php:31
+#: lib/experimental/overlay-patterns.php:48
+#: lib/experimental/overlay-patterns.php:64
+#: lib/experimental/overlay-patterns.php:90
+#: lib/experimental/overlay-patterns.php:132
+msgid "Navigation Overlay"
+msgstr "پوشش راهبری"
+
+#. translators: %s is the post type name.
+#: build/scripts/block-library/query-title.php:69
+msgid "Post Type: &#8220;%s&#8221;"
+msgstr "نوع نوشته: &#8220;%s&#8221;"
+
+#. translators: %s is the search term.
+#: build/scripts/block-library/query-title.php:51
+msgid "Search results for: &#8220;%s&#8221;"
+msgstr "نتایج جست‌وجو برای: &#8220;%s&#8221;"
+
+#. translators: %s: Post title.
+#: build/scripts/block-library/comments-title.php:70
+msgid "Responses to &#8220;%s&#8221;"
+msgstr "پاسخ‌ها به &#8220;%s&#8221;"
+
+#. translators: %s: Post title.
+#: build/scripts/block-library/comments-title.php:67
+msgid "Response to &#8220;%s&#8221;"
+msgstr "پاسخ به &#8220;%s&#8221;"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: build/scripts/block-library/comments-title.php:46
+msgid "%1$s response to &#8220;%2$s&#8221;"
+msgid_plural "%1$s responses to &#8220;%2$s&#8221;"
+msgstr[0] "%1$s پاسخ به &#8220;%2$s&#8221;"
+
+#. translators: %s: Post title.
+#: build/scripts/block-library/comments-title.php:42
+msgid "One response to &#8220;%s&#8221;"
+msgstr "یک پاسخ به &#8220;%s&#8221;"
+
+#: lib/compat/wordpress-7.0/rest-api.php:62
+msgid "Custom overlay area for navigation overlays."
+msgstr "ناحیه هم‌پوشانی سفارشی برای هم‌پوشانی‌های ناوبری."
+
+#. translators: Note notification email subject. 1: Site title, 2: Post title.
+#: lib/compat/wordpress-6.9/block-comments.php:310
+msgid "[%1$s] Note: \"%2$s\""
+msgstr "[%1$s] یادداشت: «%2$s»"
+
+#: lib/compat/wordpress-6.9/block-comments.php:281
+msgid "You can see all notes on this post here:"
+msgstr "می‌توانید تمام یادداشت‌های این نوشته را اینجا ببینید:"
+
+#. translators: %s: Note text.
+#: lib/compat/wordpress-6.9/block-comments.php:280
+msgid "resolved/reopened"
+msgstr "حل‌شده/دوباره بازشده"
+
+#. translators: %s: Note author email.
+#: lib/compat/wordpress-6.9/block-comments.php:278
+msgid "Email: %s"
+msgstr "ایمیل: %s"
+
+#. translators: 1: Note author's name, 2: Note author's IP address, 3: Note
+#. author's hostname.
+#: lib/compat/wordpress-6.9/block-comments.php:276
+msgid "Author: %1$s (IP address: %2$s, %3$s)"
+msgstr "نویسنده: %1$s (نشانی آی‌پی: %2$s, %3$s)"
+
+#. translators: %s: Post title.
+#: lib/compat/wordpress-6.9/block-comments.php:274
+msgid "New note on your post \"%s\""
+msgstr "یادداشت جدیدی روی نوشته «%s» شما"
+
+#: lib/compat/wordpress-6.9/block-comments.php:167
+#: lib/compat/wordpress-6.9/block-comments.php:180
+msgid "Email me whenever anyone posts a note"
+msgstr "هر زمان کسی یادداشتی گذاشت به من ایمیل بزن"
+
+#. translators: %s: comment page number
+#: build/scripts/block-library/breadcrumbs.php:240
+msgid "Comments Page %s"
+msgstr "برگه دیدگاه‌ها %s"
+
+#: build/scripts/block-library/pullquote/block.json
+msgctxt "block description"
+msgid "This block is deprecated. Please use the Quote block instead."
+msgstr "این بلوک منسوخ شده است. لطفاً از بلوک گفتاورد (نقل قول) استفاده کنید."
+
+#: build/scripts/block-library/pullquote/block.json
+msgctxt "block title"
+msgid "Pullquote (deprecated)"
+msgstr "گفتاورد برجسته (منسوخ)"
+
+#: lib/experiments-page.php:207
+msgid "Enables custom mobile overlay design and content control for Navigation blocks, allowing you to create flexible, professional menu experiences."
+msgstr "طراحی هم‌پوشانی موبایل سفارشی و کنترل محتوا را برای بلوک‌های ناوبری فعال می‌کند و به شما اجازه می‌دهد تجربه‌های منوی منعطف و حرفه‌ای ایجاد کنید."
+
+#: lib/experiments-page.php:202
+msgid "Customizable Navigation Overlays"
+msgstr "هم‌پوشانی‌های ناوبری قابل سفارشی‌سازی"
+
+#: lib/experiments-page.php:195
+msgid "Enables the Workflow Palette for running workflows composed of abilities, from a unified interface."
+msgstr "پالت گردش کار را برای اجرای گردش‌های کاری تشکیل‌شده از قابلیت‌ها، از یک رابط یکپارچه فعال می‌کند."
+
+#: lib/experiments-page.php:190
+msgid "Workflow Palette"
+msgstr "پالت گردش کار"
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:653
+msgid "Script modules to load into the import map."
+msgstr "ماژول‌های اسکریپت برای بارگذاری در نقشه واردات (import map)."
+
+#: build/scripts/block-library/tabs/block.json
+msgctxt "block description"
+msgid "Display content in a tabbed interface to help users navigate detailed content with ease."
+msgstr "نمایش محتوا در یک رابط تب‌بندی‌شده برای کمک به کاربران جهت ناوبری آسان در محتوای دقیق."
+
+#: build/scripts/block-library/tabs/block.json
+msgctxt "block title"
+msgid "Tabs"
+msgstr "تب‌ها"
+
+#: build/scripts/block-library/tab/block.json
+msgctxt "block description"
+msgid "Content for a tab in a tabbed interface."
+msgstr "محتوا برای یک تب در یک رابط تب‌بندی‌شده."
+
+#: build/scripts/block-library/tab/block.json
+msgctxt "block title"
+msgid "Tab"
+msgstr "تب"
+
+#: lib/experiments-page.php:42
+msgid "Warning: when you deactivate this experiment, it is best to delete all created templates except for the active ones."
+msgstr "هشدار: وقتی این آزمایش را غیرفعال می‌کنید، بهتر است تمام قالب‌های ایجاد شده به‌جز قالب‌های فعال را حذف کنید."
+
+#: lib/experiments-page.php:41
+msgid "Allows multiple templates of the same type to be created, of which one can be active at a time."
+msgstr "اجازه می‌دهد چندین قالب از یک نوع ایجاد شوند که در هر زمان یکی می‌تواند فعال باشد."
+
+#: lib/experiments-page.php:29
+msgid "Template Activation"
+msgstr "فعال‌سازی قالب"
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:648
+msgid "Inline styles for editor assets."
+msgstr "استایل‌های درون‌خطی (Inline) برای دارایی‌های ویرایشگر."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:643
+msgid "Inline scripts for editor assets."
+msgstr "اسکریپت‌های درون‌خطی (Inline) برای دارایی‌های ویرایشگر."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:638
+msgid "Editor styles data."
+msgstr "داده‌های استایل‌های ویرایشگر."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:633
+msgid "Editor scripts data."
+msgstr "داده‌های اسکریپت‌های ویرایشگر."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-attachments-controller-6-9.php:122
+msgid "Limit result set to attachments of a particular MIME type or MIME types."
+msgstr "محدود کردن مجموعه نتایج به پیوست‌هایی با یک یا چند نوع MIME خاص."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-attachments-controller-6-9.php:112
+msgid "Limit result set to attachments of a particular media type or media types."
+msgstr "محدود کردن مجموعه نتایج به پیوست‌هایی با یک یا چند نوع رسانه خاص."
+
+#. translators: %s: page number
+#: build/scripts/block-library/breadcrumbs.php:249
+msgid "Page %s"
+msgstr "برگه %s"
+
+#: build/scripts/block-library/breadcrumbs.php:72
+msgid "Page not found"
+msgstr "برگه پیدا نشد"
+
+#: build/scripts/block-library/post-date/block.json
+msgctxt "block description"
+msgid "Display a custom date."
+msgstr "نمایش یک تاریخ سفارشی."
+
+#: build/scripts/block-library/accordion/block.json
+msgctxt "block description"
+msgid "Displays a foldable layout that groups content in collapsible sections."
+msgstr "یک چیدمان تاشو را نمایش می‌دهد که محتوا را در بخش‌های جمع‌شونده گروه‌بندی می‌کند."
+
+#: build/scripts/block-library/accordion-panel/block.json
+msgctxt "block description"
+msgid "Contains the hidden or revealed content beneath the heading."
+msgstr "شامل محتوای پنهان یا آشکار شده زیر تیتر است."
+
+#: build/scripts/block-library/accordion-item/block.json
+msgctxt "block description"
+msgid "Wraps the heading and panel in one unit."
+msgstr "تیتر و پنل را در یک واحد بسته‌بندی می‌کند."
+
+#: build/scripts/block-library/accordion-heading/block.json
+msgctxt "block description"
+msgid "Displays a heading that toggles the accordion panel."
+msgstr "تیتری را نمایش می‌دهد که پنل آکاردئونی را تغییر وضعیت می‌دهد."
+
+#: lib/experiments-page.php:159
+msgid "Enables a new media modal experience powered by Data Views for improved media library management."
+msgstr "تجربه جدیدی از مودال رسانه را با قدرت Data Views برای مدیریت بهتر کتابخانه رسانه فعال می‌کند."
+
+#: lib/experiments-page.php:154
+msgid "Data Views: new media modal"
+msgstr "Data Views: مودال جدید رسانه"
+
+#: build/scripts/block-library/term-name/block.json
+msgctxt "block keyword"
+msgid "term title"
+msgstr "عنوان عبارت"
+
+#: build/scripts/block-library/term-name/block.json
+msgctxt "block description"
+msgid "Displays the name of a taxonomy term."
+msgstr "نام یک عبارت طبقه‌بندی را نمایش می‌دهد."
+
+#: build/scripts/block-library/term-name/block.json
+msgctxt "block title"
+msgid "Term Name"
+msgstr "نام عبارت"
+
+#: build/scripts/block-library/term-count/block.json
+msgctxt "block description"
+msgid "Displays the post count of a taxonomy term."
+msgstr "تعداد نوشته‌های یک عبارت طبقه‌بندی را نمایش می‌دهد."
+
+#: build/scripts/block-library/term-count/block.json
+msgctxt "block title"
+msgid "Term Count"
+msgstr "تعداد عبارت"
+
+#: lib/compat/wordpress-6.9/block-comments.php:175
+#: build/scripts/editor/index.js:6810
+msgid "Notes"
+msgstr "یادداشت‌ها"
+
+#. translators: %s: Note text.
+#. translators: %s: note excerpt
+#: lib/compat/wordpress-6.9/block-comments.php:280
+#: build/scripts/editor/index.js:58670
+msgid "Note: %s"
+msgstr "یادداشت: %s"
+
+#: build/scripts/block-library/math/block.json
+msgctxt "block keyword"
+msgid "mathematics"
+msgstr "ریاضیات"
+
+#: build/scripts/block-library/math/block.json
+msgctxt "block keyword"
+msgid "latex"
+msgstr "لاتک"
+
+#: build/scripts/block-library/math/block.json
+msgctxt "block keyword"
+msgid "formula"
+msgstr "فرمول"
+
+#: build/scripts/block-library/math/block.json
+msgctxt "block description"
+msgid "Display mathematical notation using LaTeX."
+msgstr "نمایش نمادهای ریاضی با استفاده از لاتک."
+
+#: build/scripts/block-library/math/block.json
+msgctxt "block title"
+msgid "Math"
+msgstr "ریاضی"
+
+#: build/scripts/block-library/breadcrumbs/block.json
+msgctxt "block title"
+msgid "Breadcrumbs"
+msgstr "مسیر راهنما"
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:557
+msgid "Type of the comment."
+msgstr "نوع دیدگاه."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:433
+msgid "Creating comment failed."
+msgstr "ایجاد دیدگاه ناموفق بود."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:376
+msgid "Comment field exceeds maximum length allowed."
+msgstr "فیلد دیدگاه از حداکثر طول مجاز فراتر رفته است."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:352
+msgid "Creating a comment requires valid author name and email values."
+msgstr "ایجاد دیدگاه نیازمند مقادیر معتبر برای نام نویسنده و ایمیل است."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:322
+msgid "Invalid comment content."
+msgstr "محتوای دیدگاه نامعتبر است."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:298
+msgid "Cannot create a comment with that type."
+msgstr "امکان ایجاد دیدگاه با آن نوع وجود ندارد."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:118
+msgid "Sorry, you are not allowed to read this comment."
+msgstr "متاسفانه، شما مجاز به خواندن این دیدگاه نیستید."
+
+#. translators: %s: List of forbidden parameters.
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:87
+msgid "Query parameter not permitted: %s"
+msgstr "پارامتر کوئری مجاز نیست: %s"
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:38
+msgid "Sorry, you are not allowed to read comments without a post."
+msgstr "متاسفانه، شما مجاز به خواندن دیدگاه‌ها بدون نوشته نیستید."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:24
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:232
+msgid "Sorry, this post type does not support notes."
+msgstr "متاسفانه، این نوع نوشته از یادداشت‌ها پشتیبانی نمی‌کند."
+
+#: lib/compat/wordpress-6.9/block-comments.php:38
+msgid "Note resolution status"
+msgstr "وضعیت حل شدن یادداشت"
+
+#: build/scripts/block-library/breadcrumbs.php:189
+#: build/routes/navigation-edit/content.js:124
+msgid "Breadcrumbs"
+msgstr "مسیر راهنما"
+
+#: build/scripts/block-library/post-time-to-read/block.json
+msgctxt "block description"
+msgid "Show minutes required to finish reading the post. Can also show a word count."
+msgstr "نمایش دقایق مورد نیاز برای اتمام خواندن نوشته. همچنین می‌تواند تعداد کلمات را نشان دهد."
+
+#. translators: %s: the number of characters in the post.
+#: build/scripts/block-library/post-time-to-read.php:151
+#: build/scripts/block-library/index.js:50787
+msgid "%s character"
+msgid_plural "%s characters"
+msgstr[0] "%s کاراکتر"
+
+#. translators: 1: minimum minutes, 2: maximum minutes to read the post.
+#: build/scripts/block-library/post-time-to-read.php:128
+#: build/scripts/block-library/index.js:50764
+msgctxt "Range of minutes to read"
+msgid "%1$s–%2$s minutes"
+msgstr "%1$s–%2$s دقیقه"
+
+#: build/scripts/block-library/terms-query/block.json
+msgctxt "block keyword"
+msgid "tags"
+msgstr "برچسب‌ها"
+
+#: build/scripts/block-library/terms-query/block.json
+msgctxt "block keyword"
+msgid "taxonomy"
+msgstr "طبقه‌بندی"
+
+#: build/scripts/block-library/terms-query/block.json
+msgctxt "block keyword"
+msgid "terms"
+msgstr "عبارت‌ها"
+
+#: build/scripts/block-library/terms-query/block.json
+msgctxt "block title"
+msgid "Terms Query"
+msgstr "کوئری عبارت‌ها"
+
+#: build/scripts/block-library/term-template/block.json
+msgctxt "block description"
+msgid "Contains the block elements used to render a taxonomy term, like the name, description, and more."
+msgstr "شامل عناصر بلوکی است که برای نمایش یک عبارت طبقه‌بندی مانند نام، توضیحات و موارد دیگر استفاده می‌شود."
+
+#: build/scripts/block-library/term-template/block.json
+msgctxt "block title"
+msgid "Term Template"
+msgstr "قالب عبارت"
+
+#: lib/compat/wordpress-6.9/term-data-block-bindings.php:112
+msgctxt "block bindings source"
+msgid "Term Data"
+msgstr "داده‌ی عبارت"
+
+#: build/scripts/block-library/accordion/block.json
+msgctxt "block title"
+msgid "Accordion"
+msgstr "آکاردئون"
+
+#: build/scripts/block-library/accordion-panel/block.json
+msgctxt "block title"
+msgid "Accordion Panel"
+msgstr "پنل آکاردئون"
+
+#: build/scripts/block-library/accordion-heading/block.json
+msgctxt "block title"
+msgid "Accordion Heading"
+msgstr "سرتیتر آکاردئون"
+
+#: build/scripts/block-library/accordion-item/block.json
+msgctxt "block title"
+msgid "Accordion Item"
+msgstr "آیتم آکاردئون"
+
+#: build/scripts/block-library/social-link.php:277
+#: build/scripts/block-library/index.js:60896
+msgctxt "social link block variation name"
+msgid "SoundCloud"
+msgstr "ساوندکلاود"
+
+#: build/scripts/block-library/social-link.php:333
+#: build/scripts/block-library/index.js:60975
+msgctxt "social link block variation name"
+msgid "YouTube"
+msgstr "یوتیوب"
+
+#: build/scripts/block-library/social-link.php:329
+#: build/scripts/block-library/index.js:60969
+msgctxt "social link block variation name"
+msgid "Yelp"
+msgstr "یلپ"
+
+#: build/scripts/block-library/social-link.php:325
+#: build/scripts/block-library/index.js:60963
+msgctxt "social link block variation name"
+msgid "X"
+msgstr "ایکس"
+
+#: build/scripts/block-library/social-link.php:321
+#: build/scripts/block-library/index.js:60956
+msgctxt "social link block variation name"
+msgid "WhatsApp"
+msgstr "واتس‌اپ"
+
+#: build/scripts/block-library/social-link.php:317
+#: build/scripts/block-library/index.js:60689
+msgctxt "social link block variation name"
+msgid "WordPress"
+msgstr "وردپرس"
+
+#: build/scripts/block-library/social-link.php:313
+#: build/scripts/block-library/index.js:60950
+msgctxt "social link block variation name"
+msgid "VK"
+msgstr "وی‌کی"
+
+#: build/scripts/block-library/social-link.php:309
+#: build/scripts/block-library/index.js:60944
+msgctxt "social link block variation name"
+msgid "Vimeo"
+msgstr "ویمئو"
+
+#: build/scripts/block-library/social-link.php:305
+#: build/scripts/block-library/index.js:60938
+msgctxt "social link block variation name"
+msgid "Twitter"
+msgstr "توییتر"
+
+#: build/scripts/block-library/social-link.php:301
+#: build/scripts/block-library/index.js:60932
+msgctxt "social link block variation name"
+msgid "Twitch"
+msgstr "توییچ"
+
+#: build/scripts/block-library/social-link.php:297
+#: build/scripts/block-library/index.js:60926
+msgctxt "social link block variation name"
+msgid "Tumblr"
+msgstr "تامبلر"
+
+#: build/scripts/block-library/social-link.php:293
+#: build/scripts/block-library/index.js:60920
+msgctxt "social link block variation name"
+msgid "TikTok"
+msgstr "تیک‌تاک"
+
+#: build/scripts/block-library/social-link.php:289
+#: build/scripts/block-library/index.js:60914
+msgctxt "social link block variation name"
+msgid "Threads"
+msgstr "تردز"
+
+#: build/scripts/block-library/social-link.php:285
+#: build/scripts/block-library/index.js:60908
+msgctxt "social link block variation name"
+msgid "Telegram"
+msgstr "تلگرام"
+
+#: build/scripts/block-library/social-link.php:281
+#: build/scripts/block-library/index.js:60902
+msgctxt "social link block variation name"
+msgid "Spotify"
+msgstr "اسپاتیفای"
+
+#: build/scripts/block-library/social-link.php:273
+#: build/scripts/block-library/index.js:60890
+msgctxt "social link block variation name"
+msgid "Snapchat"
+msgstr "اسنپ‌چت"
+
+#: build/scripts/block-library/social-link.php:269
+#: build/scripts/block-library/index.js:60882
+msgctxt "social link block variation name"
+msgid "Skype"
+msgstr "اسکایپ"
+
+#: build/scripts/block-library/social-link.php:265
+msgctxt "social link block variation name"
+msgid "Share Icon"
+msgstr "آیکون اشتراک‌گذاری"
+
+#: build/scripts/block-library/social-link.php:261
+#: build/scripts/block-library/index.js:60876
+msgctxt "social link block variation name"
+msgid "Reddit"
+msgstr "ردیت"
+
+#: build/scripts/block-library/social-link.php:257
+#: build/scripts/block-library/index.js:60870
+msgctxt "social link block variation name"
+msgid "Pocket"
+msgstr "پاکت"
+
+#: build/scripts/block-library/social-link.php:253
+#: build/scripts/block-library/index.js:60864
+msgctxt "social link block variation name"
+msgid "Pinterest"
+msgstr "پینترست"
+
+#: build/scripts/block-library/social-link.php:249
+#: build/scripts/block-library/index.js:60858
+msgctxt "social link block variation name"
+msgid "Patreon"
+msgstr "پاترئون"
+
+#: build/scripts/block-library/social-link.php:245
+#: build/scripts/block-library/index.js:60852
+msgctxt "social link block variation name"
+msgid "Medium"
+msgstr "مدیوم"
+
+#: build/scripts/block-library/social-link.php:241
+#: build/scripts/block-library/index.js:60846
+msgctxt "social link block variation name"
+msgid "Meetup"
+msgstr "میت‌آپ"
+
+#: build/scripts/block-library/social-link.php:237
+#: build/scripts/block-library/index.js:60840
+msgctxt "social link block variation name"
+msgid "Mastodon"
+msgstr "ماستودون"
+
+#: build/scripts/block-library/social-link.php:233
+#: build/scripts/block-library/index.js:60833
+msgctxt "social link block variation name"
+msgid "Mail"
+msgstr "ایمیل"
+
+#: build/scripts/block-library/social-link.php:229
+#: build/scripts/block-library/index.js:60827
+msgctxt "social link block variation name"
+msgid "LinkedIn"
+msgstr "لینکدین"
+
+#: build/scripts/block-library/social-link.php:225
+#: build/scripts/block-library/index.js:60821
+msgctxt "social link block variation name"
+msgid "Last.fm"
+msgstr "لست.اف‌ام"
+
+#: build/scripts/block-library/social-link.php:221
+#: build/scripts/block-library/index.js:60815
+msgctxt "social link block variation name"
+msgid "Instagram"
+msgstr "اینستاگرام"
+
+#: build/scripts/block-library/social-link.php:217
+#: build/scripts/block-library/index.js:60809
+msgctxt "social link block variation name"
+msgid "Gravatar"
+msgstr "گراواتار"
+
+#: build/scripts/block-library/social-link.php:213
+#: build/scripts/block-library/index.js:60803
+msgctxt "social link block variation name"
+msgid "GitHub"
+msgstr "گیت‌هاب"
+
+#: build/scripts/block-library/social-link.php:209
+#: build/scripts/block-library/index.js:60797
+msgctxt "social link block variation name"
+msgid "Google"
+msgstr "گوگل"
+
+#: build/scripts/block-library/social-link.php:205
+#: build/scripts/block-library/index.js:60791
+msgctxt "social link block variation name"
+msgid "Goodreads"
+msgstr "گودریدز"
+
+#: build/scripts/block-library/social-link.php:197
+#: build/scripts/block-library/index.js:60779
+msgctxt "social link block variation name"
+msgid "Flickr"
+msgstr "فلیکر"
+
+#: build/scripts/block-library/social-link.php:193
+#: build/scripts/block-library/index.js:60773
+msgctxt "social link block variation name"
+msgid "RSS Feed"
+msgstr "خوراک RSS"
+
+#: build/scripts/block-library/social-link.php:189
+#: build/scripts/block-library/index.js:60767
+msgctxt "social link block variation name"
+msgid "Facebook"
+msgstr "فیس‌بوک"
+
+#: build/scripts/block-library/social-link.php:185
+#: build/scripts/block-library/index.js:60761
+msgctxt "social link block variation name"
+msgid "Etsy"
+msgstr "Etsy"
+
+#: build/scripts/block-library/social-link.php:181
+#: build/scripts/block-library/index.js:60755
+msgctxt "social link block variation name"
+msgid "Dropbox"
+msgstr "دراپ‌باکس"
+
+#: build/scripts/block-library/social-link.php:177
+#: build/scripts/block-library/index.js:60749
+msgctxt "social link block variation name"
+msgid "Dribbble"
+msgstr "دریبل"
+
+#: build/scripts/block-library/social-link.php:173
+#: build/scripts/block-library/index.js:60743
+msgctxt "social link block variation name"
+msgid "Discord"
+msgstr "دیسکورد"
+
+#: build/scripts/block-library/social-link.php:169
+#: build/scripts/block-library/index.js:60737
+msgctxt "social link block variation name"
+msgid "DeviantArt"
+msgstr "دویانت‌آرت"
+
+#: build/scripts/block-library/social-link.php:165
+#: build/scripts/block-library/index.js:60731
+msgctxt "social link block variation name"
+msgid "CodePen"
+msgstr "کدپن"
+
+#: build/scripts/block-library/social-link.php:161
+#: build/scripts/block-library/index.js:60725
+msgctxt "social link block variation name"
+msgid "Link"
+msgstr "پیوند"
+
+#: build/scripts/block-library/social-link.php:157
+#: build/scripts/block-library/index.js:60719
+msgctxt "social link block variation name"
+msgid "Bluesky"
+msgstr "بلواسکای"
+
+#: build/scripts/block-library/social-link.php:153
+#: build/scripts/block-library/index.js:60713
+msgctxt "social link block variation name"
+msgid "Behance"
+msgstr "بی‌هنس"
+
+#: build/scripts/block-library/social-link.php:149
+#: build/scripts/block-library/index.js:60707
+msgctxt "social link block variation name"
+msgid "Bandcamp"
+msgstr "بندکمپ"
+
+#: build/scripts/block-library/social-link.php:145
+#: build/scripts/block-library/index.js:60701
+msgctxt "social link block variation name"
+msgid "Amazon"
+msgstr "آمازون"
+
+#: build/scripts/block-library/social-link.php:141
+#: build/scripts/block-library/index.js:60695
+msgctxt "social link block variation name"
+msgid "500px"
+msgstr "500px"
+
+#: build/scripts/block-library/social-link.php:201
+#: build/scripts/block-library/index.js:60785
+msgctxt "social link block variation name"
+msgid "Foursquare"
+msgstr "فورسکوئر"
+
+#: build/scripts/block-library/site-tagline/block.json
+msgctxt "block description"
+msgid "Describe in a few words what this site is about. This is important for search results, sharing on social media, and gives overall clarity to visitors."
+msgstr "در چند کلمه توضیح دهید این سایت درباره‌ی چیست. این برای نتایج جستجو، اشتراک‌گذاری در رسانه‌های اجتماعی و ایجاد وضوح کلی برای بازدیدکنندگان مهم است."
+
+#: build/scripts/block-library/comments-pagination.php:30
+msgid "Comments pagination"
+msgstr "صفحه‌بندی دیدگاه‌ها"
+
+#: lib/experiments-page.php:166
+msgid "Interactivity API: Full-page client-side navigation"
+msgstr "Interactivity API: پیمایش سمت کلاینت تمام‌صفحه"
+
+#: build/scripts/block-library/image.php:200
+msgid "Enlarge"
+msgstr "بزرگ‌نمایی"
+
+#. translators: %d: number of results.
+#: build/scripts/block-library/query-total.php:66
+msgid "%d result found"
+msgid_plural "%d results found"
+msgstr[0] "%d نتیجه پیدا شد"
+
+#: lib/theme.json
+msgctxt "Shadow name"
+msgid "Natural"
+msgstr "طبیعی"
+
+#: lib/theme.json
+msgctxt "Shadow name"
+msgid "Deep"
+msgstr "ژرف"
+
+#: lib/theme.json
+msgctxt "Shadow name"
+msgid "Sharp"
+msgstr "تیز"
+
+#: lib/theme.json
+msgctxt "Shadow name"
+msgid "Crisp"
+msgstr "خشک"
+
+#: lib/theme.json
+msgctxt "Shadow name"
+msgid "Outlined"
+msgstr "دور خط"
+
+#: lib/theme.json
+msgctxt "Aspect ratio name"
+msgid "Square - 1:1"
+msgstr "مربع - 1:1"
+
+#: lib/theme.json
+msgctxt "Aspect ratio name"
+msgid "Standard - 4:3"
+msgstr "استاندارد - 4:3"
+
+#: lib/theme.json
+msgctxt "Aspect ratio name"
+msgid "Portrait - 3:4"
+msgstr "پرتره - 3:4"
+
+#: lib/theme.json
+msgctxt "Aspect ratio name"
+msgid "Classic - 3:2"
+msgstr "کلاسیک - 3:2"
+
+#: lib/theme.json
+msgctxt "Aspect ratio name"
+msgid "Classic Portrait - 2:3"
+msgstr "پرتره کلاسیک - 2:3"
+
+#: lib/theme.json
+msgctxt "Aspect ratio name"
+msgid "Wide - 16:9"
+msgstr "عریض - 16:9"
+
+#: lib/theme.json
+msgctxt "Aspect ratio name"
+msgid "Tall - 9:16"
+msgstr "بلند - 9:16"
+
+#: build/scripts/block-library/query-total/block.json
+msgctxt "block title"
+msgid "Query Total"
+msgstr "مجموع کوئری"
+
+#: build/scripts/block-library/query-total/block.json
+msgctxt "block description"
+msgid "Display the total number of results in a query."
+msgstr "تعداد کل نتایج در یک کوئری را نمایش دهید."
+
+#: lib/experiments-page.php:94
+msgid "Blocks: add Grid interactivity"
+msgstr "بلوک‌ها: افزودن تعامل‌پذیری شبکه"
+
+#: lib/experiments-page.php:82
+msgid "Blocks: add Form and input blocks"
+msgstr "بلوک‌ها: افزودن بلوک‌های فرم و ورودی"
+
+#: lib/experiments-page.php:106
+msgid "Blocks: disable TinyMCE and Classic block"
+msgstr "بلوک‌ها: غیرفعال کردن بلوک TinyMCE و کلاسیک"
+
+#: lib/experiments-page.php:75
+msgid "Enables experimental blocks on a rolling basis as they are developed.<p class=\"description\">(Warning: these blocks may have significant changes during development that cause validation errors and display issues.)</p>"
+msgstr "امکان استفاده از بلوک‌های آزمایشی را به‌طور تدریجی در حین توسعه فراهم می‌کند. <p class=\"description\">(هشدار: این بلوک‌ها ممکن است در طول توسعه تغییرات قابل توجهی داشته باشند که باعث بروز خطاهای اعتبارسنجی و مشکلات نمایش می‌شود.)</p>"
+
+#: lib/experiments-page.php:87
+msgid "Enables new blocks to allow building forms. You are likely to experience UX issues that are being addressed."
+msgstr "بلوک‌های جدیدی را برای ساخت فرم‌ها فعال می‌کند. احتمالا با مشکلات تجربه کاربری مواجه خواهید شد که در حال رفع شدن هستند."
+
+#: lib/experiments-page.php:123
+msgid "Enables client-side media processing to leverage the browser's capabilities to handle tasks like image resizing and compression."
+msgstr "امکان پردازش رسانه در سمت کاربر را فراهم می‌کند تا از قابلیت‌های مرورگر برای انجام کارهایی مانند تغییر اندازه و فشرده‌سازی تصاویر استفاده شود."
+
+#: lib/experiments-page.php:142
+msgid "Data Views: add Quick Edit"
+msgstr "نماهای داده: افزودن ویرایش سریع"
+
+#: lib/experiments-page.php:147
+msgid "Enables access to a Quick Edit panel in the Site Editor Pages experience."
+msgstr "دسترسی به یک پنل ویرایش سریع را در تجربه برگه‌های ویرایشگر سایت فعال می‌کند."
+
+#: lib/experiments-page.php:135
+msgid "Enables the Global Styles color randomizer in the Site Editor; a utility that lets you mix the current color palette pseudo-randomly."
+msgstr "امکان استفاده از تصادفی‌ساز رنگ‌های سبک‌های همگانی در ویرایشگر سایت را فراهم می‌کند؛ ابزاری که به شما اجازه می‌دهد تخته رنگ فعلی را به‌طور شبه‌تصادفی ترکیب نمایید."
+
+#: lib/experiments-page.php:70
+msgid "Blocks: add experimental blocks"
+msgstr "بلوک‌ها: افزودن بلوک‌های آزمایشی"
+
+#. translators: 1: Start index of posts, 2: Total number of posts
+#: build/scripts/block-library/query-total.php:47
+msgid "Displaying %1$s of %2$s"
+msgstr "نمایش %1$s از %2$s"
+
+#. translators: 1: Start index of posts, 2: End index of posts, 3: Total number
+#. of posts
+#: build/scripts/block-library/query-total.php:54
+msgid "Displaying %1$s – %2$s of %3$s"
+msgstr "نمایش %1$s – %2$s از %3$s"
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:141
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:150
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:172
+msgid "Sorry, you must be logged in to comment."
+msgstr "با عرض پوزش، شما برای نوشتن دیدگاه باید وارد شده باشید."
+
+#. translators: %s: Request parameter.
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:183
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:193
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:205
+msgid "Sorry, you are not allowed to edit '%s' for comments."
+msgstr "با عرض پوزش، شما مجاز به ویرایش '%s' برای دیدگاه‌ها نمی‌باشید."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:213
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:223
+msgid "Sorry, you are not allowed to create this comment without a post."
+msgstr "با عرض پوزش، شما بدون یک نوشته مجاز به ایجاد این دیدگاه نیستید."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:241
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:249
+msgid "Sorry, you are not allowed to create a comment on this post."
+msgstr "با عرض پوزش، شما مجاز به افزودن دیدگاه به این نوشته نمی‌باشید."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:32
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:126
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:257
+msgid "Sorry, you are not allowed to read the post for this comment."
+msgstr "با عرض پوزش، شما مجاز به خواندن نوشتهٔ این دیدگاه نیستید."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:266
+msgid "Sorry, comments are closed for this item."
+msgstr "با عرض پوزش، دیدگاه‌ها برای این مورد بسته شده است."
+
+#: build/scripts/block-library/query/block.json
+msgctxt "block keyword"
+msgid "custom post types"
+msgstr "نوع نوشته‌های سفارشی"
+
+#: build/scripts/block-library/query/block.json
+msgctxt "block keyword"
+msgid "blogs"
+msgstr "بلاگ‌ها"
+
+#: build/scripts/block-library/query/block.json
+msgctxt "block keyword"
+msgid "blog"
+msgstr "بلاگ"
+
+#: build/scripts/block-library/categories/block.json
+#: build/scripts/block-library/terms-query/block.json
+msgctxt "block keyword"
+msgid "categories"
+msgstr "دسته‌ها"
+
+#: build/scripts/block-library/categories/block.json
+msgctxt "block description"
+msgid "Display a list of all terms of a given taxonomy."
+msgstr "فهرستی از تمام اصطلاحات یک طبقه‌بندی مشخص را نمایش دهید."
+
+#: build/scripts/block-library/categories/block.json
+msgctxt "block title"
+msgid "Terms List"
+msgstr "فهرست رده‌ها"
+
+#: lib/experimental/media/class-gutenberg-rest-attachments-controller.php:37
+msgid "Unique identifier for the attachment."
+msgstr "شناسه یکتا برای پیوست."
+
+#: lib/experimental/media/class-gutenberg-rest-attachments-controller.php:259
+msgid "Invalid post ID, only images and PDFs can be sideloaded."
+msgstr "شناسهٔ نوشته نامعتبر است، فقط می‌توان تصاویر و PDF‌ها را به‌صورت جانبی بارگذاری کرد."
+
+#: lib/experimental/media/load.php:118
+msgid "Original attachment file name"
+msgstr "نام پروندهٔ پیوست اصلی"
+
+#: lib/experimental/media/load.php:131
+msgid "Attachment file size"
+msgstr "حجم فایل پیوست"
+
+#: lib/experiments-page.php:118
+msgid "Client-side media processing"
+msgstr "پردازش رسانهٔ سمت‌کاربر"
+
+#: lib/experimental/media/class-gutenberg-rest-attachments-controller.php:69
+msgid "Whether to generate image sub sizes."
+msgstr "آیا اندازه‌های فرعی تصویر ایجاد گردد یا خیر."
+
+#: lib/experimental/media/class-gutenberg-rest-attachments-controller.php:74
+msgid "Whether to convert image formats."
+msgstr "آیا ساختارهای تصویر تبدیل شوند یا خیر."
+
+#: lib/compat/wordpress-7.0/class-gutenberg-rest-static-templates-controller.php:73
+msgid "Plugin that registered the template."
+msgstr "افزونه‌ای که قالب را ثبت کرده است."
+
+#: build/scripts/block-library/list/block.json
+msgctxt "block description"
+msgid "An organized collection of items displayed in a specific order."
+msgstr "مجموعه‌ای سازمان‌یافته از آیتم‌ها که به ترتیب خاصی نمایش داده می‌شود."
+
+#: build/scripts/block-library/tag-cloud/block.json
+msgctxt "block description"
+msgid "A cloud of popular keywords, each sized by how often it appears."
+msgstr "ابری از کلمات کلیدی پرطرفدار که هر کدام بر اساس میزان تکرار آن‌ها در اندازه‌های مختلف نمایش داده می‌شوند."
+
+#: build/scripts/block-library/list-item/block.json
+msgctxt "block description"
+msgid "An individual item within a list."
+msgstr "یک مورد جداگانه در یک فهرست."
+
+#: lib/experimental/blocks.php:102
+msgid "Block name must be a string or array."
+msgstr "نام بلوک باید یک عبارت یا آرایه باشد."
+
+#: build/scripts/edit-widgets/blocks/widget-area/block.json
+msgctxt "block title"
+msgid "Widget Area"
+msgstr "ناحیه ابزارک"
+
+#: build/scripts/widgets/blocks/widget-group/block.json
+msgctxt "block title"
+msgid "Widget Group"
+msgstr "گروه ابزارک"
+
+#: lib/block-supports/elements.php:123
+msgid "Use as a `pre_render_block` filter is deprecated. Use with `render_block_data` instead."
+msgstr "استفاده از فیلتر `pre_render_block` منسوخ شده است. به جای آن از `render_block_data` استفاده کنید."
+
+#. translators: 1: A URL to a post, 2: Hidden accessibility text: Post title
+#: build/scripts/block-library/latest-posts.php:164
+msgid "… <a class=\"wp-block-latest-posts__read-more\" href=\"%1$s\" rel=\"noopener noreferrer\">Read more<span class=\"screen-reader-text\">: %2$s</span></a>"
+msgstr "… <a class=\"wp-block-latest-posts__read-more\" href=\"%1$s\" rel=\"noopener noreferrer\">بیشتر بخوانید<span class=\"screen-reader-text\">: %2$s</span></a>"
+
+#: lib/experiments-page.php:171
+msgid "Enables full-page client-side navigation, powered by the Interactivity API."
+msgstr "با استفاده از Interactivity API، راهبری تمام‌صفحهٔ سمت کاربر را فعال می‌کند."
+
+#: lib/block-supports/typography.php:505
+msgid "`boolean` type for second argument `$settings` is deprecated. Use `array()` instead."
+msgstr "نوع `boolean` برای آرگومان دوم `$settings` منسوخ شده است. به جای آن از `array()` استفاده کنید."
+
+#: lib/experiments-page.php:99
+msgid "Enables enhancements to the Grid block that let you move and resize items in the editor canvas."
+msgstr "بهبودهایی را برای بلوک شبکه فراهم می‌کند که به شما اجازه می‌دهد آیتم‌ها را در بوم ویرایشگر جابه‌جا کرده و تغییر اندازه دهید."
+
+#: build/scripts/block-library/block/block.json
+msgctxt "block description"
+msgid "Reuse this design across your site."
+msgstr "این طراحی را در سرتاسر سایت خود دوباره استفاده کنید."
+
+#: lib/compat/wordpress-6.9/post-data-block-bindings.php:96
+msgctxt "block bindings source"
+msgid "Post Data"
+msgstr "داده‌ی نوشته"
+
+#. translators: 1: Menu label, 2: Submenu label.
+#: lib/compat/wordpress-6.9/command-palette.php:105
+msgid "%1$s > %2$s"
+msgstr "%1$s > %2$s"
+
+#. translators: Visible only in the front end, this warning takes the place of
+#. a faulty block. %s represents a pattern's slug.
+#: build/scripts/block-library/pattern.php:54
+msgid "[block rendering halted for pattern \"%s\"]"
+msgstr "[پردازش بلوک برای الگوی \"%s\" متوقف شده است]"
+
+#: lib/compat/wordpress-7.0/class-gutenberg-rest-templates-controller-7-0.php:405
+msgid "Unknown author"
+msgstr "نویسنده ناشناس"
+
+#: build/scripts/block-library/form-submit-button/block.json
+msgctxt "block keyword"
+msgid "button"
+msgstr "دکمه"
+
+#: build/scripts/block-library/form/block.json
+msgctxt "block title"
+msgid "Form"
+msgstr "فرم"
+
+#: build/scripts/block-library/form/block.json
+msgctxt "block description"
+msgid "A form."
+msgstr "یک فرم."
+
+#: build/scripts/block-library/form-input/block.json
+msgctxt "block keyword"
+msgid "input"
+msgstr "ورودی"
+
+#: build/scripts/block-library/form-submit-button/block.json
+msgctxt "block keyword"
+msgid "submit"
+msgstr "ارسال"
+
+#: build/scripts/block-library/form-submission-notification/block.json
+msgctxt "block keyword"
+msgid "feedback"
+msgstr "بازخورد"
+
+#: build/scripts/block-library/form-submission-notification/block.json
+msgctxt "block keyword"
+msgid "message"
+msgstr "پیام"
+
+#: build/scripts/block-library/form-submit-button/block.json
+msgctxt "block title"
+msgid "Form Submit Button"
+msgstr "دکمه ارسال فرم"
+
+#: build/scripts/block-library/form-input/block.json
+msgctxt "block title"
+msgid "Input Field"
+msgstr "فیلد ورودی"
+
+#: build/scripts/block-library/form-input/block.json
+msgctxt "block description"
+msgid "The basic building block for forms."
+msgstr "بلوک سازنده اصلی برای فرم‌ها."
+
+#: build/scripts/block-library/form-submission-notification/block.json
+msgctxt "block title"
+msgid "Form Submission Notification"
+msgstr "آگاه‌سازی ارسال فرم"
+
+#: build/scripts/block-library/form-submission-notification/block.json
+msgctxt "block description"
+msgid "Provide a notification message after the form has been submitted."
+msgstr "یک پیام آگاه‌سازی پس از ارسال فرم ارائه دهید."
+
+#: build/scripts/block-library/form-submission-notification/block.json
+msgctxt "block keyword"
+msgid "notification"
+msgstr "آگاه‌سازی"
+
+#: build/scripts/block-library/form-submit-button/block.json
+msgctxt "block description"
+msgid "A submission button for forms."
+msgstr "یک دکمه ارسال برای فرم‌ها."
+
+#. translators: %s: The request URI.
+#: build/scripts/block-library/form.php:76
+msgid "Form submission from %1$s"
+msgstr "ارسال فرم از %1$s"
+
+#: build/scripts/block-library/form.php:94
+msgid "Form submission"
+msgstr "ارسال فرم"
+
+#: build/scripts/block-library/image.php:201
+msgid "Enlarged image"
+msgstr "تصویر بزرگ‌شده"
+
+#: build/scripts/block-library/footnotes/block.json
+msgctxt "block description"
+msgid "Display footnotes added to the page."
+msgstr "پاورقی‌های اضافه‌شده به برگه را نمایش دهید."
+
+#. Translators: %d: Integer representing the number of return links on the
+#. page.
+#: build/scripts/block-library/footnotes.php:48
+msgid "Jump to footnote reference %1$d"
+msgstr "رفتن به مرجع پاورقی %1$d"
+
+#: lib/experimental/fonts/load.php:21 lib/experimental/fonts/load.php:22
+#: lib/experimental/pages/site-editor.php:34
+#: build/routes/font-list/content.js:15047 build/routes/font-list/route.js:37
+#: build/scripts/editor/index.js:29200 build/scripts/editor/index.js:29289
+msgid "Fonts"
+msgstr "فونت‌ها"
+
+#. translators: %s: taxonomy's label
+#: build/scripts/block-library/post-terms.php:93
+msgid "Display a list of assigned terms from the taxonomy: %s"
+msgstr "نمایش فهرستی از موارد اختصاص داده شده از طبقه‌بندی: %s"
+
+#: lib/interactivity-api.php:27
+msgid "Page Loaded."
+msgstr "برگه بارگذاری شد."
+
+#: lib/interactivity-api.php:26
+msgid "Loading page, please wait."
+msgstr "در حال بارگذاری برگه، لطفا منتظر بمانید."
+
+#: build/scripts/block-library/post-date/block.json
+msgctxt "block title"
+msgid "Date"
+msgstr "تاریخ"
+
+#: build/scripts/block-library/post-content/block.json
+msgctxt "block title"
+msgid "Content"
+msgstr "محتوا"
+
+#: build/scripts/block-library/post-author/block.json
+msgctxt "block title"
+msgid "Author"
+msgstr "نویسنده"
+
+#: build/scripts/block-library/details/block.json
+msgctxt "block keyword"
+msgid "toggle"
+msgstr "تغییر وضعیت"
+
+#: build/scripts/block-library/search.php:172
+msgid "Submit Search"
+msgstr "ثبت جستجو"
+
+#: build/scripts/block-library/block/block.json
+msgctxt "block keyword"
+msgid "reusable"
+msgstr "قابل استفاده مجدد"
+
+#: build/scripts/block-library/footnotes.php:124
+#: build/scripts/block-library/index.js:71090
+#: build/scripts/block-library/index.js:71102
+msgid "Footnotes"
+msgstr "پانویس‌ها"
+
+#: lib/class-wp-theme-json-resolver-gutenberg.php:363
+msgid "`experimental-link-color` is no longer supported. Use `link-color` instead."
+msgstr "`experimental-link-color` دیگر پشتیبانی نمی‌شود. از `link-color` به‌جای آن استفاده نمایید."
+
+#: lib/experiments-page.php:111
+msgid "Disables the TinyMCE and Classic block."
+msgstr "TinyMCE و بلوک کلاسیک را غیرفعال می‌کند."
+
+#: build/scripts/block-library/footnotes/block.json
+msgctxt "block keyword"
+msgid "references"
+msgstr "منابع"
+
+#: build/scripts/block-library/footnotes/block.json
+msgctxt "block title"
+msgid "Footnotes"
+msgstr "پانویس‌ها"
+
+#: build/scripts/block-library/pattern/block.json
+msgctxt "block title"
+msgid "Pattern Placeholder"
+msgstr "نگهدارنده الگو"
+
+#. translators: %s: duotone colors
+#: lib/class-wp-duotone-gutenberg.php:536
+msgid "\"%s\" in theme.json settings.color.duotone is not a hex or rgb string."
+msgstr "«%s» در theme.json settings.color.duotone یک رشتۀ hex یا rgb نیست."
+
+#: build/scripts/block-library/post-title/block.json
+msgctxt "block title"
+msgid "Title"
+msgstr "عنوان"
+
+#: build/scripts/block-library/post-excerpt/block.json
+msgctxt "block title"
+msgid "Excerpt"
+msgstr "خلاصه نوشته"
+
+#: build/scripts/block-library/search.php:143
+#: build/scripts/block-library/search.php:173
+msgid "Expand search field"
+msgstr "گسترش فیلد جستجو"
+
+#. translators: %s: duotone filter ID
+#: lib/class-wp-duotone-gutenberg.php:729
+msgid "The duotone id \"%s\" is not registered in theme.json settings"
+msgstr "شناسه دوتون \"%s\" در تنظیمات theme.json ثبت نشده است."
+
+#: build/scripts/block-library/details/block.json
+msgctxt "block description"
+msgid "Hide and show additional content."
+msgstr "محتوای اضافی را مخفی کرده یا نشان دهید."
+
+#: build/scripts/block-library/cover/block.json
+msgctxt "block description"
+msgid "Add an image or video with a text overlay."
+msgstr "یک تصویر یا ویدئو با متنی روی آن اضافه کنید."
+
+#: build/scripts/block-library/site-logo/block.json
+msgctxt "block description"
+msgid "Display an image to represent this site. Update this block and the changes apply everywhere."
+msgstr "تصویری را برای توصیف این سایت نمایش دهید. این بلوک را به‌روزرسانی کنید و تغییرات در همه‌جا اعمال می‌شود."
+
+#: build/scripts/block-library/details/block.json
+msgctxt "block title"
+msgid "Details"
+msgstr "جزئیات"
+
+#: build/scripts/block-library/details/block.json
+msgctxt "block keyword"
+msgid "disclosure"
+msgstr "افشا"
+
+#: build/scripts/block-library/query/block.json
+#: build/scripts/block-library/terms-query/block.json
+msgctxt "block keyword"
+msgid "list"
+msgstr "فهرست"
+
+#. translators: %s: the number of minutes to read the post.
+#: build/scripts/block-library/post-time-to-read.php:136
+#: build/scripts/block-library/index.js:50776
+#: build/scripts/editor/index.js:56417
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] "%s دقیقه"
+
+#: build/scripts/block-library/post-time-to-read/block.json
+msgctxt "block title"
+msgid "Time to Read"
+msgstr "زمان مطالعه"
+
+#. Description of the plugin
+#: gutenberg.php
+msgid "Printing since 1440. This is the development plugin for the block editor, site editor, and other future WordPress core functionality."
+msgstr "چاپ از سال 1440. این افزونهٔ توسعه برای ویرایشگر بلوک، ویرایشگر سایت و سایر عملکردهای هستهٔ وردپرس در آینده است."
+
+#. translators: %d is the post ID.
+#: build/scripts/block-library/post-featured-image.php:36
+msgid "Untitled post %d"
+msgstr "نوشتهٔ بدون عنوان %d"
+
+#. translators: 1: theme.json, 2: Value name, 3: Value path, 4: Another value
+#. name.
+#: lib/class-wp-theme-json-gutenberg.php:2544
+msgid "Your %1$s file uses a dynamic value (%2$s) for the path at %3$s. However, the value at %3$s is also a dynamic value (pointing to %4$s) and pointing to another dynamic value is not supported. Please update %3$s to point directly to %4$s."
+msgstr "پروندهٔ %1$s شما از یک مقدار پویا (%2$s) برای مسیر در %3$s استفاده می‌کند. با این حال، مقدار در %3$s نیز پویا است (که به %4$s اشاره می‌کند) و اشاره به یک مقدار پویای دیگری پشتیبانی نمی‌شود. لطفاً %3$s را به‌روزرسانی کنید تا به‌طور مستقیم به %4$s اشاره کند."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:209
+msgid "Block inspector tab display overrides."
+msgstr "زبانهٔ بازرس بلوک بازنویسی‌ها را نمایش می‌دهد."
+
+#: build/scripts/block-library/page-list-item/block.json
+msgctxt "block keyword"
+msgid "page"
+msgstr "برگه"
+
+#: build/scripts/block-library/page-list-item/block.json
+msgctxt "block title"
+msgid "Page List Item"
+msgstr "آیتم فهرست برگه"
+
+#: build/scripts/block-library/page-list-item/block.json
+msgctxt "block description"
+msgid "Displays a page inside a list of all pages."
+msgstr "برگه‌ای را در فهرستی از همهٔ برگه‌ها نمایش می‌دهد."
+
+#. translators: %s is either the post title or post ID to describe the link for
+#. screen readers.
+#: build/scripts/block-library/read-more.php:34
+msgid ": %s"
+msgstr ": %s"
+
+#. translators: %s is post ID to describe the link for screen readers.
+#: build/scripts/block-library/read-more.php:28
+msgid "untitled post %s"
+msgstr "نوشته بدون عنوان %s"
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:143
+msgid "Indicates whether the current theme supports block-based templates."
+msgstr "نشان می‌دهد که آیا پوسته فعلی از قالب‌های بلوک‌محور پشتیبانی می‌کند یا خیر."
+
+#: lib/experiments-page.php:130
+msgid "Color randomizer"
+msgstr "تصادفی‌ساز رنگ"
+
+#: lib/block-supports/typography.php:306
+msgid "Raw size value must be a string, integer or a float."
+msgstr "مقدار اندازه خام باید یک رشته، عدد صحیح یا یک عدد اعشاری باشد."
+
+#: build/scripts/block-library/tag-cloud.php:35
+msgid "There&#8217;s no content to show here yet."
+msgstr "هنوز محتوایی برای نمایش در اینجا وجود ندارد."
+
+#: build/scripts/block-library/comments-pagination-next/block.json
+msgctxt "block title"
+msgid "Comments Next Page"
+msgstr "برگه بعدی دیدگاه‌ها"
+
+#: build/scripts/block-library/comments-pagination-previous/block.json
+msgctxt "block title"
+msgid "Comments Previous Page"
+msgstr "برگه قبلی دیدگاه‌ها"
+
+#: build/scripts/style-engine/class-wp-style-engine-processor-gutenberg.php:44
+msgid "$store must be an instance of WP_Style_Engine_CSS_Rules_Store_Gutenberg"
+msgstr "$store باید یک نمونه از WP_Style_Engine_CSS_Rules_Store_Gutenberg باشد"
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:320
+msgid "Disables custom spacing sizes."
+msgstr "اندازه‌های سفارشی فاصله‌گذاری را غیرفعال می‌کند."
+
+#. translators: %s: search query
+#: build/scripts/block-library/breadcrumbs.php:63
+msgid "Search results for: \"%s\""
+msgstr "نتایج جستجو برای: \"%s\""
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:233
+msgid "Disables output of layout styles."
+msgstr "خروجی سبک‌های چیدمان را غیرفعال می‌کند."
+
+#: lib/compat/wordpress-7.0/class-gutenberg-rest-templates-controller-7-0.php:68
+msgid "The template prefix for the created template. This is used to extract the main template type, e.g. in `taxonomy-books` extracts the `taxonomy`"
+msgstr "پیشوند قالب برای قالب ایجاد شده. این برای استخراج نوع اصلی قالب استفاده می‌شود، مثلاً در «taxonomy-books» عبارت «taxonomy» را استخراج می‌کند."
+
+#: lib/compat/wordpress-7.0/class-gutenberg-rest-templates-controller-7-0.php:64
+msgid "Indicates if a template is custom or part of the template hierarchy"
+msgstr "نشان می‌دهد که آیا قالب سفارشی است یا بخشی از سلسله‌مراتب قالب."
+
+#: lib/compat/wordpress-7.0/class-gutenberg-rest-templates-controller-7-0.php:59
+msgid "The slug of the template to get the fallback for"
+msgstr "نامک قالب برای دریافت جایگزین (fallback)."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:179
+msgid "Whether the V2 of the list block that uses inner blocks should be enabled."
+msgstr "آیا نسخه ۲ بلوک فهرست که از بلوک‌های داخلی استفاده می‌کند باید فعال شود."
+
+#: lib/class-wp-theme-json-gutenberg.php:4228
+msgid "Some of the theme.json settings.spacing.spacingScale values are invalid"
+msgstr "برخی از مقادیر settings.spacing.spacingScale در theme.json نامعتبر هستند."
+
+#. translators: %s: Digit to indicate multiple of sizing, eg. 2X-Small.
+#: lib/class-wp-theme-json-gutenberg.php:4355
+msgid "%sX-Small"
+msgstr "%sX-کوچک"
+
+#. translators: %s: Digit to indicate multiple of sizing, eg. 2X-Large.
+#: lib/class-wp-theme-json-gutenberg.php:4392
+msgid "%sX-Large"
+msgstr "%sX-بزرگ"
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:310
+msgid "Active theme spacing sizes."
+msgstr "اندازه‌های فاصله‌گذاری پوستهٔ فعال."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:315
+msgid "Active theme spacing scale."
+msgstr "مقیاس فاصله‌گذاری پوستهٔ فعال."
+
+#. translators: %s: Number of comments.
+#: build/scripts/block-library/comments-title.php:60
+#: build/scripts/block-library/index.js:15570
+msgid "%s response"
+msgid_plural "%s responses"
+msgstr[0] "%s پاسخ"
+
+#: build/scripts/block-library/comments/block.json
+msgctxt "block title"
+msgid "Comments"
+msgstr "دیدگاه‌ها"
+
+#: build/scripts/block-library/comments-title.php:73
+#: build/scripts/block-library/index.js:15581
+msgid "Response"
+msgstr "پاسخ"
+
+#: build/scripts/block-library/comment-content.php:46
+msgid "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
+msgstr "دیدگاه شما در انتظار بررسی است. این یک پیش‌نمایش است؛ دیدگاه شما پس از تأیید قابل مشاهده خواهد بود."
+
+#: build/scripts/block-library/comment-content.php:44
+msgid "Your comment is awaiting moderation."
+msgstr "دیدگاه شما در انتظار بررسی است."
+
+#: build/scripts/block-library/comments-title.php:75
+#: build/scripts/block-library/index.js:15583
+msgid "Responses"
+msgstr "پاسخ‌ها"
+
+#: build/scripts/block-library/comments-title.php:56
+#: build/scripts/block-library/index.js:15566
+msgid "One response"
+msgstr "یک پاسخ"
+
+#: build/scripts/block-library/comments-title/block.json
+msgctxt "block title"
+msgid "Comments Title"
+msgstr "عنوان دیدگاه‌ها"
+
+#: build/scripts/block-library/comments-title/block.json
+msgctxt "block description"
+msgid "Displays a title with the number of comments."
+msgstr "عنوانی با تعداد دیدگاه‌ها نمایش می‌دهد."
+
+#: build/scripts/block-library/group/block.json
+msgctxt "block description"
+msgid "Gather blocks in a layout container."
+msgstr "بلوک‌ها را در یک کانتینر چیدمان جمع نمایید."
+
+#: build/scripts/block-library/comment-author-avatar/block.json
+msgctxt "block title"
+msgid "Comment Author Avatar (deprecated)"
+msgstr "نیم‌رخ نویسنده دیدگاه (منسوخ‌شده)"
+
+#: build/scripts/block-library/comment-author-avatar/block.json
+msgctxt "block description"
+msgid "This block is deprecated. Please use the Avatar block instead."
+msgstr "این بلوک منسوخ شده است. لطفاً به جای آن از بلوک نیم‌رخ استفاده کنید."
+
+#: build/scripts/block-library/comment-author-name/block.json
+msgctxt "block description"
+msgid "Displays the name of the author of the comment."
+msgstr "نام نویسنده دیدگاه را نمایش می‌دهد."
+
+#: build/scripts/block-library/comment-date/block.json
+msgctxt "block description"
+msgid "Displays the date on which the comment was posted."
+msgstr "تاریخی را نمایش می‌دهد که دیدگاه در آن فرستاده شده است."
+
+#: build/scripts/block-library/comments/block.json
+msgctxt "block description"
+msgid "An advanced block that allows displaying post comments using different visual configurations."
+msgstr "یک بلوک پیشرفته که اجازه نمایش دیدگاه‌های نوشته را با استفاده از پیکربندی‌های دیداری متفاوت می‌دهد."
+
+#: build/scripts/block-library/rss.php:19
+msgid "Adding an RSS feed to this site’s homepage is not supported, as it could lead to a loop that slows down your site. Try using another block, like the <strong>Latest Posts</strong> block, to list posts from the site."
+msgstr "افزودن خوراک RSS به صفحهٔ اصلی این سایت پشتیبانی نمی‌شود، زیرا می‌تواند منجر به چرخه‌ای شود که سرعت سایت شما را کند می‌نماید. از بلوک دیگری مانند بلوک <strong>تازه‌ترین نوشته‌ها</strong> برای فهرست کردن نوشته‌های سایت استفاده نمایید."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:173
+msgid "Whether the V2 of the quote block that uses inner blocks should be enabled."
+msgstr "آیا نسخه ۲ بلوک نقل قول که از بلوک‌های داخلی استفاده می‌کند باید فعال باشد."
+
+#: build/scripts/block-library/avatar/block.json
+msgctxt "block title"
+msgid "Avatar"
+msgstr "نیم‌رخ"
+
+#: build/scripts/block-library/avatar/block.json
+msgctxt "block description"
+msgid "Add a user’s avatar."
+msgstr "نیم‌رخ یک کاربر را اضافه نمایید."
+
+#: build/scripts/block-library/query-no-results/block.json
+msgctxt "block description"
+msgid "Contains the block elements used to render content when no query results are found."
+msgstr "شامل عناصر بلوکی است که برای نمایش محتوا زمانی که نتیجه‌ای برای درخواست یافت نشود، استفاده می‌شود."
+
+#: build/scripts/block-library/query-no-results/block.json
+msgctxt "block title"
+msgid "No Results"
+msgstr "نتیجه‌ای یافت نشد"
+
+#: build/scripts/block-library/list-item/block.json
+msgctxt "block title"
+msgid "List Item"
+msgstr "آیتم لیست"
+
+#. translators: %s is the Author name.
+#: build/scripts/block-library/avatar.php:65
+msgid "(%s author archive, opens in a new tab)"
+msgstr "(بایگانی نویسنده %s، در زبانه‌ای جدید باز می‌شود)"
+
+#. translators: %s: Comment author name.
+#: build/scripts/block-library/avatar.php:92
+msgid "(%s website link, opens in a new tab)"
+msgstr "(پیوند وب‌سایت %s، در زبانه‌ای جدید باز می‌شود)"
+
+#. translators: %s: Singular label of the entity.
+#: build/scripts/block-library/navigation-link.php:335
+msgid "%s link"
+msgstr "پیوند %s"
+
+#: build/scripts/block-library/post-author-biography/block.json
+msgctxt "block description"
+msgid "The author biography."
+msgstr "زندگینامه نویسنده."
+
+#: build/scripts/block-library/post-author-biography/block.json
+msgctxt "block title"
+msgid "Author Biography"
+msgstr "زندگینامه نویسنده"
+
+#: build/scripts/block-library/read-more/block.json
+msgctxt "block title"
+msgid "Read More"
+msgstr "بیشتر بخوانید"
+
+#: build/scripts/block-library/read-more/block.json
+msgctxt "block description"
+msgid "Displays the link of a post, page, or any other content-type."
+msgstr "پیوند یک نوشته، برگه یا هر نوع محتوای دیگری را نمایش می‌دهد."
+
+#: build/scripts/block-library/comments-pagination-next.php:27
+#: build/scripts/block-library/index.js:13037
+#: build/scripts/block-library/index.js:13112
+#: build/scripts/block-library/index.js:15224
+#: build/scripts/block-library/index.js:15248
+msgid "Newer Comments"
+msgstr "دیدگاه‌های تازه‌تر"
+
+#: build/scripts/block-library/comments-pagination-previous.php:20
+#: build/scripts/block-library/index.js:13034
+#: build/scripts/block-library/index.js:13109
+#: build/scripts/block-library/index.js:14895
+#: build/scripts/block-library/index.js:14912
+msgid "Older Comments"
+msgstr "دیدگاه‌های کهنه‌تر"
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:200
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:245
+msgid "Sorry, you are not allowed to edit this global style."
+msgstr "با عرض پوزش، شما مجاز به ویرایش این سبک همگانی نیستید."
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:208
+msgid "Sorry, you are not allowed to view this global style."
+msgstr "با عرض پوزش، شما مجاز به مشاهده این سبک همگانی نیستید."
+
+#: build/scripts/block-library/post-author/block.json
+msgctxt "block description"
+msgid "Display post author details such as name, avatar, and bio."
+msgstr "جزئیات نویسنده نوشته، مانند نام، نیم‌رخ و بیوگرافی را نمایش دهید."
+
+#: build/scripts/block-library/site-logo.php:97
+#: build/scripts/block-library/index.js:38479
+#: build/scripts/block-library/index.js:38488
+#: build/scripts/block-library/index.js:39043
+#: build/scripts/block-library/index.js:44328
+msgid "Icon"
+msgstr "آیکون"
+
+#: build/scripts/block-library/post-author-name/block.json
+msgctxt "block title"
+msgid "Author Name"
+msgstr "نام نویسنده"
+
+#: build/scripts/block-library/post-author-name/block.json
+msgctxt "block description"
+msgid "The author name."
+msgstr "نام نویسنده"
+
+#: build/scripts/block-library/comments-pagination-previous/block.json
+msgctxt "block description"
+msgid "Displays the previous comment's page link."
+msgstr "پیوند برگهٔ دیدگاه قبلی را نمایش می‌دهد."
+
+#: build/scripts/block-library/comments-pagination-next/block.json
+msgctxt "block description"
+msgid "Displays the next comment's page link."
+msgstr "پیوند برگهٔ دیدگاه بعدی را نمایش می‌دهد."
+
+#: build/scripts/block-library/site-logo.php:98
+msgid "Site icon."
+msgstr "آیکون سایت."
+
+#. translators: Accessibility text. %s: Parent page title.
+#: build/scripts/block-library/navigation-submenu.php:179
+#: build/scripts/block-library/page-list.php:199
+msgid "%s submenu"
+msgstr "%s زیرفهرست"
+
+#: build/scripts/block-library/query-pagination/block.json
+msgctxt "block title"
+msgid "Pagination"
+msgstr "صفحه‌بندی"
+
+#: build/scripts/block-library/query-pagination-next/block.json
+msgctxt "block title"
+msgid "Next Page"
+msgstr "صفحه بعدی"
+
+#: build/scripts/block-library/query-pagination-previous/block.json
+msgctxt "block title"
+msgid "Previous Page"
+msgstr "برگهٔ قبلی"
+
+#: build/scripts/block-library/query-pagination-numbers/block.json
+msgctxt "block title"
+msgid "Page Numbers"
+msgstr "شماره‌های برگه"
+
+#: build/scripts/block-library/comments-pagination-numbers/block.json
+msgctxt "block description"
+msgid "Displays a list of page numbers for comments pagination."
+msgstr "فهرستی از شمارهٔ برگه‌ها را برای صفحه‌بندی دیدگاه‌ها نمایش می‌دهد."
+
+#: lib/theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "خیلی بزرگ"
+
+#: build/scripts/block-library/comments-pagination/block.json
+msgctxt "block description"
+msgid "Displays a paginated navigation to next/previous set of comments, when applicable."
+msgstr "یک راهبری صفحه‌بندی شده برای مجموعه بعدی/قبلی دیدگاه‌ها را در صورت لزوم نمایش می‌دهد."
+
+#: build/scripts/block-library/comments-pagination/block.json
+msgctxt "block title"
+msgid "Comments Pagination"
+msgstr "صفحه‌بندی دیدگاه‌ها"
+
+#: lib/block-template-utils.php:24
+msgid "Zip Export not supported."
+msgstr "برون‌بری zip پشتیبانی نمی‌شود."
+
+#: lib/block-template-utils.php:33
+msgid "Unable to open export file (archive) for writing."
+msgstr "نمی‌توان پرونده برون‌بری (بایگانی) را برای نوشتن باز کرد."
+
+#: lib/compat/wordpress-7.0/class-gutenberg-rest-static-templates-controller.php:66
+msgid "Whether a template is a custom template."
+msgstr "آیا یک قالب، یک قالب سفارشی است."
+
+#: build/scripts/block-library/block/block.json
+msgctxt "block title"
+msgid "Pattern"
+msgstr "الگو"
+
+#: build/scripts/block-library/comment-template/block.json
+msgctxt "block title"
+msgid "Comment Template"
+msgstr "قالب دیدگاه‌"
+
+#: build/scripts/block-library/comment-author-name/block.json
+msgctxt "block title"
+msgid "Comment Author Name"
+msgstr "نام نویسنده دیدگاه"
+
+#: build/scripts/block-library/comment-edit-link/block.json
+msgctxt "block description"
+msgid "Displays a link to edit the comment in the WordPress Dashboard. This link is only visible to users with the edit comment capability."
+msgstr "پیوندی را برای ویرایش دیدگاه در پیشخوان وردپرس نمایش می‌دهد. این پیوند فقط برای کاربرانی که توانایی ویرایش دیدگاه را دارند قابل مشاهده است."
+
+#: build/scripts/block-library/comment-content/block.json
+msgctxt "block description"
+msgid "Displays the contents of a comment."
+msgstr "محتوای یک دیدگاه را نمایش می‌دهد."
+
+#: build/scripts/block-library/comment-edit-link/block.json
+msgctxt "block title"
+msgid "Comment Edit Link"
+msgstr "پیوند ویرایش دیدگاه"
+
+#: build/scripts/block-library/comment-reply-link/block.json
+msgctxt "block title"
+msgid "Comment Reply Link"
+msgstr "پیوند پاسخ به دیدگاه"
+
+#: build/scripts/block-library/comment-reply-link/block.json
+msgctxt "block description"
+msgid "Displays a link to reply to a comment."
+msgstr "یک پیوند را برای پاسخ دادن به دیدگاه نمایش می‌دهد."
+
+#: build/scripts/block-library/comment-template/block.json
+msgctxt "block description"
+msgid "Contains the block elements used to display a comment, like the title, date, author, avatar and more."
+msgstr "حاوی عناصر بلوک برای نمایش یک دیدگاه، مانند عنوان، تاریخ، نویسنده، نیم‌رخ و موارد دیگر است."
+
+#: build/scripts/block-library/post-comment/block.json
+msgctxt "block title"
+msgid "Comment (deprecated)"
+msgstr "دیدگاه (منسوخ‌شده)"
+
+#: build/scripts/block-library/pattern/block.json
+msgctxt "block description"
+msgid "Show a block pattern."
+msgstr "یک الگوی بلوک را نمایش دهید."
+
+#: build/scripts/block-library/post-comment/block.json
+msgctxt "block description"
+msgid "This block is deprecated. Please use the Comments block instead."
+msgstr "این بلوک منسوخ شده است. لطفاً به جای آن از بلوک دیدگاه‌ها استفاده کنید."
+
+#: build/scripts/block-library/math/block.json
+msgctxt "block keyword"
+msgid "equation"
+msgstr "معادله"
+
+#: build/scripts/block-library/terms-query/block.json
+msgctxt "block description"
+msgid "An advanced block that allows displaying taxonomy terms based on different query parameters and visual configurations."
+msgstr "یک بلوک پیشرفته که امکان نمایش عبارت‌های طبقه‌بندی را بر اساس پارامترهای مختلف کوئری و تنظیمات بصری فراهم می‌کند."
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:502
+msgid "Global styles."
+msgstr "سبک‌های همگانی."
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:570
+msgid "Sorry, you are not allowed to access the global styles on this site."
+msgstr "با عرض پوزش، شما اجازه دسترسی به سبک‌های همگانی در این سایت را ندارید."
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:518
+msgid "Title for the global styles variation, as it exists in the database."
+msgstr "عنوان برای تغییر سبک‌های همگانی، همانطور که در پایگاه داده وجود دارد."
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:507
+msgid "Global settings."
+msgstr "تنظیمات همگانی."
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:166
+msgid "No global styles config exist with that id."
+msgstr "هیچ پیکربندی همگانی با این شناسه وجود ندارد."
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:523
+msgid "HTML title for the post, transformed for display."
+msgstr "عنوان HTML برای نوشته، تبدیل‌شده برای نمایش."
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:590
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:659
+msgid "Theme not found."
+msgstr "پوسته پیدا نشد."
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:58
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:92
+msgid "The theme identifier"
+msgstr "شناسهٔ پوسته"
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:496
+msgid "ID of global styles config."
+msgstr "شناسه پیکربندی سبک‌های همگانی."
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:512
+msgid "Title of the global styles variation."
+msgstr "عنوان گونهٔ سبک‌های همگانی."
+
+#. translators: %s: Author name.
+#: build/scripts/block-library/avatar.php:50
+#: build/scripts/block-library/avatar.php:77
+#: build/scripts/block-library/comment-author-avatar.php:50
+#: build/scripts/block-library/index.js:6389
+#: build/scripts/block-library/index.js:6423
+msgid "%s Avatar"
+msgstr "%s نیم‌رخ"
+
+#: build/scripts/block-library/quote/block.json
+msgctxt "block style label"
+msgid "Plain"
+msgstr "ساده"
+
+#: build/scripts/block-library/site-title/block.json
+msgctxt "block description"
+msgid "Displays the name of this site. Update the block, and the changes apply everywhere it’s used. This will also appear in the browser title bar and in search results."
+msgstr "نام این سایت را نمایش می‌دهد. بلوک را به‌روزرسانی کنید و تغییرات در هر جایی که استفاده شده است، اعمال می‌شود. این نام همچنین در نوار عنوان مرورگر و در نتایج جستجو نمایش داده خواهد شد."
+
+#: build/scripts/block-library/post-navigation-link.php:83
+msgctxt "label before the title of the next post"
+msgid "Next:"
+msgstr "بعدی:"
+
+#: build/scripts/block-library/post-navigation-link.php:83
+msgctxt "label before the title of the previous post"
+msgid "Previous:"
+msgstr "قبلی:"
+
+#: build/scripts/block-library/navigation-submenu/block.json
+msgctxt "block title"
+msgid "Submenu"
+msgstr "زیرفهرست"
+
+#: build/scripts/block-library/navigation-submenu/block.json
+msgctxt "block description"
+msgid "Add a submenu to your navigation."
+msgstr "یک زیرفهرست به راهبری خود اضافه نمایید."
+
+#: build/scripts/block-library/columns/block.json
+msgctxt "block description"
+msgid "Display content in multiple columns, with blocks added to each column."
+msgstr "محتوا را در چندین ستون نمایش دهید، با بلوک‌هایی که به هر ستون اضافه شده‌اند."
+
+#: build/scripts/block-library/table/block.json
+msgctxt "block description"
+msgid "Create structured content in rows and columns to display information."
+msgstr "محتوای ساختاریافته را در ردیف‌ها و ستون‌ها ایجاد کنید تا اطلاعات را نمایش دهید."
+
+#: lib/theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "کوچک"
+
+#: lib/theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "بزرگ"
+
+#: lib/theme.json
+msgctxt "Color name"
+msgid "Black"
+msgstr "سیاه"
+
+#: lib/theme.json
+msgctxt "Color name"
+msgid "White"
+msgstr "سفید"
+
+#: lib/theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "متوسط"
+
+#: lib/theme.json
+msgctxt "Color name"
+msgid "Cyan bluish gray"
+msgstr "خاکستری مایل به آبی فیروزه‌ای"
+
+#: lib/theme.json
+msgctxt "Color name"
+msgid "Pale pink"
+msgstr "صورتی کم‌رنگ"
+
+#: lib/theme.json
+msgctxt "Color name"
+msgid "Light green cyan"
+msgstr "سبز روشن فیروزه‌ای"
+
+#: lib/theme.json
+msgctxt "Color name"
+msgid "Pale cyan blue"
+msgstr "آبی فیروزه‌ای کم‌رنگ"
+
+#: lib/theme.json
+msgctxt "Gradient name"
+msgid "Blush light purple"
+msgstr "بنفش روشن گل‌بهی"
+
+#: lib/theme.json
+msgctxt "Gradient name"
+msgid "Blush bordeaux"
+msgstr "شرابی گل‌بهی"
+
+#: lib/theme.json
+msgctxt "Duotone name"
+msgid "Blue and orange"
+msgstr "آبی و نارنجی"
+
+#: lib/theme.json
+msgctxt "Duotone name"
+msgid "Purple and green"
+msgstr "بنفش و سبز"
+
+#: lib/theme.json
+msgctxt "Duotone name"
+msgid "Magenta and yellow"
+msgstr "سرخابی و زرد"
+
+#: lib/theme.json
+msgctxt "Duotone name"
+msgid "Midnight"
+msgstr "نیمه‌شب"
+
+#: lib/theme.json
+msgctxt "Duotone name"
+msgid "Blue and red"
+msgstr "آبی و قرمز"
+
+#: lib/theme.json
+msgctxt "Duotone name"
+msgid "Purple and yellow"
+msgstr "بنفش و زرد"
+
+#: lib/theme.json
+msgctxt "Gradient name"
+msgid "Midnight"
+msgstr "نیمه‌شب"
+
+#: lib/theme.json
+msgctxt "Duotone name"
+msgid "Dark grayscale"
+msgstr "سیاه‌سفید تیره"
+
+#: lib/theme.json
+msgctxt "Duotone name"
+msgid "Grayscale"
+msgstr "سیاه‌سفید"
+
+#: lib/theme.json
+msgctxt "Color name"
+msgid "Luminous vivid orange"
+msgstr "نارنجی پررنگ براق"
+
+#: lib/theme.json
+msgctxt "Color name"
+msgid "Luminous vivid amber"
+msgstr "کهربایی پررنگ براق"
+
+#: lib/theme.json
+msgctxt "Gradient name"
+msgid "Luminous vivid amber to luminous vivid orange"
+msgstr "کهربایی پررنگ براق به نارنجی پررنگ براق"
+
+#: lib/theme.json
+msgctxt "Gradient name"
+msgid "Luminous vivid orange to vivid red"
+msgstr "نارنجی پررنگ براق به قرمز پررنگ"
+
+#: lib/theme.json
+msgctxt "Gradient name"
+msgid "Vivid cyan blue to vivid purple"
+msgstr "آبی فیروزه‌ای پررنگ به بنفش پررنگ"
+
+#: lib/theme.json
+msgctxt "Gradient name"
+msgid "Light green cyan to vivid green cyan"
+msgstr "سبز روشن فیروزه‌ای به سبز پررنگ فیروزه‌ای"
+
+#: lib/theme.json
+msgctxt "Gradient name"
+msgid "Very light gray to cyan bluish gray"
+msgstr "خاکستری بسیار روشن به خاکستری مایل به آبی فیروزه‌ای"
+
+#: lib/theme.json
+msgctxt "Gradient name"
+msgid "Cool to warm spectrum"
+msgstr "طیف سرد به گرم"
+
+#: lib/theme.json
+msgctxt "Gradient name"
+msgid "Pale ocean"
+msgstr "اقیانوس کم‌رنگ"
+
+#: lib/theme.json
+msgctxt "Gradient name"
+msgid "Luminous dusk"
+msgstr "غروب نورانی"
+
+#: lib/theme.json
+msgctxt "Gradient name"
+msgid "Electric grass"
+msgstr "چمن براق"
+
+#: lib/theme.json
+msgctxt "Color name"
+msgid "Vivid red"
+msgstr "قرمز پررنگ"
+
+#: lib/theme.json
+msgctxt "Color name"
+msgid "Vivid green cyan"
+msgstr "سبز فیروزه‌ای پررنگ"
+
+#: lib/theme.json
+msgctxt "Color name"
+msgid "Vivid cyan blue"
+msgstr "آبی فیروزه‌ای پررنگ"
+
+#: lib/theme.json
+msgctxt "Color name"
+msgid "Vivid purple"
+msgstr "بنفش پررنگ"
+
+#: build/scripts/block-library/button/block.json
+#: build/scripts/block-library/buttons/block.json
+msgctxt "block keyword"
+msgid "link"
+msgstr "پیوند"
+
+#: build/scripts/block-library/post-template/block.json
+msgctxt "block title"
+msgid "Post Template"
+msgstr "قالب نوشته"
+
+#: build/scripts/block-library/post-template/block.json
+msgctxt "block description"
+msgid "Contains the block elements used to render a post, like the title, date, featured image, content or excerpt, and more."
+msgstr "حاوی عناصر بلوکی است که برای ارائه یک نوشته استفاده می شود، مانند عنوان، تاریخ، تصویر شاخص، محتوا یا چکیده و موارد دیگر."
+
+#: build/scripts/block-library/query/block.json
+msgctxt "block description"
+msgid "An advanced block that allows displaying post types based on different query parameters and visual configurations."
+msgstr "یک بلوک پیشرفته که اجازهٔ نمایش نوع‌های نوشته بر اساس پارامترهای متفاوت کوئری و پیکربندی‌های دیداری را می‌دهد."
+
+#: build/scripts/block-library/calendar.php:27
+msgid "The calendar block is hidden because there are no published posts."
+msgstr "بلوک تقویم پنهان است زیرا هیچ نوشتهٔ منتشر شده‌ای وجود ندارد."
+
+#: build/scripts/block-library/video/block.json
+msgctxt "block keyword"
+msgid "movie"
+msgstr "فیلم"
+
+#: build/scripts/block-library/video/block.json
+msgctxt "block description"
+msgid "Embed a video from your media library or upload a new one."
+msgstr "یک ویدئو از کتابخانه رسانه خود قرار دهید یا ویدئوی جدیدی بارگذاری نمایید."
+
+#: build/scripts/block-library/verse/block.json
+msgctxt "block keyword"
+msgid "poetry"
+msgstr "شعر"
+
+#: build/scripts/block-library/verse/block.json
+msgctxt "block keyword"
+msgid "poem"
+msgstr "سروده"
+
+#: build/scripts/block-library/verse/block.json
+msgctxt "block description"
+msgid "Insert poetry. Use special spacing formats. Or quote song lyrics."
+msgstr "شعری درج نمایید. از قالب‌های فاصله‌گذاری ویژه استفاده کنید. یا ترانه آهنگی را نقل‌قول نمایید."
+
+#: build/scripts/block-library/text-columns/block.json
+msgctxt "block description"
+msgid "This block is deprecated. Please use the Columns block instead."
+msgstr "این بلوک منسوخ شده است. لطفاً به جای آن از بلوک ستون‌ها استفاده کنید."
+
+#: build/scripts/block-library/table/block.json
+msgctxt "block style label"
+msgid "Stripes"
+msgstr "راه‌راه"
+
+#: build/scripts/block-library/details/block.json
+#: build/scripts/block-library/table-of-contents/block.json
+msgctxt "block keyword"
+msgid "summary"
+msgstr "خلاصه"
+
+#: build/scripts/block-library/table-of-contents/block.json
+msgctxt "block keyword"
+msgid "document outline"
+msgstr "طرح‌واره سند"
+
+#: build/scripts/block-library/table-of-contents/block.json
+msgctxt "block description"
+msgid "Summarize your post with a list of headings. Add HTML anchors to Heading blocks to link them here."
+msgstr "نوشته خود را با فهرستی از سرفصل‌ها خلاصه کنید. لنگرهای HTML را به بلوک‌های تیتر اضافه کنید تا آنها را به اینجا پیوند دهید."
+
+#: build/scripts/block-library/table-of-contents/block.json
+msgctxt "block title"
+msgid "Table of Contents"
+msgstr "جدول محتواها"
+
+#: build/scripts/block-library/spacer/block.json
+msgctxt "block description"
+msgid "Add white space between blocks and customize its height."
+msgstr "فضای خالی بین بلوک‌ها اضافه کرده و ارتفاع آن را تنظیم کنید."
+
+#: build/scripts/block-library/social-links/block.json
+msgctxt "block style label"
+msgid "Logos Only"
+msgstr "فقط آرم‌ها"
+
+#: build/scripts/block-library/social-links/block.json
+msgctxt "block style label"
+msgid "Pill Shape"
+msgstr "شکل قرص"
+
+#: build/scripts/block-library/social-links/block.json
+msgctxt "block description"
+msgid "Display icons linking to your social profiles or sites."
+msgstr "نمایش آیکون‌هایی که به پروفایل یا سایت شبکه‌های اجتماعی شما پیوند می‌شوند."
+
+#: build/scripts/block-library/social-link/block.json
+msgctxt "block description"
+msgid "Display an icon linking to a social profile or site."
+msgstr "نمایش یک آیکون که به پروفایل یا سایت شبکه اجتماعی پیوند می‌شود."
+
+#: build/scripts/block-library/site-tagline/block.json
+msgctxt "block keyword"
+msgid "description"
+msgstr "توضیح"
+
+#: build/scripts/block-library/shortcode/block.json
+msgctxt "block description"
+msgid "Insert additional custom elements with a WordPress shortcode."
+msgstr "عناصر سفارشی اضافی را با یک کد کوتاه وردپرس درج نمایید."
+
+#: build/scripts/block-library/separator/block.json
+msgctxt "block keyword"
+msgid "hr"
+msgstr "خط افقی"
+
+#: build/scripts/block-library/separator/block.json
+msgctxt "block style label"
+msgid "Dots"
+msgstr "نقطه‌چین"
+
+#: build/scripts/block-library/separator/block.json
+msgctxt "block keyword"
+msgid "horizontal-line"
+msgstr "خط-افقی"
+
+#: build/scripts/block-library/separator/block.json
+msgctxt "block keyword"
+msgid "divider"
+msgstr "جداکننده"
+
+#: build/scripts/block-library/separator/block.json
+msgctxt "block description"
+msgid "Create a break between ideas or sections with a horizontal separator."
+msgstr "با یک جداکننده افقی بین ایده‌ها یا بخش‌ها فاصله ایجاد کنید."
+
+#: build/scripts/block-library/separator/block.json
+msgctxt "block style label"
+msgid "Wide Line"
+msgstr "خط گسترده"
+
+#: build/scripts/block-library/rss/block.json
+msgctxt "block keyword"
+msgid "feed"
+msgstr "خوراک"
+
+#: build/scripts/block-library/quote/block.json
+msgctxt "block keyword"
+msgid "cite"
+msgstr "ارجاع"
+
+#: build/scripts/block-library/rss/block.json
+msgctxt "block keyword"
+msgid "atom"
+msgstr "atom"
+
+#: build/scripts/block-library/search/block.json
+msgctxt "block keyword"
+msgid "find"
+msgstr "یافتن"
+
+#: build/scripts/block-library/search/block.json
+msgctxt "block description"
+msgid "Help visitors find your content."
+msgstr "به بازدیدکنندگان کمک کنید محتوای شما را پیدا کنند."
+
+#: build/scripts/block-library/rss/block.json
+msgctxt "block description"
+msgid "Display entries from any RSS or Atom feed."
+msgstr "ورودی‌ها را از هر خوراک RSS یا Atom نمایش دهید."
+
+#: build/scripts/block-library/quote/block.json
+msgctxt "block keyword"
+msgid "blockquote"
+msgstr "نقل‌قول بلوکی"
+
+#: build/scripts/block-library/query-title/block.json
+msgctxt "block title"
+msgid "Query Title"
+msgstr "عنوان کوئری"
+
+#: build/scripts/block-library/query-pagination/block.json
+msgctxt "block description"
+msgid "Displays a paginated navigation to next/previous set of posts, when applicable."
+msgstr "راهبری صفحه‌بندی شده برای مجموعه بعدی/قبلی نوشته‌ها را در صورت لزوم نمایش می‌دهد."
+
+#: build/scripts/block-library/query-title/block.json
+msgctxt "block description"
+msgid "Display the query title."
+msgstr "عنوان کوئری را نمایش دهید."
+
+#: build/scripts/block-library/query-pagination-previous/block.json
+msgctxt "block description"
+msgid "Displays the previous posts page link."
+msgstr "پیوند به برگه نوشته‌های قبلی را نمایش می‌دهد."
+
+#: build/scripts/block-library/query-pagination-numbers/block.json
+msgctxt "block description"
+msgid "Displays a list of page numbers for pagination."
+msgstr "فهرستی از شماره برگه‌ها را برای صفحه‌بندی نمایش می‌دهد."
+
+#: build/scripts/block-library/query-pagination-next/block.json
+msgctxt "block description"
+msgid "Displays the next posts page link."
+msgstr "پیوند به برگه نوشته‌های بعدی را نمایش می‌دهد."
+
+#: build/scripts/block-library/preformatted/block.json
+msgctxt "block description"
+msgid "Add text that respects your spacing and tabs, and also allows styling."
+msgstr "متنی اضافه کنید که به فاصله‌گذاری و جهش‌های شما احترام بگذارد و همچنین امکان طراحی را فراهم کند."
+
+#: build/scripts/block-library/post-title/block.json
+msgctxt "block description"
+msgid "Displays the title of a post, page, or any other content-type."
+msgstr "عنوان یک نوشته، برگه یا هر نوع محتوای دیگری را نمایش می‌دهد."
+
+#: build/scripts/block-library/post-terms/block.json
+msgctxt "block description"
+msgid "Post terms."
+msgstr "رده‌های نوشته."
+
+#: build/scripts/block-library/post-featured-image/block.json
+msgctxt "block description"
+msgid "Display a post's featured image."
+msgstr "تصویر شاخص یک نوشته را نمایش دهید."
+
+#: build/scripts/block-library/post-navigation-link/block.json
+msgctxt "block title"
+msgid "Post Navigation Link"
+msgstr "پیوند راهبری نوشته"
+
+#: build/scripts/block-library/post-navigation-link/block.json
+msgctxt "block description"
+msgid "Displays the next or previous post link that is adjacent to the current post."
+msgstr "پیوند نوشتهٔ بعدی یا قبلی را که در کنار نوشتهٔ فعلی است را نمایش می‌دهد."
+
+#: build/scripts/block-library/post-excerpt/block.json
+msgctxt "block description"
+msgid "Display the excerpt."
+msgstr "چکیده را نمایش دهید."
+
+#: build/scripts/block-library/post-content/block.json
+msgctxt "block description"
+msgid "Displays the contents of a post or page."
+msgstr "محتوای یک نوشته یا برگه را نمایش می‌دهد."
+
+#: build/scripts/block-library/post-comments-link/block.json
+msgctxt "block description"
+msgid "Displays the link to the current post comments."
+msgstr "پیوند به دیدگاه‌های نوشته فعلی را نمایش می‌دهد."
+
+#: build/scripts/block-library/paragraph/block.json
+msgctxt "block keyword"
+msgid "text"
+msgstr "متن"
+
+#: build/scripts/block-library/post-comments-count/block.json
+msgctxt "block description"
+msgid "Display a post's comments count."
+msgstr "تعداد دیدگاه‌های یک نوشته را نمایش دهید."
+
+#: build/scripts/block-library/post-comments-form/block.json
+msgctxt "block description"
+msgid "Display a post's comments form."
+msgstr "فرم دیدگاه‌های یک نوشته را نمایش دهید."
+
+#: build/scripts/block-library/nextpage/block.json
+msgctxt "block keyword"
+msgid "next page"
+msgstr "برگه بعدی"
+
+#: build/scripts/block-library/nextpage/block.json
+msgctxt "block keyword"
+msgid "pagination"
+msgstr "صفحه‌بندی"
+
+#: build/scripts/block-library/paragraph/block.json
+msgctxt "block description"
+msgid "Start with the basic building block of all narrative."
+msgstr "با پایه‌ای‌ترین بلوک سازنده هر روایت شروع کنید."
+
+#: build/scripts/block-library/page-list/block.json
+msgctxt "block description"
+msgid "Display a list of all pages."
+msgstr "فهرستی از همه برگه‌ها را نمایش دهید."
+
+#: build/scripts/block-library/nextpage/block.json
+msgctxt "block description"
+msgid "Separate your content into a multi-page experience."
+msgstr "محتوای خود را در یک تجربه چند صفحه‌ای جدا کنید."
+
+#: build/scripts/block-library/navigation-overlay-close/block.json
+#: build/scripts/block-library/navigation/block.json
+#: build/scripts/block-library/page-list-item/block.json
+#: build/scripts/block-library/page-list/block.json
+msgctxt "block keyword"
+msgid "menu"
+msgstr "فهرست"
+
+#: build/scripts/block-library/navigation-overlay-close/block.json
+#: build/scripts/block-library/navigation/block.json
+#: build/scripts/block-library/page-list-item/block.json
+#: build/scripts/block-library/page-list/block.json
+msgctxt "block keyword"
+msgid "navigation"
+msgstr "راهبری"
+
+#: build/scripts/block-library/navigation/block.json
+msgctxt "block description"
+msgid "A collection of blocks that allow visitors to get around your site."
+msgstr "مجموعه‌ای از بلوک‌ها که به بازدیدکنندگان اجازه می‌دهد در سایت شما جابه‌جا شوند."
+
+#: build/scripts/block-library/navigation-link/block.json
+msgctxt "block description"
+msgid "Add a page, link, or another item to your navigation."
+msgstr "یک برگه، پیوند یا آیتم دیگر به راهبری خود اضافه کنید."
+
+#: build/scripts/block-library/more/block.json
+msgctxt "block keyword"
+msgid "read more"
+msgstr "بیشتر بخوانید"
+
+#: build/scripts/block-library/more/block.json
+msgctxt "block description"
+msgid "Content before this block will be shown in the excerpt on your archives page."
+msgstr "محتوای پیش از این بلوک در چکیدهٔ برگه بایگانی شما نمایش داده خواهد شد."
+
+#: build/scripts/block-library/missing/block.json
+msgctxt "block description"
+msgid "Your site doesn’t include support for this block."
+msgstr "سایت شما از این بلوک پشتیبانی نمی‌کند."
+
+#: build/scripts/block-library/media-text/block.json
+msgctxt "block keyword"
+msgid "image"
+msgstr "تصویر"
+
+#: build/scripts/block-library/media-text/block.json
+msgctxt "block keyword"
+msgid "video"
+msgstr "ویدئو"
+
+#: build/scripts/block-library/form-input/block.json
+#: build/scripts/block-library/form-submission-notification/block.json
+#: build/scripts/block-library/form-submit-button/block.json
+#: build/scripts/block-library/loginout/block.json
+msgctxt "block keyword"
+msgid "form"
+msgstr "فرم"
+
+#: build/scripts/block-library/loginout/block.json
+msgctxt "block keyword"
+msgid "logout"
+msgstr "بیرون رفتن"
+
+#: build/scripts/block-library/loginout/block.json
+msgctxt "block keyword"
+msgid "login"
+msgstr "ورود"
+
+#: build/scripts/block-library/media-text/block.json
+msgctxt "block description"
+msgid "Set media and words side-by-side for a richer layout."
+msgstr "رسانه و واژه‌ها را در کنار هم قرار دهید تا چیدمان غنی‌تری ایجاد نمایید."
+
+#: build/scripts/block-library/latest-posts/block.json
+msgctxt "block keyword"
+msgid "recent posts"
+msgstr "نوشته‌های تازه"
+
+#: build/scripts/widgets/blocks/legacy-widget/block.json
+msgctxt "block title"
+msgid "Legacy Widget"
+msgstr "ابزارک قدیمی"
+
+#: build/scripts/block-library/loginout/block.json
+msgctxt "block description"
+msgid "Show login & logout links."
+msgstr "پیوند‌های ورود و خروج را نمایش دهید."
+
+#: build/scripts/widgets/blocks/legacy-widget/block.json
+msgctxt "block description"
+msgid "Display a legacy widget."
+msgstr "یک ابزارک قدیمی را نمایش دهید."
+
+#: build/scripts/block-library/latest-posts/block.json
+msgctxt "block description"
+msgid "Display a list of your most recent posts."
+msgstr "فهرستی از آخرین نوشته‌های خود را نمایش دهید."
+
+#: build/scripts/block-library/list/block.json
+msgctxt "block keyword"
+msgid "bullet list"
+msgstr "فهرست گلوله‌ای"
+
+#: build/scripts/block-library/list/block.json
+msgctxt "block keyword"
+msgid "ordered list"
+msgstr "فهرست مرتب‌شده"
+
+#: build/scripts/block-library/list/block.json
+msgctxt "block keyword"
+msgid "numbered list"
+msgstr "فهرست شماره‌دار"
+
+#: build/scripts/block-library/image/block.json
+msgctxt "block keyword"
+msgid "img"
+msgstr "تصویر"
+
+#: build/scripts/block-library/image/block.json
+msgctxt "block keyword"
+msgid "picture"
+msgstr "تصویر"
+
+#: build/scripts/block-library/image/block.json
+#: build/scripts/block-library/quote/block.json
+#: build/scripts/block-library/separator/block.json
+#: build/scripts/block-library/site-logo/block.json
+#: build/scripts/block-library/social-links/block.json
+#: build/scripts/block-library/table/block.json
+#: build/scripts/block-library/tag-cloud/block.json
+msgctxt "block style label"
+msgid "Default"
+msgstr "پیش‌فرض"
+
+#: build/scripts/block-library/latest-comments/block.json
+msgctxt "block keyword"
+msgid "recent comments"
+msgstr "دیدگاه‌های اخیر"
+
+#: build/scripts/block-library/image/block.json
+msgctxt "block keyword"
+msgid "photo"
+msgstr "عکس"
+
+#: build/scripts/block-library/image/block.json
+#: build/scripts/block-library/site-logo/block.json
+msgctxt "block style label"
+msgid "Rounded"
+msgstr "لبه‌ گِرد"
+
+#: build/scripts/block-library/latest-comments/block.json
+msgctxt "block description"
+msgid "Display a list of your most recent comments."
+msgstr "فهرستی از جدیدترین دیدگاه‌های خود را نمایش دهید."
+
+#: build/scripts/block-library/image/block.json
+msgctxt "block description"
+msgid "Insert an image to make a visual statement."
+msgstr "برای ایجاد یک بیانیهٔ دیداری، یک تصویر درج نمایید."
+
+#: build/scripts/block-library/html/block.json
+msgctxt "block keyword"
+msgid "embed"
+msgstr "جاسازی"
+
+#: build/scripts/block-library/home-link/block.json
+msgctxt "block description"
+msgid "Create a link that always points to the homepage of the site. Usually not necessary if there is already a site title link present in the header."
+msgstr "یک پیوند ایجاد کنید که همیشه به صفحهٔ اصلی سایت اشاره کند. معمولاً در صورتی که پیوند عنوان سایت در سربرگ وجود داشته باشد، این کار ضروری نیست."
+
+#: build/scripts/block-library/html/block.json
+msgctxt "block description"
+msgid "Add custom HTML code and preview it as you edit."
+msgstr "کد HTML سفارشی اضافه کنید و آن را در حین ویرایش مشاهده کنید."
+
+#: build/scripts/block-library/heading/block.json
+msgctxt "block keyword"
+msgid "title"
+msgstr "عنوان"
+
+#: build/scripts/block-library/home-link/block.json
+msgctxt "block title"
+msgid "Home Link"
+msgstr "پیوند خانه"
+
+#: build/scripts/block-library/heading/block.json
+msgctxt "block keyword"
+msgid "subtitle"
+msgstr "زیرعنوان"
+
+#: build/scripts/block-library/form/block.json
+#: build/scripts/block-library/group/block.json
+msgctxt "block keyword"
+msgid "row"
+msgstr "ردیف"
+
+#: build/scripts/block-library/form/block.json
+#: build/scripts/block-library/group/block.json
+msgctxt "block keyword"
+msgid "section"
+msgstr "بخش"
+
+#: build/scripts/block-library/file/block.json
+msgctxt "block keyword"
+msgid "pdf"
+msgstr "pdf"
+
+#: build/scripts/block-library/gallery/block.json
+msgctxt "block keyword"
+msgid "images"
+msgstr "تصاویر"
+
+#: build/scripts/block-library/gallery/block.json
+msgctxt "block keyword"
+msgid "photos"
+msgstr "عکس‌ها"
+
+#: build/scripts/block-library/file/block.json
+msgctxt "block keyword"
+msgid "download"
+msgstr "دانلود"
+
+#: build/scripts/block-library/form/block.json
+#: build/scripts/block-library/group/block.json
+msgctxt "block keyword"
+msgid "container"
+msgstr "کانتینر"
+
+#: build/scripts/block-library/form/block.json
+#: build/scripts/block-library/group/block.json
+msgctxt "block keyword"
+msgid "wrapper"
+msgstr "پوشه"
+
+#: build/scripts/block-library/freeform/block.json
+msgctxt "block description"
+msgid "Use the classic WordPress editor."
+msgstr "از ویرایشگر کلاسیک وردپرس استفاده کنید."
+
+#: build/scripts/block-library/gallery/block.json
+msgctxt "block description"
+msgid "Display multiple images in a rich gallery."
+msgstr "چندین تصویر را در یک گالری غنی نمایش دهید."
+
+#: build/scripts/block-library/file/block.json
+msgctxt "block keyword"
+msgid "document"
+msgstr "سند"
+
+#: build/scripts/block-library/file/block.json
+msgctxt "block description"
+msgid "Add a link to a downloadable file."
+msgstr "پیوندی به یک پروندهٔ قابل دانلود اضافه نمایید."
+
+#: build/scripts/block-library/column/block.json
+msgctxt "block description"
+msgid "A single column within a columns block."
+msgstr "یک ستون واحد درون بلوک ستون‌ها."
+
+#: build/scripts/block-library/code/block.json
+msgctxt "block description"
+msgid "Display code snippets that respect your spacing and tabs."
+msgstr "تکه کدهایی را نمایش دهید که از فاصله‌گذاری‌های شما پیروی می‌نمایند."
+
+#: build/scripts/block-library/calendar/block.json
+#: build/scripts/block-library/query/block.json
+msgctxt "block keyword"
+msgid "posts"
+msgstr "نوشته‌ها"
+
+#: build/scripts/block-library/calendar/block.json
+msgctxt "block keyword"
+msgid "archive"
+msgstr "بایگانی"
+
+#: build/scripts/block-library/calendar/block.json
+msgctxt "block description"
+msgid "A calendar of your site’s posts."
+msgstr "تقویمی از نوشته‌های سایت شما."
+
+#: build/scripts/block-library/button/block.json
+msgctxt "block style label"
+msgid "Fill"
+msgstr "تو پُر"
+
+#: build/scripts/block-library/button/block.json
+#: build/scripts/block-library/tag-cloud/block.json
+msgctxt "block style label"
+msgid "Outline"
+msgstr "دور خط"
+
+#: build/scripts/block-library/buttons/block.json
+msgctxt "block description"
+msgid "Prompt visitors to take action with a group of button-style links."
+msgstr "بازدیدکنندگان را با یک گروه از پیوند‌های سبک دکمه به اقدام تشویق کنید."
+
+#: build/scripts/block-library/button/block.json
+msgctxt "block description"
+msgid "Prompt visitors to take action with a button-style link."
+msgstr "بازدیدکنندگان را با یک پیوند به سبک دکمه به اقدام تشویق کنید."
+
+#: build/scripts/block-library/audio/block.json
+msgctxt "block keyword"
+msgid "music"
+msgstr "موسیقی"
+
+#: build/scripts/block-library/audio/block.json
+msgctxt "block keyword"
+msgid "sound"
+msgstr "صدا"
+
+#: build/scripts/block-library/audio/block.json
+msgctxt "block keyword"
+msgid "podcast"
+msgstr "پادکست"
+
+#: build/scripts/block-library/archives/block.json
+msgctxt "block description"
+msgid "Display a date archive of your posts."
+msgstr "بایگانی تاریخ نوشته‌های خود را نمایش دهید."
+
+#: build/scripts/block-library/audio/block.json
+msgctxt "block keyword"
+msgid "recording"
+msgstr "ضبط"
+
+#: build/scripts/block-library/audio/block.json
+msgctxt "block description"
+msgid "Embed a simple audio player."
+msgstr "یک پخش‌کننده صوتی ساده جاسازی کنید."
+
+#: build/scripts/block-library/navigation.php:747
+#: build/scripts/block-library/index.js:38148
+msgid "Close menu"
+msgstr "بستن فهرست"
+
+#: build/scripts/block-library/navigation.php:746
+#: build/scripts/block-library/index.js:38122
+msgid "Open menu"
+msgstr "باز کردن فهرست"
+
+#: build/scripts/block-library/site-logo.php:47
+msgid "(Home link, opens in a new tab)"
+msgstr "(پیوند خانه، در یک زبانه جدید باز می‌شود)"
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:167
+msgid "Styles consolidated from core, theme, and user origins."
+msgstr "سبک‌های ادغام‌شده از هسته، پوسته و منابع کاربر."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:161
+msgid "Settings consolidated from core, theme, and user origins."
+msgstr "تنظیمات ادغام‌شده از هسته، پوسته و منابع کاربر."
+
+#: build/scripts/block-library/site-logo.php:77
+#: build/scripts/block-library/index.js:59500
+msgid "Logo"
+msgstr "آرم"
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:299
+msgid "Active theme font sizes."
+msgstr "اندازه‌های فونت پوستهٔ فعال."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:305
+msgid "Active theme gradients."
+msgstr "طیف‌های پوستهٔ فعال."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:293
+msgid "Active theme color palette."
+msgstr "تخته‌رنگ پوستهٔ فعال."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:281
+msgid "Available image sizes."
+msgstr "اندازه‌های تصویر موجود."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:287
+msgid "Maximum upload size in bytes allowed for the site."
+msgstr "حداکثر اندازه بارگذاری مجاز برای سایت به بایت."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:275
+msgid "Determines whether the image editing feature is enabled."
+msgstr "تعیین می‌کند که آیا قابلیت ویرایش تصویر فعال است یا خیر."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:203
+msgid "Returns all the categories for block types that will be shown in the block editor."
+msgstr "تمام دسته‌بندی‌ها برای انواع بلوک که در ویرایشگر بلوک نمایش داده خواهند شد را بازمی‌گرداند."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:245
+msgid "Enables custom spacing."
+msgstr "فاصله‌گذاری سفارشی را فعال می‌کند."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:251
+msgid "Enables custom units."
+msgstr "واحدهای سفارشی را فعال می‌کند."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:221
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:227
+msgid "Disables custom font size."
+msgstr "اندازه فونت سفارشی را غیرفعال می کند."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:239
+msgid "Enables custom line height."
+msgstr "ارتفاع خط سفارشی را فعال می کند."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:257
+msgid "Determines whether the current locale is right-to-left (RTL)."
+msgstr "تعیین می‌کند که آیا زبان محلی فعلی راست به چپ (RTL) است یا خیر."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:263
+msgid "Default size for images."
+msgstr "اندازه پیش‌فرض برای تصاویر."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:269
+msgid "Available image dimensions."
+msgstr "ابعاد تصویر موجود."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:215
+msgid "Disables custom colors."
+msgstr "رنگ‌های سفارشی را غیرفعال می‌کند."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:185
+msgid "Enable/Disable Wide/Full Alignments."
+msgstr "چینش عریض/کامل را فعال/غیرفعال کنید."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:191
+msgid "List of allowed block types."
+msgstr "فهرست انواع بلوک مجاز."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:197
+msgid "List of allowed mime types and file extensions."
+msgstr "فهرست انواع mime و پسوندهای پرونده مجاز."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:155
+msgid "Widget types to hide from Legacy Widget block."
+msgstr "انواع ابزارک‌هایی که باید از بلوک ابزارک قدیمی مخفی شوند."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:149
+msgid "Enable/disable layouts support in container blocks."
+msgstr "پشتیبانی از طرح‌ها در بلوک‌های کانتینر را فعال/غیرفعال کنید."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:137
+msgid "Editor styles"
+msgstr "سبک‌های ویرایشگر"
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:78
+msgid "Sorry, you are not allowed to read the block editor settings."
+msgstr "با عرض پوزش، شما اجازه ندارید تنظیمات ویرایشگر بلوک را بخوانید."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:131
+msgid "Enables experimental Site Editor blocks"
+msgstr "بلوک‌های آزمایشی ویرایشگر سایت را فعال می‌کند"
+
+#: build/scripts/block-library/term-description/block.json
+msgctxt "block title"
+msgid "Term Description"
+msgstr "توضیحات رده"
+
+#: build/scripts/block-library/term-description/block.json
+msgctxt "block description"
+msgid "Display the description of categories, tags and custom taxonomies when viewing an archive."
+msgstr "توضیحات دسته‌ها، برچسب‌ها و طبقه‌بندی‌های سفارشی را هنگام مشاهده یک بایگانی نمایش دهید."
+
+#: build/scripts/block-library/post-comments-link/block.json
+msgctxt "block title"
+msgid "Comments Link"
+msgstr "پیوند دیدگاه‌ها"
+
+#: build/scripts/block-library/navigation-link/block.json
+msgctxt "block title"
+msgid "Custom Link"
+msgstr "پیوند سفارشی"
+
+#: build/scripts/block-library/loginout/block.json
+msgctxt "block title"
+msgid "Login/out"
+msgstr "ورود/خروج"
+
+#: build/scripts/block-library/file.php:45
+#: build/scripts/block-library/index.js:21891
+#: build/scripts/block-library/index.js:22002
+#: build/scripts/block-library/index.js:22103
+msgid "PDF embed"
+msgstr "جاسازی PDF"
+
+#. translators: %s: filename.
+#: build/scripts/block-library/file.php:43
+#: build/scripts/block-library/index.js:21893
+#: build/scripts/block-library/index.js:22004
+#: build/scripts/block-library/index.js:22105
+msgid "Embed of %s."
+msgstr "جاسازی از %s."
+
+#: build/scripts/block-library/navigation-link.php:372
+msgid "A link to a post format"
+msgstr "یک پیوند به ساختار نوشته"
+
+#: build/scripts/block-library/latest-posts.php:172
+#: build/scripts/block-library/latest-posts.php:187
+#: build/scripts/block-library/index.js:47751
+msgid "This content is password protected."
+msgstr "این محتوا با رمز عبور محافظت شده است."
+
+#: build/scripts/block-library/navigation-link.php:371
+msgid "Post Format Link"
+msgstr "پیوند ساختار نوشته"
+
+#. translators: %s post title
+#: build/scripts/block-library/post-comments-link.php:43
+msgid "No comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "هیچ دیدگاهی<span class=\"screen-reader-text\"> برای %s</span> پیدا نشد."
+
+#. translators: 1: Number of comments, 2: post title
+#: build/scripts/block-library/post-comments-link.php:49
+msgid "%1$s comment<span class=\"screen-reader-text\"> on %2$s</span>"
+msgid_plural "%1$s comments<span class=\"screen-reader-text\"> on %2$s</span>"
+msgstr[0] "%1$s دیدگاه<span class=\"screen-reader-text\"> برای %2$s</span>"
+
+#: build/scripts/block-library/post-navigation-link.php:40
+msgctxt "label for next post link"
+msgid "Next"
+msgstr "بعدی"
+
+#: build/scripts/block-library/post-navigation-link.php:40
+msgctxt "label for previous post link"
+msgid "Previous"
+msgstr "قبلی"
+
+#. translators: %s: taxonomy's singular name
+#: build/scripts/block-library/categories.php:46
+#: build/scripts/block-library/index.js:10868
+msgid "Select %s"
+msgstr "انتخاب %s"
+
+#: build/scripts/block-library/template-part/block.json
+msgctxt "block description"
+msgid "Edit the different global regions of your site, like the header, footer, sidebar, or create your own."
+msgstr "نواحی همگانی متفاوت سایت خود را ویرایش کنید، مانند سربرگ، پابرگ، نوار کناری، یا نواحی خود را ایجاد نمایید."
+
+#: build/scripts/block-library/page-list/block.json
+msgctxt "block title"
+msgid "Page List"
+msgstr "فهرست برگه‌"
+
+#: build/scripts/block-library/query-pagination-previous.php:26
+#: build/scripts/block-library/index.js:55596
+msgid "Previous Page"
+msgstr "برگه قبلی"
+
+#. translators: %s: Template part slug.
+#: build/scripts/block-library/template-part.php:122
+#: build/scripts/block-library/index.js:67598
+msgid "Template part has been deleted or is unavailable: %s"
+msgstr "بخش قالب حذف شده یا در دسترس نیست: %s"
+
+#: build/scripts/block-library/query-pagination-next.php:29
+#: build/scripts/block-library/index.js:55336
+msgid "Next Page"
+msgstr "برگه بعدی"
+
+#: build/scripts/block-library/comments-pagination-numbers/block.json
+msgctxt "block title"
+msgid "Comments Page Numbers"
+msgstr "شماره‌‌های برگه‌ دیدگاه‌ها"
+
+#. translators: Visible only in the front end, this warning takes the place of
+#. a faulty block.
+#: build/scripts/block-library/block.php:38
+#: build/scripts/block-library/post-content.php:34
+#: build/scripts/block-library/template-part.php:133
+msgid "[block rendering halted]"
+msgstr "[پردازش بلوک متوقف شد]"
+
+#: build/scripts/block-library/rss/block.json
+msgctxt "block title"
+msgid "RSS"
+msgstr "RSS"
+
+#: build/scripts/block-library/code/block.json
+msgctxt "block title"
+msgid "Code"
+msgstr "کد"
+
+#: build/scripts/block-library/file/block.json
+msgctxt "block title"
+msgid "File"
+msgstr "پرونده"
+
+#: build/scripts/block-library/more/block.json
+msgctxt "block title"
+msgid "More"
+msgstr "بیشتر"
+
+#: build/scripts/block-library/image/block.json
+msgctxt "block title"
+msgid "Image"
+msgstr "تصویر"
+
+#: build/scripts/block-library/group/block.json
+msgctxt "block title"
+msgid "Group"
+msgstr "گروه"
+
+#: build/scripts/block-library/button/block.json
+msgctxt "block title"
+msgid "Button"
+msgstr "دکمه"
+
+#: build/scripts/block-library/column/block.json
+msgctxt "block title"
+msgid "Column"
+msgstr "ستون"
+
+#: build/scripts/block-library/heading/block.json
+msgctxt "block title"
+msgid "Heading"
+msgstr "تیتر"
+
+#: build/scripts/block-library/gallery/block.json
+msgctxt "block title"
+msgid "Gallery"
+msgstr "گالری"
+
+#: build/scripts/block-library/video/block.json
+msgctxt "block title"
+msgid "Video"
+msgstr "ویدئو"
+
+#: build/scripts/block-library/columns/block.json
+msgctxt "block title"
+msgid "Columns"
+msgstr "ستون‌ها"
+
+#: build/scripts/block-library/separator/block.json
+msgctxt "block title"
+msgid "Separator"
+msgstr "‫جدا کننده"
+
+#: build/scripts/block-library/audio/block.json
+msgctxt "block title"
+msgid "Audio"
+msgstr "صدا"
+
+#: build/scripts/block-library/cover/block.json
+msgctxt "block title"
+msgid "Cover"
+msgstr "کاور"
+
+#: build/scripts/block-library/navigation/block.json
+msgctxt "block title"
+msgid "Navigation"
+msgstr "راهبری"
+
+#: build/scripts/block-library/buttons/block.json
+msgctxt "block title"
+msgid "Buttons"
+msgstr "دکمه‌ها"
+
+#: build/scripts/block-library/table/block.json
+msgctxt "block title"
+msgid "Table"
+msgstr "جدول"
+
+#: build/scripts/block-library/search/block.json
+msgctxt "block title"
+msgid "Search"
+msgstr "جستجو"
+
+#: build/scripts/block-library/calendar/block.json
+msgctxt "block title"
+msgid "Calendar"
+msgstr "تقویم"
+
+#: build/scripts/block-library/template-part/block.json
+msgctxt "block title"
+msgid "Template Part"
+msgstr "بخش قالب"
+
+#: build/scripts/block-library/latest-comments/block.json
+msgctxt "block title"
+msgid "Latest Comments"
+msgstr "آخرین دیدگاه‌ها"
+
+#: build/scripts/block-library/post-comments-count/block.json
+msgctxt "block title"
+msgid "Comments Count"
+msgstr "تعداد دیدگاه‌ها"
+
+#: build/scripts/block-library/post-comments-form/block.json
+msgctxt "block title"
+msgid "Comments Form"
+msgstr "فرم دیدگاه‌ها"
+
+#: build/scripts/block-library/latest-posts/block.json
+msgctxt "block title"
+msgid "Latest Posts"
+msgstr "آخرین نوشته‌ها"
+
+#: build/scripts/block-library/quote/block.json
+msgctxt "block title"
+msgid "Quote"
+msgstr "نقل‌قول"
+
+#: build/scripts/block-library/paragraph/block.json
+msgctxt "block title"
+msgid "Paragraph"
+msgstr "پاراگراف"
+
+#: build/scripts/block-library/spacer/block.json
+msgctxt "block title"
+msgid "Spacer"
+msgstr "فاصله‌گذار"
+
+#: build/scripts/block-library/verse/block.json
+msgctxt "block title"
+msgid "Verse"
+msgstr "بیت"
+
+#: build/scripts/block-library/archives/block.json
+msgctxt "block title"
+msgid "Archives"
+msgstr "بایگانی‌ها"
+
+#: build/scripts/block-library/site-title/block.json
+msgctxt "block title"
+msgid "Site Title"
+msgstr "عنوان سایت"
+
+#: build/scripts/block-library/query/block.json
+msgctxt "block title"
+msgid "Query Loop"
+msgstr "حلقه کوئری"
+
+#: build/scripts/block-library/social-link/block.json
+msgctxt "block title"
+msgid "Social Icon"
+msgstr "آیکون شبکه‌های اجتماعی"
+
+#: build/scripts/block-library/media-text/block.json
+msgctxt "block title"
+msgid "Media & Text"
+msgstr "رسانه و متن"
+
+#: build/scripts/block-library/index.js:14028
+#: build/scripts/block-library/comment-date/block.json
+msgctxt "block title"
+msgid "Comment Date"
+msgstr "تاریخ دیدگاه"
+
+#: build/scripts/block-library/shortcode/block.json
+msgctxt "block title"
+msgid "Shortcode"
+msgstr "کدکوتاه"
+
+#: build/scripts/block-library/tag-cloud/block.json
+msgctxt "block title"
+msgid "Tag Cloud"
+msgstr "ابر برچسب"
+
+#: build/scripts/block-library/site-logo/block.json
+msgctxt "block title"
+msgid "Site Logo"
+msgstr "آرم سایت"
+
+#: build/scripts/block-library/html/block.json
+msgctxt "block title"
+msgid "Custom HTML"
+msgstr "HTML سفارشی"
+
+#: build/scripts/block-library/post-featured-image/block.json
+msgctxt "block title"
+msgid "Featured Image"
+msgstr "تصویر شاخص"
+
+#: build/scripts/block-library/index.js:13818
+#: build/scripts/block-library/comment-content/block.json
+msgctxt "block title"
+msgid "Comment Content"
+msgstr "محتوای دیدگاه"
+
+#: build/scripts/block-library/missing/block.json
+msgctxt "block title"
+msgid "Unsupported"
+msgstr "پشتیبانی نشده"
+
+#: build/scripts/block-library/preformatted/block.json
+msgctxt "block title"
+msgid "Preformatted"
+msgstr "پیش‌ساختارمند"
+
+#: build/scripts/block-library/social-links/block.json
+msgctxt "block title"
+msgid "Social Icons"
+msgstr "آیکون‌های شبکه اجتماعی"
+
+#: build/scripts/block-library/site-tagline/block.json
+msgctxt "block title"
+msgid "Site Tagline"
+msgstr "معرفی کوتاه سایت"
+
+#: build/scripts/block-library/nextpage/block.json
+msgctxt "block title"
+msgid "Page Break"
+msgstr "جداکننده برگه"
+
+#: build/scripts/block-library/post-terms/block.json
+msgctxt "block title"
+msgid "Post Terms"
+msgstr "رده‌های نوشته"
+
+#: build/scripts/block-library/text-columns/block.json
+msgctxt "block title"
+msgid "Text Columns (deprecated)"
+msgstr "ستون‌های متن (منسوخ شده)"
+
+#: build/scripts/block-library/list/block.json
+msgctxt "block title"
+msgid "List"
+msgstr "فهرست"
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:118
+#: lib/compat/wordpress-7.0/class-gutenberg-rest-static-templates-controller.php:45
+#: lib/compat/wordpress-7.0/class-gutenberg-rest-templates-controller-7-0.php:99
+msgid "The id of a template"
+msgstr "شناسه یک قالب"
+
+#: lib/compat/wordpress-7.0/class-gutenberg-rest-static-templates-controller.php:102
+msgid "No templates exist with that id."
+msgstr "قالبی با این شناسه وجود ندارد."
+
+#: lib/compat/wordpress-7.0/class-gutenberg-rest-templates-controller-7-0.php:126
+msgid "Whether to bypass Trash and force deletion."
+msgstr "آیا زباله‌دان نادیده گرفته شده و حذف اجباری انجام شود."
+
+#: build/scripts/block-library/site-logo.php:78
+msgid "Site logo."
+msgstr "آرم سایت."
+
+#. translators: byline. %s: author.
+#: build/scripts/block-library/latest-posts.php:130
+#: build/scripts/block-library/rss.php:86
+#: build/scripts/block-library/index.js:33027
+msgid "by %s"
+msgstr "توسط %s"
+
+#: lib/experimental/pages/site-editor.php:30
+#: build/scripts/edit-site/index.js:20997
+#: build/scripts/edit-site/index.js:46634
+#: build/scripts/edit-site/index.js:46687
+msgid "Pages"
+msgstr "برگه‌ها"
+
+#: build/scripts/block-library/query-title.php:46
+#: build/scripts/block-library/index.js:55929
+msgid "Search results"
+msgstr "نتایج جستجو"
+
+#: lib/experimental/pages/site-editor.php:33
+#: build/routes/pattern-list/content.js:17432
+#: build/routes/pattern-list/route.js:37
+#: build/scripts/block-editor/index.js:28934
+#: build/scripts/block-editor/index.js:30569
+#: build/scripts/block-editor/index.js:39814
+#: build/scripts/edit-site/index.js:21028
+#: build/scripts/edit-site/index.js:23825
+msgid "Patterns"
+msgstr "الگوها"
+
+#. translators: 'menu' as in website navigation menu.
+#: build/scripts/block-library/navigation.php:743
+#: build/scripts/block-library/navigation.php:895
+#: build/scripts/block-library/index.js:38099
+#: build/scripts/block-library/index.js:38127
+#: build/scripts/block-library/index.js:39102
+#: build/scripts/block-library/index.js:39747
+#: build/scripts/block-library/index.js:41308
+#: build/scripts/core-data/index.js:13727 build/scripts/editor/index.js:30462
+msgid "Menu"
+msgstr "فهرست"
+
+#. translators: accessibility text for the content landmark region.
+#: lib/experimental/navigation-theme-opt-in.php:347
+#: build/scripts/block-editor/index.js:54639
+#: build/scripts/block-editor/index.js:59798
+#: build/scripts/block-editor/index.js:70153
+#: build/scripts/block-library/index.js:10092
+#: build/scripts/block-library/index.js:28325
+#: build/scripts/block-library/index.js:34835
+#: build/scripts/block-library/index.js:37423
+#: build/scripts/block-library/index.js:46244
+#: build/scripts/block-library/index.js:51451
+#: build/scripts/block-library/index.js:52229
+#: build/scripts/block-library/index.js:69973
+#: build/scripts/edit-widgets/index.js:1269 build/scripts/editor/index.js:13569
+#: build/scripts/editor/index.js:57196 build/scripts/editor/index.js:57236
+msgid "Content"
+msgstr "محتوا"
+
+#. translators: 'Home' as in a website's home page.
+#: build/scripts/block-library/breadcrumbs.php:35
+#: build/scripts/block-library/breadcrumbs.php:39
+#: build/scripts/block-library/home-link.php:140
+#: lib/experimental/pages/site-editor.php:27 build/routes/home/route.js:37
+#: build/scripts/block-library/index.js:7818
+#: build/scripts/block-library/index.js:28443
+#: build/scripts/block-library/index.js:42923
+msgid "Home"
+msgstr "خانه"
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:288
+msgid "Cannot create existing comment."
+msgstr "امکان ایجاد دیدگاه موجود وجود ندارد."
+
+#: lib/experimental/media/class-gutenberg-rest-attachments-controller.php:41
+msgid "Image size."
+msgstr "اندازه تصویر."
+
+#: build/scripts/block-library/navigation/block.json
+#: build/scripts/block-library/social-links/block.json
+msgctxt "block keyword"
+msgid "links"
+msgstr "پیوندها"
+
+#: lib/compat/wordpress-7.0/template-activate.php:526
+msgid "No matching template found."
+msgstr "هیچ قالب سازگاری پیدا نشد."
+
+#: lib/experimental/pages/site-editor.php:14
+#: lib/experimental/pages/site-editor.php:15
+msgid "Site Editor"
+msgstr "ویرایشگر سایت"
+
+#: lib/experiments-page.php:269
+msgid "The block editor includes experimental features that are usable while they're in development. Select the ones you'd like to enable. These features are likely to change, so avoid using them in production."
+msgstr "ویرایشگر بلوک شامل ویژگی‌های آزمایشی است که در حین توسعه قابل استفاده هستند. گزینه‌هایی را که می‌خواهید فعال کنید انتخاب نمایید. این ویژگی‌ها احتمالاً تغییر خواهند کرد، بنابراین از استفاده از آن‌ها در پروداکشن خودداری کنید."
+
+#: lib/experimental/pages/site-editor.php:32
+#: build/routes/template-part-list/route.js:233
+#: build/scripts/editor/index.js:36386
+msgid "Template Parts"
+msgstr "بخش‌های قالب"
+
+#: lib/experimental/pages/site-editor.php:29
+#: build/routes/navigation-edit/content.js:509
+#: build/routes/navigation-edit/route.js:95
+#: build/routes/navigation-list/content.js:16919
+#: build/routes/navigation-list/route.js:60
+#: build/scripts/block-library/index.js:37780
+#: build/scripts/block-library/index.js:37980
+#: build/scripts/edit-site/index.js:1144 build/scripts/edit-site/index.js:6308
+#: build/scripts/edit-site/index.js:20987
+#: build/scripts/edit-site/index.js:23128 build/scripts/editor/index.js:60245
+msgid "Navigation"
+msgstr "راهبری"
+
+#: lib/experimental/pages/site-editor.php:31
+#: build/routes/template-list/content.js:18785
+#: build/routes/template-list/content.js:19084
+#: build/routes/template-list/route.js:170
+#: build/scripts/block-library/index.js:67507
+#: build/scripts/edit-site/index.js:21007
+#: build/scripts/edit-site/index.js:42470
+#: build/scripts/edit-site/index.js:44215
+#: build/scripts/edit-site/index.js:45697 build/scripts/editor/index.js:6076
+#: build/scripts/editor/index.js:38045 build/scripts/editor/index.js:57030
+msgid "Templates"
+msgstr "قالب‌ها"
+
+#: lib/init.php:52
+msgid "Experiments Settings"
+msgstr "تنظیمات بررسی"
+
+#: lib/experiments-page.php:20
+msgid "Experimental settings"
+msgstr "تنظیمات آزمایشی"
+
+#: build/scripts/block-library/rss.php:25
+msgid "RSS Error:"
+msgstr "خطای RSS:"
+
+#: build/scripts/block-library/rss.php:29
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "خطایی رخ داده است، که احتمالاً به این معنی است که خوراک کار نمی‌کند. بعداً دوباره تلاش کنید."
+
+#: build/scripts/block-library/search.php:25
+#: build/scripts/block-library/search.php:26
+#: build/scripts/block-library/search.php:50
+#: build/routes/font-list/content.js:3991
+#: build/routes/navigation-list/content.js:10097
+#: build/routes/navigation-list/content.js:13154
+#: build/routes/pattern-list/content.js:10008
+#: build/routes/pattern-list/content.js:13065
+#: build/routes/post-list/content.js:9987
+#: build/routes/post-list/content.js:13044
+#: build/routes/template-list/content.js:10142
+#: build/routes/template-list/content.js:13199
+#: build/routes/template-part-list/content.js:10032
+#: build/routes/template-part-list/content.js:13089
+#: build/scripts/block-editor/index.js:28028
+#: build/scripts/block-editor/index.js:28029
+#: build/scripts/block-editor/index.js:29884
+#: build/scripts/block-editor/index.js:30415
+#: build/scripts/block-editor/index.js:30416
+#: build/scripts/block-editor/index.js:30687
+#: build/scripts/block-editor/index.js:30688
+#: build/scripts/block-library/index.js:53855
+#: build/scripts/block-library/index.js:53856
+#: build/scripts/block-library/index.js:58201
+#: build/scripts/block-library/index.js:58498
+#: build/scripts/block-library/index.js:58509
+#: build/scripts/block-library/index.js:66985
+#: build/scripts/block-library/index.js:66986
+#: build/scripts/components/index.js:44773
+#: build/scripts/components/index.js:44774
+#: build/scripts/edit-site/index.js:32882
+#: build/scripts/edit-site/index.js:35939 build/scripts/editor/index.js:16427
+#: build/scripts/editor/index.js:16428 build/scripts/editor/index.js:18693
+#: build/scripts/editor/index.js:38037 build/scripts/editor/index.js:38038
+#: build/scripts/media-utils/index.js:10518
+#: build/scripts/media-utils/index.js:13544
+msgid "Search"
+msgstr "جستجو"
+
+#. translators: %s: the number of words in the post.
+#: build/scripts/block-library/post-time-to-read.php:147
+#: build/scripts/block-library/index.js:50783
+#: build/scripts/editor/index.js:56412
+msgid "%s word"
+msgid_plural "%s words"
+msgstr[0] "%s واژه"
+
+#: build/scripts/block-library/freeform/block.json
+msgctxt "block title"
+msgid "Classic"
+msgstr "کلاسیک"
+
+#: build/scripts/block-library/index.js:21155
+#: build/scripts/block-library/embed/block.json
+msgctxt "block title"
+msgid "Embed"
+msgstr "جاسازی"
+
+#: build/scripts/block-library/quote/block.json
+msgctxt "block description"
+msgid "Give quoted text visual emphasis. \"In quoting others, we cite ourselves.\" — Julio Cortázar"
+msgstr "به متن نقل‌شده تأکید بصری ببخشید: «در نقل قول از دیگران، خود را ارجاع می‌دهیم.» — خولیو کورتازار"
+
+#: build/scripts/block-library/heading/block.json
+msgctxt "block description"
+msgid "Introduce new sections and organize content to help visitors (and search engines) understand the structure of your content."
+msgstr "بخش‌های جدیدی معرفی کنید و محتوا را سازماندهی کنید تا به بازدیدکنندگان (و موتورهای جستجو) کمک کنید ساختار محتوای شما را درک کنند."
+
+#: lib/experimental/pages/site-editor.php:28 build/routes/styles/content.js:280
+#: build/routes/styles/route.js:37 build/scripts/block-editor/index.js:39677
+#: build/scripts/block-editor/index.js:43819
+#: build/scripts/block-editor/index.js:54633
+#: build/scripts/edit-site/index.js:20977
+#: build/scripts/edit-site/index.js:21018
+#: build/scripts/edit-site/index.js:22247
+#: build/scripts/edit-site/index.js:46737 build/scripts/editor/index.js:44447
+#: build/scripts/editor/index.js:59689 build/scripts/editor/index.js:59699
+msgid "Styles"
+msgstr "سبک‌ها"
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:52
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:60
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:108
+msgid "Sorry, you are not allowed to edit comments."
+msgstr "با عرض پوزش، شما اجازهٔ ویرایش دیدگاه‌ها را ندارید."
+
+#: lib/class-wp-theme-json-gutenberg.php:4374
+#: build/scripts/block-editor/index.js:7705
+#: build/scripts/components/index.js:42776
+msgid "Medium"
+msgstr "متوسط"
+
+#: build/scripts/block-library/archives.php:101
+msgid "No archives to show."
+msgstr "بایگانی برای نمایش وجود ندارد"
+
+#: post-content.php:40
+msgid "Beautiful landscape"
+msgstr "منظره زیبا"
+
+#: post-content.php:199
+msgid "Help build Gutenberg"
+msgstr "راهنما ساختن گوتنبرگ"
+
+#: post-content.php:181
+msgid "The WordPress community"
+msgstr "جامعه وردپرس"
+
+#: post-content.php:179 build/scripts/block-library/index.js:28282
+msgid "Code is Poetry"
+msgstr "کد شعر است"
+
+#: post-content.php:132
+msgid "Media Rich"
+msgstr "رسانه غنی"
+
+#: post-content.php:128
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "شما می‌توانید با کشیدن یک اسلایدر در نوار کناری مقدار ستون‌ها را در گالری‌های خود تغییر دهید."
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:190
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "اگر می‌خواهید درباره نحوه ساخت بلوک‌های اضافی بیشتر بدانید، یا اگر به کمک به پروژه علاقه‌مند هستید به <a href=\"%s\">مخزن GitHub</a> سر بزنید."
+
+#: post-content.php:101
+msgid "Matt Mullenweg, 2017"
+msgstr "Matt Mullenweg, 2017"
+
+#: post-content.php:140
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "قابلیت دسترسی مهم است & mdash؛ ویژگی alt تصویر را فراموش نکن"
+
+#: post-content.php:207
+msgid "Thanks for testing Gutenberg!"
+msgstr "سپاسگزاریم از اینکه گوتنبرگ را آزمایش می‌کنید!"
+
+#: post-content.php:106
+msgid "The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It&#8217;s always easy to add it back."
+msgstr "اطلاعات مربوط به منبع نقل قول یک فیلد متنی جداگانه است، مشابه زیرنویس‌ها در زیر تصاویر، بنابراین ساختار نقل قول حتی اگر منبع را انتخاب، ویرایش یا حذف کنید، حفظ می‌شود. همیشه افزودن دوباره آن آسان است."
+
+#: post-content.php:110
+msgid "Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter."
+msgstr "بلوک‌ها می‌توانند هر چیزی که نیاز دارید باشند. به عنوان مثال، ممکن است بخواهید یک نقل قول کم‌رنگ را به عنوان بخشی از ترکیب متن خود اضافه کنید، یا ممکن است ترجیح دهید یک نقل قول بسیار بزرگ را نمایش دهید. تمام این گزینه‌ها در درج‌کننده (inserter) در دسترس هستند."
+
+#: post-content.php:159
+msgid "The above is a gallery with just two images. It&#8217;s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher."
+msgstr "بالا یک گالری با فقط دو تصویر است. این یک روش آسان‌تر برای ایجاد طرح‌های بصری جذاب است، بدون نیاز به سر و کله زدن با float ها. همچنین به راحتی می‌توانید گالری را دوباره با استفاده از تغییردهندهٔ بلوک، به تصاویر جدا از هم تبدیل کنید."
+
+#: post-content.php:99
+msgid "The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery."
+msgstr "ویرایشگر به دنبال ایجاد تجربه‌ای نوین برای ساخت برگه‌ها و نوشته‌ها است که نوشتن نوشته‌های غنی را به یک فرآیند آسان و بی‌دردسر تبدیل کند. ویرایشگر با استفاده از \"بلوک‌ها\" کاری را که امروزه ممکن است نیاز به شورت‌کدها، HTML سفارشی یا کشف محتوای جاسازی شده \"مخفی\" داشته باشد را آسان می‌کند."
+
+#: post-content.php:136
+msgid "If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:"
+msgstr "اگر چینش <strong>گسترده</strong> و <strong>کامل</strong> جدید را با گالری‌ها ترکیب کنید، می‌توانید خیلی سریع یک طرح‌بندی غنی از رسانه ایجاد کنید:"
+
+#: post-content.php:163
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "هر بلوکی می‌تواند از این چینش‌ها استفاده کند. بلوک جاسازی نیز این گزینه‌ها را دارد و به‌طور خودکار واکنش‌گرا است."
+
+#: post-content.php:144
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "البته، تصویر تمام‌عرض می‌تواند بسیار بزرگ باشد. اما گاهی اوقات، ارزشش را دارد."
+
+#: post-content.php:173
+msgid "You can build any block you like, static or dynamic, decorative or plain. Here&#8217;s a quote block:"
+msgstr "شما می‌توانید هر بلوکی که دوست دارید بسازید، ایستا یا پویا، تزئینی یا ساده. در اینجا یک بلوک نقل‌قول قرار دارد:"
+
+#: post-content.php:67
+msgid "Images &amp; Videos"
+msgstr "فیلم و تصاویر"
+
+#: post-content.php:64
+msgid "Text &amp; Headings"
+msgstr "متن و عنوان"
+
+#: post-content.php:70
+msgid "Galleries"
+msgstr "گالریها"
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "یک تصویر ارزش هزار کلمه دارد"
+
+#: lib/demo.php:61
+msgid "Welcome to the Gutenberg Editor"
+msgstr "به ویرایشگر گوتنبرگ خوش آمدید"
+
+#: post-content.php:89
+msgid "Visual Editing"
+msgstr "ویرایش دیداری"
+
+#: post-content.php:73
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "قراردادن، مانند یوتیوب، تویت‌ها، و یا سایر پست‌های وردپرس."
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "... مانند این یکی، که راست چین شده است."
+
+#: post-content.php:50
+msgid "The <em>Inserter</em> Tool"
+msgstr "ابزار <em>درج کننده</em>"
+
+#: post-content.php:20
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "آنچه که در حال خواندن هستید <strong>text block</strong> است که پایه اصلی همه است. بلوک متن دارای کنترل های خاصی است که به طور آزادانه در اطراف پست منتقل می شود ..."
+
+#: post-content.php:11
+msgid "Of Mountains &amp; Printing Presses"
+msgstr "از کوه‌ها و ماشین‌های چاپ"
+
+#: post-content.php:46
+msgid "Try selecting and removing or editing the caption, now you don&#8217;t have to be careful about selecting the image or other text by mistake and ruining the presentation."
+msgstr "سعی کنید عنوان را انتخاب و حذف یا ویرایش کنید، اکنون لازم نیست مراقب انتخاب اشتباه تصویر یا متن دیگر و خراب کردن ارائه باشید."
+
+#: post-content.php:76
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "چیدمان بلوک‌ها، مانند دکمه‌ها، تصاویر اصلی، جداکننده‌ها و غیره."
+
+#: post-content.php:36
+msgid "Handling images and media with the utmost care is a primary focus of the new editor. Hopefully, you&#8217;ll find aspects of adding captions or going full-width with your pictures much easier and robust than before."
+msgstr "مدیریت تصاویر و رسانه ها با نهایت دقت تمرکز اصلی ویرایشگر جدید است. امیدواریم جنبه‌های افزودن زیرنویس یا نمایش تمام عرض تصاویرتان را بسیار آسان‌تر و قوی‌تر از قبل بیابید."
+
+#: lib/experimental/overlay-patterns.php:108 lib/experiments-page.php:30
+#: build/scripts/edit-post/index.js:2066
+#: build/scripts/edit-widgets/index.js:4012 build/scripts/editor/index.js:5096
+#: build/scripts/editor/index.js:59596
+msgid "Learn more"
+msgstr "بیشتر بدانید"
+
+#: post-content.php:54
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "تصور کنید که همه امکاناتی که وردپرس می‌تواند ارائه دهد، به سرعت و در یک مکان واحد در رابط کاربری در دسترس شماست. نیازی به درک تگ‌های HTML، کلاس‌ها یا به خاطر سپردن نحو پیچیدهٔ کد‌‌های کوتاه نیست. این روحیهٔ پشت ابزار درج‌کننده است—دکمه <code>(+)</code> که در اطراف ویرایشگر خواهید دید—که به شما اجازه می‌دهد تا تمام بلوک‌های محتوایی موجود را مرور کرده و آن‌ها را به نوشته خود اضافه کنید. افزونه‌ها و پوسته‌ها قادرند بلوک‌های خود را ثبت کنند و این همه نوع امکانی را برای ویرایش و انتشار غنی فراهم می‌آورد."
+
+#: post-content.php:28
+msgid "Headings are separate blocks as well, which helps with the outline and organization of your content."
+msgstr "تیترها نیز بلوک‌های جداگانه‌ای هستند که به طرح و سازماندهی محتوای شما کمک می‌کنند."
+
+#: post-content.php:93
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "یک مزیت بزرگ بلوک‌ها این است که می‌توانید آن‌ها را در جای خود ویرایش کرده و محتوای خود را به‌طور مستقیم دستکاری کنید. به جای داشتن فیلدهایی برای ویرایش مواردی مانند منبع یک نقل قول یا متن یک دکمه، می‌توانید به‌طور مستقیم محتوا را تغییر دهید. سعی کنید نقل قول زیر را ویرایش کنید:"
+
+#: post-content.php:16
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "هدف این ویرایشگر جدید این است که افزودن محتوای غنی به وردپرس را ساده و لذت‌بخش کند. این نوشته به‌طور کامل از <em>قطعات محتوا</em> تشکیل شده است—که به نوعی شبیه آجرهای لگو هستند—که می‌توانید آن‌ها را جابه‌جا کرده و با آن‌ها تعامل داشته باشید. مکان‌نمای خود را حرکت دهید و متوجه خواهید شد که بلوک‌های مختلف با حاشیه‌ها و فلش‌ها روشن می‌شوند. بر روی فلش‌ها کلیک کنید تا بلوک‌ها را به سرعت جابه‌جا کنید، بدون اینکه نگران از دست دادن محتوا در فرآیند کپی و چسباندن باشید."
+
+#: post-content.php:41
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "اگر پوسته شما از آن پشتیبانی کند دکمه \"گسترده\" را در نوار ابزار تصویر مشاهده خواهید کرد. آن را امتحان کنید."
+
+#: post-content.php:58
+msgid "Go give it a try, you may discover things WordPress can already add into your posts that you didn&#8217;t know about. Here&#8217;s a short list of what you can currently find there:"
+msgstr "بروید و امتحان کنید، ممکن است چیزهایی کشف کنید که وردپرس می‌تواند به نوشته‌های شما اضافه کند و شما از آن‌ها اطلاعی نداشتید. اینجا یک فهرست کوتاه از آنچه که در حال حاضر می‌توانید در آنجا پیدا کنید آورده شده است:"
+
+#: post-content.php:79
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "و <em> فهرست‌ها </em> البته مانند این یکی :)"
+
+#. translators: %s: Digit to indicate multiple of sizing, eg. 2X-Small.
+#: lib/class-wp-theme-json-gutenberg.php:4355
+#: build/scripts/block-library/index.js:61129
+#: build/scripts/components/index.js:42776
+msgid "Small"
+msgstr "کوچک"
+
+#: lib/init.php:36 lib/init.php:37
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: build/scripts/block-library/archives.php:62
+msgid "Select Post"
+msgstr "انتخاب نوشته"
+
+#: build/scripts/block-library/archives.php:59
+msgid "Select Week"
+msgstr "انتخاب هفته"
+
+#: build/scripts/block-library/archives.php:56
+msgid "Select Day"
+msgstr "انتخاب روز"
+
+#: build/scripts/block-library/archives.php:53
+msgid "Select Month"
+msgstr "انتخاب ماه"
+
+#: build/scripts/block-library/archives.php:50
+msgid "Select Year"
+msgstr "انتخاب سال"
+
+#: build/scripts/block-library/archives.php:30
+msgid "Archives"
+msgstr "بایگانی ها"
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/scripts/block-library/latest-comments.php:109
+msgid "%1$s on %2$s"
+msgstr "%1$s در %2$s"
+
+#: build/scripts/block-library/latest-comments.php:153
+msgid "No comments to show."
+msgstr "دیدگاهی برای نمایش وجود ندارد."
+
+#: lib/init.php:39
+msgid "https://wordpress.org/support/plugin/gutenberg/"
+msgstr "https://wordpress.org/support/plugin/gutenberg/"
+
+#. translators: %s: Digit to indicate multiple of sizing, eg. 2X-Large.
+#: lib/class-wp-theme-json-gutenberg.php:4392
+#: build/scripts/block-editor/index.js:7706
+#: build/scripts/block-library/index.js:61131
+#: build/scripts/components/index.js:42776
+msgid "Large"
+msgstr "بزرگ"
+
+#: build/scripts/block-library/embed/block.json
+msgctxt "block description"
+msgid "Add a block that displays content pulled from other sites, like Twitter or YouTube."
+msgstr "یک بلوک اضافه کنید که محتوای استخراج‌شده از سایت‌های دیگر، مانند توییتر یا یوتیوب را نمایش دهد."
+
+#: build/scripts/block-library/query-pagination.php:26
+#: build/scripts/editor/index.js:31439
+msgid "Pagination"
+msgstr "صفحه‌بندی"
+
+#: build/scripts/block-library/comment-edit-link.php:47
+#: build/routes/navigation-list/content.js:16696
+#: build/routes/post-edit/route.js:99 build/scripts/block-editor/index.js:50809
+#: build/scripts/block-library/index.js:11288
+#: build/scripts/block-library/index.js:13070
+#: build/scripts/block-library/index.js:14216
+#: build/scripts/block-library/index.js:38969
+#: build/scripts/block-library/index.js:44909
+#: build/scripts/block-library/index.js:45178
+#: build/scripts/block-library/index.js:45189
+#: build/scripts/block-library/index.js:45191
+#: build/scripts/block-library/index.js:70383
+#: build/scripts/edit-post/index.js:2698 build/scripts/edit-site/index.js:21591
+#: build/scripts/edit-site/index.js:22022
+#: build/scripts/edit-site/index.js:22464
+#: build/scripts/edit-site/index.js:41881
+#: build/scripts/edit-site/index.js:44175 build/scripts/editor/index.js:58893
+msgid "Edit"
+msgstr "ویرایش"
+
+#. translators: displayed when a page has an empty title.
+#: build/scripts/block-library/breadcrumbs.php:289
+#: build/scripts/block-library/latest-comments.php:31
+#: build/scripts/block-library/latest-posts.php:79
+#: build/scripts/block-library/page-list.php:195
+#: build/scripts/block-library/rss.php:52
+#: build/routes/navigation-list/content.js:1717
+#: build/routes/navigation-list/content.js:4852
+#: build/routes/pattern-list/content.js:1628
+#: build/routes/pattern-list/content.js:4763
+#: build/routes/post-list/content.js:1607
+#: build/routes/post-list/content.js:4742
+#: build/routes/template-list/content.js:1762
+#: build/routes/template-list/content.js:4897
+#: build/routes/template-list/content.js:18396
+#: build/routes/template-part-list/content.js:1652
+#: build/routes/template-part-list/content.js:4787
+#: build/scripts/block-library/index.js:32985
+#: build/scripts/block-library/index.js:33022
+#: build/scripts/block-library/index.js:45048
+#: build/scripts/block-library/index.js:45052
+#: build/scripts/block-library/index.js:51047
+#: build/scripts/block-library/index.js:51059
+#: build/scripts/block-library/index.js:51072
+#: build/scripts/block-library/index.js:51086
+#: build/scripts/core-commands/index.js:379
+#: build/scripts/core-commands/index.js:464
+#: build/scripts/core-data/index.js:16327
+#: build/scripts/core-data/index.js:16351
+#: build/scripts/core-data/index.js:16375
+#: build/scripts/core-data/index.js:16397 build/scripts/edit-post/index.js:2691
+#: build/scripts/edit-site/index.js:22015
+#: build/scripts/edit-site/index.js:24502
+#: build/scripts/edit-site/index.js:27637
+#: build/scripts/edit-site/index.js:43607
+#: build/scripts/edit-site/index.js:44168
+#: build/scripts/edit-site/index.js:45418
+#: build/scripts/edit-site/index.js:46098 build/scripts/editor/index.js:5025
+#: build/scripts/editor/index.js:5220 build/scripts/editor/index.js:41902
+#: build/scripts/media-utils/index.js:2256
+#: build/scripts/media-utils/index.js:5273
+#: build/scripts/media-utils/index.js:17804
+#: build/scripts/core-commands/index.js:384
+#: build/scripts/core-commands/index.js:492
+#: build/scripts/core-commands/index.min.js:384
+#: build/scripts/core-commands/index.min.js:492
+msgid "(no title)"
+msgstr "(بدون عنوان)"
+
+#: build/scripts/block-library/read-more.php:39
+#: build/scripts/block-library/index.js:27574
+#: build/scripts/block-library/index.js:37272
+#: build/scripts/block-library/index.js:57454
+#: build/scripts/block-library/index.js:57472
+msgid "Read more"
+msgstr "ادامه مطلب"
+
+#: lib/experimental/navigation-theme-opt-in.php:93
+#: lib/experimental/navigation-theme-opt-in.php:98
+#: build/scripts/edit-widgets/index.js:2686 build/scripts/editor/index.js:57144
+msgid "Block"
+msgstr "بلوک"
+
+#: build/scripts/block-library/table-of-contents.php:22
+#: build/scripts/block-library/index.js:64846
+msgid "Table of Contents"
+msgstr "جدول محتواها"
+
+#: build/scripts/block-library/image.php:307
+#: build/scripts/block-library/navigation-overlay-close.php:16
+#: build/scripts/block-library/navigation-overlay-close.php:34
+#: build/scripts/block-library/navigation.php:745
+#: build/scripts/block-editor/index.js:53634
+#: build/scripts/block-editor/index.js:60592
+#: build/scripts/block-editor/index.js:68044
+#: build/scripts/block-library/index.js:38152
+#: build/scripts/block-library/index.js:39103
+#: build/scripts/block-library/index.js:44357
+#: build/scripts/block-library/index.js:44366
+#: build/scripts/components/index.js:29467
+#: build/scripts/components/index.js:39545
+#: build/scripts/components/index.js:46215
+#: build/scripts/edit-site/index.js:39640
+#: build/scripts/edit-widgets/index.js:3744 build/scripts/editor/index.js:14586
+#: build/scripts/editor/index.js:35453 build/scripts/editor/index.js:44724
+#: build/scripts/editor/index.js:45801 build/scripts/editor/index.js:53872
+msgid "Close"
+msgstr "بستن"
+
+#: lib/init.php:53
+msgid "Experiments"
+msgstr "آزمایش‌ها"
+
+#: gutenberg.php:40
+msgid "Gutenberg development mode requires files to be built. Run <code>npm install</code> to install dependencies, <code>npm run build</code> to build the files or <code>npm run dev</code> to build the files and watch for changes. Read the <a href=\"https://github.com/WordPress/gutenberg/blob/HEAD/docs/contributors/code/getting-started-with-code-contribution.md\">contributing</a> file for more information."
+msgstr "حالت توسعه گوتنبرگ نیاز به ساخت فایل‌ها دارد. برای نصب وابستگی‌ها، دستور <code>npm install</code> را اجرا کنید، برای ساخت فایل‌ها از <code>npm run build</code> استفاده کنید یا برای ساخت فایل‌ها و نظارت بر تغییرات از <code>npm run dev</code> استفاده کنید. برای اطلاعات بیشتر، فایل <a href=\"https://github.com/WordPress/gutenberg/blob/HEAD/docs/contributors/code/getting-started-with-code-contribution.md\">مشارکت</a> را مطالعه کنید."
+
+#. Plugin Name of the plugin
+#: gutenberg.php lib/init.php:17 lib/init.php:18
+msgid "Gutenberg"
+msgstr "گوتنبرگ"
+
+#. translators: %s: human-readable time difference.
+#: build/scripts/block-library/comment-date.php:33
+#: build/scripts/block-library/post-date.php:68
+msgid "%s ago"
+msgstr "%s قبل"
+
+#. Plugin URI of the plugin
+#: gutenberg.php
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#: lib/init.php:43 lib/init.php:44
+msgid "Documentation"
+msgstr "مستندات"
+
+#. Author of the plugin
+#: gutenberg.php
+msgid "Gutenberg Team"
+msgstr "تیم گوتنبرگ"
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:27
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "گوتنبرگ به وردپرس %s یا جدیدتر برای عملکرد صحیح نیاز دارد. لطفا قبل از فعالسازی گوتنبرگ وردپرس را ارتقاء دهید."
+
+#. translators: %s: human-readable time difference.
+#: build/scripts/block-library/post-date.php:65
+msgid "%s from now"
+msgstr "%s قبل"
+
+#: lib/init.php:27 lib/init.php:28
+msgid "Demo"
+msgstr "نسخه نمایشی"

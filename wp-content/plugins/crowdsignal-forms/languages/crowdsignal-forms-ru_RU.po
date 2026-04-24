@@ -1,0 +1,306 @@
+# Translation of Plugins - Crowdsignal Forms - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Crowdsignal Forms - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-26 09:54:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Crowdsignal Forms - Stable (latest release)\n"
+
+#. translators: %1$s is a link to Crowdsignal's home page.
+#: includes/admin/views/html-admin-setup-step-1.php:31
+msgid "To collect and manage responses you need to connect the plugin to <a href=\"%1$s\">Crowdsignal</a>. <br />It will take less than a minute and it’s free."
+msgstr "Чтобы получать отзывы и управлять ими, плагин требуется подключить к <a href=\"%1$s\">Crowdsignal</a>. <br />Это бесплатно и займёт менее минуты."
+
+#. translators: %1$s is a link to Crowdsignal's support page.
+#: includes/admin/views/html-admin-setup-step-3.php:40
+msgid "Do you want to know more about Crowdsignal and our blocks? <a href=\"%1$s\" target=\"_blank\">Learn more</a>."
+msgstr "Хотите узнать больше о Crowdsignal и блоках? <a href=\"%1$s\" target=\"_blank\">Подробнее</a>."
+
+#: includes/admin/views/html-admin-setup-step-3.php:25
+msgid "You can use Crowdsignal blocks right in your editor. Search for Crowdsignal in the blocks library and add the blocks to your page. Here is a short video to get you started:"
+msgstr "Блоки Crowdsignal можно использовать непосредственно в редакторе. Выполните поиск по запросу Crowdsignal в библиотеке блоков и добавьте нужные блоки на свою страницу. Вот короткое видео, которое поможет вам начать работу:"
+
+#: includes/admin/views/html-admin-setup-header.php:15 build/editor.js:7
+msgid "Crowdsignal Settings"
+msgstr "Настройки Crowdsignal"
+
+#: includes/admin/views/html-admin-settings.php:61
+msgid "Your Crowdsignal API Key"
+msgstr "Ваш ключ API Crowdsignal"
+
+#: includes/admin/views/html-admin-settings.php:47
+msgid "Get API Key"
+msgstr "Получить ключ API"
+
+#: includes/admin/views/html-admin-settings.php:43
+msgid "If you have a Crowdsignal account, click the \"Get API Key\" button to connect. This will open a new window."
+msgstr "Если у вас есть учетная запись Crowdsignal, нажмите кнопку «Получить ключ API» для подключения. Откроется новое окно."
+
+#: includes/admin/views/html-admin-settings.php:37
+msgid "Crowdsignal account page"
+msgstr "страницу учетной записи Crowdsignal"
+
+#. translators: Placeholder is the text "Crowdsignal acount page".
+#: includes/admin/views/html-admin-settings.php:34
+msgid "Visit your %s to find out more about your settings."
+msgstr "Перейдите на страницу %s, чтобы узнать больше о настройках."
+
+#. translators: Placeholder is the text "Crowdsignal".
+#: includes/admin/views/html-admin-settings.php:26
+msgid "Your website is connected to a %s account to collect responses and data from your visitors."
+msgstr "Ваш веб-сайт подключен к учетной записи %s для сбора ответов и данных посетителей."
+
+#: includes/admin/views/html-admin-settings.php:21
+msgid "API Key"
+msgstr "API-ключ"
+
+#: includes/admin/views/html-admin-settings.php:15
+msgid "Account Settings"
+msgstr "Настройки учётной записи"
+
+#: includes/admin/views/html-admin-dashboard-teaser.php:59
+msgid "website plugins page"
+msgstr "страницы плагинов для веб-сайта"
+
+#. translators: Placeholder is the text "website plugins page".
+#: includes/admin/views/html-admin-dashboard-teaser.php:56
+msgid "Install the Crowdsignal Dashboard plugin directly from your %s."
+msgstr "Установите плагин консоли Crowdsignal непосредственно со страницы %s."
+
+#. translators: %1$s is a link to Crowdsignal's support page.
+#: includes/admin/views/html-admin-dashboard-teaser.php:43
+msgid "Do you want to know more about Crowdsignal? <a href=\"%1$s\" target=\"_blank\">Learn more</a>."
+msgstr "Хотите узнать больше о Crowdsignal? <a href=\"%1$s\" target=\"_blank\">Подробнее</a>."
+
+#: includes/admin/views/html-admin-dashboard-teaser.php:31
+msgid "second plugin"
+msgstr "дополнительный плагин"
+
+#. translators: Placeholder is the text "second plugin".
+#: includes/admin/views/html-admin-dashboard-teaser.php:28
+msgid "We have a %s for you that allows you to manage all your Crowdsignal projects right in WP-Admin. Get an overview of all your active projects and get easy access to your results pages."
+msgstr "У нас есть %s, который позволяет управлять всеми проектами Crowdsignal прямо в консоли. Он предоставляет обзор всех активных проектов и удобный доступ к страницам результатов."
+
+#: includes/admin/views/html-admin-dashboard-teaser.php:22
+msgid "The Crowdsignal Dashboard plugin"
+msgstr "Плагин консоли Crowdsignal"
+
+#: includes/admin/views/html-admin-dashboard-teaser.php:16
+msgid "Manage your Crowdsignal projects inside WordPress"
+msgstr "Управляйте проектами Crowdsignal в WordPress"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-feedback-block.php:164
+#: build/editor.js:4
+msgid "Your Email"
+msgstr "Ваш адрес эл. почты"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-feedback-block.php:192
+#: build/editor.js:4
+msgid "Thanks for letting us know!"
+msgstr "Благодарим за информацию!"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-feedback-block.php:176
+#: build/editor.js:4
+msgid "👋 Hey there!"
+msgstr "👋 Так-так!"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-feedback-block.php:172
+#: build/editor.js:4
+msgid "Please let us know how we can do better…"
+msgstr "Подскажите, пожалуйста, что мы можем улучшить..."
+
+#: includes/frontend/blocks/class-crowdsignal-forms-feedback-block.php:211
+#: build/editor.js:3 build/editor.js:4
+msgid "Feedback"
+msgstr "Обратная связь"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-nps-block.php:162
+#: build/editor.js:3
+msgid "How likely is it that you would recommend this project to a friend or colleague?"
+msgstr "Насколько вероятно, что вы порекомендуете этот проект своим друзьям или коллегам?"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-nps-block.php:158
+#: build/editor.js:3
+msgid "Not likely at all"
+msgstr "Крайне маловероятно"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-nps-block.php:154
+#: build/editor.js:3
+msgid "Extremely likely"
+msgstr "Очень вероятно"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-nps-block.php:143
+#: build/editor.js:3
+msgid "Thanks so much for your response! How could we do better?"
+msgstr "Большое спасибо за ваш ответ! Что мы можем сделать лучше?"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-nps-block.php:136
+#: build/editor.js:3
+msgid "Please help us understand your rating"
+msgstr "Помогите нам понять вашу оценку"
+
+#: includes/admin/views/html-admin-setup-header.php:53
+msgid "Your API key has not been updated, please try again."
+msgstr "Ваш ключ API не обновлен, попробуйте ещё раз."
+
+#: includes/admin/views/html-admin-setup-step-1.php:46
+msgid "Let’s get started"
+msgstr "Приступим"
+
+#: includes/admin/views/html-admin-setup-step-1.php:25
+msgid "Welcome to Crowdsignal Forms"
+msgstr "Добро пожаловать в раздел форм Crowdsignal"
+
+#: includes/admin/views/html-admin-notice-core-setup.php:22
+msgid "Skip Setup"
+msgstr "Пропустить установку"
+
+#: includes/admin/views/html-admin-notice-core-setup.php:21
+msgid "Let's Get Started"
+msgstr "Приступим"
+
+#: includes/admin/views/html-admin-notice-core-setup.php:17
+msgid "You are nearly ready to start creating polls with <strong>Crowdsignal</strong>."
+msgstr "Вы почти готовы создавать голосования с помощью <strong>Crowdsignal</strong>."
+
+#: includes/admin/views/html-admin-setup-step-2.php:28
+msgid "You're ready to start using Crowdsignal!"
+msgstr "Вы готовы начать работу с Crowdsignal!"
+
+#: includes/admin/views/html-admin-setup-footer.php:29
+msgid "Privacy"
+msgstr "Политика конфиденциальности"
+
+#: includes/admin/views/html-admin-setup-footer.php:29
+msgid "Privacy Policy"
+msgstr "Политика конфиденциальности"
+
+#: includes/admin/views/html-admin-setup-footer.php:28
+msgid "Terms"
+msgstr "Значения"
+
+#: includes/admin/views/html-admin-setup-footer.php:28
+msgid "Terms of Service"
+msgstr "Условия сервиса"
+
+#: includes/admin/views/html-admin-setup-footer.php:27
+msgid "Support"
+msgstr "Поддержка"
+
+#: includes/admin/views/html-admin-setup-footer.php:27
+msgid "Crowdsignal Support"
+msgstr "Поддержка Crowdsignal"
+
+#: includes/admin/views/html-admin-setup-step-3.php:22
+msgid "First time using Crowdsignal?"
+msgstr "Вы впервые пользуетесь Crowdsignal?"
+
+#: includes/admin/views/html-admin-setup-header.php:46
+msgid "You have been connected to Crowdsignal."
+msgstr "Вы подключены к Crowdsignal."
+
+#: includes/admin/views/html-admin-setup-header.php:39
+msgid "Success! Your Crowdsignal account is successfully connected! You are ready!"
+msgstr "Поздравляем! Ваша учётная запись Crowdsignal успешно подключена! Всё готово!"
+
+#: includes/admin/views/html-admin-setup-header.php:32
+msgid "Successfully disconnected from Crowdsignal."
+msgstr "Отключение от Crowdsignal успешно выполнено."
+
+#: includes/admin/views/html-admin-setup-header.php:25
+msgid "Could not disconnect. Please try again."
+msgstr "Не удалось отключиться. Повторите попытку."
+
+#: includes/admin/views/html-admin-settings.php:87
+msgid "Connect"
+msgstr "Подключиться"
+
+#: includes/admin/views/html-admin-settings.php:81
+msgid "Disconnect"
+msgstr "Отключить"
+
+#: includes/admin/views/html-admin-settings.php:54
+msgid "Settings successfully saved"
+msgstr "Настройки успешно сохранены"
+
+#: includes/admin/class-crowdsignal-forms-settings.php:143
+msgid "Enter Crowdsignal API Key"
+msgstr "Введите ключ Crowdsignal API"
+
+#: includes/admin/class-crowdsignal-forms-settings.php:138
+msgid "General"
+msgstr "Общие"
+
+#: includes/admin/views/html-admin-setup-step-1.php:16
+#: includes/admin/views/html-admin-setup-step-3.php:16
+msgid "Getting Started"
+msgstr "Начало работы"
+
+#: includes/admin/class-crowdsignal-forms-admin.php:91 build/editor.js:3
+#: build/editor.js:7
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/class-crowdsignal-forms.php:480
+msgid "Crowdsignal"
+msgstr "Crowdsignal"
+
+#: includes/admin/class-crowdsignal-forms-admin-notices.php:116
+msgid "You don&#8217;t have permission to do this."
+msgstr "У вас нет прав на выполнение этого действия."
+
+#: includes/admin/class-crowdsignal-forms-admin-notices.php:112
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Сбой при выполнении действия. Обновите страницу и попробуйте снова."
+
+#: includes/rest-api/controllers/class-feedback-controller.php:100
+#: includes/rest-api/controllers/class-nps-controller.php:100
+#: includes/rest-api/controllers/class-polls-controller.php:278
+msgid "Resource not found"
+msgstr "Ресурс не найден"
+
+#: includes/rest-api/controllers/class-polls-controller.php:187
+msgid "Invalid post ID"
+msgstr "Неверный идентификатор записи"
+
+#: includes/rest-api/controllers/class-polls-controller.php:138
+#: includes/rest-api/controllers/class-polls-controller.php:201
+msgid "Invalid poll ID"
+msgstr "Неверный идентификатор голосования"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-feedback-block.php:188
+#: includes/frontend/blocks/class-crowdsignal-forms-nps-block.php:169
+#: includes/frontend/blocks/class-crowdsignal-forms-poll-block.php:157
+#: build/editor.js:3 build/editor.js:4 build/editor.js:7
+msgid "Submit"
+msgstr "Отправить"
+
+#. Author URI of the plugin
+#: crowdsignal-forms.php
+msgid "https://automattic.com/"
+msgstr "https://automattic.com/"
+
+#. Author of the plugin
+#: crowdsignal-forms.php
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin
+#: crowdsignal-forms.php
+msgid "Crowdsignal Form Blocks"
+msgstr "Блоки форм Crowdsignal"
+
+#. Plugin URI of the plugin
+#: crowdsignal-forms.php
+msgid "https://crowdsignal.com/crowdsignal-forms/"
+msgstr "https://crowdsignal.com/crowdsignal-forms/"
+
+#. Plugin Name of the plugin
+#: crowdsignal-forms.php
+msgid "Crowdsignal Forms"
+msgstr "Crowdsignal Forms"

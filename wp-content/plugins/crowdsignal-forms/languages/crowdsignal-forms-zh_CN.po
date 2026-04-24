@@ -1,0 +1,306 @@
+# Translation of Plugins - Crowdsignal Forms - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Crowdsignal Forms - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-25 11:54:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Crowdsignal Forms - Stable (latest release)\n"
+
+#. translators: %1$s is a link to Crowdsignal's home page.
+#: includes/admin/views/html-admin-setup-step-1.php:31
+msgid "To collect and manage responses you need to connect the plugin to <a href=\"%1$s\">Crowdsignal</a>. <br />It will take less than a minute and it’s free."
+msgstr "要收集和管理回复，您需要将插件连接到 <a href=\"%1$s\">Crowdsignal</a>。 <br />此过程只需不到一分钟的时间，而且免费。"
+
+#. translators: %1$s is a link to Crowdsignal's support page.
+#: includes/admin/views/html-admin-setup-step-3.php:40
+msgid "Do you want to know more about Crowdsignal and our blocks? <a href=\"%1$s\" target=\"_blank\">Learn more</a>."
+msgstr "您想进一步了解 Crowdsignal 和我们的区块吗？ <a href=\"%1$s\" target=\"_blank\">了解更多</a>。"
+
+#: includes/admin/views/html-admin-setup-step-3.php:25
+msgid "You can use Crowdsignal blocks right in your editor. Search for Crowdsignal in the blocks library and add the blocks to your page. Here is a short video to get you started:"
+msgstr "您可以直接在您的编辑器中使用 Crowdsignal 区块。 在区块库中搜索 Crowdsignal 并将区块添加至您的页面。 下面提供了一个帮助您快速上手的简短视频："
+
+#: includes/admin/views/html-admin-setup-header.php:15 build/editor.js:7
+msgid "Crowdsignal Settings"
+msgstr "Crowdsignal 设置"
+
+#: includes/admin/views/html-admin-settings.php:61
+msgid "Your Crowdsignal API Key"
+msgstr "您的 Crowdsignal API 密钥"
+
+#: includes/admin/views/html-admin-settings.php:47
+msgid "Get API Key"
+msgstr "获取 API 密钥"
+
+#: includes/admin/views/html-admin-settings.php:43
+msgid "If you have a Crowdsignal account, click the \"Get API Key\" button to connect. This will open a new window."
+msgstr "如果您有 Crowdsignal 账户，请点击“获取 API 密钥”按钮进行关联。 这样将打开一个新窗口。"
+
+#: includes/admin/views/html-admin-settings.php:37
+msgid "Crowdsignal account page"
+msgstr "Crowdsignal 账户页面"
+
+#. translators: Placeholder is the text "Crowdsignal acount page".
+#: includes/admin/views/html-admin-settings.php:34
+msgid "Visit your %s to find out more about your settings."
+msgstr "访问您的 %s，了解更多有关设置的信息。"
+
+#. translators: Placeholder is the text "Crowdsignal".
+#: includes/admin/views/html-admin-settings.php:26
+msgid "Your website is connected to a %s account to collect responses and data from your visitors."
+msgstr "您的网站已关联至 %s 账户，可收集来自访客的回复和数据。"
+
+#: includes/admin/views/html-admin-settings.php:21
+msgid "API Key"
+msgstr "API 密钥"
+
+#: includes/admin/views/html-admin-settings.php:15
+msgid "Account Settings"
+msgstr "账户设置"
+
+#: includes/admin/views/html-admin-dashboard-teaser.php:59
+msgid "website plugins page"
+msgstr "网站插件页面"
+
+#. translators: Placeholder is the text "website plugins page".
+#: includes/admin/views/html-admin-dashboard-teaser.php:56
+msgid "Install the Crowdsignal Dashboard plugin directly from your %s."
+msgstr "直接通过您的%s安装 Crowdsignal 仪表盘插件。"
+
+#. translators: %1$s is a link to Crowdsignal's support page.
+#: includes/admin/views/html-admin-dashboard-teaser.php:43
+msgid "Do you want to know more about Crowdsignal? <a href=\"%1$s\" target=\"_blank\">Learn more</a>."
+msgstr "您想进一步了解 Crowdsignal 吗？ <a href=\"%1$s\" target=\"_blank\">了解更多</a>。"
+
+#: includes/admin/views/html-admin-dashboard-teaser.php:31
+msgid "second plugin"
+msgstr "第二个插件"
+
+#. translators: Placeholder is the text "second plugin".
+#: includes/admin/views/html-admin-dashboard-teaser.php:28
+msgid "We have a %s for you that allows you to manage all your Crowdsignal projects right in WP-Admin. Get an overview of all your active projects and get easy access to your results pages."
+msgstr "我们为您提供了%s，让您可以直接在 WP-Admin 中管理所有 Crowdsignal 项目。 大致了解所有活跃的项目，轻松访问您的结果页。"
+
+#: includes/admin/views/html-admin-dashboard-teaser.php:22
+msgid "The Crowdsignal Dashboard plugin"
+msgstr "Crowdsignal 仪表盘插件"
+
+#: includes/admin/views/html-admin-dashboard-teaser.php:16
+msgid "Manage your Crowdsignal projects inside WordPress"
+msgstr "在 WordPress 内管理您的 Crowdsignal 项目"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-feedback-block.php:164
+#: build/editor.js:4
+msgid "Your Email"
+msgstr "您的电子邮件"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-feedback-block.php:192
+#: build/editor.js:4
+msgid "Thanks for letting us know!"
+msgstr "感谢您的回答！"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-feedback-block.php:176
+#: build/editor.js:4
+msgid "👋 Hey there!"
+msgstr "👋 您好！"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-feedback-block.php:172
+#: build/editor.js:4
+msgid "Please let us know how we can do better…"
+msgstr "请告知我们如何改善…"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-feedback-block.php:211
+#: build/editor.js:3 build/editor.js:4
+msgid "Feedback"
+msgstr "反馈"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-nps-block.php:162
+#: build/editor.js:3
+msgid "How likely is it that you would recommend this project to a friend or colleague?"
+msgstr "您会向朋友或同事推荐此项目的可能性有多大？"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-nps-block.php:158
+#: build/editor.js:3
+msgid "Not likely at all"
+msgstr "根本不可能"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-nps-block.php:154
+#: build/editor.js:3
+msgid "Extremely likely"
+msgstr "极有可能"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-nps-block.php:143
+#: build/editor.js:3
+msgid "Thanks so much for your response! How could we do better?"
+msgstr "非常感谢您的回复！ 我们如何才能做到更好？"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-nps-block.php:136
+#: build/editor.js:3
+msgid "Please help us understand your rating"
+msgstr "请帮助我们了解您的评分"
+
+#: includes/admin/views/html-admin-setup-header.php:53
+msgid "Your API key has not been updated, please try again."
+msgstr "您的 API 密钥尚未更新，请再试一次。"
+
+#: includes/admin/views/html-admin-setup-step-1.php:46
+msgid "Let’s get started"
+msgstr "开始体验吧"
+
+#: includes/admin/views/html-admin-setup-step-1.php:25
+msgid "Welcome to Crowdsignal Forms"
+msgstr "欢迎使用 Crowdsignal Forms"
+
+#: includes/admin/views/html-admin-notice-core-setup.php:22
+msgid "Skip Setup"
+msgstr "跳过设置"
+
+#: includes/admin/views/html-admin-notice-core-setup.php:21
+msgid "Let's Get Started"
+msgstr "开始体验吧"
+
+#: includes/admin/views/html-admin-notice-core-setup.php:17
+msgid "You are nearly ready to start creating polls with <strong>Crowdsignal</strong>."
+msgstr "您离准备好开始通过 <strong>Crowdsignal</strong> 创建投票不远了。"
+
+#: includes/admin/views/html-admin-setup-step-2.php:28
+msgid "You're ready to start using Crowdsignal!"
+msgstr "您已准备好开始使用 Crowdsignal 了！"
+
+#: includes/admin/views/html-admin-setup-footer.php:29
+msgid "Privacy"
+msgstr "隐私"
+
+#: includes/admin/views/html-admin-setup-footer.php:29
+msgid "Privacy Policy"
+msgstr "隐私政策"
+
+#: includes/admin/views/html-admin-setup-footer.php:28
+msgid "Terms"
+msgstr "类别"
+
+#: includes/admin/views/html-admin-setup-footer.php:28
+msgid "Terms of Service"
+msgstr "服务条款"
+
+#: includes/admin/views/html-admin-setup-footer.php:27
+msgid "Support"
+msgstr "支持"
+
+#: includes/admin/views/html-admin-setup-footer.php:27
+msgid "Crowdsignal Support"
+msgstr "Crowdsignal 支持"
+
+#: includes/admin/views/html-admin-setup-step-3.php:22
+msgid "First time using Crowdsignal?"
+msgstr "首次使用 Crowdsignal？"
+
+#: includes/admin/views/html-admin-setup-header.php:46
+msgid "You have been connected to Crowdsignal."
+msgstr "您已经连接到 Crowdsignal。"
+
+#: includes/admin/views/html-admin-setup-header.php:39
+msgid "Success! Your Crowdsignal account is successfully connected! You are ready!"
+msgstr "成功！ 您的 Crowdsignal 帐户已成功连接！ 您已准备就绪！"
+
+#: includes/admin/views/html-admin-setup-header.php:32
+msgid "Successfully disconnected from Crowdsignal."
+msgstr "已成功与 Crowdsignal 断开连接。"
+
+#: includes/admin/views/html-admin-setup-header.php:25
+msgid "Could not disconnect. Please try again."
+msgstr "无法断开连接。 请重试。"
+
+#: includes/admin/views/html-admin-settings.php:87
+msgid "Connect"
+msgstr "连接"
+
+#: includes/admin/views/html-admin-settings.php:81
+msgid "Disconnect"
+msgstr "断开连接"
+
+#: includes/admin/views/html-admin-settings.php:54
+msgid "Settings successfully saved"
+msgstr "设置已成功保存"
+
+#: includes/admin/class-crowdsignal-forms-settings.php:143
+msgid "Enter Crowdsignal API Key"
+msgstr "输入 Crowdsignal API 密钥"
+
+#: includes/admin/class-crowdsignal-forms-settings.php:138
+msgid "General"
+msgstr "常规"
+
+#: includes/admin/views/html-admin-setup-step-1.php:16
+#: includes/admin/views/html-admin-setup-step-3.php:16
+msgid "Getting Started"
+msgstr "开始体验吧"
+
+#: includes/admin/class-crowdsignal-forms-admin.php:91 build/editor.js:3
+#: build/editor.js:7
+msgid "Settings"
+msgstr "设置"
+
+#: includes/class-crowdsignal-forms.php:480
+msgid "Crowdsignal"
+msgstr "Crowdsignal"
+
+#: includes/admin/class-crowdsignal-forms-admin-notices.php:116
+msgid "You don&#8217;t have permission to do this."
+msgstr "您无权执行此操作。"
+
+#: includes/admin/class-crowdsignal-forms-admin-notices.php:112
+msgid "Action failed. Please refresh the page and retry."
+msgstr "操作失败。 请刷新页面并重试。"
+
+#: includes/rest-api/controllers/class-feedback-controller.php:100
+#: includes/rest-api/controllers/class-nps-controller.php:100
+#: includes/rest-api/controllers/class-polls-controller.php:278
+msgid "Resource not found"
+msgstr "未找到资源"
+
+#: includes/rest-api/controllers/class-polls-controller.php:187
+msgid "Invalid post ID"
+msgstr "文章 ID 无效"
+
+#: includes/rest-api/controllers/class-polls-controller.php:138
+#: includes/rest-api/controllers/class-polls-controller.php:201
+msgid "Invalid poll ID"
+msgstr "投票 ID 无效"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-feedback-block.php:188
+#: includes/frontend/blocks/class-crowdsignal-forms-nps-block.php:169
+#: includes/frontend/blocks/class-crowdsignal-forms-poll-block.php:157
+#: build/editor.js:3 build/editor.js:4 build/editor.js:7
+msgid "Submit"
+msgstr "提交"
+
+#. Author URI of the plugin
+#: crowdsignal-forms.php
+msgid "https://automattic.com/"
+msgstr "https://automattic.com/"
+
+#. Author of the plugin
+#: crowdsignal-forms.php
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin
+#: crowdsignal-forms.php
+msgid "Crowdsignal Form Blocks"
+msgstr "Crowdsignal Forms 区块"
+
+#. Plugin URI of the plugin
+#: crowdsignal-forms.php
+msgid "https://crowdsignal.com/crowdsignal-forms/"
+msgstr "https://crowdsignal.com/crowdsignal-forms/"
+
+#. Plugin Name of the plugin
+#: crowdsignal-forms.php
+msgid "Crowdsignal Forms"
+msgstr "Crowdsignal 论坛"

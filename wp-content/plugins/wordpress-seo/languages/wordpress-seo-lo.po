@@ -1,0 +1,4016 @@
+# Translation of Plugins - Yoast SEO &#8211; Advanced SEO with real-time guidance and built-in AI - Stable (latest release) in Lao
+# This file is distributed under the same license as the Plugins - Yoast SEO &#8211; Advanced SEO with real-time guidance and built-in AI - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-02-17 09:45:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: lo_LA\n"
+"Project-Id-Version: Plugins - Yoast SEO &#8211; Advanced SEO with real-time guidance and built-in AI - Stable (latest release)\n"
+
+#. translators: %1$s expands to the post type label this task is about
+#: src/task-list/application/tasks/set-search-appearance-templates.php:132
+msgid "Set search appearance templates for your content type: %1$s"
+msgstr "ຕັ້ງຄ່າແມ່ແບບການສະແດງຜົນການຄົ້ນຫາສຳລັບປະເພດເນື້ອຫາ: %1$s"
+
+#: src/task-list/domain/exceptions/complete-llms-task-exception.php:17
+msgid "Failed to enable llms.txt option."
+msgstr "ບໍ່ສາມາດເປີດໃຊ້ຕົວເລືອກ llms.txt ໄດ້."
+
+#: src/task-list/domain/exceptions/complete-hello-world-task-exception.php:17
+msgid "Failed to delete the Hello World post."
+msgstr "ບໍ່ສາມາດລຶບໂພສ Hello World ໄດ້."
+
+#: src/task-list/application/tasks/set-search-appearance-templates.php:116
+msgid "Set search templates"
+msgstr "ຕັ້ງຄ່າແມ່ແບບການຄົ້ນຫາ"
+
+#: src/presenters/admin/sidebar-presenter.php:115 js/dist/general-page.js:5
+#: js/dist/new-settings.js:5 js/dist/support.js:4
+msgid "Less friction. Smarter optimization."
+msgstr "ອຸປະສັກໜ້ອຍລົງ. ປັບແຕ່ງໄດ້ສະຫຼາດຂຶ້ນ."
+
+#: src/presenters/admin/sidebar-presenter.php:86 js/dist/ai-consent.js:2
+#: js/dist/ai-generator.js:2 js/dist/block-editor.js:18
+#: js/dist/classic-editor.js:1 js/dist/editor-modules.js:116
+#: js/dist/externals-components.js:127 js/dist/general-page.js:5
+#: js/dist/integrations-page.js:28 js/dist/new-settings.js:5
+#: js/dist/redirects.js:1 js/dist/support.js:4
+msgid "Receive clear SEO and readability guidance to optimize your products"
+msgstr "ໄດ້ຮັບຄຳແນະນຳດ້ານເອັສອີໂອ ແລະ ການອ່ານທີ່ຊັດເຈນເພື່ອປັບແຕ່ງຜະລິດຕະພັນເຈົ້າ"
+
+#: src/presenters/admin/sidebar-presenter.php:85 js/dist/ai-consent.js:2
+#: js/dist/ai-generator.js:2 js/dist/block-editor.js:18
+#: js/dist/classic-editor.js:1 js/dist/editor-modules.js:116
+#: js/dist/externals-components.js:127 js/dist/general-page.js:5
+#: js/dist/integrations-page.js:28 js/dist/new-settings.js:5
+#: js/dist/redirects.js:1 js/dist/support.js:4
+msgid "Create optimized SEO titles & meta descriptions with AI"
+msgstr "ສ້າງຫົວຂໍ້ເອັສອີໂອ ແລະ ຄຳອະທິບາຍເມຕ້າທີ່ປັບແຕ່ງແລ້ວດ້ວຍ AI"
+
+#: src/presenters/admin/sidebar-presenter.php:84 js/dist/ai-consent.js:2
+#: js/dist/ai-generator.js:2 js/dist/block-editor.js:18
+#: js/dist/classic-editor.js:1 js/dist/editor-modules.js:116
+#: js/dist/externals-components.js:127 js/dist/general-page.js:5
+#: js/dist/integrations-page.js:28 js/dist/new-settings.js:5
+#: js/dist/redirects.js:1 js/dist/support.js:4
+msgid "Make sure search engines show the right version of your product page"
+msgstr "ຮັບປະກັນວ່າເຄື່ອງມືຄົ້ນຫາສະແດງເວີຊັນທີ່ຖືກຕ້ອງຂອງໜ້າຜະລິດຕະພັນເຈົ້າ"
+
+#: src/presenters/admin/sidebar-presenter.php:83 js/dist/ai-consent.js:2
+#: js/dist/ai-generator.js:2 js/dist/block-editor.js:18
+#: js/dist/classic-editor.js:1 js/dist/editor-modules.js:116
+#: js/dist/externals-components.js:127 js/dist/general-page.js:5
+#: js/dist/integrations-page.js:28 js/dist/new-settings.js:5
+#: js/dist/redirects.js:1 js/dist/support.js:4
+msgid "Add product details to help your listings stand out"
+msgstr "ເພີ່ມລາຍລະອຽດຜະລິດຕະພັນເພື່ອຊ່ວຍໃຫ້ລາຍການສິນຄ້າຂອງເຈົ້າໂດດເດັ່ນ"
+
+#: src/presenters/admin/sidebar-presenter.php:77 js/dist/general-page.js:5
+#: js/dist/new-settings.js:5 js/dist/support.js:4
+msgid "Help ready-to-buy shoppers and search engines find your product."
+msgstr "ຊ່ວຍໃຫ້ນັກຊື້ທີ່ພ້ອມຈະຊື້ ແລະ ເຄື່ອງມືຄົ້ນຫາຊອກຫາຜະລິດຕະພັນເຈົ້າເຫັນ."
+
+#: src/presenters/admin/sidebar-presenter.php:72 js/dist/general-page.js:5
+#: js/dist/new-settings.js:5 js/dist/support.js:4
+msgid "Grow your store's visibility!"
+msgstr "ເພີ່ມການເບິ່ງເຫັນໃຫ້ກັບຮ້ານຄ້າຂອງເຈົ້າ!"
+
+#: src/task-list/application/tasks/enable-llms-txt.php:108
+msgid "Create an llms.txt file"
+msgstr "ສ້າງໄຟລ໌ llms.txt"
+
+#: src/task-list/application/tasks/enable-llms-txt.php:95
+msgid "Enable llms.txt"
+msgstr "ເປີດໃຊ້ງານ llms.txt"
+
+#: src/task-list/application/tasks/delete-hello-world.php:116
+msgid "Remove the “Hello World” post"
+msgstr "ລຶບໂພສ “Hello World” ອອກ"
+
+#: src/task-list/application/tasks/delete-hello-world.php:103
+#: src/task-list/application/tasks/delete-sample-page.php:111
+msgid "Delete for me"
+msgstr "ລຶບໃຫ້ຂ້ອຍ"
+
+#: src/task-list/application/tasks/create-new-content.php:108
+msgid "Create new content"
+msgstr "ສ້າງເນື້ອຫາໃໝ່"
+
+#: src/task-list/application/tasks/create-new-content.php:95
+msgid "Create new post"
+msgstr "ສ້າງໂພສໃໝ່"
+
+#: src/presenters/admin/sidebar-presenter.php:115 js/dist/general-page.js:5
+#: js/dist/new-settings.js:5 js/dist/support.js:4
+msgid "Less friction. Faster publishing."
+msgstr "ອຸປະສັກໜ້ອຍລົງ. ເຜີຍແຜ່ໄດ້ໄວຂຶ້ນ."
+
+#: src/presenters/admin/sidebar-presenter.php:92 js/dist/ai-consent.js:2
+#: js/dist/ai-generator.js:2 js/dist/block-editor.js:18
+#: js/dist/classic-editor.js:1 js/dist/editor-modules.js:116
+#: js/dist/externals-components.js:127 js/dist/general-page.js:5
+#: js/dist/integrations-page.js:28 js/dist/new-settings.js:5
+#: js/dist/redirects.js:1 js/dist/support.js:4
+msgid "Optimize pages for multiple keywords with guidance"
+msgstr "ປັບແຕ່ງໜ້າເວັບສຳລັບຫຼາຍຄຳຄົ້ນຫາ (keywords) ພ້ອມຄຳແນະນຳ"
+
+#: src/task-list/application/tasks/delete-hello-world.php:117
+#: src/task-list/application/tasks/delete-sample-page.php:125
+msgid "Leaving placeholder content makes your site look unfinished and untrustworthy. Removing it keeps your site clean and professional for visitors and search engines."
+msgstr "ການປ່ອຍເນື້ອຫາຕົວຢ່າງໄວ້ເຮັດໃຫ້ເວັບໄຊເບິ່ງຄືວ່າຍັງບໍ່ສຳເລັດ ແລະ ບໍ່ໜ້າເຊື່ອຖື. ການລຶບມັນອອກຈະຊ່ວຍໃຫ້ເວັບໄຊເບິ່ງສະອາດ ແລະ ເປັນມືອາຊີບສຳລັບຜູ້ເຂົ້າຊົມ ແລະ ເຄື່ອງມືຄົ້ນຫາ."
+
+#: src/presenters/admin/sidebar-presenter.php:91 js/dist/ai-consent.js:2
+#: js/dist/ai-generator.js:2 js/dist/block-editor.js:18
+#: js/dist/classic-editor.js:1 js/dist/editor-modules.js:116
+#: js/dist/externals-components.js:127 js/dist/general-page.js:5
+#: js/dist/integrations-page.js:28 js/dist/new-settings.js:5
+#: js/dist/redirects.js:1 js/dist/support.js:4
+msgid "Manage redirects with ease and without extra plugins"
+msgstr "ຈັດການການປ່ຽນເສັ້ນທາງ (redirects) ໄດ້ງ່າຍໆ ໂດຍບໍ່ຕ້ອງໃຊ້ປລັກອິນເສີມ"
+
+#: src/presenters/admin/sidebar-presenter.php:90 js/dist/ai-consent.js:2
+#: js/dist/ai-generator.js:2 js/dist/block-editor.js:18
+#: js/dist/classic-editor.js:1 js/dist/editor-modules.js:116
+#: js/dist/externals-components.js:127 js/dist/general-page.js:5
+#: js/dist/integrations-page.js:28 js/dist/new-settings.js:5
+#: js/dist/redirects.js:1 js/dist/support.js:4
+msgid "Apply AI suggestions to improve content in 1 click"
+msgstr "ນຳໃຊ້ຂໍ້ສະເໜີແນະຈາກ AI ເພື່ອປັບປຸງເນື້ອຫາໃນ 1 ຄລິກ"
+
+#: src/presenters/admin/sidebar-presenter.php:89 js/dist/ai-consent.js:2
+#: js/dist/ai-generator.js:2 js/dist/block-editor.js:18
+#: js/dist/classic-editor.js:1 js/dist/editor-modules.js:116
+#: js/dist/externals-components.js:127 js/dist/general-page.js:5
+#: js/dist/integrations-page.js:28 js/dist/new-settings.js:5
+#: js/dist/redirects.js:1 js/dist/support.js:4
+msgid "Create optimized SEO titles & meta descriptions in seconds"
+msgstr "ສ້າງຫົວຂໍ້ເອັສອີໂອ ແລະ ຄຳອະທິບາຍເມຕ້າທີ່ປັບແຕ່ງແລ້ວໃນບໍ່ເທົ່າໃດວິນາທີ"
+
+#: src/presenters/admin/sidebar-presenter.php:77 js/dist/general-page.js:5
+#: js/dist/new-settings.js:5 js/dist/support.js:4
+msgid "Optimize your site faster, smarter, and with more confidence."
+msgstr "ປັບແຕ່ງເວັບໄຊຂອງເຈົ້າໃຫ້ໄວຂຶ້ນ, ສະຫຼາດຂຶ້ນ ແລະ ໝັ້ນໃຈຫຼາຍຂຶ້ນ."
+
+#: src/presenters/admin/sidebar-presenter.php:72 js/dist/general-page.js:5
+#: js/dist/new-settings.js:5 js/dist/support.js:4
+msgid "Spend less time on SEO tasks!"
+msgstr "ໃຊ້ເວລາໜ້ອຍລົງກັບວຽກເອັສອີໂອ!"
+
+#. translators: %1$s expands to "Yoast SEO".
+#: src/alerts/application/ping-other-admins/ping-other-admins-alert.php:175
+msgid "Looks like you’re new here. %1$s makes it easy to optimize your website for search engines. Want to keep your site healthy and easier to find? Sign up below to receive practical emails to get you started!"
+msgstr "ເບິ່ງຄືວ່າເຈົ້າເປັນຜູ້ໃຊ້ໃໝ່. %1$s ຊ່ວຍໃຫ້ການປັບແຕ່ງເວັບໄຊສຳລັບເຄື່ອງມືຄົ້ນຫາເປັນເລື່ອງງ່າຍ. ຕ້ອງການໃຫ້ເວັບໄຊຂອງເຈົ້າຢູ່ໃນສະພາບດີ ແລະ ຄົ້ນຫາໄດ້ງ່າຍບໍ່? ລົງທະບຽນຂ້າງລຸ່ມນີ້ເພື່ອຮັບອີເມວຄຳແນະນຳເພື່ອເລີ່ມຕົ້ນ!"
+
+#: src/task-list/application/tasks/complete-ftc.php:78
+#: js/dist/installation-success.js:3
+msgid "Start configuration"
+msgstr "ເລີ່ມການຕັ້ງຄ່າ"
+
+#: src/user-meta/framework/custom-meta/author-pronouns.php:108
+msgid "Enter the pronouns for the author, for example \"she/her\", \"he/him\", or \"they/them\"."
+msgstr "ປ້ອນສັບພະນາມສຳລັບຜູ້ຂຽນ, ຕົວຢ່າງ \"she/her\", \"he/him\", ຫຼື \"they/them\"."
+
+#: src/user-meta/framework/custom-meta/author-pronouns.php:97
+msgid "Pronouns to use"
+msgstr "ສັບພະນາມທີ່ຈະໃຊ້"
+
+#. translators: %s: expands to Yoast
+#: src/integrations/admin/redirections-tools-page.php:60
+msgid "%s Redirects"
+msgstr "ການປ່ຽນເສັ້ນທາງຂອງ %s"
+
+#: src/plans/user-interface/upgrade-sidebar-menu-integration.php:130
+msgid "Get 30% off"
+msgstr "ຮັບສ່ວນຫຼຸດ 30%"
+
+#. translators: %1$s expands to "SEO title" or "meta description", %2$s expands
+#. to an opening link tag, %3$s expands to an opening strong tag, %4$s expands
+#. to a closing strong tag, %5$s expands to a closing link tag.
+#: src/alerts/application/default-seo-data/default-seo-data-alert.php:192
+msgid "Your recent posts are using default %1$s, which can make them easy to overlook in search results. Update them for better visibility or %2$stry %3$sYoast AI Generate%4$s for free to do it faster.%5$s"
+msgstr "ໂພສຫຼ້າສຸດຂອງເຈົ້າກຳລັງໃຊ້ %1$s ເລີ່ມຕົ້ນ, ເຊິ່ງອາດເຮັດໃຫ້ຖືກເບິ່ງຂ້າມໄດ້ງ່າຍໃນຜົນການຄົ້ນຫາ. ອັບເດດພວກມັນເພື່ອການເບິ່ງເຫັນທີ່ດີຂຶ້ນ ຫຼື %2$sລອງໃຊ້ %3$sYoast AI Generate%4$s ຟຣີ ເພື່ອເຮັດໃຫ້ໄວຂຶ້ນ.%5$s"
+
+#: admin/class-premium-upsell-admin-block.php:62 js/dist/general-page.js:7
+#: js/dist/new-settings.js:7
+msgid "Google Docs add-on (1 seat)"
+msgstr "ສ່ວນເສີມ Google Docs (1 ບ່ອນນັ່ງ)"
+
+#. translators: %1$s expands to "SEO title" or "meta description", %2$s expands
+#. to an opening link tag, %3$s expands to an opening strong tag, %4$s expands
+#. to a closing strong tag, %5$s expands to a closing link tag.
+#: src/alerts/application/default-seo-data/default-seo-data-alert.php:192
+msgid "Your recent posts are using default %1$s, which can make them easy to overlook in search results. Update them manually or %2$sfind out how %3$sYoast AI Generate%4$s can improve them for you.%5$s"
+msgstr "ໂພສຫຼ້າສຸດຂອງເຈົ້າກຳລັງໃຊ້ %1$s ເລີ່ມຕົ້ນ, ເຊິ່ງອາດເຮັດໃຫ້ຖືກເບິ່ງຂ້າມໄດ້ງ່າຍໃນຜົນການຄົ້ນຫາ. ອັບເດດພວກມັນດ້ວຍຕົນເອງ ຫຼື %2$sເບິ່ງວິທີທີ່ %3$sYoast AI Generate%4$s ສາມາດປັບປຸງພວກມັນໃຫ້ເຈົ້າໄດ້.%5$s"
+
+#: src/alerts/application/default-seo-data/default-seo-data-alert.php:185
+msgid "meta descriptions"
+msgstr "ຄຳອະທິບາຍເມຕ້າ"
+
+#: src/alerts/application/default-seo-data/default-seo-data-alert.php:182
+msgid "SEO titles"
+msgstr "ຫົວຂໍ້ເອັສອີໂອ"
+
+#: src/alerts/application/default-seo-data/default-seo-data-alert.php:179
+msgid "SEO titles and meta descriptions"
+msgstr "ຫົວຂໍ້ເອັສອີໂອ ແລະ ຄຳອະທິບາຍເມຕ້າ"
+
+#: src/presenters/admin/sidebar-presenter.php:104 js/dist/general-page.js:7
+#: js/dist/new-settings.js:7 js/dist/support.js:6
+msgid "Buy now for 30% off"
+msgstr "ຊື້ຕອນນີ້ຮັບສ່ວນຫຼຸດ 30%"
+
+#. translators: 1: Link start tag to the WordPress Reading Settings page, 2:
+#. Link closing tag.
+#. translators: %1$s and %2$s are replaced by opening and closing <a> tags
+#: src/llms-txt/application/file/file-failure-notification-presenter.php:39
+#: js/dist/new-settings.js:43
+msgid "An existing llms.txt file wasn't created by Yoast or has been edited manually. Yoast won't overwrite it. %1$sDelete it manually%2$s or turn off this feature."
+msgstr "ມີໄຟລ໌ llms.txt ຢູ່ແລ້ວ ເຊິ່ງບໍ່ໄດ້ສ້າງໂດຍ Yoast ຫຼື ຖືກແກ້ໄຂດ້ວຍຕົນເອງ. Yoast ຈະບໍ່ຂຽນທັບມັນ. %1$sລຶບມັນດ້ວຍຕົນເອງ%2$s ຫຼື ປິດຟີເຈີນີ້."
+
+#: inc/class-wpseo-admin-bar-menu.php:610
+#: src/plans/user-interface/upgrade-sidebar-menu-integration.php:130
+msgid "30% off - BF Sale"
+msgstr "ສ່ວນຫຼຸດ 30% - BF Sale"
+
+#. translators: %1$s is the plugin name, %2$s and %3$s are a link.
+#: inc/class-addon-manager.php:420
+msgid "Your %1$s plugin cannot be updated as your subscription has expired. %2$sRenew your product subscription%3$s to restore updates and full feature access."
+msgstr "ປລັກອິນ %1$s ຂອງເຈົ້າບໍ່ສາມາດອັບເດດໄດ້ເນື່ອງຈາກອາຍຸການເປັນສະມາຊິກໝົດແລ້ວ. %2$sຕໍ່ອາຍຸການເປັນສະມາຊິກຜະລິດຕະພັນ%3$s ເພື່ອຮັບການອັບເດດ ແລະ ເຂົ້າເຖິງຟີເຈີທັງໝົດຄືນໃໝ່."
+
+#. translators: %1$s and %2$s are a <span> opening and closing tag.
+#: inc/class-addon-manager.php:411
+msgid "%1$s30%% OFF - Black Friday %2$s"
+msgstr "%1$sຫຼຸດ 30%% - Black Friday %2$s"
+
+#: admin/class-premium-upsell-admin-block.php:213 js/dist/general-page.js:9
+#: js/dist/new-settings.js:9
+msgid "Get 30% off now!"
+msgstr "ຮັບສ່ວນຫຼຸດ 30% ຕອນນີ້ເລີຍ!"
+
+#: inc/class-wpseo-admin-bar-menu.php:607
+#: src/plans/user-interface/upgrade-sidebar-menu-integration.php:127
+msgid "Upgrade"
+msgstr "ອັບເກຣດ"
+
+#: src/presenters/admin/sidebar-presenter.php:122 js/dist/general-page.js:7
+#: js/dist/new-settings.js:7 js/dist/support.js:6
+msgid "30-day money back guarantee"
+msgstr "ຮັບປະກັນຄືນເງິນພາຍໃນ 30 ວັນ"
+
+#. translators: %1$s and %2$s expand to a span wrap to avoid linebreaks. %3$s
+#. expands to "Yoast SEO Premium".
+#: src/presenters/admin/sidebar-presenter.php:66 js/dist/general-page.js:6
+#: js/dist/general-page.js:7 js/dist/new-settings.js:6
+#: js/dist/new-settings.js:7 js/dist/support.js:5 js/dist/support.js:6
+msgid "%1$s%2$s %3$s"
+msgstr "%1$s%2$s %3$s"
+
+#: inc/class-my-yoast-api-request.php:161
+msgid "Not all needed fields are present."
+msgstr "ຂໍ້ມູນທີ່ຈຳເປັນບາງຫ້ອງບໍ່ມີ."
+
+#: admin/class-premium-upsell-admin-block.php:163 js/dist/general-page.js:5
+#: js/dist/new-settings.js:5 js/dist/support.js:4
+msgid "Boost visibility for your products, from 10 or 10,000+"
+msgstr "ເພີ່ມການເບິ່ງເຫັນສຳລັບຜະລິດຕະພັນຂອງເຈົ້າ, ບໍ່ວ່າຈະມີ 10 ຫຼື 10,000+ ລາຍການ"
+
+#: admin/class-premium-upsell-admin-block.php:159 js/dist/ai-consent.js:2
+#: js/dist/ai-generator.js:2 js/dist/block-editor.js:18
+#: js/dist/classic-editor.js:1 js/dist/editor-modules.js:116
+#: js/dist/externals-components.js:127 js/dist/general-page.js:5
+#: js/dist/integrations-page.js:28 js/dist/new-settings.js:5
+#: js/dist/redirects.js:1 js/dist/support.js:4
+msgid "Access to friendly help when you need it, day or night"
+msgstr "ເຂົ້າເຖິງຄວາມຊ່ວຍເຫຼືອທີ່ເປັນກັນເອງໄດ້ທຸກເມື່ອທີ່ຕ້ອງການ, ບໍ່ວ່າຈະເປັນເວັນ ຫຼື ຄືນ"
+
+#: admin/class-premium-upsell-admin-block.php:158 js/dist/ai-consent.js:2
+#: js/dist/ai-generator.js:2 js/dist/block-editor.js:18
+#: js/dist/classic-editor.js:1 js/dist/editor-modules.js:116
+#: js/dist/externals-components.js:127 js/dist/general-page.js:5
+#: js/dist/integrations-page.js:28 js/dist/new-settings.js:5
+#: js/dist/redirects.js:1 js/dist/support.js:4
+msgid "Internal links and redirect management, easy"
+msgstr "ຈັດການລິງພາຍໃນ ແລະ ການປ່ຽນເສັ້ນທາງໄດ້ຢ່າງງ່າຍດາຍ"
+
+#: admin/class-premium-upsell-admin-block.php:157 js/dist/ai-consent.js:2
+#: js/dist/ai-generator.js:2 js/dist/block-editor.js:18
+#: js/dist/classic-editor.js:1 js/dist/editor-modules.js:116
+#: js/dist/externals-components.js:127 js/dist/general-page.js:5
+#: js/dist/integrations-page.js:28 js/dist/new-settings.js:5
+#: js/dist/redirects.js:1 js/dist/support.js:4
+msgid "Easy Local SEO. Show up in Google Maps results"
+msgstr "ເອັສອີໂອທ້ອງຖິ່ນແບບງ່າຍໆ. ສະແດງຜົນໃນ Google Maps"
+
+#: admin/class-premium-upsell-admin-block.php:156 js/dist/ai-consent.js:2
+#: js/dist/ai-generator.js:2 js/dist/block-editor.js:18
+#: js/dist/classic-editor.js:1 js/dist/editor-modules.js:116
+#: js/dist/externals-components.js:127 js/dist/general-page.js:5
+#: js/dist/integrations-page.js:28 js/dist/new-settings.js:5
+#: js/dist/redirects.js:1 js/dist/support.js:4
+msgid "Built to get found by search, AI, and real users"
+msgstr "ຖືກສ້າງຂຶ້ນເພື່ອໃຫ້ຄົ້ນຫາເຫັນໂດຍເຄື່ອງມືຄົ້ນຫາ, AI ແລະ ຜູ້ໃຊ້ແທ້ໆ"
+
+#: admin/class-premium-upsell-admin-block.php:155 js/dist/ai-consent.js:2
+#: js/dist/ai-generator.js:2 js/dist/block-editor.js:18
+#: js/dist/classic-editor.js:1 js/dist/editor-modules.js:116
+#: js/dist/externals-components.js:127 js/dist/general-page.js:5
+#: js/dist/integrations-page.js:28 js/dist/new-settings.js:5
+#: js/dist/redirects.js:1 js/dist/support.js:4
+msgid "Make your articles visible, be seen in Google News"
+msgstr "ເຮັດໃຫ້ບົດຄວາມຂອງເຈົ້າຖືກເບິ່ງເຫັນ ແລະ ສະແດງໃນ Google News"
+
+#: admin/class-premium-upsell-admin-block.php:154 js/dist/ai-consent.js:2
+#: js/dist/ai-generator.js:2 js/dist/block-editor.js:18
+#: js/dist/classic-editor.js:1 js/dist/editor-modules.js:116
+#: js/dist/externals-components.js:127 js/dist/general-page.js:5
+#: js/dist/integrations-page.js:28 js/dist/new-settings.js:5
+#: js/dist/redirects.js:1 js/dist/support.js:4
+msgid "Generate SEO optimized metadata in seconds with AI"
+msgstr "ສ້າງຂໍ້ມູນເມຕ້າທີ່ປັບແຕ່ງເອັສອີໂອໃນບໍ່ເທົ່າໃດວິນາທີດ້ວຍ AI"
+
+#: src/ai-consent/user-interface/ai-consent-integration.php:121
+#: src/ai/consent/user-interface/ai-consent-integration.php:123
+msgid "AI features"
+msgstr "ຟີເຈີ AI"
+
+#: admin/class-premium-upsell-admin-block.php:100 js/dist/general-page.js:11
+#: js/dist/new-settings.js:11 js/dist/plans.js:2 js/dist/plans.js:7
+msgid "Now includes:"
+msgstr "ຕອນນີ້ລວມມີ:"
+
+#: src/plans/user-interface/plans-page-integration.php:141 js/dist/plans.js:8
+msgid "Plans"
+msgstr "ແພັກເກັດ"
+
+#: src/llms-txt/application/file/file-failure-notification-presenter.php:46
+#: js/dist/new-settings.js:43
+msgid "You have activated the Yoast llms.txt feature, but we couldn't generate an llms.txt file. It looks like there aren't sufficient permissions on the web server's filesystem."
+msgstr "ເຈົ້າໄດ້ເປີດໃຊ້ຟີເຈີ Yoast llms.txt ແລ້ວ, ແຕ່ພວກເຮົາບໍ່ສາມາດສ້າງໄຟລ໌ llms.txt ໄດ້. ເບິ່ງຄືວ່າສິດໃນການເຂົ້າເຖິງລະບົບໄຟລ໌ຂອງເວັບເຊີບເວີບໍ່ພຽງພໍ."
+
+#: src/llms-txt/application/file/file-failure-notification-presenter.php:49
+#: src/llms-txt/user-interface/health-check/file-reports.php:87
+msgid "You have activated the Yoast llms.txt feature, but we couldn't generate an llms.txt file, for unknown reasons."
+msgstr "ເຈົ້າໄດ້ເປີດໃຊ້ຟີເຈີ Yoast llms.txt ແລ້ວ, ແຕ່ພວກເຮົາບໍ່ສາມາດສ້າງໄຟລ໌ llms.txt ໄດ້ ຍ້ອນເຫດຜົນທີ່ບໍ່ຊັດເຈນ."
+
+#. translators: 1,3: expand to opening paragraph tag, 2,4: expand to opening
+#. paragraph tag.
+#: src/llms-txt/user-interface/health-check/file-reports.php:78
+msgid "%1$sYou have activated the Yoast llms.txt feature, but we couldn't generate an llms.txt file.%2$s%3$sIt looks like there aren't sufficient permissions on the web server's filesystem.%4$s"
+msgstr "%1$sເຈົ້າໄດ້ເປີດໃຊ້ຟີເຈີ Yoast llms.txt ແລ້ວ, ແຕ່ພວກເຮົາບໍ່ສາມາດສ້າງໄຟລ໌ llms.txt ໄດ້.%2$s%3$sເບິ່ງຄືວ່າສິດໃນການເຂົ້າເຖິງລະບົບໄຟລ໌ຂອງເວັບເຊີບເວີບໍ່ພຽງພໍ.%4$s"
+
+#. translators: 1,3,5: expand to opening paragraph tag, 2,4,6: expand to
+#. opening paragraph tag.
+#: src/llms-txt/user-interface/health-check/file-reports.php:65
+msgid "%1$sYou have activated the Yoast llms.txt feature, but we couldn't generate an llms.txt file.%2$s%3$sIt looks like there is an llms.txt file already that wasn't created by Yoast, or the llms.txt file created by Yoast has been edited manually.%4$s%5$sWe don't want to overwrite this file's content, so if you want to let Yoast keep auto-generating the llms.txt file, you can manually delete the existing one. Otherwise, consider disabling the Yoast feature.%6$s"
+msgstr "%1$sເຈົ້າໄດ້ເປີດໃຊ້ຟີເຈີ Yoast llms.txt ແລ້ວ, ແຕ່ພວກເຮົາບໍ່ສາມາດສ້າງໄຟລ໌ llms.txt ໄດ້.%2$s%3$sເບິ່ງຄືວ່າມີໄຟລ໌ llms.txt ຢູ່ແລ້ວ ເຊິ່ງບໍ່ໄດ້ສ້າງໂດຍ Yoast ຫຼື ຖືກແກ້ໄຂດ້ວຍຕົນເອງ.%4$s%5$sພວກເຮົາບໍ່ຕ້ອງການຂຽນທັບເນື້ອຫາໃນໄຟລ໌ນີ້, ດັ່ງນັ້ນ ຫາກເຈົ້າຕ້ອງການໃຫ້ Yoast ສ້າງໄຟລ໌ແບບອັດຕະໂນມັດຕໍ່ໄປ, ເຈົ້າສາມາດລຶບໄຟລ໌ເກົ່າອອກດ້ວຍຕົນເອງ. ບໍ່ດັ່ງນັ້ນ, ໃຫ້ພິຈາລະນາປິດຟີເຈີຂອງ Yoast.%6$s"
+
+#: src/llms-txt/application/file/file-failure-notification-presenter.php:55
+#: src/llms-txt/user-interface/health-check/file-reports.php:62
+#: src/llms-txt/user-interface/health-check/file-reports.php:75
+#: src/llms-txt/user-interface/health-check/file-reports.php:86
+msgid "Your llms.txt file couldn't be auto-generated"
+msgstr "ບໍ່ສາມາດສ້າງໄຟລ໌ llms.txt ຂອງເຈົ້າແບບອັດຕະໂນມັດໄດ້"
+
+#. translators: %s: Yoast SEO.
+#: src/llms-txt/user-interface/health-check/file-reports.php:41
+msgid "%s keeps your llms.txt file up-to-date. This helps LLMs access and provide your site's information more easily."
+msgstr "%s ຊ່ວຍໃຫ້ໄຟລ໌ llms.txt ຂອງເຈົ້າເປັນປັດຈຸບັນສະເໝີ. ສິ່ງນີ້ຊ່ວຍໃຫ້ LLMs ເຂົ້າເຖິງ ແລະ ໃຫ້ຂໍ້ມູນກ່ຽວກັບເວັບໄຊຂອງເຈົ້າໄດ້ງ່າຍຂຶ້ນ."
+
+#. translators: %s: Yoast SEO.
+#: src/llms-txt/user-interface/health-check/file-reports.php:35
+msgid "Your llms.txt file is auto-generated by %s"
+msgstr "ໄຟລ໌ llms.txt ຂອງເຈົ້າຖືກສ້າງແບບອັດຕະໂນມັດໂດຍ %s"
+
+#: src/dashboard/user-interface/tracking/setup-steps-tracking-route.php:143
+msgid "No valid parameters were passed."
+msgstr "ບໍ່ມີການສົ່ງພາຣາມິເຕີທີ່ຖືກຕ້ອງມາ."
+
+#: src/integrations/admin/link-count-columns-integration.php:147
+msgid "Number of internal links linking to this post."
+msgstr "ຈຳນວນລິງພາຍໃນທີ່ເຊື່ອມໂຍງມາຫາໂພສນີ້."
+
+#: src/integrations/admin/link-count-columns-integration.php:139
+msgid "Number of outgoing internal links in this post."
+msgstr "ຈຳນວນລິງພາຍໃນທີ່ສົ່ງອອກຈາກໂພສນີ້."
+
+#: inc/class-wpseo-rank.php:223 js/dist/externals/dashboardFrontend.js:4
+msgid "Not analyzed"
+msgstr "ຍັງບໍ່ໄດ້ວິເຄາະ"
+
+#. translators: %s: Yoast SEO.
+#: wp-seo-main.php:566
+msgid "%s activation failed"
+msgstr "ການເປີດໃຊ້ %s ຫຼົ້ມເຫຼວ"
+
+#. translators: %s: Yoast SEO.
+#: src/presenters/admin/migration-error-presenter.php:42
+msgid "%s is unable to create database tables"
+msgstr "%s ບໍ່ສາມາດສ້າງຕາຕະລາງໃນຖານຂໍ້ມູນໄດ້"
+
+#: src/presenters/admin/sidebar-presenter.php:107 js/dist/general-page.js:5
+#: js/dist/new-settings.js:5 js/dist/support.js:4
+msgid "Buy now"
+msgstr "ຊື້ຕອນນີ້"
+
+#: src/integrations/admin/check-required-version.php:115
+msgid "Required Yoast SEO version"
+msgstr "ຕ້ອງການ Yoast SEO ເວີຊັນ"
+
+#: src/integrations/admin/check-required-version.php:91
+msgid "The package could not be installed because it's not supported by the currently installed Yoast SEO version."
+msgstr "ບໍ່ສາມາດຕິດຕັ້ງແພັກເກັດໄດ້ ເນື່ອງຈາກເວີຊັນຂອງ Yoast SEO ທີ່ຕິດຕັ້ງຢູ່ໃນປະຈຸບັນບໍ່ຮອງຮັບ."
+
+#. translators: 1: Current Yoast SEO version, 2: Version required by the
+#. uploaded plugin.
+#: src/integrations/admin/check-required-version.php:84
+msgid "The Yoast SEO version on your site is %1$s, however the uploaded plugin requires %2$s."
+msgstr "ເວີຊັນຂອງ Yoast SEO ໃນເວັບໄຊເຈົ້າຄື %1$s, ແຕ່ປລັກອິນທີ່ອັບໂຫລດຕ້ອງການເວີຊັນ %2$s."
+
+#: src/user-meta/framework/custom-meta/noindex-author.php:108
+msgid "Do not allow search engines to show this author's archives in search results."
+msgstr "ບໍ່ອະນຸຍາດໃຫ້ເຄື່ອງມືຄົ້ນຫາສະແດງຄັງເກັບບົດຄວາມຂອງຜູ້ຂຽນຜູ້ນີ້ໃນຜົນການຄົ້ນຫາ."
+
+#: admin/menu/class-base-menu.php:257 admin/menu/class-base-menu.php:260
+msgid "Upgrades"
+msgstr "ການອັບເກຣດ"
+
+#: blocks/dynamic-blocks/breadcrumbs/block.json
+msgctxt "block keyword"
+msgid "site structure"
+msgstr "ໂຄງສ້າງເວັບໄຊ"
+
+#: blocks/dynamic-blocks/breadcrumbs/block.json
+msgctxt "block keyword"
+msgid "internal linking"
+msgstr "ການລິງພາຍໃນ"
+
+#: blocks/dynamic-blocks/breadcrumbs/block.json
+msgctxt "block keyword"
+msgid "breadcrumbs"
+msgstr "ເສັ້ນທາງນຳທາງ (breadcrumbs)"
+
+#: blocks/dynamic-blocks/breadcrumbs/block.json
+msgctxt "block description"
+msgid "Adds the Yoast SEO breadcrumbs to your template or content."
+msgstr "ເພີ່ມເສັ້ນທາງນຳທາງ (breadcrumbs) ຂອງ Yoast SEO ໃຫ້ກັບແມ່ແບບ ຫຼື ເນື້ອຫາຂອງເຈົ້າ."
+
+#: blocks/dynamic-blocks/breadcrumbs/block.json
+msgctxt "block title"
+msgid "Yoast Breadcrumbs"
+msgstr "Yoast Breadcrumbs"
+
+#: blocks/structured-data-blocks/how-to/block.json
+msgctxt "block keyword"
+msgid "How to"
+msgstr "ວິທີການ (How to)"
+
+#: blocks/structured-data-blocks/how-to/block.json
+msgctxt "block keyword"
+msgid "How-to"
+msgstr "ວິທີການ"
+
+#: blocks/structured-data-blocks/how-to/block.json
+msgctxt "block title"
+msgid "Yoast How-to"
+msgstr "Yoast How-to"
+
+#: blocks/structured-data-blocks/faq/block.json
+#: blocks/structured-data-blocks/how-to/block.json
+msgctxt "block keyword"
+msgid "Structured Data"
+msgstr "ຂໍ້ມູນທີ່ມີໂຄງສ້າງ"
+
+#: blocks/dynamic-blocks/breadcrumbs/block.json
+#: blocks/structured-data-blocks/faq/block.json
+#: blocks/structured-data-blocks/how-to/block.json
+msgctxt "block keyword"
+msgid "SEO"
+msgstr "SEO"
+
+#: blocks/structured-data-blocks/faq/block.json
+#: blocks/structured-data-blocks/how-to/block.json
+msgctxt "block keyword"
+msgid "Schema"
+msgstr "ເຊມາ (Schema)"
+
+#: blocks/structured-data-blocks/faq/block.json
+msgctxt "block keyword"
+msgid "Frequently Asked Questions"
+msgstr "ຄຳຖາມທີ່ພົບເລື້ອຍ"
+
+#: blocks/structured-data-blocks/faq/block.json
+msgctxt "block keyword"
+msgid "FAQ"
+msgstr "FAQ"
+
+#: blocks/structured-data-blocks/faq/block.json
+msgctxt "block description"
+msgid "List your Frequently Asked Questions in an SEO-friendly way."
+msgstr "ສະແດງລາຍການຄຳຖາມທີ່ພົບເລື້ອຍໃນຮູບແບບທີ່ດີຕໍ່ເອັສອີໂອ."
+
+#: blocks/structured-data-blocks/faq/block.json
+msgctxt "block title"
+msgid "Yoast FAQ"
+msgstr "Yoast FAQ"
+
+#: admin/class-admin.php:315
+#: src/user-meta/framework/additional-contactmethods/x.php:28
+msgid "X username (without @)"
+msgstr "ຊື່ຜູ້ໃຊ້ X (ໂດຍບໍ່ມີ @)"
+
+#. translators: 1: PHP class name, 2: PHP variable name
+#: inc/class-yoast-dynamic-rewrites.php:67
+msgid "The %1$s class must not be instantiated before the %2$s global is set."
+msgstr "ຄລາດ %1$s ຕ້ອງບໍ່ຖືກສ້າງຂຶ້ນກ່ອນທີ່ຈະມີການກຳນົດຄ່າ global %2$s."
+
+#. translators: %s expands to Yoast WooCommerce SEO
+#. translators: %s expands to Yoast SEO Premium
+#. translators: %s expands to "Yoast WooCommerce SEO"
+#. translators: %s expands to "Yoast SEO" Premium
+#: admin/class-premium-upsell-admin-block.php:219
+#: admin/class-premium-upsell-admin-block.php:221 js/dist/general-page.js:8
+#: js/dist/general-page.js:9 js/dist/new-settings.js:8
+#: js/dist/new-settings.js:9
+msgid "Explore %s now!"
+msgstr "ສຳຫຼວດ %s ດຽວນີ້ເລີຍ!"
+
+#: admin/watchers/class-slug-change-watcher.php:68
+msgid "Search engines and other websites can still send traffic to your trashed content."
+msgstr "ເຄື່ອງມືຄົ້ນຫາ ແລະ ເວັບໄຊອື່ນໆ ຍັງສາມາດສົ່ງຜູ້ເຂົ້າຊົມໄປຫາເນື້ອຫາທີ່ທ່ານຖິ້ມລົງຖັງຂີ້ເຫຍື້ອແລ້ວໄດ້."
+
+#. translators: 1: Yoast SEO, 2: Link start tag to the Learn more link, 3: Link
+#. closing tag.
+#: src/presenters/admin/woocommerce-beta-editor-presenter.php:53
+msgid "The %1$s interface is currently unavailable in the beta WooCommerce product editor. To resolve any issues, please disable the beta editor. %2$sLearn how to disable the beta WooCommerce product editor.%3$s"
+msgstr "ໜ້າຕ່າງການໃຊ້ງານ %1$s ຍັງບໍ່ທັນຮອງຮັບໃນຕົວແກ້ໄຂຜະລິດຕະພັນ WooCommerce ລຸ້ນເບຕ້າ (beta). ເພື່ອແກ້ໄຂບັນຫາ, ກະລຸນາປິດການໃຊ້ງານຕົວແກ້ໄຂລຸ້ນເບຕ້າ. %2$sສຶກສາວິທີປິດການໃຊ້ງານຕົວແກ້ໄຂ WooCommerce ລຸ້ນເບຕ້າ.%3$s"
+
+#: src/presenters/admin/woocommerce-beta-editor-presenter.php:50
+msgid "Compatibility issue: Yoast SEO is incompatible with the beta WooCommerce product editor."
+msgstr "ບັນຫາການເຂົ້າກັນໄດ້: Yoast SEO ບໍ່ຮອງຮັບການເຮັດງານຮ່ວມກັບຕົວແກ້ໄຂຜະລິດຕະພັນ WooCommerce ລຸ້ນເບຕ້າ."
+
+#: admin/class-premium-upsell-admin-block.php:90
+#: admin/menu/class-base-menu.php:260 js/dist/block-editor.js:498
+#: js/dist/classic-editor.js:481 js/dist/general-page.js:9
+#: js/dist/new-settings.js:9
+msgid "30% OFF"
+msgstr "ຫຼຸດ 30%"
+
+#: admin/class-premium-upsell-admin-block.php:89 js/dist/block-editor.js:498
+#: js/dist/classic-editor.js:481 js/dist/general-page.js:9
+#: js/dist/new-settings.js:9
+msgid "BLACK FRIDAY"
+msgstr "BLACK FRIDAY"
+
+#: admin/views/class-yoast-feature-toggles.php:205
+msgid "Use the power of Yoast AI to automatically generate compelling titles and descriptions for your posts and pages."
+msgstr "ໃຊ້ພະລັງຂອງ Yoast AI ເພື່ອສ້າງຫົວຂໍ້ ແລະ ຄຳອະທິບາຍທີ່ໜ້າສົນໃຈສຳລັບໂພສ ແລະ ໜ້າເວັບຂອງທ່ານໂດຍອັດຕະໂນມັດ."
+
+#: admin/views/class-yoast-feature-toggles.php:202 js/dist/new-settings.js:31
+#: js/dist/new-settings.js:526
+msgid "AI title & description generator"
+msgstr "ຕົວສ້າງຫົວຂໍ້ ແລະ ຄຳອະທິບາຍດ້ວຍ AI"
+
+#. translators: %s expands to a unit of time (e.g. 1 day).
+#. translators: %1$s, %2$s and %3$s expand to units of time (e.g. 1 day).
+#: src/integrations/blocks/structured-data-blocks.php:178
+#: js/dist/how-to-block.js:6 js/dist/how-to-block.js:12
+msgid "%1$s, %2$s and %3$s"
+msgstr "%1$s, %2$s ແລະ %3$s"
+
+#. translators: %s expands to a unit of time (e.g. 1 day).
+#. translators: %1$s and %2$s expand to units of time (e.g. 1 day).
+#: src/integrations/blocks/structured-data-blocks.php:172
+#: js/dist/how-to-block.js:5 js/dist/how-to-block.js:11
+msgid "%1$s and %2$s"
+msgstr "%1$s ແລະ %2$s"
+
+#. translators: 1: Opening tag of the link to the Search appearance settings
+#. page, 2: Link closing tag.
+#: src/content-type-visibility/application/content-type-visibility-watcher-actions.php:157
+msgid "You've added a new type of content. We recommend that you review the corresponding %1$sSearch appearance settings%2$s."
+msgstr "ທ່ານໄດ້ເພີ່ມປະເພດເນື້ອຫາໃໝ່. ພວກເຮົາແນະນຳໃຫ້ທ່ານກວດສອບ %1$sການຕັ້ງຄ່າການສະແດງຜົນໃນຜົນການຄົ້ນຫາ%2$s ທີ່ກ່ຽວຂ້ອງ."
+
+#: src/content-type-visibility/application/content-type-visibility-dismiss-notifications.php:73
+msgid "Error: Taxonomy was not removed from new_taxonomies list."
+msgstr "ຂໍ້ຜິດພາດ: Taxonomy ບໍ່ໄດ້ຖືກລຶບອອກຈາກລາຍການ new_taxonomies."
+
+#: src/content-type-visibility/application/content-type-visibility-dismiss-notifications.php:73
+msgid "Taxonomy is no longer new."
+msgstr "Taxonomy ບໍ່ແມ່ນອັນໃໝ່ອີກຕໍ່ໄປ."
+
+#: src/content-type-visibility/application/content-type-visibility-dismiss-notifications.php:66
+msgid "Taxonomy is not new."
+msgstr "Taxonomy ບໍ່ແມ່ນອັນໃໝ່."
+
+#: src/content-type-visibility/application/content-type-visibility-dismiss-notifications.php:43
+msgid "Error: Post type was not removed from new_post_types list."
+msgstr "ຂໍ້ຜິດພາດ: ປະເພດໂພສບໍ່ໄດ້ຖືກລຶບອອກຈາກລາຍການ new_post_types."
+
+#: src/content-type-visibility/application/content-type-visibility-dismiss-notifications.php:43
+msgid "Post type is no longer new."
+msgstr "ປະເພດໂພສບໍ່ແມ່ນອັນໃໝ່ອີກຕໍ່ໄປ."
+
+#: src/content-type-visibility/application/content-type-visibility-dismiss-notifications.php:37
+msgid "Post type is not new."
+msgstr "ປະເພດໂພສບໍ່ແມ່ນອັນໃໝ່."
+
+#: src/integrations/support-integration.php:130 js/dist/support.js:7
+msgid "Support"
+msgstr "ຊ່ວຍເຫຼືອ"
+
+#: src/integrations/admin/crawl-settings-integration.php:163
+#: js/dist/new-settings.js:31 js/dist/new-settings.js:271
+msgid "Prevent Google AdsBot from crawling"
+msgstr "ປ້ອງກັນ Google AdsBot ຈາກການ Crawl"
+
+#: src/commands/index-command.php:174
+msgid "Your WordPress environment is running on a non-production site. Indexables can only be created on production environments. Please check your `WP_ENVIRONMENT_TYPE` settings."
+msgstr "ສະພາບແວດລ້ອມ WordPress ຂອງທ່ານກຳລັງເຮັດວຽກໃນເວັບໄຊທີ່ບໍ່ແມ່ນ production. Indexables ສາມາດສ້າງໄດ້ໃນສະພາບແວດລ້ອມ production ເທົ່ານັ້ນ. ກະລຸນາກວດສອບການຕັ້ງຄ່າ `WP_ENVIRONMENT_TYPE` ຂອງທ່ານ."
+
+#. translators: %s expands to the inclusive language score
+#: inc/class-wpseo-rank.php:239 inc/class-wpseo-rank.php:244
+#: inc/class-wpseo-rank.php:249
+msgid "Inclusive language: %s"
+msgstr "ພາສາທີ່ຄອບຄຸມທຸກກຸ່ມຄົນ: %s"
+
+#. translators: %1$s expands to Yoast SEO, %2$s to Wincher
+#: admin/class-wincher-dashboard-widget.php:58
+msgid "%1$s / %2$s: Top Keyphrases"
+msgstr "%1$s / %2$s: ຄຳຄົ້ນຫາສູງສຸດ"
+
+#: src/integrations/admin/background-indexing-integration.php:186
+msgid "Every fifteen minutes"
+msgstr "ທຸກໆ 15 ນາທີ"
+
+#. translators: %s: expands to the post type
+#: src/exceptions/indexable/post-type-not-built-exception.php:20
+msgid "The post type %s could not be indexed because it does not meet indexing requirements."
+msgstr "ປະເພດໂພສ %s ບໍ່ສາມາດເຮັດດັດຊະນີໄດ້ ຍ້ອນບໍ່ກົງກັບເງື່ອນໄຂການເຮັດດັດຊະນີ."
+
+#: src/integrations/academy-integration.php:111 js/dist/academy.js:2
+msgid "Academy"
+msgstr "ອະຄາເດມີ (Academy)"
+
+#. translators: %1$s expands to a strong tag, %2$s expands to the product name,
+#. %3$s expands to a closing strong tag, %4$s expands to an a tag. %5$s expands
+#. to MyYoast, %6$s expands to a closing a tag,  %7$s expands to the product
+#. name
+#: inc/class-addon-manager.php:532
+msgid "%1$s %2$s isn't working as expected %3$s and you are not receiving updates or support! Make sure to %4$s activate your product subscription in %5$s%6$s to unlock all the features of %7$s."
+msgstr "%1$s %2$s ເຮັດວຽກບໍ່ປົກກະຕິ %3$s ແລະ ທ່ານຈະບໍ່ໄດ້ຮັບການອັບເດດ ຫຼື ການຊ່ວຍເຫຼືອ! ກະລຸນາ %4$s ເປີດໃຊ້ການສະໝັກໃຊ້ຜະລິດຕະພັນໃນ %5$s%6$s ເພື່ອປົດລັອກທຸກຄຸນສົມບັດຂອງ %7$s."
+
+#. translators: %1$s: Yoast SEO
+#: src/helpers/crawl-cleanup-helper.php:271
+msgid "%1$s: unregistered URL parameter removed. See %2$s"
+msgstr "%1$s: ລຶບພາລາມິເຕີ URL ທີ່ບໍ່ໄດ້ລົງທະບຽນອອກແລ້ວ. ເບິ່ງ %2$s"
+
+#: src/integrations/admin/crawl-settings-integration.php:292
+msgid "This feature is disabled when your site is not using pretty permalinks."
+msgstr "ຄຸນສົມບັດນີ້ຈະຖືກປິດການໃຊ້ງານ ຫາກເວັບໄຊຂອງທ່ານບໍ່ໄດ້ໃຊ້ pretty permalinks."
+
+#. translators: 1: Link start tag to the Permalinks settings page, 2: Link
+#. closing tag.
+#: src/integrations/admin/crawl-settings-integration.php:286
+msgid "This feature is disabled when your site is not using %1$spretty permalinks%2$s."
+msgstr "ຄຸນສົມບັດນີ້ຈະຖືກປິດການໃຊ້ງານ ຫາກເວັບໄຊຂອງທ່ານບໍ່ໄດ້ໃຊ້ %1$spretty permalinks%2$s."
+
+#. translators: %1$s: Yoast SEO
+#: src/initializers/crawl-cleanup-permalinks.php:144
+msgid "%1$s: redirect utm variables to #"
+msgstr "%1$s: ປ່ຽນທິດທາງ (redirect) ຕົວປ່ຽນ utm ໄປຫາ #"
+
+#: src/presenters/admin/indexing-notification-presenter.php:93
+msgid "It looks like you've enabled media pages. We recommend that you help us to re-analyze your site by running the SEO data optimization."
+msgstr "ເບິ່ງຄືວ່າທ່ານໄດ້ເປີດໃຊ້ໜ້າສື່ (media pages). ພວກເຮົາແນະນຳໃຫ້ທ່ານຊ່ວຍພວກເຮົາວິເຄາະເວັບໄຊຄືນໃໝ່ ໂດຍການເປີດໃຊ້ງານການປັບແຕ່ງຂໍ້ມູນ SEO."
+
+#: inc/class-wpseo-rank.php:156 inc/class-wpseo-rank.php:245
+#: js/dist/block-editor.js:498 js/dist/editor-modules.js:115
+#: js/dist/editor-modules.js:384 js/dist/externals-components.js:122
+#: js/dist/externals-components.js:438
+#: js/dist/frontend-inspector-resources.js:1
+msgid "Potentially non-inclusive"
+msgstr "ອາດຈະບໍ່ຄອບຄຸມທຸກກຸ່ມຄົນ"
+
+#. translators: CTA to finish the first time configuration. %s: Either
+#. first-time SEO configuration or SEO configuration.
+#: admin/class-admin.php:235
+msgid "Finish your %s"
+msgstr "ເຮັດ %s ຂອງທ່ານໃຫ້ສຳເລັດ"
+
+#: inc/class-wpseo-admin-bar-menu.php:567
+msgid "WordPress.org support forums"
+msgstr "ເວັບບອດຊ່ວຍເຫຼືອ WordPress.org"
+
+#: inc/class-wpseo-admin-bar-menu.php:562
+msgid "Yoast Premium support"
+msgstr "ການຊ່ວຍເຫຼືອ Yoast Premium"
+
+#: inc/class-wpseo-admin-bar-menu.php:557
+msgid "Yoast.com help section"
+msgstr "ສ່ວນຊ່ວຍເຫຼືອຂອງ Yoast.com"
+
+#: inc/class-wpseo-admin-bar-menu.php:542
+msgid "Help"
+msgstr "ຊ່ວຍເຫຼືອ"
+
+#: inc/class-wpseo-admin-bar-menu.php:523
+msgid "Write better content"
+msgstr "ຂຽນເນື້ອຫາໃຫ້ດີຂຶ້ນ"
+
+#: inc/class-wpseo-admin-bar-menu.php:518
+msgid "Improve your blog post"
+msgstr "ປັບປຸງບົດຄວາມບລັອກຂອງທ່ານ"
+
+#: inc/class-wpseo-admin-bar-menu.php:513
+#: inc/class-wpseo-admin-bar-menu.php:572
+msgid "Learn more SEO"
+msgstr "ສຶກສາ SEO ເພີ່ມເຕີມ"
+
+#: inc/class-wpseo-admin-bar-menu.php:468
+msgid "SEO Tools"
+msgstr "ເຄື່ອງມື SEO"
+
+#: inc/class-wpseo-admin-bar-menu.php:226
+msgid "not set"
+msgstr "ຍັງບໍ່ໄດ້ກຳນົດ"
+
+#: inc/class-wpseo-admin-bar-menu.php:232
+msgid "Focus keyphrase: "
+msgstr "ຄຳຫຼັກທີ່ເນັ້ນ: "
+
+#. translators: %1$d is the number of records that were removed. %2$s is the
+#. site url.
+#: src/commands/cleanup-command.php:183
+msgid "Cleaned up %1$d record from %2$s."
+msgid_plural "Cleaned up %1$d records from %2$s."
+msgstr[0] "ລຶບລ້າງ %1$d ຂໍ້ມູນຈາກ %2$s."
+
+#. translators: %1$s is the site url of the site that is cleaned up. %2$s is
+#. the name of the cleanup task that is currently running.
+#: src/commands/cleanup-command.php:159
+msgid "Cleaning up %1$s [%2$s]"
+msgstr "ກຳລັງລຶບລ້າງ %1$s [%2$s]"
+
+#. translators: %1$s is the site url of the site that is skipped. %2$s is Yoast
+#. SEO.
+#: src/commands/cleanup-command.php:146
+msgid "Skipping %1$s. %2$s is not active on this site."
+msgstr "ຂ້າມ %1$s. %2$s ບໍ່ໄດ້ເປີດໃຊ້ໃນເວັບໄຊນີ້."
+
+#. translators: %1$d is the number of records that are removed.
+#: src/commands/cleanup-command.php:97
+msgid "Cleaned up %1$d record."
+msgid_plural "Cleaned up %1$d records."
+msgstr[0] "ລຶບລ້າງ %1$d ຂໍ້ມູນແລ້ວ."
+
+#: src/commands/cleanup-command.php:84
+msgid "The value for 'batch-size' must be a positive integer higher than equal to 1."
+msgstr "ຄ່າສຳລັບ 'batch-size' ຕ້ອງເປັນຕົວເລກຖ້ວນບວກທີ່ຫຼາຍກວ່າ ຫຼື ເທົ່າກັບ 1."
+
+#: src/commands/cleanup-command.php:81
+msgid "The value for 'interval' must be a positive integer."
+msgstr "ຄ່າສຳລັບ 'interval' ຕ້ອງເປັນຕົວເລກຖ້ວນບວກ."
+
+#: src/presenters/admin/indexing-notification-presenter.php:90
+msgid "We need to re-analyze some of your SEO data because of a change in the visibility of your taxonomies. Please help us do that by running the SEO data optimization."
+msgstr "ພວກເຮົາຕ້ອງວິເຄາະຂໍ້ມູນ SEO ບາງຢ່າງຄືນໃໝ່ ຍ້ອນມີການປ່ຽນແປງໃນການສະແດງຜົນຂອງ taxonomies ຂອງທ່ານ. ກະລຸນາຊ່ວຍພວກເຮົາໂດຍການເປີດໃຊ້ງານການປັບແຕ່ງຂໍ້ມູນ SEO."
+
+#: src/presenters/admin/indexing-notification-presenter.php:87
+msgid "We need to re-analyze some of your SEO data because of a change in the visibility of your post types. Please help us do that by running the SEO data optimization."
+msgstr "ພວກເຮົາຕ້ອງວິເຄາະຂໍ້ມູນ SEO ບາງຢ່າງຄືນໃໝ່ ຍ້ອນມີການປ່ຽນແປງໃນການສະແດງຜົນຂອງປະເພດໂພສຂອງທ່ານ. ກະລຸນາຊ່ວຍພວກເຮົາໂດຍການເປີດໃຊ້ງານການປັບແຕ່ງຂໍ້ມູນ SEO."
+
+#. translators: %s: expands to the term id
+#: src/exceptions/indexable/term-not-built-exception.php:20
+msgid "The term %s could not be built because it's not indexable."
+msgstr "ແທັກ (term) %s ບໍ່ສາມາດສ້າງໄດ້ ຍ້ອນມັນບໍ່ສາມາດເຮັດດັດຊະນີໄດ້."
+
+#. translators: %s: expands to the post id
+#: src/exceptions/indexable/post-not-built-exception.php:32
+msgid "The post %s could not be indexed because it's post type is excluded from indexing."
+msgstr "ໂພສ %s ບໍ່ສາມາດເຮັດດັດຊະນີໄດ້ ຍ້ອນປະເພດໂພສຂອງມັນຖືກຍົກເວັ້ນຈາກການເຮັດດັດຊະນີ."
+
+#. translators: %s: expands to the post id
+#: src/exceptions/indexable/post-not-built-exception.php:20
+msgid "The post %s could not be indexed because it does not meet indexing requirements."
+msgstr "ໂພສ %s ບໍ່ສາມາດເຮັດດັດຊະນີໄດ້ ຍ້ອນບໍ່ກົງກັບເງື່ອນໄຂການເຮັດດັດຊະນີ."
+
+#: src/presenters/admin/sidebar-presenter.php:21 js/dist/block-editor.js:247
+#: js/dist/classic-editor.js:230 js/dist/editor-modules.js:111
+#: js/dist/externals-components.js:118 js/dist/general-page.js:7
+#: js/dist/new-settings.js:7 js/dist/support.js:6
+msgid "BLACK FRIDAY | 30% OFF"
+msgstr "BLACK FRIDAY | ຫຼຸດ 30%"
+
+#: admin/views/class-yoast-feature-toggles.php:206 js/dist/general-page.js:12
+#: js/dist/general-page.js:24 js/dist/integrations-page.js:3
+#: js/dist/integrations-page.js:6 js/dist/integrations-page.js:18
+#: js/dist/integrations-page.js:28 js/dist/introductions.js:13
+#: js/dist/new-settings.js:56 js/dist/plans.js:3 js/dist/plans.js:7
+msgid "Learn more"
+msgstr "ສຶກສາເພີ່ມເຕີມ"
+
+#: src/integrations/admin/crawl-settings-integration.php:157
+msgid "Redirect pretty URLs for search pages to raw format"
+msgstr "ປ່ຽນທິດທາງ pretty URLs ສຳລັບໜ້າຄົ້ນຫາໄປຫາຮູບແບບ raw"
+
+#. Translators: %1$s expands to an opening anchor tag for a link leading to the
+#. Yoast SEO page of the Permalink Cleanup features, %2$s expands to a closing
+#. anchor tag.
+#: src/integrations/admin/crawl-settings-integration.php:204
+msgid "These are expert features, so make sure you know what you're doing before removing the parameters. %1$sRead more about how your site can be affected%2$s."
+msgstr "ເຫຼົ່ານີ້ແມ່ນຄຸນສົມບັດສຳລັບຜູ້ຊ່ຽວຊານ, ກະລຸນາມັ່ນໃຈວ່າທ່ານເຂົ້າໃຈກ່ອນທີ່ຈະລຶບພາລາມິເຕີ. %1$sສຶກສາເພີ່ມເຕີມກ່ຽວກັບຜົນກະທົບຕໍ່ເວັບໄຊຂອງທ່ານ%2$s."
+
+#. translators: %1$s expands to Yoast SEO, %2$s expands to the name of the
+#. class that could not be found.
+#: src/loader.php:258
+msgid "%1$s attempted to load the class %2$s but it could not be found."
+msgstr "%1$s ພະຍາຍາມໂຫຼດຄລາດ %2$s ແຕ່ບໍ່ພົບ."
+
+#: src/integrations/admin/crawl-settings-integration.php:189
+#: js/dist/new-settings.js:271
+msgid "Remove unused resources"
+msgstr "ລຶບຊັບພະຍາກອນທີ່ບໍ່ໄດ້ໃຊ້"
+
+#: src/integrations/admin/crawl-settings-integration.php:162
+msgid "Prevent search engines from crawling /wp-json/"
+msgstr "ປ້ອງກັນເຄື່ອງມືຄົ້ນຫາຈາກການ Crawl /wp-json/"
+
+#: src/integrations/admin/crawl-settings-integration.php:156
+msgid "Prevent search engines from crawling site search URLs"
+msgstr "ປ້ອງກັນເຄື່ອງມືຄົ້ນຫາຈາກການ Crawl URL ຄົ້ນຫາພາຍໃນເວັບໄຊ"
+
+#: src/user-meta/framework/custom-meta/inclusive-language-analysis-disable.php:115
+msgid "Removes the inclusive language analysis section from the metabox and disables all inclusive language-related suggestions."
+msgstr "ລຶບສ່ວນການວິເຄາະພາສາທີ່ຄອບຄຸມອອກຈາກ metabox ແລະ ປິດຄຳແນະນຳທັງໝົດທີ່ກ່ຽວຂ້ອງ."
+
+#: src/user-meta/framework/custom-meta/inclusive-language-analysis-disable.php:109
+msgid "Disable inclusive language analysis"
+msgstr "ປິດການວິເຄາະພາສາທີ່ຄອບຄຸມທຸກກຸ່ມຄົນ"
+
+#: admin/views/class-yoast-feature-toggles.php:91
+msgid "Discover why inclusive language is important for SEO."
+msgstr "ຄົ້ນຫາວ່າເປັນຫຍັງພາສາທີ່ຄອບຄຸມທຸກກຸ່ມຄົນຈຶ່ງສຳຄັນສຳລັບ SEO."
+
+#: admin/views/class-yoast-feature-toggles.php:90
+msgid "The inclusive language analysis offers suggestions to write more inclusive copy."
+msgstr "ການວິເຄາະພາສາທີ່ຄອບຄຸມທຸກກຸ່ມຄົນ ຈະໃຫ້ຄຳແນະນຳເພື່ອຂຽນເນື້ອຫາທີ່ກວມລວມຫຼາຍຂຶ້ນ."
+
+#: admin/views/class-yoast-feature-toggles.php:87 js/dist/new-settings.js:31
+#: js/dist/new-settings.js:526
+msgid "Inclusive language analysis"
+msgstr "ການວິເຄາະພາສາທີ່ຄອບຄຸມທຸກກຸ່ມຄົນ"
+
+#: admin/metabox/class-metabox-section-inclusive-language.php:30
+#: js/dist/externals-components.js:440
+msgid "Inclusive language"
+msgstr "ພາສາທີ່ຄອບຄຸມທຸກກຸ່ມຄົນ"
+
+#: inc/class-wpseo-admin-bar-menu.php:265
+msgid "Front-end SEO inspector"
+msgstr "Front-end SEO inspector"
+
+#: admin/class-yoast-form.php:931
+msgid "Unlock with Premium!"
+msgstr "ປົດລັອກດ້ວຍ Premium!"
+
+#. translators: 1: Yoast SEO Premium
+#: src/integrations/admin/deactivated-premium-integration.php:99
+msgid "Activate %1$s!"
+msgstr "ເປີດໃຊ້ %1$s!"
+
+#. translators: 1: Yoast SEO Premium 2: Link start tag to activate premium, 3:
+#. Link closing tag.
+#: src/integrations/admin/deactivated-premium-integration.php:86
+msgid "You've installed %1$s but it's not activated yet. %2$sActivate %1$s now!%3$s"
+msgstr "ທ່ານໄດ້ຕິດຕັ້ງ %1$s ແລ້ວແຕ່ຍັງບໍ່ໄດ້ເປີດໃຊ້ງານ. %2$sເປີດໃຊ້ %1$s ດຽວນີ້ເລີຍ!%3$s"
+
+#: admin/views/class-yoast-feature-toggles.php:194 js/dist/new-settings.js:529
+msgid "Automatically ping search engines like Bing and Yandex whenever you publish, update or delete a post."
+msgstr "ສົ່ງສັນຍານ (ping) ຫາເຄື່ອງມືຄົ້ນຫາ ເຊັ່ນ Bing ແລະ Yandex ໂດຍອັດຕະໂນມັດ ເມື່ອທ່ານເຜີຍແຜ່, ອັບເດດ ຫຼື ລຶບໂພສ."
+
+#: src/integrations/admin/crawl-settings-integration.php:212
+msgid "Permalink cleanup settings"
+msgstr "ການຕັ້ງຄ່າການລຶບລ້າງ Permalink"
+
+#: src/integrations/admin/crawl-settings-integration.php:198
+msgid "Search cleanup settings"
+msgstr "ການຕັ້ງຄ່າການລຶບລ້າງການຄົ້ນຫາ"
+
+#: src/integrations/admin/crawl-settings-integration.php:155
+#: js/dist/new-settings.js:31 js/dist/new-settings.js:272
+msgid "Filter searches with common spam patterns"
+msgstr "ຄັດກອງການຄົ້ນຫາດ້ວຍຮູບແບບສະແປມທົ່ວໄປ"
+
+#: src/integrations/admin/crawl-settings-integration.php:154
+#: js/dist/new-settings.js:31 js/dist/new-settings.js:272
+msgid "Filter searches with emojis and other special characters"
+msgstr "ຄັດກອງການຄົ້ນຫາທີ່ມີ emoji ແລະ ຕົວອັກສອນພິເສດອື່ນໆ"
+
+#: src/integrations/admin/crawl-settings-integration.php:153
+#: js/dist/new-settings.js:31 js/dist/new-settings.js:272
+msgid "Filter search terms"
+msgstr "ຄັດກອງຄຳຄົ້ນຫາ"
+
+#: src/integrations/admin/crawl-settings-integration.php:149
+msgid "Unregistered URL parameters"
+msgstr "ພາລາມິເຕີ URL ທີ່ບໍ່ໄດ້ລົງທະບຽນ"
+
+#: src/integrations/admin/crawl-settings-integration.php:148
+msgid "Campaign tracking URL parameters"
+msgstr "ພາລາມິເຕີ URL ການຕິດຕາມແຄມເປນ"
+
+#: admin/views/class-yoast-feature-toggles.php:195
+msgid "Find out how IndexNow can help your site."
+msgstr "ຄົ້ນຫາວ່າ IndexNow ສາມາດຊ່ວຍເວັບໄຊຂອງທ່ານໄດ້ແນວໃດ."
+
+#: admin/views/class-yoast-feature-toggles.php:191 js/dist/new-settings.js:31
+#: js/dist/new-settings.js:529
+msgid "IndexNow"
+msgstr "IndexNow"
+
+#. translators: 1: Link start tag to the first-time configuration, 2: Link
+#. closing tag.
+#: src/integrations/admin/first-time-configuration-notice-integration.php:119
+msgid "We noticed that you haven't fully configured Yoast SEO yet. Optimize your SEO settings even further by using our improved %1$s First-time configuration%2$s."
+msgstr "ພວກເຮົາສັງເກດເຫັນວ່າທ່ານຍັງຕັ້ງຄ່າ Yoast SEO ບໍ່ທັນຄົບຖ້ວນ. ປັບແຕ່ງການຕັ້ງຄ່າ SEO ຂອງທ່ານໃຫ້ດີຂຶ້ນໂດຍການໃຊ້ %1$sການຕັ້ງຄ່າຄັ້ງທຳອິດ%2$s ທີ່ພວກເຮົາປັບປຸງໃໝ່."
+
+#: src/helpers/first-time-configuration-notice-helper.php:64
+msgid "SEO configuration"
+msgstr "ການຕັ້ງຄ່າ SEO"
+
+#: src/integrations/admin/crawl-settings-integration.php:188
+msgid "Feed crawl settings"
+msgstr "ການຕັ້ງຄ່າການ Crawl Feed"
+
+#: src/integrations/admin/crawl-settings-integration.php:186
+msgid "Basic crawl settings"
+msgstr "ການຕັ້ງຄ່າການ Crawl ພື້ນຖານ"
+
+#: src/integrations/admin/crawl-settings-integration.php:144
+msgid "Powered by HTTP header"
+msgstr "Powered by HTTP header"
+
+#: src/integrations/admin/crawl-settings-integration.php:143
+#: js/dist/new-settings.js:31 js/dist/new-settings.js:271
+msgid "Pingback HTTP header"
+msgstr "ສ່ວນຫົວ HTTP ຂອງ Pingback"
+
+#: src/integrations/admin/crawl-settings-integration.php:161
+msgid "Emoji scripts"
+msgstr "ສະຄຣິບ Emoji"
+
+#: src/integrations/admin/crawl-settings-integration.php:142
+msgid "Generator tag"
+msgstr "ແທັກ Generator"
+
+#: src/integrations/admin/crawl-settings-integration.php:141
+msgid "oEmbed links"
+msgstr "ລິ້ງ oEmbed"
+
+#: src/integrations/admin/crawl-settings-integration.php:140
+msgid "RSD / WLW links"
+msgstr "ລິ້ງ RSD / WLW"
+
+#: src/integrations/admin/crawl-settings-integration.php:139
+msgid "REST API links"
+msgstr "ລິ້ງ REST API"
+
+#: src/integrations/admin/crawl-settings-integration.php:138
+msgid "Shortlinks"
+msgstr "ລິ້ງສັ້ນ (Shortlinks)"
+
+#: src/integrations/admin/crawl-settings-integration.php:134
+msgid "Atom/RDF feeds"
+msgstr "ຟີດ Atom/RDF"
+
+#: src/integrations/admin/crawl-settings-integration.php:133
+msgid "Search results feeds"
+msgstr "ຟີດຜົນການຄົ້ນຫາ"
+
+#: src/integrations/admin/crawl-settings-integration.php:132
+msgid "Custom taxonomy feeds"
+msgstr "ຟີດແທັກໂຊໂນມີແບບກຳນົດເອງ"
+
+#: src/integrations/admin/crawl-settings-integration.php:131
+msgid "Tag feeds"
+msgstr "ຟີດແທັກ"
+
+#: src/integrations/admin/crawl-settings-integration.php:130
+msgid "Category feeds"
+msgstr "ຟີດໝວດໝູ່"
+
+#: src/integrations/admin/crawl-settings-integration.php:129
+msgid "Post type feeds"
+msgstr "ຟີດປະເພດໂພສ"
+
+#: src/integrations/admin/crawl-settings-integration.php:128
+msgid "Post authors feeds"
+msgstr "ຟີດຜູ້ຂຽນໂພສ"
+
+#: src/integrations/admin/crawl-settings-integration.php:126
+msgid "Global comment feeds"
+msgstr "ຟີດຄວາມຄິດເຫັນທົ່ວໄປ"
+
+#: src/integrations/admin/crawl-settings-integration.php:125
+msgid "Global feed"
+msgstr "ຟີດທົ່ວໄປ"
+
+#. translators: %1$s opens the link to the Yoast.com article about Crawl
+#. settings, %2$s closes the link,
+#: admin/views/tabs/network/crawl-settings.php:31
+msgid "%1$sLearn more about crawl settings.%2$s"
+msgstr "%1$sສຶກສາເພີ່ມເຕີມກ່ຽວກັບການຕັ້ງຄ່າການ Crawl.%2$s"
+
+#: src/integrations/admin/crawl-settings-integration.php:127
+msgid "Post comments feeds"
+msgstr "ຟີດຄວາມຄິດເຫັນຂອງໂພສ"
+
+#: admin/pages/network.php:25 admin/views/tabs/network/crawl-settings.php:19
+msgid "Crawl settings"
+msgstr "ການຕັ້ງຄ່າການ Crawl"
+
+#: src/integrations/admin/first-time-configuration-integration.php:128
+#: js/dist/general-page.js:62 js/dist/general-page.js:65
+msgid "First-time configuration"
+msgstr "ການຕັ້ງຄ່າຄັ້ງທຳອິດ"
+
+#. translators: 1: Link start tag to the First time configuration tab in the
+#. General page, 2: Link closing tag.
+#: admin/views/tabs/tool/import-seo.php:106
+msgid "You should finish the %1$sfirst time configuration%2$s to make sure your SEO data has been optimized and you’ve set the essential Yoast SEO settings for your site."
+msgstr "ທ່ານຄວນສຳເລັດ %1$sການຕັ້ງຄ່າຄັ້ງທຳອິດ%2$s ເພື່ອໃຫ້ແນ່ໃຈວ່າຂໍ້ມູນ SEO ຂອງທ່ານໄດ້ຮັບການປັບແຕ່ງ ແລະ ທ່ານໄດ້ຕັ້ງຄ່າ Yoast SEO ທີ່ຈຳເປັນສຳລັບເວັບໄຊແລ້ວ."
+
+#: admin/views/tabs/tool/import-seo.php:100
+msgid "Step 4: Go through the first time configuration"
+msgstr "ຂັ້ນຕອນທີ 4: ດຳເນີນການຕັ້ງຄ່າຄັ້ງທຳອິດ"
+
+#: src/integrations/admin/import-integration.php:220
+msgid "If you already have saved AIOSEO 'Search Appearance' settings and the issue persists, please contact our support team so we can take a closer look."
+msgstr "ຖ້າທ່ານບັນທຶກການຕັ້ງຄ່າ 'Search Appearance' ຂອງ AIOSEO ແລ້ວ ແຕ່ຍັງພົບບັນຫາຢູ່, ກະລຸນາຕິດຕໍ່ທີມງານຊ່ວຍເຫຼືອຂອງພວກເຮົາ."
+
+#: src/integrations/admin/import-integration.php:217
+msgid "If you have never saved any AIOSEO 'Search Appearance' settings, please do that first and run the import again."
+msgstr "ຖ້າທ່ານຍັງບໍ່ເຄີຍບັນທຶກການຕັ້ງຄ່າ 'Search Appearance' ຂອງ AIOSEO, ກະລຸນາດຳເນີນການກ່ອນແລ້ວຈຶ່ງເລີ່ມການນຳເຂົ້າຂໍ້ມູນອີກຄັ້ງ."
+
+#: src/integrations/admin/import-integration.php:214
+msgid "The AIOSEO import was cancelled because some AIOSEO data is missing. Please try and take the following steps to fix this:"
+msgstr "ການນຳເຂົ້າຂໍ້ມູນ AIOSEO ຖືກຍົກເລີກເນື່ອງຈາກຂໍ້ມູນບາງສ່ວນຫາຍໄປ. ກະລຸນາລອງເຮັດຕາມຂັ້ນຕອນຕໍ່ໄປນີ້ເພື່ອແກ້ໄຂ:"
+
+#: src/exceptions/importing/aioseo-validation-exception.php:17
+msgid "The validation of the AIOSEO data structure has failed."
+msgstr "ການກວດສອບໂຄງສ້າງຂໍ້ມູນ AIOSEO ລົ້ມເຫຼວ."
+
+#: src/integrations/admin/import-integration.php:236
+msgid "Cleanup failed with the following error:"
+msgstr "ການລ້າງຂໍ້ມູນລົ້ມເຫຼວດ້ວຍຂໍ້ຜິດພາດດັ່ງນີ້:"
+
+#: src/integrations/admin/import-integration.php:120
+msgid "Note: These settings will overwrite the default settings of Yoast SEO."
+msgstr "ໝາຍເຫດ: ການຕັ້ງຄ່າເຫຼົ່ານີ້ຈະຂຽນທັບການຕັ້ງຄ່າເລີ່ມຕົ້ນຂອງ Yoast SEO."
+
+#: src/integrations/admin/import-integration.php:116
+#: src/integrations/admin/import-integration.php:126
+msgid "Note: This metadata will only be imported if there is no existing Yoast SEO metadata yet."
+msgstr "ໝາຍເຫດ: Metadata ນີ້ຈະຖືກນຳເຂົ້າກໍຕໍ່ເມື່ອຍັງບໍ່ມີ Metadata ຂອງ Yoast SEO ຢູ່ເທົ່ານັ້ນ."
+
+#: src/integrations/admin/import-integration.php:115
+#: src/integrations/admin/import-integration.php:125
+msgid "Post metadata (SEO titles, descriptions, etc.)"
+msgstr "Post metadata (ຫົວຂໍ້ SEO, ຄຳອະທິບາຍ ແລະ ອື່ນໆ)"
+
+#. translators: %s: expands to the name of the plugin that is selected to be
+#. imported
+#: src/integrations/admin/import-integration.php:111
+msgid "The import from %s includes:"
+msgstr "ການນຳເຂົ້າຂໍ້ມູນຈາກ %s ປະກອບມີ:"
+
+#: src/integrations/admin/import-integration.php:109
+msgid "Once you're certain that your site is working properly with the imported data from another SEO plugin, you can clean up all the original data from that plugin."
+msgstr "ເມື່ອທ່ານແນ່ໃຈວ່າເວັບໄຊເຮັດວຽກໄດ້ປົກກະຕິດ້ວຍຂໍ້ມູນທີ່ນຳເຂົ້າຈາກປລັກອິນ SEO ອື່ນແລ້ວ, ທ່ານສາມາດລ້າງຂໍ້ມູນຕົ້ນສະບັບທັງໝົດຈາກປລັກອິນນັ້ນໄດ້."
+
+#: src/integrations/admin/import-integration.php:108
+msgid "Please select an SEO plugin below to see what data can be imported."
+msgstr "ກະລຸນາເລືອກປລັກອິນ SEO ດ້ານລຸ່ມເພື່ອເບິ່ງວ່າສາມາດນຳເຂົ້າຂໍ້ມູນໃດໄດ້ແດ່."
+
+#: admin/views/tool-import-export.php:35
+#: src/integrations/admin/import-integration.php:107
+msgid "Clean up"
+msgstr "ລ້າງຂໍ້ມູນ"
+
+#: src/integrations/admin/import-integration.php:99
+msgid "After you've imported data from another SEO plugin, please make sure to clean up all the original data from that plugin. (step 5)"
+msgstr "ຫຼັງຈາກນຳເຂົ້າຂໍ້ມູນຈາກປລັກອິນ SEO ອື່ນແລ້ວ, ກະລຸນາຢ່າລືມລ້າງຂໍ້ມູນຕົ້ນສະບັບທັງໝົດຈາກປລັກອິນນັ້ນ (ຂັ້ນຕອນທີ 5)."
+
+#: src/integrations/admin/import-integration.php:98
+msgid "Note: "
+msgstr "ໝາຍເຫດ: "
+
+#: src/integrations/admin/import-integration.php:97
+msgid "The cleanup can take a long time depending on your site's size."
+msgstr "ການລ້າງຂໍ້ມູນອາດຈະໃຊ້ເວລາດົນ ຂຶ້ນກັບຂະໜາດຂອງເວັບໄຊຂອງທ່ານ."
+
+#: src/integrations/admin/import-integration.php:238
+msgid "Import failed with the following error:"
+msgstr "ການນຳເຂົ້າລົ້ມເຫຼວດ້ວຍຂໍ້ຜິດພາດດັ່ງນີ້:"
+
+#: src/integrations/admin/import-integration.php:101
+msgid "No data found from other SEO plugins."
+msgstr "ບໍ່ພົບຂໍ້ມູນຈາກປລັກອິນ SEO ອື່ນ."
+
+#: src/integrations/admin/import-integration.php:100
+msgid "Select SEO plugin"
+msgstr "ເລືອກປລັກອິນ SEO"
+
+#: src/integrations/admin/import-integration.php:96
+msgid "The import can take a long time depending on your site's size."
+msgstr "ການນຳເຂົ້າອາດຈະໃຊ້ເວລາດົນ ຂຶ້ນກັບຂະໜາດຂອງເວັບໄຊຂອງທ່ານ."
+
+#: src/integrations/admin/installation-success-integration.php:127
+msgid "Installation Successful"
+msgstr "ຕິດຕັ້ງສຳເລັດແລ້ວ"
+
+#: src/config/schema-types.php:131
+msgid "Blog Post"
+msgstr "ບົດຄວາມບລັອກ"
+
+#. translators: %s: expands to 'Yoast SEO Premium'.
+#. translators: 1: Yoast WooCommerce SEO
+#. translators: %s: Yoast WooCommerce SEO
+#: src/integrations/admin/workouts-integration.php:315
+#: js/dist/integrations-page.js:11 js/dist/new-settings.js:53
+msgid "Activate %s"
+msgstr "ເປີດໃຊ້ %s"
+
+#. translators: %s: expands to 'Yoast SEO Premium'.
+#: src/integrations/admin/workouts-integration.php:309
+msgid "Update %s"
+msgstr "ອັບເດດ %s"
+
+#. translators: %s: expands to 'Yoast SEO Premium'.
+#: src/integrations/admin/workouts-integration.php:302
+msgid "Renew %s"
+msgstr "ຕໍ່ອາຍຸ %s"
+
+#: src/integrations/admin/workouts-integration.php:243
+msgid "Get help activating your subscription"
+msgstr "ຂໍຄວາມຊ່ວຍເຫຼືອໃນການເປີດໃຊ້ການສະໝັກສະມາຊິກ"
+
+#. translators: 1: expands to 'Yoast SEO Premium', 2: Link start tag to the
+#. page to update Premium, 3: Link closing tag.
+#: src/integrations/admin/workouts-integration.php:237
+msgid "It looks like you’re running an outdated and unactivated version of %1$s, please activate your subscription in %2$sMyYoast%3$s and update to the latest version (at least 17.7) to gain access to our updated workouts section."
+msgstr "ເບິ່ງຄືວ່າທ່ານກຳລັງໃຊ້ %1$s ລຸ້ນເກົ່າທີ່ຍັງບໍ່ໄດ້ເປີດໃຊ້, ກະລຸນາເປີດໃຊ້ການສະໝັກສະມາຊິກໃນ %2$sMyYoast%3$s ແລະ ອັບເດດເປັນລຸ້ນຫຼ້າສຸດ (ຢ່າງໜ້ອຍ 17.7) ເພື່ອເຂົ້າເຖິງສ່ວນ Workouts ໃໝ່."
+
+#. translators: %s: expands to 'Yoast SEO Premium'.
+#: src/integrations/admin/workouts-integration.php:233
+msgid "Activate your subscription of %s"
+msgstr "ເປີດໃຊ້ການສະໝັກສະມາຊິກຂອງ %s"
+
+#. translators: %s: expands to 'Yoast SEO Premium'.
+#: src/integrations/admin/workouts-integration.php:221
+msgid "Update to the latest version of %s"
+msgstr "ອັບເດດເປັນ %s ລຸ້ນຫຼ້າສຸດ"
+
+#: src/integrations/admin/workouts-integration.php:213
+msgid "Renew your subscription"
+msgstr "ຕໍ່ອາຍຸການສະໝັກສະມາຊິກຂອງທ່ານ"
+
+#. translators: %s: expands to 'Yoast SEO Premium'.
+#: src/integrations/admin/workouts-integration.php:206
+msgid "Accessing the latest workouts requires an updated version of %s (at least 17.7), but it looks like your subscription has expired. Please renew your subscription to update and gain access to all the latest features."
+msgstr "ການເຂົ້າເຖິງ Workouts ໃໝ່ຫຼ້າສຸດຕ້ອງໃຊ້ %s ລຸ້ນອັບເດດ (ຢ່າງໜ້ອຍ 17.7), ແຕ່ເບິ່ງຄືວ່າການສະໝັກສະມາຊິກຂອງທ່ານໝົດອາຍຸແລ້ວ. ກະລຸນາຕໍ່ອາຍຸເພື່ອອັບເດດ ແລະ ເຂົ້າເຖິງຟີເຈີໃໝ່ທັງໝົດ."
+
+#. translators: 1: expands to 'Yoast SEO Premium', 2: Link start tag to the
+#. page to update Premium, 3: Link closing tag.
+#: src/integrations/admin/workouts-integration.php:224
+msgid "It looks like you're running an outdated version of %1$s, please %2$supdate to the latest version (at least 17.7)%3$s to gain access to our updated workouts section."
+msgstr "ເບິ່ງຄືວ່າທ່ານກຳລັງໃຊ້ %1$s ລຸ້ນເກົ່າ, ກະລຸນາ %2$sອັບເດດເປັນລຸ້ນຫຼ້າສຸດ (ຢ່າງໜ້ອຍ 17.7)%3$s ເພື່ອເຂົ້າເຖິງສ່ວນ Workouts ໃໝ່."
+
+#. translators: %s: expands to 'Yoast SEO Premium'.
+#: src/integrations/admin/workouts-integration.php:203
+msgid "Renew your subscription of %s"
+msgstr "ຕໍ່ອາຍຸການສະໝັກສະມາຊິກຂອງ %s"
+
+#. translators: 1: Link start tag to the first-time configuration, 2: Yoast
+#. SEO, 3: Link closing tag.
+#: src/integrations/admin/first-time-configuration-notice-integration.php:110
+msgid "Get started quickly with the %1$s%2$s First-time configuration%3$s and configure Yoast SEO with the optimal SEO settings for your site!"
+msgstr "ເລີ່ມຕົ້ນຢ່າງວ່ອງໄວດ້ວຍ %1$s%2$s ການຕັ້ງຄ່າຄັ້ງທຳອິດ%3$s ແລະ ຕັ້ງຄ່າ Yoast SEO ໃຫ້ເໝາະສົມທີ່ສຸດສຳລັບເວັບໄຊຂອງທ່ານ!"
+
+#: inc/class-wpseo-replace-vars.php:1499
+msgid "Current or first category title"
+msgstr "ຫົວຂໍ້ໝວດໝູ່ປັດຈຸບັນ ຫຼື ໝວດໝູ່ທຳອິດ"
+
+#: inc/class-wpseo-replace-vars.php:1499
+msgid "Category Title"
+msgstr "ຫົວຂໍ້ໝວດໝູ່"
+
+#: inc/class-wpseo-replace-vars.php:1498
+msgid "Replaced with the post content"
+msgstr "ແທນທີ່ດ້ວຍເນື້ອຫາຂອງໂພສ"
+
+#: inc/class-wpseo-replace-vars.php:1498
+msgid "Post Content"
+msgstr "ເນື້ອຫາໂພສ"
+
+#: inc/class-wpseo-replace-vars.php:1497
+msgid "Replaced with the permalink"
+msgstr "ແທນທີ່ດ້ວຍ Permalink"
+
+#: inc/class-wpseo-replace-vars.php:1496
+msgid "Replaced with the last name of the author"
+msgstr "ແທນທີ່ດ້ວຍນາມສະກຸນຂອງຜູ້ຂຽນ"
+
+#: inc/class-wpseo-replace-vars.php:1496
+msgid "Author last name"
+msgstr "ນາມສະກຸນຜູ້ຂຽນ"
+
+#: inc/class-wpseo-replace-vars.php:1495
+msgid "Replaced with the first name of the author"
+msgstr "ແທນທີ່ດ້ວຍຊື່ຂອງຜູ້ຂຽນ"
+
+#: inc/class-wpseo-replace-vars.php:1495
+msgid "Author first name"
+msgstr "ຊື່ຜູ້ຂຽນ"
+
+#: inc/class-wpseo-replace-vars.php:1494
+msgid "Replaced with the day the post was published"
+msgstr "ແທນທີ່ດ້ວຍວັນທີທີ່ເຜີຍແຜ່ໂພສ"
+
+#: inc/class-wpseo-replace-vars.php:1494
+msgid "Post day"
+msgstr "ວັນທີເຜີຍແຜ່ໂພສ"
+
+#: inc/class-wpseo-replace-vars.php:1493
+msgid "Replaced with the month the post was published"
+msgstr "ແທນທີ່ດ້ວຍເດືອນທີ່ເຜີຍແຜ່ໂພສ"
+
+#: inc/class-wpseo-replace-vars.php:1493
+msgid "Post month"
+msgstr "ເດືອນເຜີຍແຜ່ໂພສ"
+
+#: inc/class-wpseo-replace-vars.php:1492
+msgid "Replaced with the year the post was published"
+msgstr "ແທນທີ່ດ້ວຍປີທີ່ເຜີຍແຜ່ໂພສ"
+
+#: inc/class-wpseo-replace-vars.php:1492
+msgid "Post year"
+msgstr "ປີເຜີຍແຜ່ໂພສ"
+
+#: inc/class-wpseo-replace-vars.php:1491
+msgid "Current day"
+msgstr "ວັນທີປັດຈຸບັນ"
+
+#: inc/class-wpseo-replace-vars.php:1490
+msgid "Current month"
+msgstr "ເດືອນປັດຈຸບັນ"
+
+#: inc/class-wpseo-replace-vars.php:1488
+msgid "Current date"
+msgstr "ວັນທີ ແລະ ເວລາປັດຈຸບັນ"
+
+#. translators: %1$s expands to an opening strong tag, %2$s expands to the
+#. dependency name, %3$s expands to a closing strong tag, %4$s expands to an
+#. opening anchor tag, %5$s expands to a closing anchor tag.
+#: admin/class-suggested-plugins.php:111
+msgid "It looks like you aren't using our %1$s%2$s addon%3$s. %4$sUpgrade today%5$s to unlock more tools and SEO features to make your products stand out in search results."
+msgstr "ເບິ່ງຄືວ່າທ່ານຍັງບໍ່ໄດ້ໃຊ້ %1$sສ່ວນເສີມ %2$s%3$s ຂອງພວກເຮົາ. %4$sອັບເກຣດມື້ນີ້%5$s ເພື່ອປົດລັອກເຄື່ອງມື ແລະ ຟີເຈີ SEO ເພີ່ມເຕີມ ເພື່ອເຮັດໃຫ້ສິນຄ້າຂອງທ່ານໂດດເດັ່ນໃນຜົນການຄົ້ນຫາ."
+
+#. translators: %1$s expands to an opening anchor tag for a link leading to the
+#. Premium installation page, %2$s expands to a closing anchor tag.
+#: src/presenters/admin/indexing-error-presenter.php:102
+msgid "Below are the technical details for the error. See %1$sthis page%2$s for a more detailed explanation."
+msgstr "ດ້ານລຸ່ມແມ່ນລາຍລະອຽດທາງເຕັກນິກຂອງຂໍ້ຜິດພາດ. ເບິ່ງ %1$sໜ້ານີ້%2$s ສຳລັບຄຳອະທິບາຍເພີ່ມເຕີມ."
+
+#: src/integrations/admin/workouts-integration.php:93
+msgid "Workouts"
+msgstr "Workouts"
+
+#: admin/views/class-yoast-integration-toggles.php:77
+msgid "Improve the quality of your site search! Automatically helps your users find your cornerstone and most important content in your internal search results. It also removes noindexed posts & pages from your site’s search results."
+msgstr "ປັບປຸງຄຸນນະພາບການຄົ້ນຫາໃນເວັບໄຊ! ຊ່ວຍໃຫ້ຜູ້ໃຊ້ຊອກຫາເນື້ອຫາຫຼັກ (Cornerstone) ທີ່ສຳຄັນທີ່ສຸດໃນຜົນການຄົ້ນຫາພາຍໃນໂດຍອັດຕະໂນມັດ ແລະ ລຶບໂພສ ຫຼື ໜ້າທີ່ຕັ້ງຄ່າ Noindex ອອກຈາກຜົນການຄົ້ນຫາ."
+
+#. translators: %s: Algolia.
+#: admin/views/class-yoast-integration-toggles.php:79
+msgid "Find out more about our %s integration."
+msgstr "ສຶກສາເພີ່ມເຕີມກ່ຽວກັບການເຊື່ອມຕໍ່ກັບ %s."
+
+#: admin/views/class-yoast-feature-toggles.php:124
+msgid "Get relevant internal linking suggestions — while you’re writing! The link suggestions metabox shows a list of posts on your blog with similar content that might be interesting to link to. "
+msgstr "ຮັບຄຳແນະນຳການລິ້ງພາຍໃນທີ່ກ່ຽວຂ້ອງໃນຂະນະທີ່ທ່ານຂຽນ! Metabox ແນະນຳລິ້ງຈະສະແດງລາຍການໂພສໃນບລັອກທີ່ມີເນື້ອຫາຄ້າຍຄືກັນ. "
+
+#: admin/views/class-yoast-feature-toggles.php:125
+msgid "Read more about how internal linking can improve your site structure."
+msgstr "ອ່ານເພີ່ມເຕີມວ່າການລິ້ງພາຍໃນຊ່ວຍປັບປຸງໂຄງສ້າງເວັບໄຊໄດ້ແນວໃດ."
+
+#: admin/views/class-yoast-feature-toggles.php:115
+msgid "Find out how Insights can help you improve your content."
+msgstr "ສຶກສາວ່າ Insights ຊ່ວຍປັບປຸງເນື້ອຫາຂອງທ່ານໄດ້ແນວໃດ."
+
+#: admin/views/class-yoast-feature-toggles.php:114
+msgid "Find relevant data about your content right in the Insights section in the Yoast SEO metabox. You’ll see what words you use most often and if they’re a match with your keywords! "
+msgstr "ຊອກຫາຂໍ້ມູນທີ່ກ່ຽວຂ້ອງກັບເນື້ອຫາໃນສ່ວນ Insights ຂອງ Yoast SEO. ທ່ານຈະເຫັນວ່າຄຳໃດທີ່ທ່ານໃຊ້ເລື້ອຍທີ່ສຸດ ແລະ ມັນກົງກັບຄຳຫຼັກຂອງທ່ານບໍ່! "
+
+#: admin/views/class-yoast-feature-toggles.php:121 js/dist/new-settings.js:31
+#: js/dist/new-settings.js:526
+msgid "Link suggestions"
+msgstr "ຄຳແນະນຳການລິ້ງ"
+
+#: admin/views/class-yoast-feature-toggles.php:112 js/dist/block-editor.js:247
+#: js/dist/block-editor.js:514 js/dist/classic-editor.js:230
+#: js/dist/new-settings.js:31 js/dist/new-settings.js:526
+msgid "Insights"
+msgstr "Insights"
+
+#. translators: %1$s expands to an opening anchor tag for a link leading to the
+#. Premium installation page, %2$s expands to a closing anchor tag.
+#. Translators: %1$s expands to an opening anchor tag for a link leading to the
+#. Premium installation page, %2$s expands to a closing anchor tag.
+#: src/presenters/admin/indexing-error-presenter.php:76
+#: src/presenters/admin/indexing-failed-notification-presenter.php:77
+msgid "Oops, something has gone wrong and we couldn't complete the optimization of your SEO data. Please make sure to activate your subscription in MyYoast by completing %1$sthese steps%2$s."
+msgstr "ຂໍອະໄພ, ມີບາງຢ່າງຜິດພາດ ແລະ ພວກເຮົາບໍ່ສາມາດເຮັດໃຫ້ການປັບແຕ່ງຂໍ້ມູນ SEO ຂອງທ່ານສຳເລັດໄດ້. ກະລຸນາກວດສອບໃຫ້ແນ່ໃຈວ່າໄດ້ເປີດໃຊ້ງານການສະໝັກສະມາຊິກຂອງທ່ານໃນ MyYoast ໂດຍເຮັດຕາມ %1$s ຂັ້ນຕອນເຫຼົ່ານີ້ %2$s."
+
+#. Translators: %s expands to the error message.
+#: src/integrations/admin/addon-installation/installation-integration.php:192
+msgid "Addon installation failed because of an error: %s."
+msgstr "ການຕິດຕັ້ງສ່ວນເສີມ (Addon) ລົ້ມເຫຼວເນື່ອງຈາກຂໍ້ຜິດພາດ: %s."
+
+#: src/integrations/admin/addon-installation/installation-integration.php:188
+msgid "You are not allowed to install plugins."
+msgstr "ທ່ານບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ຕິດຕັ້ງປລັກອິນ."
+
+#. Translators: %s expands to the name of the addon.
+#: src/integrations/admin/addon-installation/installation-integration.php:184
+msgid "Addon installed."
+msgstr "ຕິດຕັ້ງສ່ວນເສີມແລ້ວ."
+
+#. Translators:%s expands to the error message.
+#: src/integrations/admin/addon-installation/installation-integration.php:160
+msgid "Addon activation failed because of an error: %s."
+msgstr "ການເປີດໃຊ້ສ່ວນເສີມລົ້ມເຫຼວເນື່ອງຈາກຂໍ້ຜິດພາດ: %s."
+
+#: src/integrations/admin/addon-installation/installation-integration.php:156
+msgid "You are not allowed to activate plugins."
+msgstr "ທ່ານບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ເປີດໃຊ້ປລັກອິນ."
+
+#. Translators: %s expands to the name of the addon.
+#: src/integrations/admin/addon-installation/installation-integration.php:154
+msgid "Addon activated."
+msgstr "ເປີດໃຊ້ສ່ວນເສີມແລ້ວ."
+
+#. translators: %1$s expands to an anchor tag to the admin premium page, %2$s
+#. expands to Yoast SEO Premium, %3$s expands to a closing anchor tag
+#: src/integrations/admin/addon-installation/installation-integration.php:129
+msgid "%1$s Continue to %2$s%3$s"
+msgstr "%1$s ໄປທີ່ %2$s%3$s ຕໍ່"
+
+#: src/integrations/admin/addon-installation/installation-integration.php:106
+msgid "Installing and activating addons"
+msgstr "ກຳລັງຕິດຕັ້ງ ແລະ ເປີດໃຊ້ສ່ວນເສີມ"
+
+#. translators: %1$s expands to Yoast SEO
+#: src/integrations/admin/addon-installation/dialog-integration.php:94
+msgid "No %1$s plugins have been installed. You don't seem to own any active subscriptions."
+msgstr "ຍັງບໍ່ໄດ້ຕິດຕັ້ງປລັກອິນ %1$s. ເບິ່ງຄືວ່າທ່ານຍັງບໍ່ມີການສະໝັກສະມາຊິກທີ່ໃຊ້ງານຢູ່."
+
+#. translators: %s expands to Yoast SEO Premium.
+#: admin/class-admin.php:248
+msgid "Required by %s"
+msgstr "ຕ້ອງການໂດຍ %s"
+
+#. Translators: %1$s resolves to Yoast SEO.
+#: src/integrations/watchers/addon-update-watcher.php:95
+msgid "Auto-updates are disabled based on this setting for %1$s."
+msgstr "ປິດການອັບເດດອັດຕະໂນມັດສຳລັບ %1$s ຕາມການຕັ້ງຄ່ານີ້."
+
+#. Translators: %1$s resolves to Yoast SEO.
+#: src/integrations/watchers/addon-update-watcher.php:85
+msgid "Auto-updates are enabled based on this setting for %1$s."
+msgstr "ເປີດການອັບເດດອັດຕະໂນມັດສຳລັບ %1$s ຕາມການຕັ້ງຄ່ານີ້."
+
+#: src/presenters/admin/badge-presenter.php:80
+#: src/presenters/admin/badge-presenter.php:87
+#: js/dist/externals-components.js:440 js/dist/externals/componentsNew.js:563
+#: js/dist/integrations-page.js:3 js/dist/integrations-page.js:6
+#: js/dist/integrations-page.js:18 js/dist/new-settings.js:592
+msgid "New"
+msgstr "ໃໝ່"
+
+#. translators: %s is the reason given by WordPress.
+#: src/exceptions/indexable/invalid-term-exception.php:21
+msgid "The term is considered invalid. The following reason was given by WordPress: %s"
+msgstr "ຄຳສັບ (Term) ນີ້ບໍ່ຖືກຕ້ອງ. ເຫດຜົນຈາກ WordPress: %s"
+
+#: src/exceptions/indexable/post-not-found-exception.php:16
+msgid "The post could not be found."
+msgstr "ບໍ່ພົບໂພສ."
+
+#: src/exceptions/indexable/term-not-found-exception.php:16
+msgid "The term could not be found."
+msgstr "ບໍ່ພົບຄຳສັບ (Term)."
+
+#: admin/class-yoast-form.php:1066 js/dist/general-page.js:58
+msgid "This feature has been disabled since subsites never send tracking data."
+msgstr "ຟີເຈີນີ້ຖືກປິດໄວ້ ເນື່ອງຈາກເວັບໄຊຍ່ອຍ (Subsites) ບໍ່ເຄີຍສົ່ງຂໍ້ມູນການຕິດຕາມ."
+
+#. translators: %1$s expands to an opening anchor tag, %2$s expands to an
+#. closing anchor tag.
+#: src/integrations/third-party/wpml-wpseo-notification.php:110
+msgid "We notice that you have installed WPML. To make sure your canonical URLs are set correctly, %1$sinstall and activate the WPML SEO add-on%2$s as well!"
+msgstr "ພວກເຮົາສັງເກດເຫັນວ່າທ່ານຕິດຕັ້ງ WPML. ເພື່ອໃຫ້ແນ່ໃຈວ່າ Canonical URL ຖືກຕ້ອງ, ກະລຸນາ %1$sຕິດຕັ້ງ ແລະ ເປີດໃຊ້ WPML SEO add-on%2$s ນຳອີກ!"
+
+#: src/presenters/admin/indexing-notification-presenter.php:81
+msgid "Because of a change in your category base setting, some of your SEO data needs to be reprocessed."
+msgstr "ເນື່ອງຈາກມີການປ່ຽນແປງໃນການຕັ້ງຄ່າ Category base, ຂໍ້ມູນ SEO ບາງສ່ວນຕ້ອງໄດ້ຮັບການປະມວນຜົນໃໝ່."
+
+#: admin/views/class-yoast-feature-toggles.php:186
+msgid "Find out how a rich snippet can improve visibility and click-through-rate."
+msgstr "ສຶກສາວ່າ Rich Snippet ຊ່ວຍປັບປຸງການເບິ່ງເຫັນ ແລະ ອັດຕາການຄລິກ (CTR) ໄດ້ແນວໃດ."
+
+#: admin/views/class-yoast-feature-toggles.php:185 js/dist/new-settings.js:529
+msgid "This adds an author byline and reading time estimate to the article’s snippet when shared on Slack."
+msgstr "ສ່ວນນີ້ຈະເພີ່ມຊື່ຜູ້ຂຽນ ແລະ ການປະມານເວລາອ່ານໃນ Snippet ຂອງບົດຄວາມ ເມື່ອຖືກແຊຣ໌ລົງໃນ Slack."
+
+#. translators: 1: Expands to Yoast SEO
+#: src/presenters/admin/indexing-notification-presenter.php:129
+msgid "Wait for a week or so, until %1$s automatically processes most of your content in the background."
+msgstr "ລໍຖ້າປະມານ 1 ອາທິດ ເພື່ອໃຫ້ %1$s ປະມວນຜົນເນື້ອຫາສ່ວນໃຫຍ່ຢູ່ໃນເບື້ອງຫຼັງໂດຍອັດຕະໂນມັດ."
+
+#. translators: %s expands to the reading time number, in minutes
+#: src/presenters/slack/enhanced-data-presenter.php:55
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] "%s ນາທີ"
+
+#. translators: %s expands to the reading time number, in minutes
+#: src/presenters/slack/enhanced-data-presenter.php:55
+msgid "Est. reading time"
+msgstr "ເວລາອ່ານໂດຍປະມານ"
+
+#: src/presenters/slack/enhanced-data-presenter.php:50
+msgid "Written by"
+msgstr "ຂຽນໂດຍ"
+
+#: inc/class-wpseo-admin-bar-menu.php:439
+msgid "Google Rich Results Test"
+msgstr "Google Rich Results Test"
+
+#: admin/views/class-yoast-feature-toggles.php:183
+msgid "Enhanced Slack sharing"
+msgstr "ການແຊຣ໌ລົງ Slack ແບບປັບປຸງໃໝ່"
+
+#: src/presenters/admin/indexing-notification-presenter.php:84
+msgid "Because of a change in your tag base setting, some of your SEO data needs to be reprocessed."
+msgstr "ເນື່ອງຈາກມີການປ່ຽນແປງໃນການຕັ້ງຄ່າ Tag base, ຂໍ້ມູນ SEO ບາງສ່ວນຕ້ອງໄດ້ຮັບການປະມວນຜົນໃໝ່."
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/views/tabs/network/integrations.php:27
+msgid "This tab allows you to selectively disable %1$s integrations with third-party products for all sites in the network. By default all integrations are enabled, which allows site admins to choose for themselves if they want to toggle an integration on or off for their site. When you disable an integration here, site admins will not be able to use that integration at all."
+msgstr "ແທັບນີ້ອະນຸຍາດໃຫ້ທ່ານປິດການເຊື່ອມຕໍ່ຂອງ %1$s ກັບຜະລິດຕະພັນພາຍນອກສຳລັບທຸກເວັບໄຊໃນເຄືອຂ່າຍ. ໂດຍປົກກະຕິການເຊື່ອມຕໍ່ທັງໝົດຈະຖືກເປີດໄວ້ເພື່ອໃຫ້ຜູ້ດູແລແຕ່ລະເວັບໄຊເລືອກເອງ. ຖ້າທ່ານປິດຢູ່ນີ້, ຜູ້ດູແລເວັບໄຊຍ່ອຍຈະບໍ່ສາມາດໃຊ້ການເຊື່ອມຕໍ່ນັ້ນໄດ້ເລີຍ."
+
+#. translators: %s: 'Semrush'
+#: admin/views/class-yoast-integration-toggles.php:67
+msgid "The %s integration offers suggestions and insights for keywords related to the entered focus keyphrase."
+msgstr "ການເຊື່ອມຕໍ່ກັບ %s ຈະໃຫ້ຄຳແນະນຳ ແລະ ຂໍ້ມູນເຈາະເລິກສຳລັບຄຳຫຼັກທີ່ກ່ຽວຂ້ອງກັບຄຳຫຼັກທີ່ທ່ານປ້ອນ."
+
+#: admin/class-admin.php:259
+msgid "Activate your subscription"
+msgstr "ເປີດໃຊ້ການສະໝັກສະມາຊິກຂອງທ່ານ"
+
+#: src/presenters/admin/indexing-error-presenter.php:64
+msgid "Oops, something has gone wrong and we couldn't complete the optimization of your SEO data. Please click the button again to re-start the process. "
+msgstr "ຂໍອະໄພ, ມີບາງຢ່າງຜິດພາດ ແລະ ພວກເຮົາບໍ່ສາມາດເຮັດໃຫ້ການປັບແຕ່ງຂໍ້ມູນ SEO ຂອງທ່ານສຳເລັດໄດ້. ກະລຸນາກົດປຸ່ມອີກຄັ້ງເພື່ອເລີ່ມຕົ້ນຂະບວນການໃໝ່. "
+
+#: src/presenters/admin/indexing-notification-presenter.php:96
+msgid "You can speed up your site and get insight into your internal linking structure by letting us perform a few optimizations to the way SEO data is stored."
+msgstr "ທ່ານສາມາດເຮັດໃຫ້ເວັບໄຊໄວຂຶ້ນ ແລະ ເຫັນໂຄງສ້າງການລິ້ງພາຍໃນ ໂດຍການໃຫ້ພວກເຮົາປັບແຕ່ງວິທີການເກັບຂໍ້ມູນ SEO."
+
+#: src/presenters/admin/indexing-notification-presenter.php:59
+#: js/dist/general-page.js:48 js/dist/indexation.js:8
+msgid "Start SEO data optimization"
+msgstr "ເລີ່ມການປັບແຕ່ງຂໍ້ມູນ SEO"
+
+#: src/presenters/admin/indexing-list-item-presenter.php:42
+msgid "Learn more about the benefits of optimized SEO data."
+msgstr "ສຶກສາເພີ່ມເຕີມກ່ຽວກັບປະໂຫຍດຂອງການປັບແຕ່ງຂໍ້ມູນ SEO."
+
+#: src/presenters/admin/indexing-list-item-presenter.php:40
+msgid "You can speed up your site and get insight into your internal linking structure by letting us perform a few optimizations to the way SEO data is stored. If you have a lot of content it might take a while, but trust us, it's worth it."
+msgstr "ທ່ານສາມາດເພີ່ມຄວາມໄວໃຫ້ເວັບໄຊ ແລະ ເຫັນພາບລວມການລິ້ງພາຍໃນ ໂດຍໃຫ້ພວກເຮົາປັບແຕ່ງການຈັດເກັບຂໍ້ມູນ SEO. ຖ້າທ່ານມີເນື້ອຫາຫຼາຍອາດຈະໃຊ້ເວລາດົນ, ແຕ່ຮັບຮອງວ່າມັນຄຸ້ມຄ່າ."
+
+#: src/integrations/watchers/indexable-homeurl-watcher.php:97
+msgid "All permalinks were successfully reset"
+msgstr "ຣີເຊັດ Permalink ທັງໝົດສຳເລັດແລ້ວ"
+
+#: src/presenters/admin/indexing-list-item-presenter.php:37
+msgid "Optimize SEO Data"
+msgstr "ປັບແຕ່ງຂໍ້ມູນ SEO"
+
+#: src/presenters/admin/indexing-error-presenter.php:71
+#: src/presenters/admin/indexing-failed-notification-presenter.php:71
+msgid "If the problem persists, please contact support."
+msgstr "ຖ້າບັນຫາຍັງຄືເກົ່າ, ກະລຸນາຕິດຕໍ່ຝ່າຍຊ່ວຍເຫຼືອ."
+
+#. Translators: %1$s expands to an opening anchor tag for a link leading to the
+#. Yoast SEO tools page, %2$s expands to a closing anchor tag.
+#: src/presenters/admin/indexing-failed-notification-presenter.php:59
+msgid "Something has gone wrong and we couldn't complete the optimization of your SEO data. Please %1$sre-start the process%2$s."
+msgstr "ມີບາງຢ່າງຜິດພາດ ແລະ ບໍ່ສາມາດປັບແຕ່ງຂໍ້ມູນ SEO ໃຫ້ສຳເລັດ. ກະລຸນາ %1$sເລີ່ມຂະບວນການໃໝ່%2$s."
+
+#. translators: %1$s: expands to an opening anchor tag, %2$s: expands to a
+#. closing anchor tag
+#: admin/views/class-yoast-feature-toggles.php:237
+msgid "Disabling Yoast SEO's XML sitemaps will not disable WordPress' core sitemaps. In some cases, this %1$s may result in SEO errors on your site%2$s. These may be reported in Google Search Console and other tools."
+msgstr "ການປິດ XML Sitemaps ຂອງ Yoast SEO ຈະບໍ່ໄດ້ປິດ Sitemaps ຫຼັກຂອງ WordPress. ໃນບາງກໍລະນີ, ສິ່ງນີ້ %1$sອາດສົ່ງຜົນໃຫ້ເກີດ SEO errors ໃນເວັບໄຊຂອງທ່ານ%2$s."
+
+#. translators: %s expands to a mailto support link.
+#: inc/class-addon-manager.php:887
+msgid "If you still need support and have an active subscription for this product, please email %s."
+msgstr "ຖ້າທ່ານຍັງຕ້ອງການຄວາມຊ່ວຍເຫຼືອ ແລະ ມີການສະໝັກສະມາຊິກທີ່ໃຊ້ງານຢູ່, ກະລຸນາສົ່ງອີເມລ໌ຫາ %s."
+
+#. translators: 1: expands to <a> that refers to the help page, 2: </a> closing
+#. tag.
+#: inc/class-addon-manager.php:884
+msgid "You can probably find an answer to your question in our %1$shelp center%2$s."
+msgstr "ທ່ານອາດຈະພົບຄຳຕອບສຳລັບຄຳຖາມຂອງທ່ານໃນ %1$sສູນຊ່ວຍເຫຼືອ%2$s ຂອງພວກເຮົາ."
+
+#: inc/class-addon-manager.php:881
+msgid "Need support?"
+msgstr "ຕ້ອງການຄວາມຊ່ວຍເຫຼືອບໍ່?"
+
+#. translators: 1: Yoast SEO, 2: translated version of "Off"
+#: admin/views/class-yoast-feature-toggles.php:154
+msgid "The advanced section of the %1$s meta box allows a user to remove posts from the search results or change the canonical. The settings in the schema tab allows a user to change schema meta data for a post. These are things you might not want any author to do. That's why, by default, only editors and administrators can do this. Setting to \"%2$s\" allows all users to change these settings."
+msgstr "ສ່ວນຂັ້ນສູງຂອງ %1$s ອະນຸຍາດໃຫ້ຜູ້ໃຊ້ລຶບໂພສອອກຈາກຜົນການຄົ້ນຫາ ຫຼື ປ່ຽນ Canonical ໄດ້. ການຕັ້ງຄ່າໃນແທັບ Schema ອະນຸຍາດໃຫ້ປ່ຽນ Schema metadata. ສິ່ງເຫຼົ່ານີ້ອາດເປັນສິ່ງທີ່ທ່ານບໍ່ຕ້ອງການໃຫ້ຜູ້ຂຽນ (Author) ເຮັດ. ໂດຍປົກກະຕິແລ້ວມີແຕ່ Editor ແລະ Admin ເທົ່ານັ້ນທີ່ເຮັດໄດ້. ການຕັ້ງຄ່າເປັນ \"%2$s\" ຈະອະນຸຍາດໃຫ້ຜູ້ໃຊ້ທຸກຄົນປ່ຽນແປງໄດ້."
+
+#: admin/views/class-yoast-feature-toggles.php:150
+msgid "Security: no advanced or schema settings for authors"
+msgstr "ຄວາມປອດໄພ: ບໍ່ອະນຸຍາດໃຫ້ຜູ້ຂຽນ (Authors) ໃຊ້ການຕັ້ງຄ່າຂັ້ນສູງ ຫຼື Schema"
+
+#: src/config/schema-types.php:159
+msgid "Report"
+msgstr "ລາຍງານ"
+
+#: src/config/schema-types.php:155
+msgid "Tech Article"
+msgstr "ບົດຄວາມທາງເຕັກນິກ"
+
+#: src/config/schema-types.php:151
+msgid "Scholarly Article"
+msgstr "ບົດຄວາມທາງວິຊາການ"
+
+#: src/config/schema-types.php:147
+msgid "Satirical Article"
+msgstr "ບົດຄວາມແນວສຽດສີ"
+
+#: src/config/schema-types.php:143
+msgid "Advertiser Content Article"
+msgstr "ບົດຄວາມເນື້ອຫາໂຄສະນາ"
+
+#: src/config/schema-types.php:139
+msgid "News Article"
+msgstr "ບົດຄວາມຂ່າວ"
+
+#: src/config/schema-types.php:135
+msgid "Social Media Posting"
+msgstr "ການໂພສລົງໂຊຊຽວມີເດຍ"
+
+#: src/config/schema-types.php:127
+msgid "Article"
+msgstr "ບົດຄວາມ"
+
+#: src/config/schema-types.php:104
+msgid "Search Results Page"
+msgstr "ໜ້າຜົນການຄົ້ນຫາ"
+
+#: src/config/schema-types.php:100
+msgid "Real Estate Listing"
+msgstr "ລາຍການອະສັງຫາລິມະຊັບ"
+
+#: src/config/schema-types.php:96
+msgid "Checkout Page"
+msgstr "ໜ້າຊຳລະເງິນ"
+
+#: src/config/schema-types.php:92
+msgid "Collection Page"
+msgstr "ໜ້າການສະສົມ (Collection)"
+
+#: src/config/schema-types.php:88
+msgid "Medical Web Page"
+msgstr "ໜ້າເວັບທາງການແພດ"
+
+#: src/config/schema-types.php:84
+msgid "Contact Page"
+msgstr "ໜ້າຕິດຕໍ່"
+
+#: src/config/schema-types.php:80
+msgid "Profile Page"
+msgstr "ໜ້າໂປຣໄຟລ໌"
+
+#: src/config/schema-types.php:76
+msgid "QA Page"
+msgstr "ໜ້າຖາມ-ຕອບ"
+
+#: src/config/schema-types.php:72
+msgid "FAQ Page"
+msgstr "ໜ້າ FAQ"
+
+#: src/config/schema-types.php:68
+msgid "About Page"
+msgstr "ໜ້າກ່ຽວກັບພວກເຮົາ"
+
+#: src/config/schema-types.php:64 js/dist/block-editor.js:493
+#: js/dist/classic-editor.js:476
+msgid "Item Page"
+msgstr "ໜ້າສິນຄ້າ/ລາຍການ"
+
+#: src/config/schema-types.php:60
+msgid "Web Page"
+msgstr "ໜ້າເວັບ"
+
+#. translators: 1: Yoast SEO
+#: admin/views/class-yoast-feature-toggles.php:166
+msgid "Allow us to track some data about your site to improve our plugin."
+msgstr "ອະນຸຍາດໃຫ້ພວກເຮົາຕິດຕາມຂໍ້ມູນບາງຢ່າງຂອງເວັບໄຊ ເພື່ອປັບປຸງປລັກອິນຂອງພວກເຮົາ."
+
+#: admin/views/class-yoast-feature-toggles.php:161
+#: admin/views/class-yoast-feature-toggles.php:162 js/dist/new-settings.js:31
+#: js/dist/new-settings.js:525
+msgid "Usage tracking"
+msgstr "ການຕິດຕາມການໃຊ້ງານ"
+
+#: src/presenters/admin/indexing-notification-presenter.php:75
+msgid "Because of a change in your permalink structure, some of your SEO data needs to be reprocessed."
+msgstr "ເນື່ອງຈາກມີການປ່ຽນແປງໂຄງສ້າງ Permalink, ຂໍ້ມູນ SEO ບາງສ່ວນຕ້ອງໄດ້ຮັບການປະມວນຜົນໃໝ່."
+
+#: src/presenters/admin/indexing-notification-presenter.php:78
+msgid "Because of a change in your home URL setting, some of your SEO data needs to be reprocessed."
+msgstr "ເນື່ອງຈາກມີການປ່ຽນແປງການຕັ້ງຄ່າ Home URL, ຂໍ້ມູນ SEO ບາງສ່ວນຕ້ອງໄດ້ຮັບການປະມວນຜົນໃໝ່."
+
+#. translators: %1$s expands to Yoast.
+#: src/integrations/blocks/block-categories.php:45
+msgid "%1$s Internal Linking Blocks"
+msgstr "%1$s ບລັອກການລິ້ງພາຍໃນ"
+
+#. translators: %1$s: Link to article about text links, %2$s: Anchor closing
+#. tag, %3$s: Emphasis open tag, %4$s: Emphasis close tag
+#: admin/class-yoast-columns.php:52
+msgid "The links columns show the number of articles on this site linking %3$sto%4$s this article and the number of URLs linked %3$sfrom%4$s this article. Learn more about %1$show to use these features to improve your internal linking%2$s, which greatly enhances your SEO."
+msgstr "ຖັນລິ້ງຈະສະແດງຈຳນວນບົດຄວາມທີ່ລິ້ງ %3$sມາຫາ%4$s ບົດຄວາມນີ້ ແລະ ຈຳນວນ URL ທີ່ລິ້ງ %3$sອອກຈາກ%4$s ບົດຄວາມນີ້. ສຶກສາເພີ່ມເຕີມກ່ຽວກັບ %1$sວິທີໃຊ້ຟີເຈີເຫຼົ່ານີ້ເພື່ອປັບປຸງການລິ້ງພາຍໃນ%2$s ເຊິ່ງຈະຊ່ວຍເພີ່ມປະສິດທິພາບ SEO ໄດ້ຢ່າງຫຼວງຫຼາຍ."
+
+#. translators: 1: Link to the Yoast help center, 2: Link closing tag.
+#: src/services/health-check/links-table-reports.php:100
+msgid "%1$sFind out how to solve this problem on our help center%2$s."
+msgstr "%1$sຊອກຫາວິທີແກ້ໄຂບັນຫານີ້ໄດ້ທີ່ສູນຊ່ວຍເຫຼືອຂອງພວກເຮົາ%2$s."
+
+#: src/services/health-check/links-table-reports.php:58
+msgid "The text link counter feature is not working as expected"
+msgstr "ຟີເຈີ Text link counter ບໍ່ເຮັດວຽກຕາມທີ່ຄາດໄວ້"
+
+#. translators: 1: Link to the Yoast SEO blog, 2: Link closing tag.
+#: src/services/health-check/links-table-reports.php:73
+msgid "The text link counter helps you improve your site structure. %1$sFind out how the text link counter can enhance your SEO%2$s."
+msgstr "Text link counter ຊ່ວຍປັບປຸງໂຄງສ້າງເວັບໄຊ. %1$sສຶກສາວ່າ Text link counter ຊ່ວຍເພີ່ມປະສິດທິພາບ SEO ໄດ້ແນວໃດ%2$s."
+
+#: src/services/health-check/links-table-reports.php:45
+msgid "The text link counter is working as expected"
+msgstr "Text link counter ເຮັດວຽກໄດ້ປົກກະຕິແລ້ວ"
+
+#. translators: %1$s: Link to article about content analysis, %2$s: Anchor
+#. closing
+#: admin/class-yoast-columns.php:43
+msgid "We've written an article about %1$show to use the SEO score and Readability score%2$s."
+msgstr "ພວກເຮົາໄດ້ຂຽນບົດຄວາມກ່ຽວກັບ %1$sວິທີການໃຊ້ຄະແນນ SEO ແລະ ຄະແນນການອ່ານ (Readability score)%2$s."
+
+#. translators: %1$s: Yoast SEO
+#: admin/class-yoast-columns.php:36
+msgid "%1$s adds several columns to this page."
+msgstr "%1$s ໄດ້ເພີ່ມຫຼາຍຖັນໃນໜ້ານີ້."
+
+#: src/presenters/admin/indexing-notification-presenter.php:117
+msgid " We estimate this will take less than a minute."
+msgstr " ພວກເຮົາປະມານວ່າຈະໃຊ້ເວລາບໍ່ເກີນ 1 ນາທີ."
+
+#: src/presenters/admin/indexing-notification-presenter.php:121
+msgid " We estimate this will take a couple of minutes."
+msgstr " ພວກເຮົາປະມານວ່າຈະໃຊ້ເວລາປະມານ 2-3 ນາທີ."
+
+#: src/presenters/admin/migration-error-presenter.php:64
+msgid "Show debug information"
+msgstr "ສະແດງຂໍ້ມູນ Debug"
+
+#. translators: %s: Yoast SEO.
+#: src/presenters/admin/migration-error-presenter.php:58
+msgid "Your site will continue to work normally, but won't take full advantage of %s."
+msgstr "ເວັບໄຊຂອງທ່ານຈະຍັງເຮັດວຽກໄດ້ປົກກະຕິ ແຕ່ຈະບໍ່ສາມາດໃຊ້ປະໂຫຍດຈາກ %s ໄດ້ຢ່າງເຕັມທີ່."
+
+#. translators: %s: Yoast SEO.
+#: src/presenters/admin/migration-error-presenter.php:47
+msgid "%s had problems creating the database tables needed to speed up your site."
+msgstr "%s ພົບບັນຫາໃນການສ້າງຕາຕະລາງຖານຂໍ້ມູນທີ່ຈຳເປັນເພື່ອເພີ່ມຄວາມໄວໃຫ້ເວັບໄຊ."
+
+#: src/alerts/application/default-seo-data/default-seo-data-alert.php:188
+msgid "SEO data"
+msgstr "ຂໍ້ມູນ SEO"
+
+#: src/presenters/admin/search-engines-discouraged-presenter.php:41
+msgid "I don't want this site to show in the search results."
+msgstr "ຂ້ອຍບໍ່ຕ້ອງການໃຫ້ເວັບໄຊນີ້ສະແດງໃນຜົນການຄົ້ນຫາ."
+
+#. translators: 1: Link start tag to the WordPress Reading Settings page, 2:
+#. Link closing tag.
+#: src/presenters/admin/search-engines-discouraged-presenter.php:36
+msgid "If you want search engines to show this site in their results, you must %1$sgo to your Reading Settings%2$s and uncheck the box for Search Engine Visibility."
+msgstr "ຖ້າທ່ານຕ້ອງການໃຫ້ Search Engine ສະແດງເວັບໄຊນີ້, ທ່ານຕ້ອງ %1$sໄປທີ່ການຕັ້ງຄ່າການອ່ານ (Reading Settings)%2$s ແລະ ເອົາເຄື່ອງໝາຍຖືກອອກຈາກຊ່ອງ Search Engine Visibility."
+
+#. translators: 1: Link to article about indexation command, 2: Anchor closing
+#. tag, 3: Link to WP CLI.
+#: src/presenters/admin/indexing-notification-presenter.php:136
+msgid "%1$sRun the indexation process on your server%2$s using %3$sWP CLI%2$s."
+msgstr "%1$sດຳເນີນການຈັດເຮັດດັດຊະນີ (Indexation) ໃນເຊີບເວີ%2$s ໂດຍໃຊ້ %3$sWP CLI%2$s."
+
+#: src/presenters/admin/indexing-notification-presenter.php:124
+msgid " We estimate this could take a long time, due to the size of your site. As an alternative to waiting, you could:"
+msgstr " ພວກເຮົາປະມານວ່າອາດຈະໃຊ້ເວລາດົນ ເນື່ອງຈາກຂະໜາດຂອງເວັບໄຊ. ທາງເລືອກອື່ນນອກຈາກການລໍຖ້າ ທ່ານສາມາດ:"
+
+#. translators: %1$s: link to help article about solving table issue. %2$s: is
+#. anchor closing.
+#: src/presenters/admin/migration-error-presenter.php:52
+msgid "Please read %1$sthis help article%2$s to find out how to resolve this problem."
+msgstr "ກະລຸນາອ່ານ %1$sບົດຄວາມຊ່ວຍເຫຼືອນີ້%2$s ເພື່ອຊອກຫາວິທີແກ້ໄຂບັນຫາ."
+
+#. translators: 1: Yoast SEO
+#: admin/views/class-yoast-feature-toggles.php:177
+msgid "This %1$s REST API endpoint gives you all the metadata you need for a specific URL. This will make it very easy for headless WordPress sites to use %1$s for all their SEO meta output."
+msgstr "REST API endpoint ຂອງ %1$s ນີ້ຈະໃຫ້ Metadata ທັງໝົດທີ່ທ່ານຕ້ອງການສຳລັບ URL ໃດໜຶ່ງ. ສິ່ງນີ້ຈະຊ່ວຍໃຫ້ເວັບໄຊແບບ Headless WordPress ສາມາດໃຊ້ %1$s ສຳລັບການສະແດງຜົນ SEO meta ໄດ້ງ່າຍຂຶ້ນ."
+
+#: admin/views/class-yoast-feature-toggles.php:173
+msgid "REST API: Head endpoint"
+msgstr "REST API: Head endpoint"
+
+#: inc/class-wpseo-replace-vars.php:1486
+msgid "Replaced with the term ancestors hierarchy"
+msgstr "ແທນທີ່ດ້ວຍລຳດັບຊັ້ນຂອງ Term ancestors"
+
+#: inc/class-wpseo-replace-vars.php:1486
+msgid "Term hierarchy"
+msgstr "ລຳດັບຊັ້ນຂອງຄຳສັບ (Term hierarchy)"
+
+#. translators: 1: link open tag; 2: link close tag.
+#: src/services/health-check/default-tagline-reports.php:63
+msgid "%1$sYou can change the tagline in the customizer%2$s."
+msgstr "%1$sທ່ານສາມາດປ່ຽນ Tagline ໄດ້ໃນສ່ວນການປັບແຕ່ງ (Customizer)%2$s."
+
+#: src/services/health-check/default-tagline-reports.php:45
+msgid "You still have the default WordPress tagline. Even an empty one is probably better."
+msgstr "ທ່ານຍັງໃຊ້ Tagline ເລີ່ມຕົ້ນຂອງ WordPress ຢູ່. ແມ່ນແຕ່ການປະໃຫ້ວ່າງໄວ້ອາດຈະດີກວ່າ."
+
+#: src/services/health-check/default-tagline-reports.php:43
+msgid "You should change the default WordPress tagline"
+msgstr "ທ່ານຄວນປ່ຽນ Tagline ເລີ່ມຕົ້ນຂອງ WordPress"
+
+#: src/services/health-check/default-tagline-reports.php:32
+msgid "You are using a custom tagline or an empty one."
+msgstr "ທ່ານກຳລັງໃຊ້ Tagline ທີ່ກຳນົດເອງ ຫຼື ປະໃຫ້ວ່າງໄວ້."
+
+#: src/services/health-check/default-tagline-reports.php:30
+msgid "You changed the default WordPress tagline"
+msgstr "ທ່ານໄດ້ປ່ຽນ Tagline ເລີ່ມຕົ້ນຂອງ WordPress ແລ້ວ"
+
+#: src/services/health-check/page-comments-reports.php:32
+msgid "Comments on your posts are displayed on a single page. This is just like we'd suggest it. You're doing well!"
+msgstr "ຄວາມຄິດເຫັນໃນໂພສຂອງທ່ານສະແດງໃນໜ້າດຽວ. ນີ້ຄືສິ່ງທີ່ພວກເຮົາແນະນຳ. ທ່ານເຮັດໄດ້ດີແລ້ວ!"
+
+#. translators: %s expands to '/%postname%/'
+#: src/services/health-check/postname-permalink-reports.php:58
+msgid "It's highly recommended to have your postname in the URL of your posts and pages. Consider setting your permalink structure to %s."
+msgstr "ແນະນຳຢ່າງຍິ່ງໃຫ້ມີຊື່ໂພສ (Postname) ໃນ URL. ລອງຕັ້ງໂຄງສ້າງ Permalink ເປັນ %s."
+
+#: src/services/health-check/postname-permalink-reports.php:43
+msgid "You do not have your postname in the URL of your posts and pages"
+msgstr "ທ່ານບໍ່ມີຊື່ໂພສໃນ URL ຂອງໂພສ ແລະ ໜ້າເວັບ"
+
+#: src/services/health-check/postname-permalink-reports.php:32
+msgid "You do have your postname in the URL of your posts and pages."
+msgstr "ທ່ານມີຊື່ໂພສໃນ URL ຂອງໂພສ ແລະ ໜ້າເວັບແລ້ວ."
+
+#: src/services/health-check/postname-permalink-reports.php:30
+msgid "Your permalink structure includes the post name"
+msgstr "ໂຄງສ້າງ Permalink ຂອງທ່ານມີຊື່ໂພສລວມຢູ່ນຳ"
+
+#: src/services/health-check/page-comments-reports.php:45
+msgid "Comments on your posts break into multiple pages. As this is not needed in 999 out of 1000 cases, we recommend you disable it. To fix this, uncheck \"Break comments into pages...\" on the Discussion Settings page."
+msgstr "ຄວາມຄິດເຫັນໃນໂພສຖືກແບ່ງອອກເປັນຫຼາຍໜ້າ. ເຊິ່ງໃນກໍລະນີສ່ວນໃຫຍ່ແມ່ນບໍ່ຈຳເປັນ, ພວກເຮົາແນະນຳໃຫ້ປິດມັນ. ເພື່ອແກ້ໄຂ, ໃຫ້ເອົາເຄື່ອງໝາຍຖືກອອກຈາກ \"Break comments into pages...\" ໃນໜ້າ Discussion Settings."
+
+#: src/services/health-check/page-comments-reports.php:43
+msgid "Comments break into multiple pages"
+msgstr "ຄວາມຄິດເຫັນຖືກແບ່ງເປັນຫຼາຍໜ້າ"
+
+#: src/services/health-check/page-comments-reports.php:30
+msgid "Comments are displayed on a single page"
+msgstr "ຄວາມຄິດເຫັນສະແດງໃນໜ້າດຽວ"
+
+#: src/helpers/post-helper.php:112
+msgid "No title"
+msgstr "ບໍ່ມີຫົວຂໍ້"
+
+#. translators: 1: Opening tag of the link to the discussion settings page, 2:
+#. Link closing tag.
+#: src/services/health-check/page-comments-reports.php:58
+msgid "%1$sGo to the Discussion Settings page%2$s"
+msgstr "%1$sໄປທີ່ໜ້າການຕັ້ງຄ່າການສົນທະນາ (Discussion Settings)%2$s"
+
+#. translators: 1: Start of a paragraph beginning with the Yoast icon, 2:
+#. Expands to 'Yoast SEO', 3: Paragraph closing tag.
+#: src/services/health-check/report-builder.php:201
+msgid "%1$sThis was reported by the %2$s plugin%3$s"
+msgstr "%1$sລາຍງານໂດຍປລັກອິນ %2$s%3$s"
+
+#: admin/metabox/class-metabox.php:191
+msgid "If you want to apply advanced <code>meta</code> robots settings for this page, please define them in the following field."
+msgstr "ຖ້າທ່ານຕ້ອງການໃຊ້ການຕັ້ງຄ່າ <code>meta</code> robots ຂັ້ນສູງສຳລັບໜ້ານີ້, ກະລຸນາກຳນົດໃນຊ່ອງຕໍ່ໄປນີ້."
+
+#. translators: 1: Link start tag to the Firefox website, 2: Link start tag to
+#. the Chrome website, 3: Link start tag to the Edge website, 4: Link closing
+#. tag.
+#: admin/metabox/class-metabox.php:147 admin/taxonomy/class-taxonomy.php:113
+msgid "The browser you are currently using is unfortunately rather dated. Since we strive to give you the best experience possible, we no longer support this browser. Instead, please use %1$sFirefox%4$s, %2$sChrome%4$s or %3$sMicrosoft Edge%4$s."
+msgstr "ບຣາວເຊີທີ່ທ່ານໃຊ້ຢູ່ແມ່ນຂ້ອນຂ້າງເກົ່າແລ້ວ. ພວກເຮົາບໍ່ຮອງຮັບບຣາວເຊີນີ້ອີກຕໍ່ໄປ. ກະລຸນາໃຊ້ %1$sFirefox%4$s, %2$sChrome%4$s ຫຼື %3$sMicrosoft Edge%4$s ແທນ."
+
+#. translators: %1$s expands to Yoast SEO academy
+#. translators: %1$s expands to "Yoast SEO academy".
+#: src/presenters/admin/sidebar-presenter.php:154 js/dist/general-page.js:3
+#: js/dist/new-settings.js:3 js/dist/support.js:3
+msgid "Check out %1$s"
+msgstr "ເຂົ້າເບິ່ງ %1$s"
+
+#: src/presenters/admin/sidebar-presenter.php:147 js/dist/general-page.js:2
+#: js/dist/new-settings.js:2 js/dist/support.js:2
+msgid "We have both free and premium online courses to learn everything you need to know about SEO."
+msgstr "ພວກເຮົາມີຄອດສ໌ອອນລາຍທັງແບບຟຣີ ແລະ ພຣີມຽມ ເພື່ອໃຫ້ທ່ານຮຽນຮູ້ທຸກຢ່າງກ່ຽວກັບ SEO."
+
+#. translators: %1$s expands to Yoast SEO academy, which is a clickable link.
+#. translators: %1$s expands to "Yoast SEO" academy, which is a clickable link.
+#: src/presenters/admin/sidebar-presenter.php:145 js/dist/general-page.js:2
+#: js/dist/new-settings.js:2 js/dist/support.js:2
+msgid "Want to learn SEO from Team Yoast? Check out our %1$s!"
+msgstr "ຕ້ອງການຮຽນຮູ້ SEO ຈາກທີມງານ Yoast ບໍ່? ເຂົ້າເບິ່ງ %1$s ຂອງພວກເຮົາເລີຍ!"
+
+#: src/presenters/admin/sidebar-presenter.php:137 js/dist/general-page.js:2
+#: js/dist/new-settings.js:2 js/dist/support.js:2
+msgid "Learn SEO"
+msgstr "ຮຽນຮູ້ SEO"
+
+#. translators: %s expands to Yoast SEO
+#: admin/views/tabs/tool/wpseo-import.php:39
+msgid "%s settings to import:"
+msgstr "ການຕັ້ງຄ່າ %s ທີ່ຈະນຳເຂົ້າ:"
+
+#. translators: 1: expands to Yoast SEO, 2: expands to Import settings.
+#: admin/views/tabs/tool/wpseo-import.php:23
+msgid "Import settings from another %1$s installation by pasting them here and clicking \"%2$s\"."
+msgstr "ນຳເຂົ້າການຕັ້ງຄ່າຈາກການຕິດຕັ້ງ %1$s ອື່ນ ໂດຍການວາງຂໍ້ມູນໃສ່ນີ້ ແລ້ວກົດ \"%2$s\"."
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/class-export.php:72
+msgid "Your %1$s settings:"
+msgstr "ການຕັ້ງຄ່າ %1$s ຂອງທ່ານ:"
+
+#: admin/metabox/class-metabox.php:424 js/dist/block-editor.js:539
+#: js/dist/new-settings.js:24 js/dist/new-settings.js:34
+#: js/dist/new-settings.js:38 js/dist/new-settings.js:43
+#: js/dist/new-settings.js:95 js/dist/new-settings.js:412
+msgid "Schema"
+msgstr "Schema"
+
+#: admin/admin-settings-changed-listener.php:85
+msgid "Settings saved."
+msgstr "บันທຶກການຕັ້ງຄ່າແລ້ວ."
+
+#. translators: Hidden accessibility text.
+#: admin/views/partial-notifications-template.php:47
+msgid "Show this item."
+msgstr "ສະແດງລາຍການນີ້."
+
+#. translators: Hidden accessibility text.
+#: admin/views/partial-notifications-template.php:39
+msgid "Hide this item."
+msgstr "ເຊື່ອງລາຍການນີ້."
+
+#. translators: %d expands the amount of hidden notifications.
+#: admin/views/partial-notifications-errors.php:25
+#: admin/views/partial-notifications-warnings.php:25
+msgid "You have %d hidden notification:"
+msgid_plural "You have %d hidden notifications:"
+msgstr[0] "ທ່ານມີ %d ການແຈ້ງເຕືອນທີ່ຖືກເຊື່ອງໄວ້:"
+
+#: src/helpers/score-icon-helper.php:84
+msgid "Focus keyphrase not set"
+msgstr "ຍັງບໍ່ທັນໄດ້ຕັ້ງຄຳຫຼັກ (Focus keyphrase)"
+
+#. translators: %1$s: amount of errors, %2$s: the admin page title
+#: admin/class-yoast-input-validation.php:65
+msgid "The form contains %1$s error. %2$s"
+msgid_plural "The form contains %1$s errors. %2$s"
+msgstr[0] "ຟອມນີ້ມີ %1$s ຂໍ້ຜິດພາດ. %2$s"
+
+#. translators: %s expands to the score
+#: admin/statistics/class-statistics-service.php:216
+#: admin/statistics/class-statistics-service.php:221
+#: admin/statistics/class-statistics-service.php:226
+msgid "Posts with the SEO score: %s"
+msgstr "ໂພສທີ່ມີຄະແນນ SEO: %s"
+
+#: inc/class-wpseo-rank.php:191
+msgid "Post Noindexed"
+msgstr "ໂພສຕັ້ງຄ່າ Noindexed"
+
+#: inc/class-wpseo-rank.php:171
+msgid "No Focus Keyphrase"
+msgstr "ບໍ່ມີຄຳຫຼັກ (Focus Keyphrase)"
+
+#. translators: %s expands to the SEO score
+#: inc/class-wpseo-rank.php:170 inc/class-wpseo-rank.php:175
+#: inc/class-wpseo-rank.php:180 inc/class-wpseo-rank.php:185
+#: inc/class-wpseo-rank.php:190
+msgid "SEO: %s"
+msgstr "SEO: %s"
+
+#. translators: %s: expends to Yoast SEO
+#: admin/class-admin.php:354
+msgid "%s video tutorial"
+msgstr "ວິດີໂອສອນການໃຊ້ງານ %s"
+
+#. Translators: %1$s: expands to opening anchor tag, %2$s expands to closing
+#. anchor tag.
+#: admin/google_search_console/views/gsc-display.php:39
+msgid "To view your current crawl errors, %1$splease visit Google Search Console%2$s."
+msgstr "ເພື່ອເບິ່ງຂໍ້ຜິດພາດໃນການ Crawl ປັດຈຸບັນ, %1$sກະລຸນາໄປທີ່ Google Search Console%2$s."
+
+#. Translators: %1$s: expands to opening anchor tag, %2$s expands to closing
+#. anchor tag.
+#: admin/google_search_console/views/gsc-display.php:32
+msgid "Google has discontinued its Crawl Errors API. Therefore, any possible crawl errors you might have cannot be displayed here anymore. %1$sRead our statement on this for further information%2$s."
+msgstr "Google ໄດ້ຍົກເລີກ Crawl Errors API ແລ້ວ. ດັ່ງນັ້ນ, ຂໍ້ຜິດພາດໃນການ Crawl ຈຶ່ງບໍ່ສາມາດສະແດງຢູ່ນີ້ໄດ້ອີກ. %1$sອ່ານລາຍລະອຽດເພີ່ມເຕີມໄດ້ທີ່ນີ້%2$s."
+
+#: src/integrations/admin/first-time-configuration-integration.php:480
+#: src/integrations/admin/first-time-configuration-integration.php:493
+#: js/dist/new-settings.js:542
+msgid "Organization"
+msgstr "ອົງກອນ"
+
+#. translators: %1$s is a link start tag to the Search Appearance settings,
+#. %2$s is the link closing tag.
+#: admin/class-schema-person-upgrade-notification.php:66
+msgid "You have previously set your site to represent a person. We’ve improved our functionality around Schema and the Knowledge Graph, so you should go in and %1$scomplete those settings%2$s."
+msgstr "ກ່ອນໜ້ານີ້ທ່ານໄດ້ຕັ້ງຄ່າເວັບໄຊເປັນຕົວແທນບຸກຄົນ. ພວກເຮົາໄດ້ປັບປຸງລະບົບ Schema ແລະ Knowledge Graph, ທ່ານຄວນ %1$sໄປຕັ້ງຄ່າໃຫ້ສຳເລັດ%2$s."
+
+#: admin/class-admin.php:317
+#: src/user-meta/framework/additional-contactmethods/wikipedia.php:28
+msgid "(if one exists)"
+msgstr "(ຖ້າມີ)"
+
+#: admin/class-admin.php:317
+#: src/user-meta/framework/additional-contactmethods/wikipedia.php:28
+msgid "Wikipedia page about you"
+msgstr "ໜ້າ Wikipedia ກ່ຽວກັບທ່ານ"
+
+#: admin/class-admin.php:316
+#: src/user-meta/framework/additional-contactmethods/youtube.php:28
+msgid "YouTube profile URL"
+msgstr "URL ໂປຣໄຟລ໌ YouTube"
+
+#: admin/class-admin.php:314
+#: src/user-meta/framework/additional-contactmethods/tumblr.php:28
+msgid "Tumblr profile URL"
+msgstr "URL ໂປຣໄຟລ໌ Tumblr"
+
+#: admin/class-admin.php:313
+#: src/user-meta/framework/additional-contactmethods/soundcloud.php:28
+msgid "SoundCloud profile URL"
+msgstr "URL ໂປຣໄຟລ໌ SoundCloud"
+
+#: admin/class-admin.php:311
+#: src/user-meta/framework/additional-contactmethods/myspace.php:28
+msgid "MySpace profile URL"
+msgstr "URL ໂປຣໄຟລ໌ MySpace"
+
+#: src/generators/schema/article.php:136
+msgid "Uncategorized"
+msgstr "ບໍ່ມີໝວດໝູ່"
+
+#: admin/class-admin.php:312
+#: src/user-meta/framework/additional-contactmethods/pinterest.php:28
+msgid "Pinterest profile URL"
+msgstr "URL ໂປຣໄຟລ໌ Pinterest"
+
+#: admin/class-admin.php:310
+#: src/user-meta/framework/additional-contactmethods/linkedin.php:28
+msgid "LinkedIn profile URL"
+msgstr "URL ໂປຣໄຟລ໌ LinkedIn"
+
+#: admin/class-admin.php:309
+#: src/user-meta/framework/additional-contactmethods/instagram.php:28
+msgid "Instagram profile URL"
+msgstr "URL ໂປຣໄຟລ໌ Instagram"
+
+#: inc/class-my-yoast-api-request.php:140
+msgid "No JSON object was returned."
+msgstr "ບໍ່ມີການສົ່ງຄືນ JSON object."
+
+#. translators: Hidden accessibility text.
+#: src/integrations/admin/link-count-columns-integration.php:149
+msgid "Received internal links"
+msgstr "ລິ້ງພາຍໃນທີ່ໄດ້ຮັບ"
+
+#. translators: Hidden accessibility text.
+#: src/integrations/admin/link-count-columns-integration.php:141
+msgid "Outgoing internal links"
+msgstr "ລິ້ງພາຍໃນທີ່ສົ່ງອອກ"
+
+#: admin/class-meta-columns.php:132 js/dist/block-editor.js:104
+#: js/dist/classic-editor.js:87 js/dist/wincher-dashboard-widget.js:130
+msgid "Keyphrase"
+msgstr "ຄຳຫຼັກ (Keyphrase)"
+
+#. translators: 1: Yoast SEO.
+#: src/services/health-check/links-table-reports.php:87
+msgid "For this feature to work, %1$s needs to create a table in your database. We were unable to create this table automatically."
+msgstr "ເພື່ອໃຫ້ຟີເຈີນີ້ເຮັດວຽກ, %1$s ຕ້ອງສ້າງຕາຕະລາງໃນຖານຂໍ້ມູນ. ພວກເຮົາບໍ່ສາມາດສ້າງຕາຕະລາງນີ້ໂດຍອັດຕະໂນມັດໄດ້."
+
+#. translators: %1$s expands to the requested url
+#: admin/exceptions/class-file-size-exception.php:40
+msgid "Cannot get the size of %1$s because of unknown reasons."
+msgstr "ບໍ່ສາມາດກວດສອບຂະໜາດຂອງ %1$s ໄດ້ ເນື່ອງຈາກເຫດຜົນທີ່ບໍ່ຮູ້ແນ່ຊັດ."
+
+#. translators: %1$s expands to the requested url
+#: admin/exceptions/class-file-size-exception.php:23
+msgid "Cannot get the size of %1$s because it is hosted externally."
+msgstr "ບໍ່ສາມາດກວດສອບຂະໜາດຂອງ %1$s ໄດ້ ເນື່ອງຈາກໄຟລ໌ຢູ່ເຊີບເວີພາຍນອກ."
+
+#. translators: %s expands to the current page number
+#: src/generators/breadcrumbs-generator.php:424
+msgid "Page %s"
+msgstr "ໜ້າ %s"
+
+#. translators: %1$s expands to the method name. %2$s expands to the class name
+#: src/exceptions/missing-method.php:24
+msgid "Method %1$s() does not exist in class %2$s"
+msgstr "ບໍ່ມີ Method %1$s() ໃນຄລາສ %2$s"
+
+#: admin/views/tabs/tool/wpseo-import.php:15
+msgid "Import of settings is only supported on servers that run PHP 5.3 or higher."
+msgstr "ການນຳເຂົ້າການຕັ້ງຄ່າຮອງຮັບສະເພາະເຊີບເວີທີ່ໃຊ້ PHP 5.3 ຂຶ້ນໄປເທົ່ານັ້ນ."
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/views/tabs/tool/wpseo-export.php:26
+msgid "Export your %1$s settings here, to copy them on another site."
+msgstr "ສົ່ງອອກການຕັ້ງຄ່າ %1$s ຂອງທ່ານຢູ່ນີ້ ເພື່ອນຳໄປໃຊ້ກັບເວັບໄຊອື່ນ."
+
+#: admin/import/class-import-settings.php:85
+msgid "No settings found."
+msgstr "ບໍ່ພົບການຕັ້ງຄ່າ."
+
+#. translators: %1$s expands to Yoast SEO, %2$s expands to Yoast.com
+#: admin/class-export.php:97
+msgid "These are settings for the %1$s plugin by %2$s"
+msgstr "ນີ້ແມ່ນການຕັ້ງຄ່າສຳລັບປລັກອິນ %1$s ໂດຍ %2$s"
+
+#. translators: %1$s expands to Import settings
+#: admin/class-export.php:61
+msgid "Copy all these settings to another site's %1$s tab and click \"%1$s\" there."
+msgstr "ຄັດລອກການຕັ້ງຄ່າທັງໝົດນີ້ໄປວາງໃນແທັບ %1$s ຂອງເວັບໄຊອື່ນ ແລ້ວກົດ \"%1$s\"."
+
+#: admin/class-export.php:54
+msgid "You do not have the required rights to export settings."
+msgstr "ທ່ານບໍ່ມີສິດໃນການສົ່ງອອກການຕັ້ງຄ່າ."
+
+#. translators: %s expands to Yoast SEO Premium
+#: admin/watchers/class-slug-change-watcher.php:224
+msgid "With %s, you can easily create such redirects."
+msgstr "ດ້ວຍ %s, ທ່ານສາມາດສ້າງການປ່ຽນເສັ້ນທາງ (Redirect) ໄດ້ຢ່າງງ່າຍດາຍ."
+
+#: admin/class-admin-init.php:354
+msgid "Learn about why permalinks are important for SEO."
+msgstr "ສຶກສາວ່າເປັນຫຍັງ Permalink ຈຶ່ງສຳຄັນຕໍ່ SEO."
+
+#. translators: %1$s and %2$s expand to <em> items to emphasize the word in the
+#. middle.
+#: admin/class-admin-init.php:348
+msgid "Changing your permalinks settings can seriously impact your search engine visibility. It should almost %1$s never %2$s be done on a live website."
+msgstr "ການປ່ຽນແປງການຕັ້ງຄ່າ Permalink ອາດສົ່ງຜົນກະທົບຮຸນແຮງຕໍ່ການຄົ້ນຫາ. ທ່ານ %1$sບໍ່ຄວນ%2$s ເຮັດແບບນັ້ນໃນເວັບໄຊທີ່ໃຊ້ງານຈິງ."
+
+#: admin/class-admin-init.php:345
+msgid "WARNING:"
+msgstr "ຄຳເຕືອນ:"
+
+#. translators: %s expands to Yoast WooCommerce SEO
+#. translators: %s expands to Yoast SEO Premium
+#. translators: %s expands to "Yoast WooCommerce SEO
+#. translators: %s expands to "Yoast SEO" Premium
+#: admin/class-premium-upsell-admin-block.php:181
+#: admin/class-premium-upsell-admin-block.php:192 js/dist/general-page.js:10
+#: js/dist/general-page.js:11 js/dist/new-settings.js:10
+#: js/dist/new-settings.js:11
+msgid "Upgrade to %s"
+msgstr "ອັບເກຣດເປັນ %s"
+
+#: admin/views/tabs/network/features.php:95
+#: admin/views/tabs/network/integrations.php:82
+#: src/integrations/admin/crawl-settings-integration.php:251
+msgid "Disable"
+msgstr "ປິດໃຊ້ງານ"
+
+#: admin/views/tabs/network/features.php:94
+#: admin/views/tabs/network/integrations.php:81
+#: src/integrations/admin/crawl-settings-integration.php:249
+msgid "Allow Control"
+msgstr "ອະນຸຍາດໃຫ້ຄວບຄຸມ"
+
+#. translators: %s expands to Yoast SEO
+#: admin/views/tabs/network/crawl-settings.php:24
+#: admin/views/tabs/network/features.php:27
+msgid "This tab allows you to selectively disable %s features for all sites in the network. By default all features are enabled, which allows site admins to choose for themselves if they want to toggle a feature on or off for their site. When you disable a feature here, site admins will not be able to use that feature at all."
+msgstr "ແທັບນີ້ອະນຸຍາດໃຫ້ທ່ານເລືອກປິດຟີເຈີຂອງ %s ສຳລັບທຸກເວັບໄຊໃນເຄືອຂ່າຍ. ໂດຍປົກກະຕິທຸກຟີເຈີຈະຖືກເປີດໄວ້ເພື່ອໃຫ້ Admin ແຕ່ລະເວັບໄຊເລືອກເອງ. ຖ້າທ່ານປິດຢູ່ບ່ອນນີ້, Admin ຂອງເວັບໄຊຍ່ອຍຈະບໍ່ສາມາດໃຊ້ຟີເຈີນັ້ນໄດ້ເລີຍ."
+
+#. translators: %s: argument name
+#: admin/views/class-yoast-feature-toggle.php:161
+msgid "%s is a required feature toggle argument."
+msgstr "%s ແມ່ນຄ່າ Argument ທີ່ຈຳເປັນສຳລັບການປ່ຽນສະຖານະຟີເຈີ."
+
+#: admin/class-yoast-form.php:1062 js/dist/general-page.js:58
+msgid "This feature has been disabled by the network admin."
+msgstr "ຟີເຈີນີ້ຖືກປິດໃຊ້ງານໂດຍຜູ້ດູແລເຄືອຂ່າຍ (Network Admin)."
+
+#. translators: Hidden accessibility text.
+#: admin/class-meta-columns.php:197
+msgid "Focus keyphrase not set."
+msgstr "ຍັງບໍ່ທັນໄດ້ຕັ້ງຄຳຫຼັກ."
+
+#. translators: %s expands to Yoast SEO Premium
+#. translators: WooCommerce SEO
+#: admin/class-premium-popup.php:81
+#: admin/watchers/class-slug-change-watcher.php:228
+#: js/dist/externals-components.js:413
+msgid "Get %s"
+msgstr "ຮັບ %s"
+
+#: inc/options/class-wpseo-option-titles.php:948
+msgid "Colon"
+msgstr "ເຄື່ອງໝາຍຈ້ຳສອງເມັດ (:)"
+
+#: inc/class-wpseo-admin-bar-menu.php:935
+msgid "There is a new notification."
+msgid_plural "There are new notifications."
+msgstr[0] "ມີການແຈ້ງເຕືອນໃໝ່."
+
+#. translators: %1$s expands to Yoast SEO, %2$s: 'SEO' plugin name of possibly
+#. conflicting plugin with regard to the creation of duplicate SEO meta.
+#: admin/class-plugin-conflict.php:90
+msgid "Both %1$s and %2$s manage the SEO of your site. Running two SEO plugins at the same time is detrimental."
+msgstr "ທັງ %1$s ແລະ %2$s ກຳລັງຈັດການ SEO ຂອງເວັບໄຊທ່ານ. ການໃຊ້ປລັກອິນ SEO ສອງອັນພ້ອມກັນອາດສົ່ງຜົນເສຍ."
+
+#. translators: %d expands to the number of minute/minutes.
+#. translators: %d expands to the number of minutes.
+#: src/integrations/blocks/structured-data-blocks.php:146
+#: js/dist/how-to-block.js:4 js/dist/how-to-block.js:10
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d ນາທີ"
+
+#. translators: %d expands to the number of hour/hours.
+#. translators: %d expands to the number of hours.
+#: src/integrations/blocks/structured-data-blocks.php:139
+#: js/dist/how-to-block.js:3 js/dist/how-to-block.js:9
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d ຊົ່ວໂມງ"
+
+#. translators: %d expands to the number of day/days.
+#. translators: %d expands to the number of days.
+#: src/integrations/blocks/structured-data-blocks.php:132
+#: js/dist/block-editor.js:83 js/dist/classic-editor.js:66
+#: js/dist/how-to-block.js:2 js/dist/how-to-block.js:8
+#: js/dist/wincher-dashboard-widget.js:72
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d ມື້"
+
+#: blocks/structured-data-blocks/how-to/block.json
+msgctxt "block description"
+msgid "Create a How-to guide in an SEO-friendly way. You can only use one How-to block per post."
+msgstr "ສ້າງຄຳແນະນຳວິທີການ (How-to) ທີ່ດີຕໍ່ SEO. ທ່ານສາມາດໃຊ້ບລັອກ How-to ໄດ້ພຽງອັນດຽວຕໍ່ໜຶ່ງໂພສ."
+
+#. translators: %1$s expands to Yoast.
+#: src/integrations/blocks/block-categories.php:37
+msgid "%1$s Structured Data Blocks"
+msgstr "%1$s ບລັອກຂໍ້ມູນໂຄງສ້າງ"
+
+#: src/integrations/blocks/structured-data-blocks.php:197
+#: js/dist/how-to-block.js:1 js/dist/how-to-block.js:12
+msgid "Time needed:"
+msgstr "ເວລາທີ່ຕ້ອງການ:"
+
+#: inc/class-wpseo-admin-bar-menu.php:434
+msgid "Check links to this URL"
+msgstr "ກວດສອບລິ້ງທີ່ມາຫາ URL ນີ້"
+
+#: inc/class-wpseo-admin-bar-menu.php:505
+msgid "How to"
+msgstr "ວິທີການ (How-to)"
+
+#: admin/pages/network.php:31
+msgid "Restore Site"
+msgstr "ກູ້ຄືນເວັບໄຊ"
+
+#: admin/menu/class-network-admin-menu.php:34
+msgid "Network Settings"
+msgstr "ການຕັ້ງຄ່າເຄືອຂ່າຍ"
+
+#: admin/class-yoast-network-admin.php:276
+msgid "You are not allowed to perform this action."
+msgstr "ທ່ານບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ດຳເນີນການນີ້."
+
+#. translators: %s: error message
+#: admin/class-yoast-network-admin.php:208
+msgid "Error: %s"
+msgstr "ຂໍ້ຜິດພາດ: %s"
+
+#. translators: %s: success message
+#: admin/class-yoast-network-admin.php:206
+msgid "Success: %s"
+msgstr "ສຳເລັດ: %s"
+
+#. translators: %s expands to the ID of a site within a multisite network.
+#: admin/class-yoast-network-admin.php:168
+msgid "Site with ID %d not found."
+msgstr "ບໍ່ພົບເວັບໄຊທີ່ມີ ID %d."
+
+#: admin/class-yoast-network-admin.php:159
+msgid "No site has been selected to restore."
+msgstr "ຍັງບໍ່ໄດ້ເລືອກເວັບໄຊທີ່ຈະກູ້ຄືນ."
+
+#: admin/class-yoast-network-admin.php:120
+msgid "You are not allowed to modify unregistered network settings."
+msgstr "ທ່ານບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ແກ້ໄຂການຕັ້ງຄ່າເຄືອຂ່າຍທີ່ບໍ່ໄດ້ລົງທະບຽນ."
+
+#: admin/class-yoast-network-admin.php:81
+msgid "deleted"
+msgstr "ລຶບແລ້ວ"
+
+#: inc/class-wpseo-replace-vars.php:1475
+msgid "The site's tagline"
+msgstr "ຄຳຂວັນຂອງເວັບໄຊ"
+
+#. translators: %1$s expands to the missing field name.
+#: admin/menu/class-replacevar-editor.php:152
+msgid "Not all required fields are given. Missing field %1$s"
+msgstr "ປ້ອນຂໍ້ມູນໃນຊ່ອງທີ່ກຳນົດບໍ່ຄົບຖ້ວນ. ຊ່ອງຂໍ້ມູນທີ່ຂາດຫາຍໄປແມ່ນ %1$s"
+
+#: inc/class-wpseo-replace-vars.php:1489 js/dist/externals-redux.js:1
+msgid "Current year"
+msgstr "ປີປັດຈຸບັນ"
+
+#: inc/class-wpseo-replace-vars.php:1520 js/dist/externals-redux.js:1
+msgid "Page"
+msgstr "ໜ້າ"
+
+#: inc/class-wpseo-replace-vars.php:1475 js/dist/externals-redux.js:1
+#: js/dist/new-settings.js:31 js/dist/new-settings.js:522
+msgid "Tagline"
+msgstr "ຄຳຂວັນ"
+
+#: inc/class-wpseo-replace-vars.php:1528
+msgid "description (custom taxonomy)"
+msgstr "ຄຳອະທິບາຍ (ຈັດໝວດໝູ່ທີ່ກຳນົດເອງ)"
+
+#: inc/class-wpseo-replace-vars.php:1527
+msgid "(custom taxonomy)"
+msgstr "(ຈັດໝວດໝູ່ທີ່ກຳນົດເອງ)"
+
+#: inc/class-wpseo-replace-vars.php:1526
+msgid "(custom field)"
+msgstr "(ຟິວທີ່ກຳນົດເອງ)"
+
+#: inc/class-wpseo-replace-vars.php:1525
+msgid "Term404"
+msgstr "Term404"
+
+#: inc/class-wpseo-replace-vars.php:1523
+msgid "Caption"
+msgstr "ຄຳອະທິບາຍຮູບ"
+
+#: inc/class-wpseo-replace-vars.php:1522
+msgid "Pagenumber"
+msgstr "ເລກໜ້າ"
+
+#: inc/class-wpseo-replace-vars.php:1521
+msgid "Pagetotal"
+msgstr "ຈຳນວນໜ້າທັງໝົດ"
+
+#: inc/class-wpseo-replace-vars.php:1519
+msgid "User description"
+msgstr "ຄຳອະທິບາຍຜູ້ໃຊ້"
+
+#: inc/class-wpseo-replace-vars.php:1517 js/dist/externals-redux.js:1
+msgid "ID"
+msgstr "ໄອດີ"
+
+#: inc/class-wpseo-replace-vars.php:1516
+msgid "Modified"
+msgstr "ແກ້ໄຂເມື່ອ"
+
+#: inc/class-wpseo-replace-vars.php:1515
+msgid "Post type (plural)"
+msgstr "ປະເພດໂພສ (ພະຫູພົດ)"
+
+#: inc/class-wpseo-replace-vars.php:1514
+msgid "Post type (singular)"
+msgstr "ປະເພດໂພສ (ເອກະພົດ)"
+
+#: inc/class-wpseo-replace-vars.php:1487 js/dist/externals-redux.js:1
+#: js/dist/new-settings.js:34
+msgid "Separator"
+msgstr "ຕົວຂັ້ນ"
+
+#: inc/class-wpseo-replace-vars.php:1485 js/dist/externals-redux.js:1
+msgid "Search phrase"
+msgstr "ຄຳຄົ້ນຫາ"
+
+#: inc/class-wpseo-replace-vars.php:1484
+msgid "Term title"
+msgstr "ຊື່ໝວດໝູ່"
+
+#: inc/class-wpseo-replace-vars.php:1483 js/dist/externals-redux.js:1
+msgid "Term description"
+msgstr "ຄຳອະທິບາຍໝວດໝູ່"
+
+#: inc/class-wpseo-replace-vars.php:1482 js/dist/externals-redux.js:1
+msgid "Tag description"
+msgstr "ຄຳອະທິບາຍແທັກ"
+
+#: inc/class-wpseo-replace-vars.php:1481 js/dist/externals-redux.js:1
+msgid "Category description"
+msgstr "ຄຳອະທິບາຍໝວດ"
+
+#: inc/class-wpseo-replace-vars.php:1480 js/dist/externals-redux.js:1
+msgid "Primary category"
+msgstr "ໝວດຫຼັກ"
+
+#: inc/class-wpseo-replace-vars.php:1479 js/dist/externals-redux.js:1
+msgid "Category"
+msgstr "ໝວດ"
+
+#: inc/class-wpseo-replace-vars.php:1478
+msgid "Tag"
+msgstr "ແທັກ"
+
+#: inc/class-wpseo-replace-vars.php:1477 js/dist/externals-redux.js:1
+msgid "Excerpt only"
+msgstr "ສະເພາະເນື້ອຫາຫຍໍ້"
+
+#: inc/class-wpseo-replace-vars.php:1476 js/dist/externals-redux.js:1
+msgid "Excerpt"
+msgstr "ເນື້ອຫາຫຍໍ້"
+
+#: inc/class-wpseo-replace-vars.php:1474 js/dist/externals-redux.js:1
+msgid "Site title"
+msgstr "ຫົວຂໍ້ເວັບໄຊ"
+
+#: inc/class-wpseo-replace-vars.php:1473
+msgid "Archive title"
+msgstr "ຫົວຂໍ້ຄັງເກັບ"
+
+#: inc/class-wpseo-replace-vars.php:1472 js/dist/externals-redux.js:1
+msgid "Parent title"
+msgstr "ຫົວຂໍ້ຫຼັກ"
+
+#: inc/class-wpseo-replace-vars.php:1470 js/dist/externals-redux.js:1
+msgid "Date"
+msgstr "ວັນທີ"
+
+#: admin/watchers/class-slug-change-watcher.php:222
+msgid "You should create a redirect to ensure your visitors do not get a 404 error when they click on the no longer working URL."
+msgstr "ທ່ານຄວນສ້າງການປ່ຽນທິດທາງ (redirect) ເພື່ອໃຫ້ແນ່ໃຈວ່າຜູ້ເຂົ້າຊົມຈະບໍ່ພົບຂໍ້ຜິດພາດ 404 ເມື່ອພວກເຂົາຄລິກໃສ່ URL ທີ່ໃຊ້ການບໍ່ໄດ້ແລ້ວ."
+
+#: admin/watchers/class-slug-change-watcher.php:90
+#: admin/watchers/class-slug-change-watcher.php:113
+msgid "Search engines and other websites can still send traffic to your deleted content."
+msgstr "ເຄື່ອງມືຄົ້ນຫາ ແລະ ເວັບໄຊອື່ນໆ ຍັງສາມາດສົ່ງຜູ້ເຂົ້າຊົມໄປຫາເນື້ອຫາທີ່ທ່ານລຶບໄປແລ້ວໄດ້."
+
+#: admin/watchers/class-slug-change-watcher.php:218
+msgid "Make sure you don't miss out on traffic!"
+msgstr "ໃຫ້ແນ່ໃຈວ່າທ່ານບໍ່ໄດ້ເສຍໂອກາດໃນການຮັບຜູ້ເຂົ້າຊົມ!"
+
+#. translators: %1$s expands to the translated name of the post type.
+#. translators: %1$s expands to the translated name of the term.
+#: admin/watchers/class-slug-change-watcher.php:89
+#: admin/watchers/class-slug-change-watcher.php:112
+msgid "You just deleted a %1$s."
+msgstr "ທ່ານຫາກໍ່ລຶບ %1$s."
+
+#. translators: %1$s expands to the translated name of the post type.
+#: admin/watchers/class-slug-change-watcher.php:67
+msgid "You just trashed a %1$s."
+msgstr "ທ່ານຫາກໍ່ຍ້າຍ %1$s ລົງຖັງຂີ້ເຫຍື້ອ."
+
+#. translators: %s is replaced with Yoast SEO.
+#: admin/import/plugins/class-abstract-plugin-importer.php:259
+msgid "The %s importer functionality uses temporary database tables. It seems your WordPress install does not have the capability to do this, please consult your hosting provider."
+msgstr "ຟັງຊັນການນຳເຂົ້າຂອງ %s ໃຊ້ຕາຕະລາງຖານຂໍ້ມູນຊົ່ວຄາວ. ເບິ່ງຄືວ່າ WordPress ຂອງທ່ານບໍ່ຮອງຮັບການເຮັດວຽກນີ້, ກະລຸນາປຶກສາຜູ້ໃຫ້ບໍລິການໂຮດຕິ້ງຂອງທ່ານ."
+
+#. translators: %s is replaced with the plugin's name.
+#: admin/import/plugins/class-abstract-plugin-importer.php:132
+msgid "Cleanup of %s data failed."
+msgstr "ການລຶບລ້າງຂໍ້ມູນ %s ຫຼົ້ມເຫຼວ."
+
+#: admin/class-bulk-editor-list-table.php:1037
+msgid "Content Type"
+msgstr "ປະເພດເນື້ອຫາ"
+
+#. translators: Hidden accessibility text.
+#: admin/class-bulk-editor-list-table.php:429
+msgid "Filter by content type"
+msgstr "ກັ່ນຕອງຕາມປະເພດເນື້ອຫາ"
+
+#: admin/class-bulk-editor-list-table.php:411
+msgid "Show All Content Types"
+msgstr "ສະແດງປະເພດເນື້ອຫາທັງໝົດ"
+
+#: inc/class-wpseo-replace-vars.php:1473
+msgid "Replaced with the normal title for an archive generated by WordPress"
+msgstr "ແທນທີ່ດ້ວຍຫົວຂໍ້ປົກກະຕິຂອງຄັງເກັບທີ່ສ້າງໂດຍ WordPress"
+
+#: admin/views/tabs/tool/import-seo.php:126
+msgid "Clean"
+msgstr "ລຶບລ້າງ"
+
+#: admin/views/tabs/tool/import-seo.php:117
+msgid "Once you're certain your site is OK, you can clean up. This will remove all the original data."
+msgstr "ເມື່ອທ່ານໝັ້ນໃຈວ່າເວັບໄຊປົກກະຕິດີແລ້ວ, ທ່ານສາມາດລຶບລ້າງຂໍ້ມູນໄດ້. ນີ້ຈະເປັນການລຶບຂໍ້ມູນຕົ້ນສະບັບທັງໝົດອອກ."
+
+#: admin/views/tabs/tool/import-seo.php:115
+msgid "Step 5: Clean up"
+msgstr "ຂັ້ນຕອນທີ 5: ລຶບລ້າງຂໍ້ມູນ"
+
+#: admin/views/tabs/tool/import-seo.php:95
+msgid "Please check your posts and pages and see if the metadata was successfully imported."
+msgstr "ກະລຸນາກວດສອບໂພສ ແລະ ໜ້າຕ່າງໆ ຂອງທ່ານວ່າ metadata ໄດ້ຖືກນຳເຂົ້າສຳເລັດແລ້ວຫຼືບໍ່."
+
+#: admin/views/tabs/tool/import-seo.php:93
+msgid "Step 3: Check your data"
+msgstr "ຂັ້ນຕອນທີ 3: ກວດສອບຂໍ້ມູນຂອງທ່ານ"
+
+#. translators: 1: expands to Yoast SEO
+#: admin/views/tabs/tool/import-seo.php:67
+msgid "This will import the post metadata like SEO titles and descriptions into your %1$s metadata. It will only do this when there is no existing %1$s metadata yet. The original data will remain in place."
+msgstr "ນີ້ຈະເປັນການນຳເຂົ້າ post metadata ເຊັ່ນ ຫົວຂໍ້ SEO ແລະ ຄຳອະທິບາຍ ເຂົ້າໄປໃນ metadata ຂອງ %1$s. ໂດຍຈະເຮັດກໍຕໍ່ເມື່ອຍັງບໍ່ມີ metadata ຂອງ %1$s ເທົ່ານັ້ນ. ຂໍ້ມູນຕົ້ນສະບັບຈະຍັງຄືເກົ່າ."
+
+#: admin/views/tabs/tool/import-seo.php:62
+msgid "Step 2: Import"
+msgstr "ຂັ້ນຕອນທີ 2: ນຳເຂົ້າ"
+
+#: admin/views/tabs/tool/import-seo.php:57
+msgid "Please make a backup of your database before starting this process."
+msgstr "ກະລຸນາສຳຮອງຖານຂໍ້ມູນຂອງທ່ານກ່ອນເລີ່ມຂັ້ນຕອນນີ້."
+
+#: admin/views/tabs/tool/import-seo.php:55
+msgid "Step 1: Create a backup"
+msgstr "ຂັ້ນຕອນທີ 1: ສ້າງການສຳຮອງຂໍ້ມູນ"
+
+#: admin/views/tabs/tool/import-seo.php:51
+msgid "We've detected data from one or more SEO plugins on your site. Please follow the following steps to import that data:"
+msgstr "ພວກເຮົາກວດພົບຂໍ້ມູນຈາກປລັກອິນ SEO ອື່ນໃນເວັບໄຊຂອງທ່ານ. ກະລຸນາເຮັດຕາມຂັ້ນຕອນລຸ່ມນີ້ເພື່ອການນຳເຂົ້າຂໍ້ມູນ:"
+
+#: admin/views/tabs/tool/import-seo.php:39
+msgid "Plugin: "
+msgstr "ປລັກອິນ: "
+
+#. translators: %s expands to Yoast SEO
+#: admin/views/tabs/tool/import-seo.php:22
+msgid "%s did not detect any plugin data from plugins it can import from."
+msgstr "%s ບໍ່ກວດພົບຂໍ້ມູນຈາກປລັກອິນອື່ນໆ ທີ່ສາມາດນຳເຂົ້າໄດ້."
+
+#: admin/statistics/class-statistics-service.php:229
+msgid "Posts that should not show up in search results"
+msgstr "ໂພສທີ່ບໍ່ຄວນສະແດງໃນຜົນການຄົ້ນຫາ"
+
+#. translators: %s is replaced with the name of the plugin we've found data
+#. from.
+#: admin/import/class-import-status.php:128
+msgid "%s data found."
+msgstr "ພົບຂໍ້ມູນ %s."
+
+#. translators: %s is replaced with the name of the plugin we're removing data
+#. from.
+#: admin/import/class-import-status.php:124
+msgid "%s data successfully removed."
+msgstr "ລຶບຂໍ້ມູນ %s ສຳເລັດແລ້ວ."
+
+#. translators: %s is replaced with the name of the plugin we're importing data
+#. from.
+#: admin/import/class-import-status.php:121
+msgid "%s data successfully imported."
+msgstr "ນຳເຂົ້າຂໍ້ມູນ %s ສຳເລັດແລ້ວ."
+
+#. translators: %s is replaced with the name of the plugin we're trying to find
+#. data from.
+#: admin/import/class-import-status.php:61
+msgid "%s data not found."
+msgstr "ບໍ່ພົບຂໍ້ມູນ %s."
+
+#: admin/class-yoast-form.php:958 admin/class-yoast-form.php:998
+#: js/dist/externals/componentsNew.js:532
+msgid "On"
+msgstr "ເປີດ"
+
+#. translators: Hidden accessibility text; %s expands to a feature's name.
+#. translators: Hidden accessibility text; %s expands to an integration's name.
+#: admin/views/tabs/network/features.php:62
+#: admin/views/tabs/network/integrations.php:50
+msgid "Help on: %s"
+msgstr "ຄວາມຊ່ວຍເຫຼືອສຳລັບ: %s"
+
+#: admin/class-yoast-form.php:959 admin/class-yoast-form.php:999
+#: admin/views/class-yoast-feature-toggles.php:156
+#: js/dist/externals/componentsNew.js:532
+msgid "Off"
+msgstr "ປິດ"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/views/tabs/dashboard/dashboard.php:19
+msgid "See who contributed to %1$s."
+msgstr "ເບິ່ງຜູ້ທີ່ມີສ່ວນຮ່ວມໃນ %1$s."
+
+#: admin/views/class-yoast-feature-toggles.php:136
+msgid "Read why XML Sitemaps are important for your site."
+msgstr "ອ່ານເຫດຜົນວ່າເປັນຫຍັງ XML Sitemaps ຈຶ່ງສຳຄັນຕໍ່ເວັບໄຊຂອງທ່ານ."
+
+#. translators: %s: Yoast SEO
+#: admin/views/class-yoast-feature-toggles.php:135
+msgid "Enable the XML sitemaps that %s generates."
+msgstr "ເປີດໃຊ້ງານ XML sitemaps ທີ່ %s ສ້າງຂຶ້ນ."
+
+#: admin/views/class-yoast-feature-toggles.php:66
+msgid "See the XML sitemap."
+msgstr "ເບິ່ງ XML sitemap."
+
+#. translators: %1$s expands to Yes or No,  %2$s expands to the post type name.
+#: admin/metabox/class-metabox.php:181
+msgid "Default for %2$s, currently: %1$s"
+msgstr "ຄ່າເລີ່ມຕົ້ນສຳລັບ %2$s, ປັດຈຸບັນແມ່ນ: %1$s"
+
+#. translators: %s expands to an indexable object's name, like a post type or
+#. taxonomy
+#: admin/class-yoast-form.php:969
+msgid "Show %s in search results?"
+msgstr "ສະແດງ %s ໃນຜົນການຄົ້ນຫາຫຼືບໍ່?"
+
+#. translators: %1$s expands to the post type name.
+#: admin/metabox/class-metabox.php:186
+msgid "Should search engines follow links on this %1$s?"
+msgstr "ຄວນໃຫ້ເຄື່ອງມືຄົ້ນຫາຕິດຕາມລິ້ງ (follow) ໃນ %1$s ນີ້ຫຼືບໍ່?"
+
+#. translators: %s expands to the post type name.
+#: admin/metabox/class-metabox.php:176
+msgid "Allow search engines to show this %s in search results?"
+msgstr "ອະນຸຍາດໃຫ້ເຄື່ອງມືຄົ້ນຫາສະແດງ %s ນີ້ໃນຜົນການຄົ້ນຫາຫຼືບໍ່?"
+
+#. translators: %1$s expands to Yoast SEO.
+#: admin/class-plugin-conflict.php:82
+msgid "Toggle %1$s's XML Sitemap"
+msgstr "ເປີດ/ປິດ XML Sitemap ຂອງ %1$s"
+
+#. translators: %s: 'Semrush'
+#. translators: %s: Algolia.
+#: admin/views/class-yoast-integration-toggles.php:63
+#: admin/views/class-yoast-integration-toggles.php:74
+msgid "%s integration"
+msgstr "ການເຊື່ອມຕໍ່ %s"
+
+#: admin/views/class-yoast-feature-toggles.php:107
+msgid "Find out how the text link counter can enhance your SEO."
+msgstr "ຄົ້ນຫາວິທີທີ່ຕົວນັບລິ້ງຂໍ້ຄວາມສາມາດຊ່ວຍປັບປຸງ SEO ຂອງທ່ານ."
+
+#: admin/views/class-yoast-feature-toggles.php:106
+msgid "The text link counter helps you improve your site structure."
+msgstr "ຕົວນັບລິ້ງຂໍ້ຄວາມຊ່ວຍໃຫ້ທ່ານປັບປຸງໂຄງສ້າງເວັບໄຊຂອງທ່ານ."
+
+#: admin/views/class-yoast-feature-toggles.php:99
+msgid "Find out how cornerstone content can help you improve your site structure."
+msgstr "ຄົ້ນຫາວິທີທີ່ເນື້ອຫາຫຼັກ (cornerstone content) ສາມາດຊ່ວຍປັບປຸງໂຄງສ້າງເວັບໄຊຂອງທ່ານ."
+
+#: admin/views/class-yoast-feature-toggles.php:98
+msgid "The cornerstone content feature lets you to mark and filter cornerstone content on your website."
+msgstr "ຟີເຈີເນື້ອຫາຫຼັກຊ່ວຍໃຫ້ທ່ານສາມາດໝາຍ ແລະ ກັ່ນຕອງເນື້ອຫາທີ່ສຳຄັນທີ່ສຸດໃນເວັບໄຊຂອງທ່ານ."
+
+#: admin/views/class-yoast-feature-toggles.php:82
+msgid "Discover why readability is important for SEO."
+msgstr "ຄົ້ນຫາເຫດຜົນວ່າເປັນຫຍັງຄວາມງ່າຍໃນການອ່ານຈຶ່ງສຳຄັນຕໍ່ SEO."
+
+#: admin/views/class-yoast-feature-toggles.php:81 js/dist/new-settings.js:526
+msgid "The readability analysis offers suggestions to improve the structure and style of your text."
+msgstr "ການວິເຄາະຄວາມງ່າຍໃນການອ່ານໃຫ້ຄຳແນະນຳເພື່ອປັບປຸງໂຄງສ້າງ ແລະ ຮູບແບບຂໍ້ຄວາມຂອງທ່ານ."
+
+#: admin/views/class-yoast-feature-toggles.php:74
+msgid "Learn how the SEO analysis can help you rank."
+msgstr "ຮຽນຮູ້ວິທີທີ່ການວິເຄາະ SEO ສາມາດຊ່ວຍໃຫ້ເວັບໄຊຂອງທ່ານຕິດອັນດັບ."
+
+#: admin/views/class-yoast-feature-toggles.php:73
+msgid "The SEO analysis offers suggestions to improve the SEO of your text."
+msgstr "ການວິເຄາະ SEO ໃຫ້ຄຳແນະນຳເພື່ອປັບປຸງ SEO ຂອງຂໍ້ຄວາມຂອງທ່ານ."
+
+#: admin/views/class-yoast-feature-toggles.php:71
+#: src/task-list/application/tasks/child-tasks/improve-content-seo-child.php:64
+#: js/dist/externals-components.js:420 js/dist/new-settings.js:31
+#: js/dist/new-settings.js:526
+msgid "SEO analysis"
+msgstr "ການວິເຄາະ SEO"
+
+#. Author URI of the plugin
+#: wp-seo.php
+msgid "https://yoa.st/1uk"
+msgstr "https://yoa.st/1uk"
+
+#. Plugin URI of the plugin
+#: wp-seo.php
+msgid "https://yoa.st/1uj"
+msgstr "https://yoa.st/1uj"
+
+#. translators: %1$s resolves to Yoast.com
+#: admin/class-yoast-dashboard-widget.php:128
+msgid "Latest blog posts on %1$s"
+msgstr "ບົດຄວາມຫຼ້າສຸດໃນ %1$s"
+
+#: src/helpers/first-time-configuration-notice-helper.php:64
+msgid "First-time SEO configuration"
+msgstr "ການຕັ້ງຄ່າ SEO ເປັນຄັ້ງທຳອິດ"
+
+#. translators: %s expands to ".htaccess".
+#: admin/views/tool-file-editor.php:186
+msgid "%s file"
+msgstr "ໄຟລ໌ %s"
+
+#. translators: %s expands to robots.txt.
+#. translators: %s expands to ".htaccess".
+#: admin/views/tool-file-editor.php:174 admin/views/tool-file-editor.php:224
+msgid "Save changes to %s"
+msgstr "ບັນທຶກການປ່ຽນແປງໃນ %s"
+
+#. translators: %s expands to robots.txt.
+#. translators: %s expands to ".htaccess".
+#: admin/views/tool-file-editor.php:165 admin/views/tool-file-editor.php:215
+msgid "Edit the content of your %s:"
+msgstr "ແກ້ໄຂເນື້ອຫາໃນ %s ຂອງທ່ານ:"
+
+#. translators: %s expands to robots.txt.
+#: admin/views/tool-file-editor.php:125
+msgid "Create %s file"
+msgstr "ສ້າງໄຟລ໌ %s"
+
+#. translators: %s expands to robots.txt.
+#: admin/views/tool-file-editor.php:65
+msgid "Updated %s"
+msgstr "ອັບເດດ %s ແລ້ວ"
+
+#. translators: %s expands to robots.txt.
+#. translators: %s expands to ".htaccess".
+#: admin/views/tool-file-editor.php:49 admin/views/tool-file-editor.php:76
+msgid "You cannot edit the %s file."
+msgstr "ທ່ານບໍ່ສາມາດແກ້ໄຂໄຟລ໌ %s ໄດ້."
+
+#. translators: %s expands to robots.txt.
+#: admin/views/tool-file-editor.php:28
+msgid "You cannot create a %s file."
+msgstr "ທ່ານບໍ່ສາມາດສ້າງໄຟລ໌ %s ໄດ້."
+
+#. translators: Hidden accessibility text; %1$s expands to the dependency name
+#: admin/class-suggested-plugins.php:137
+msgid "More information about %1$s"
+msgstr "ຂໍ້ມູນເພີ່ມເຕີມກ່ຽວກັບ %1$s"
+
+#: src/integrations/admin/old-configuration-integration.php:38
+msgid "Old Configuration Wizard"
+msgstr "ຕົວຊ່ວຍການຕັ້ງຄ່າແບບເກົ່າ"
+
+#. translators: %1$s expands to the posttype label, %2$s expands anchor to blog
+#. post about cornerstone content, %3$s expands to </a>
+#: admin/filters/class-cornerstone-filter.php:104
+msgid "Mark the most important %1$s as 'cornerstone content' to improve your site structure. %2$sLearn more about cornerstone content%3$s."
+msgstr "ໝາຍ %1$s ທີ່ສຳຄັນທີ່ສຸດເປັນ 'ເນື້ອຫາຫຼັກ' ເພື່ອປັບປຸງໂຄງສ້າງເວັບໄຊຂອງທ່ານ. %2$sຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບເນື້ອຫາຫຼັກ%3$s."
+
+#. translators: Hidden accessibility text.
+#: admin/class-admin-utils.php:79 admin/class-premium-popup.php:83
+#: admin/class-premium-upsell-admin-block.php:76 admin/class-yoast-form.php:933
+#: admin/watchers/class-slug-change-watcher.php:230
+#: src/integrations/admin/workouts-integration.php:215
+#: src/integrations/admin/workouts-integration.php:245
+#: src/presenters/admin/help-link-presenter.php:76
+#: src/presenters/admin/sidebar-presenter.php:159 js/dist/academy.js:12
+#: js/dist/ai-consent.js:2 js/dist/ai-generator.js:2 js/dist/ai-generator.js:61
+#: js/dist/ai-generator.js:276 js/dist/block-editor.js:499
+#: js/dist/block-editor.js:500 js/dist/editor-modules.js:116
+#: js/dist/editor-modules.js:383 js/dist/externals-components.js:21
+#: js/dist/externals-components.js:126 js/dist/externals-components.js:127
+#: js/dist/externals-components.js:394 js/dist/externals/componentsNew.js:675
+#: js/dist/externals/helpers.js:11
+#: js/dist/externals/relatedKeyphraseSuggestions.js:3
+#: js/dist/externals/relatedKeyphraseSuggestions.js:7 js/dist/general-page.js:4
+#: js/dist/general-page.js:5 js/dist/general-page.js:12
+#: js/dist/general-page.js:25 js/dist/general-page.js:62
+#: js/dist/installation-success.js:5 js/dist/integrations-page.js:3
+#: js/dist/integrations-page.js:4 js/dist/integrations-page.js:5
+#: js/dist/integrations-page.js:6 js/dist/integrations-page.js:7
+#: js/dist/integrations-page.js:8 js/dist/integrations-page.js:13
+#: js/dist/integrations-page.js:18 js/dist/integrations-page.js:19
+#: js/dist/integrations-page.js:20 js/dist/integrations-page.js:28
+#: js/dist/introductions.js:2 js/dist/introductions.js:4
+#: js/dist/introductions.js:8 js/dist/introductions.js:13
+#: js/dist/introductions.js:14 js/dist/new-settings.js:4
+#: js/dist/new-settings.js:5 js/dist/new-settings.js:12 js/dist/plans.js:2
+#: js/dist/redirects.js:5 js/dist/support.js:4 js/dist/support.js:7
+msgid "(Opens in a new browser tab)"
+msgstr "(ເປີດໃນແທັບໃໝ່)"
+
+#. translators: %1$s expands to an opening strong tag, %2$s expands to a
+#. closing strong tag
+#: admin/statistics/class-statistics-service.php:210
+msgid "Posts %1$swithout%2$s a focus keyphrase"
+msgstr "ໂພສທີ່ %1$sບໍ່ມີ%2$s ຄຳສຳຄັນ (keyphrase)"
+
+#: admin/statistics/class-statistics-service.php:77
+msgid "Hey, your SEO is doing pretty well! Check out the stats:"
+msgstr "ເຮີ້ຍ, SEO ຂອງທ່ານຖືວ່າເຮັດໄດ້ດີຫຼາຍ! ກວດສອບສະຖິຕິໄດ້ທີ່ນີ້:"
+
+#: admin/statistics/class-statistics-service.php:73
+msgid "You don't have any published posts, your SEO scores will appear here once you make your first post!"
+msgstr "ທ່ານຍັງບໍ່ມີໂພສທີ່ເຜີຍແຜ່ເທື່ອ, ຄະແນນ SEO ຈະສະແດງຢູ່ນີ້ເມື່ອທ່ານສ້າງໂພສທຳອິດ!"
+
+#: admin/class-yoast-dashboard-widget.php:131
+msgid "Read more like this on our SEO blog"
+msgstr "ອ່ານເພີ່ມເຕີມໄດ້ທີ່ບລັອກ SEO ຂອງພວກເຮົາ"
+
+#. translators: %s expands to the readability score
+#: inc/class-wpseo-rank.php:207 inc/class-wpseo-rank.php:212
+#: inc/class-wpseo-rank.php:217 inc/class-wpseo-rank.php:222
+msgid "Readability: %s"
+msgstr "ຄວາມງ່າຍໃນການອ່ານ: %s"
+
+#. translators: %1$s expands to Yoast
+#: src/presenters/admin/sidebar-presenter.php:34
+msgid "%1$s recommendations for you"
+msgstr "ຄຳແນະນຳຈາກ %1$s ສຳລັບທ່ານ"
+
+#: admin/class-meta-columns.php:302
+msgid "All Readability Scores"
+msgstr "ຄະແນນຄວາມງ່າຍໃນການອ່ານທັງໝົດ"
+
+#. translators: Hidden accessibility text.
+#: admin/class-meta-columns.php:298
+msgid "Filter by Readability Score"
+msgstr "ກັ່ນຕອງຕາມຄະແນນຄວາມງ່າຍໃນການອ່ານ"
+
+#. translators: %1$s expands to the request method
+#: admin/class-remote-request.php:97
+msgid "Request method %1$s is not valid."
+msgstr "ວິທີການຮ້ອງຂໍ %1$s ບໍ່ຖືກຕ້ອງ."
+
+#: admin/views/class-yoast-feature-toggles.php:104 js/dist/new-settings.js:31
+#: js/dist/new-settings.js:526
+msgid "Text link counter"
+msgstr "ຕົວນັບລິ້ງຂໍ້ຄວາມ"
+
+#. translators: %s expands to Yoast
+#: admin/class-yoast-columns.php:64
+msgid "%s Columns"
+msgstr "ຄໍລຳ %s"
+
+#: admin/class-meta-columns.php:122 admin/class-meta-columns.php:124
+#: admin/taxonomy/class-taxonomy-columns.php:92
+#: admin/taxonomy/class-taxonomy-columns.php:93
+msgid "Readability score"
+msgstr "ຄະແນນຄວາມງ່າຍໃນການອ່ານ"
+
+#: admin/filters/class-cornerstone-filter.php:87
+#: admin/views/class-yoast-feature-toggles.php:96
+#: js/dist/externals-components.js:20 js/dist/new-settings.js:31
+#: js/dist/new-settings.js:526
+msgid "Cornerstone content"
+msgstr "ເນື້ອຫາຫຼັກ"
+
+#: src/presenters/admin/sidebar-presenter.php:127 js/dist/general-page.js:7
+#: js/dist/new-settings.js:7 js/dist/support.js:6
+msgid "24/7 support"
+msgstr "ຊ່ວຍເຫຼືອຕະຫຼອດ 24/7"
+
+#: admin/class-yoast-form.php:149 admin/class-yoast-form.php:154
+#: js/dist/general-page.js:48 js/dist/new-settings.js:12
+msgid "Save changes"
+msgstr "ບັນທຶກການປ່ຽນແປງ"
+
+#: admin/class-premium-popup.php:89
+msgid "1 year free support and updates included!"
+msgstr "ລວມການຊ່ວຍເຫຼືອ ແລະ ອັບເດດຟຣີ 1 ປີ!"
+
+#. translators: %2$s expands to 'RS Head Cleaner' plugin name of possibly
+#. conflicting plugin with regard to differentiating output between search
+#. engines and normal users.
+#: admin/class-plugin-conflict.php:87
+msgid "The plugin %2$s changes your site's output and in doing that differentiates between search engines and normal users, a process that's called cloaking. We highly recommend that you disable it."
+msgstr "ປລັກອິນ %2$s ປ່ຽນແປງການສະແດງຜົນຂອງເວັບໄຊ ເຊິ່ງເຮັດໃຫ້ເຄື່ອງມືຄົ້ນຫາ ແລະ ຜູ້ໃຊ້ທົ່ວໄປເຫັນເນື້ອຫາທີ່ແຕກຕ່າງກັນ (ເອີ້ນວ່າ cloaking). ພວກເຮົາແນະນຳໃຫ້ທ່ານປິດການໃຊ້ງານມັນ."
+
+#: admin/class-admin.php:355
+msgid "Scroll to see the table content."
+msgstr "ເລື່ອນເພື່ອເບິ່ງເນື້ອຫາໃນຕາຕະລາງ."
+
+#: admin/views/partial-notifications-warnings.php:22 js/dist/general-page.js:32
+msgid "No new notifications."
+msgstr "ບໍ່ມີການແຈ້ງເຕືອນໃໝ່."
+
+#: admin/class-bulk-editor-list-table.php:922
+msgid "Save all"
+msgstr "ບັນທຶກທັງໝົດ"
+
+#: admin/class-bulk-editor-list-table.php:921
+msgid "Save"
+msgstr "ບັນທຶກ"
+
+#. translators: 1: Author name; 2: Site name.
+#: inc/options/class-wpseo-option-titles.php:272
+msgid "%1$s, Author at %2$s"
+msgstr "%1$s, ຜູ້ຂຽນທີ່ %2$s"
+
+#: inc/class-wpseo-replace-vars.php:1518 js/dist/general-page.js:49
+msgid "Name"
+msgstr "ຊື່"
+
+#: admin/views/tool-import-export.php:89
+msgid "Export settings"
+msgstr "ສົ່ງອອກການຕັ້ງຄ່າ"
+
+#: admin/class-product-upsell-notice.php:181
+msgid "Please don't show me this notification anymore"
+msgstr "ກະລຸນາຢ່າສະແດງການແຈ້ງເຕືອນນີ້ອີກ"
+
+#. translators: %1$s is a link start tag to the bugreport guidelines on the
+#. Yoast help center, %2$s is the link closing tag.
+#: admin/class-product-upsell-notice.php:174
+msgid "If you are experiencing issues, %1$splease file a bug report%2$s and we'll do our best to help you out."
+msgstr "ຖ້າທ່ານພົບຂໍ້ຜິດພາດ, %1$sກະລຸນາສົ່ງລາຍງານ%2$s ແລະ ພວກເຮົາຈະພະຍາຍາມຊ່ວຍເຫຼືອທ່ານ."
+
+#. translators: %1$s expands to Yoast SEO, %2$s is a link start tag to the
+#. plugin page on WordPress.org, %3$s is the link closing tag.
+#: admin/class-product-upsell-notice.php:166
+msgid "We've noticed you've been using %1$s for some time now; we hope you love it! We'd be thrilled if you could %2$sgive us a 5 stars rating on WordPress.org%3$s!"
+msgstr "ພວກເຮົາເຫັນວ່າທ່ານໃຊ້ %1$s ມາໄລຍະໜຶ່ງແລ້ວ; ຫວັງວ່າທ່ານຈະມັກ! ຈະດີຫຼາຍຖ້າທ່ານ %2$sໃຫ້ຄະແນນ 5 ດາວແກ່ພວກເຮົາໃນ WordPress.org%3$s!"
+
+#. translators: %1$s: '%%term_title%%' variable used in titles and meta's
+#. template that's not compatible with the given template, %2$s: expands to
+#. 'HelpScout beacon'
+#: admin/class-admin.php:349
+msgid "Warning: the variable %1$s cannot be used in this template. See the %2$s for more info."
+msgstr "ຄຳເຕືອນ: ຕົວແປ %1$s ບໍ່ສາມາດໃຊ້ໃນແທັມເພລັດນີ້ໄດ້. ເບິ່ງ %2$s ສຳລັບຂໍ້ມູນເພີ່ມເຕີມ."
+
+#. translators: %1$s expands anchor to premium plugin page, %2$s expands to
+#. </a>
+#: admin/class-product-upsell-notice.php:149
+msgid "By the way, did you know we also have a %1$sPremium plugin%2$s? It offers advanced features, like a redirect manager and support for multiple keyphrases. It also comes with 24/7 personal support."
+msgstr "ຮູ້ບໍ່ວ່າພວກເຮົາມີ %1$sປລັກອິນພຣີມຽມ%2$s? ມັນມີຟີເຈີຂັ້ນສູງ ເຊັ່ນ: ການຈັດການລິ້ງປ່ຽນທິດທາງ ແລະ ຮອງຮັບຄຳສຳຄັນຫຼາຍຄຳ ພ້ອມທັງການຊ່ວຍເຫຼືອຕະຫຼອດ 24/7."
+
+#: admin/class-bulk-editor-list-table.php:829
+msgid "(no title)"
+msgstr "(ບໍ່ມີຫົວຂໍ້)"
+
+#. translators: 1: Yoast SEO
+#: admin/views/class-yoast-feature-toggles.php:146
+msgid "The %1$s admin bar menu contains useful links to third-party tools for analyzing pages and makes it easy to see if you have new notifications."
+msgstr "ເມນູແຖບຜູ້ດູແລຂອງ %1$s ລວມມີລິ້ງທີ່ມີປະໂຫຍດສຳລັບເຄື່ອງມືວິເຄາະໜ້າເວັບ ແລະ ຊ່ວຍໃຫ້ທ່ານເຫັນການແຈ້ງເຕືອນໃໝ່ໄດ້ງ່າຍຂຶ້ນ."
+
+#: admin/views/class-yoast-feature-toggles.php:143 js/dist/new-settings.js:31
+#: js/dist/new-settings.js:529 js/dist/new-settings.js:532
+msgid "Admin bar menu"
+msgstr "ເມນູແຖບຜູ້ດູແລ"
+
+#: admin/pages/network.php:19 admin/views/tabs/network/features.php:22
+msgid "Features"
+msgstr "ຟີເຈີ"
+
+#: admin/metabox/class-metabox.php:172
+#: js/dist/externals/replacementVariableEditor.js:71
+#: js/dist/externals/searchMetadataPreviews.js:102 js/dist/new-settings.js:21
+#: js/dist/new-settings.js:27 js/dist/new-settings.js:31
+#: js/dist/new-settings.js:34 js/dist/new-settings.js:38
+#: js/dist/new-settings.js:91 js/dist/new-settings.js:111
+#: js/dist/new-settings.js:160 js/dist/new-settings.js:207
+#: js/dist/new-settings.js:312 js/dist/new-settings.js:339
+#: js/dist/new-settings.js:354 js/dist/new-settings.js:412
+msgid "SEO title"
+msgstr "ຫົວຂໍ້ SEO"
+
+#: inc/options/class-wpseo-option-titles.php:988
+msgid "Greater than sign"
+msgstr "ເຄື່ອງໝາຍຫຼາຍກວ່າ (>)"
+
+#: inc/options/class-wpseo-option-titles.php:984
+msgid "Less than sign"
+msgstr "ເຄື່ອງໝາຍໜ້ອຍກວ່າ (<)"
+
+#: inc/options/class-wpseo-option-titles.php:980
+msgid "Right angle quotation mark"
+msgstr "ເຄື່ອງໝາຍຄຳເວົ້າຂວາ (»)"
+
+#: inc/options/class-wpseo-option-titles.php:976
+msgid "Left angle quotation mark"
+msgstr "ເຄື່ອງໝາຍຄຳເວົ້າຊ້າຍ («)"
+
+#: inc/options/class-wpseo-option-titles.php:972
+msgid "Small tilde"
+msgstr "ເຄື່ອງໝາຍທິລດາ (˜)"
+
+#: inc/options/class-wpseo-option-titles.php:968
+msgid "Vertical bar"
+msgstr "ແຖບແນວຕັ້ງ (|)"
+
+#: inc/options/class-wpseo-option-titles.php:964
+msgid "Low asterisk"
+msgstr "ດອກຈັນຕ່ຳ (⁎)"
+
+#: inc/options/class-wpseo-option-titles.php:960
+msgid "Asterisk"
+msgstr "ດອກຈັນ (*)"
+
+#: inc/options/class-wpseo-option-titles.php:956
+msgid "Bullet"
+msgstr "ບູນເລັດ (•)"
+
+#: inc/options/class-wpseo-option-titles.php:952
+msgid "Middle dot"
+msgstr "ຈຸດກາງ (·)"
+
+#: inc/options/class-wpseo-option-titles.php:944
+msgid "Em dash"
+msgstr "Em dash (—)"
+
+#: inc/options/class-wpseo-option-titles.php:940
+msgid "En dash"
+msgstr "En dash (–)"
+
+#: inc/options/class-wpseo-option-titles.php:936
+msgid "Dash"
+msgstr "ຂີດຕໍ່ (-)"
+
+#: admin/metabox/class-metabox.php:183 admin/metabox/class-metabox.php:188
+#: js/dist/block-editor.js:249 js/dist/classic-editor.js:232
+msgid "No"
+msgstr "ບໍ່"
+
+#: admin/metabox/class-metabox.php:182 admin/metabox/class-metabox.php:187
+#: js/dist/block-editor.js:249 js/dist/classic-editor.js:232
+msgid "Yes"
+msgstr "ແມ່ນ"
+
+#: admin/views/tool-bulk-editor.php:63
+msgid "Posts list"
+msgstr "ລາຍການໂພສ"
+
+#: admin/views/tool-bulk-editor.php:62
+msgid "Posts list navigation"
+msgstr "ການນຳທາງລາຍການໂພສ"
+
+#: admin/views/tool-bulk-editor.php:61
+msgid "Filter posts list"
+msgstr "ກັ່ນຕອງລາຍການໂພສ"
+
+#. translators: Hidden accessibility text; %s: post title.
+#: admin/class-bulk-editor-list-table.php:843
+msgid "Edit &#8220;%s&#8221;"
+msgstr "ແກ້ໄຂ &#8220;%s&#8221;"
+
+#: src/integrations/admin/menu-badge-integration.php:35 js/dist/academy.js:11
+msgid "Premium"
+msgstr "ພຣີມຽມ"
+
+#: admin/class-admin.php:266
+msgid "Get Premium"
+msgstr "ຮັບພຣີມຽມ"
+
+#: admin/views/partial-notifications-warnings.php:20
+#: inc/class-wpseo-admin-bar-menu.php:395 js/dist/general-page.js:32
+msgid "Notifications"
+msgstr "ການແຈ້ງເຕືອນ"
+
+#: src/user-meta/framework/custom-meta/keyword-analysis-disable.php:115
+msgid "Removes the focus keyphrase section from the metabox and disables all SEO-related suggestions."
+msgstr "ເອົາສ່ວນການວິເຄາະຄຳສຳຄັນອອກຈາກ metabox ແລະ ປິດຄຳແນະນຳທີ່ກ່ຽວຂ້ອງກັບ SEO ທັງໝົດ."
+
+#: src/user-meta/framework/custom-meta/keyword-analysis-disable.php:109
+msgid "Disable SEO analysis"
+msgstr "ປິດການວິເຄາະ SEO"
+
+#: admin/views/js-templates-primary-term.php:28
+msgid "Make primary"
+msgstr "ຕັ້ງເປັນຄ່າຫຼັກ"
+
+#. translators: Hidden accessibility text; %s: number of notifications.
+#: admin/menu/class-admin-menu.php:118 inc/class-wpseo-admin-bar-menu.php:910
+#: js/dist/general-page.js:66
+msgid "%s notification"
+msgid_plural "%s notifications"
+msgstr[0] "ການແຈ້ງເຕືອນ %s ລາຍການ"
+
+#: src/user-meta/framework/custom-meta/content-analysis-disable.php:109
+msgid "Disable readability analysis"
+msgstr "ປິດການວິເຄາະຄວາມງ່າຍໃນການອ່ານ"
+
+#: src/user-meta/framework/custom-meta/content-analysis-disable.php:115
+msgid "Removes the readability analysis section from the metabox and disables all readability-related suggestions."
+msgstr "ເອົາສ່ວນການວິເຄາະຄວາມງ່າຍໃນການອ່ານອອກຈາກ metabox ແລະ ປິດຄຳແນະນຳທີ່ກ່ຽວຂ້ອງທັງໝົດ."
+
+#: admin/views/class-yoast-feature-toggles.php:79
+#: js/dist/externals-components.js:412 js/dist/new-settings.js:31
+#: js/dist/new-settings.js:526
+msgid "Readability analysis"
+msgstr "ການວິເຄາະຄວາມງ່າຍໃນການອ່ານ"
+
+#: admin/statistics/class-statistics-service.php:217
+#: inc/class-wpseo-rank.php:140 inc/class-wpseo-rank.php:176
+#: inc/class-wpseo-rank.php:208 inc/class-wpseo-rank.php:240
+#: src/task-list/application/tasks/child-tasks/improve-content-readability-child.php:52
+#: src/task-list/application/tasks/child-tasks/improve-content-seo-child.php:52
+#: js/dist/block-editor.js:498 js/dist/editor-modules.js:115
+#: js/dist/editor-modules.js:384 js/dist/externals-components.js:122
+#: js/dist/externals/analysis.js:409 js/dist/externals/dashboardFrontend.js:4
+#: js/dist/frontend-inspector-resources.js:1
+msgid "Needs improvement"
+msgstr "ຄວນປັບປຸງ"
+
+#: admin/metabox/class-metabox-section-readability.php:30
+#: inc/class-wpseo-admin-bar-menu.php:252
+#: src/task-list/application/tasks/child-tasks/improve-content-readability-child.php:64
+msgid "Readability"
+msgstr "ຄວາມງ່າຍໃນການອ່ານ"
+
+#: admin/views/partial-notifications-errors.php:22 js/dist/general-page.js:32
+msgid "Good job! We could detect no serious SEO problems."
+msgstr "ດີຫຼາຍ! ພວກເຮົາບໍ່ພົບປັດໄຈທີ່ເປັນບັນຫາຮ້າຍແຮງຕໍ່ SEO."
+
+#: admin/views/partial-notifications-errors.php:21 js/dist/general-page.js:32
+msgid "We have detected the following issues that affect the SEO of your site."
+msgstr "ພວກເຮົາກວດພົບບັນຫາຕໍ່ໄປນີ້ທີ່ສົ່ງຜົນກະທົບຕໍ່ SEO ຂອງເວັບໄຊທ່ານ."
+
+#: admin/views/partial-notifications-errors.php:20
+#: js/dist/editor-modules.js:115 js/dist/externals-components.js:122
+#: js/dist/externals/analysisReport.js:38 js/dist/general-page.js:32
+msgid "Problems"
+msgstr "ບັນຫາ"
+
+#: inc/class-wpseo-rank.php:138 js/dist/block-editor.js:498
+#: js/dist/editor-modules.js:115 js/dist/editor-modules.js:384
+#: js/dist/externals-components.js:122
+#: js/dist/frontend-inspector-resources.js:1
+msgid "Not available"
+msgstr "ບໍ່ມີຂໍ້ມູນ"
+
+#. translators: Hidden accessibility text.
+#: admin/class-meta-columns.php:269
+msgid "Filter by SEO Score"
+msgstr "ກັ່ນຕອງຕາມຄະແນນ SEO"
+
+#. translators: Hidden accessibility text.
+#: admin/class-meta-columns.php:181
+msgid "Meta description not set."
+msgstr "ບໍ່ໄດ້ກຳນົດຄຳອະທິບາຍ Meta."
+
+#: admin/menu/class-admin-menu.php:56 js/dist/general-page.js:65
+msgid "Dashboard"
+msgstr "ແຜງຄວບຄຸມ"
+
+#. translators: %1$s is a link start tag to the permalink settings page, %2$s
+#. is the link closing tag.
+#: src/services/health-check/postname-permalink-reports.php:71
+msgid "You can fix this on the %1$sPermalink settings page%2$s."
+msgstr "ທ່ານສາມາດແກ້ໄຂເລື່ອງນີ້ໄດ້ທີ່ %1$sໜ້າຕັ້ງຄ່າລິ້ງຖາວອນ%2$s."
+
+#: inc/class-wpseo-replace-vars.php:1480
+msgid "Replaced with the primary category of the post/page"
+msgstr "ແທນທີ່ດ້ວຍໝວດໝູ່ຫຼັກຂອງໂພສ/ໜ້າ"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/class-bulk-title-editor-list-table.php:50
+msgid "New %1$s Title"
+msgstr "ຫົວຂໍ້ %1$s ໃໝ່"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/class-bulk-title-editor-list-table.php:48
+msgid "Existing %1$s Title"
+msgstr "ຫົວຂໍ້ %1$s ທີ່ມີຢູ່"
+
+#: inc/sitemaps/class-sitemaps-cache-validator.php:301
+msgid "Expected an integer as input."
+msgstr "ຕ້ອງການຂໍ້ມູນເຂົ້າເປັນຕົວເລກຖ້ວນ."
+
+#: inc/sitemaps/class-sitemaps-cache-validator.php:111
+msgid "Trying to build the sitemap cache key, but the postfix and prefix combination leaves too little room to do this. You are probably requesting a page that is way out of the expected range."
+msgstr "ພະຍາຍາມສ້າງ sitemap cache key, ແຕ່ການລວມ postfix ແລະ prefix ບໍ່ມີພື້ນທີ່ພຽງພໍ. ທ່ານອາດຈະກຳລັງຮ້ອງຂໍໜ້າທີ່ຢູ່ນອກຂອບເຂດທີ່ຄາດໄວ້."
+
+#: src/integrations/admin/redirects-page-integration.php:100
+#: js/dist/redirects.js:2 js/dist/redirects.js:23
+msgid "Redirects"
+msgstr "ລິ້ງປ່ຽນທິດທາງ"
+
+#: src/integrations/admin/crawl-settings-integration.php:242
+#: js/dist/externals/relatedKeyphraseSuggestions.js:1
+msgid "Remove"
+msgstr "ລຶບ"
+
+#: src/integrations/admin/crawl-settings-integration.php:241
+msgid "Keep"
+msgstr "ເກັບໄວ້"
+
+#. translators: %s is the taxonomy title. This will be shown to screenreaders
+#: admin/views/js-templates-primary-term.php:38
+msgid "Primary %s"
+msgstr "%s ຫຼັກ"
+
+#: admin/views/js-templates-primary-term.php:32
+msgid "Primary"
+msgstr "ຫຼັກ"
+
+#. translators: Hidden accessibility text; %1$s expands to the term title, %2$s
+#. to the taxonomy title.
+#: admin/views/js-templates-primary-term.php:18
+msgid "Make %1$s primary %2$s"
+msgstr "ຕັ້ງ %1$s ໃຫ້ເປັນ %2$s ຫຼັກ"
+
+#: admin/pages/network.php:20 admin/views/tabs/network/integrations.php:22
+#: src/integrations/admin/integrations-page.php:126
+#: js/dist/integrations-page.js:45
+msgid "Integrations"
+msgstr "ການເຊື່ອມຕໍ່"
+
+#: admin/taxonomy/class-taxonomy-columns.php:170
+msgid "Term is set to noindex."
+msgstr "ໝວດໝູ່ຖືກຕັ້ງຄ່າເປັນ noindex."
+
+#: src/integrations/admin/crawl-settings-integration.php:195
+#: src/presenters/admin/light-switch-presenter.php:120
+msgid "Enabled"
+msgstr "ເປີດໃຊ້ງານ"
+
+#: src/integrations/admin/crawl-settings-integration.php:194
+#: src/presenters/admin/light-switch-presenter.php:120
+#: js/dist/externals/dashboardFrontend.js:4
+msgid "Disabled"
+msgstr "ປິດໃຊ້ງານ"
+
+#. translators: %s: wp_title() function.
+#: inc/class-wpseo-replace-vars.php:1462
+msgid "The separator defined in your theme's %s tag."
+msgstr "ຕົວຂັ້ນທີ່ກຳນົດໃນແທັກ %s ຂອງທີມ (Theme)."
+
+#: inc/class-wpseo-rank.php:139
+msgid "No index"
+msgstr "No index"
+
+#: admin/class-meta-columns.php:114 admin/class-meta-columns.php:116
+#: admin/taxonomy/class-taxonomy-columns.php:87
+#: admin/taxonomy/class-taxonomy-columns.php:88
+#: inc/class-wpseo-admin-bar-menu.php:240
+#: js/dist/externals/dashboardFrontend.js:4
+msgid "SEO score"
+msgstr "ຄະແນນ SEO"
+
+#. Author of the plugin
+#: wp-seo.php
+msgid "Team Yoast"
+msgstr "ທີມງານ Yoast"
+
+#. Description of the plugin
+#: wp-seo.php
+msgid "The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more."
+msgstr "ໂຊລູຊັ່ນ SEO ແບບຄົບວົງຈອນທຳອິດສຳລັບ WordPress, ລວມທັງການວິເຄາະເນື້ອຫາ, XML sitemaps ແລະ ອື່ນໆອີກຫຼາຍຢ່າງ."
+
+#. Plugin Name of the plugin
+#: wp-seo.php admin/capabilities/class-capability-manager-integration.php:74
+#: src/presenters/meta-description-presenter.php:36 js/dist/block-editor.js:577
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#. translators: %1$s expands to Yoast SEO, %2$s / %3$s: links to the
+#. installation manual in the Readme for the Yoast SEO code repository on
+#. GitHub
+#: wp-seo-main.php:526
+msgid "The %1$s plugin installation is incomplete. Please refer to %2$sinstallation instructions%3$s."
+msgstr "ການຕິດຕັ້ງປລັກອິນ %1$s ບໍ່ສົມບູນ. ກະລຸນາເບິ່ງ %2$sຄຳແນະນຳການຕິດຕັ້ງ%3$s."
+
+#: wp-seo-main.php:502
+msgid "The Standard PHP Library (SPL) extension seem to be unavailable. Please ask your web host to enable it."
+msgstr "ເບິ່ງຄືວ່າສ່ວນເສີມ Standard PHP Library (SPL) ບໍ່ພ້ອມໃຊ້ງານ. ກະລຸນາແຈ້ງຜູ້ໃຫ້ບໍລິການໂຮດຕິ້ງຂອງທ່ານເພື່ອເປີດໃຊ້ງານມັນ."
+
+#: inc/class-wpseo-admin-bar-menu.php:679
+#: inc/class-wpseo-admin-bar-menu.php:732
+msgid "SEO Settings"
+msgstr "ຕັ້ງຄ່າ SEO"
+
+#: inc/class-wpseo-admin-bar-menu.php:449
+msgid "Google Page Speed Test"
+msgstr "Google Page Speed Test"
+
+#: inc/class-wpseo-admin-bar-menu.php:444
+msgid "Facebook Debugger"
+msgstr "Facebook Debugger"
+
+#: inc/class-wpseo-admin-bar-menu.php:425
+msgid "Analyze this page"
+msgstr "ວິເຄາະໜ້ານີ້"
+
+#. translators: %s expands to the name of a post type (plural).
+#: inc/class-upgrade.php:1555 inc/options/class-wpseo-option-titles.php:309
+msgid "%s Archive"
+msgstr "ຄັງເກັບ %s"
+
+#. translators: %s expands to the search phrase.
+#: inc/options/class-wpseo-option-titles.php:274
+msgid "You searched for %s"
+msgstr "ທ່ານຄົ້ນຫາ %s"
+
+#. translators: 1: link to post; 2: link to blog.
+#: inc/options/class-wpseo-option-titles.php:277
+msgid "The post %1$s appeared first on %2$s."
+msgstr "ໂພສ %1$s ປະກົດຂຶ້ນທຳອິດທີ່ %2$s."
+
+#: inc/options/class-wpseo-option-ms.php:243
+msgid "No numeric value was received."
+msgstr "ບໍ່ໄດ້ຮັບຄ່າເປັນຕົວເລກ."
+
+#. translators: %s is the ID number of a blog.
+#: inc/options/class-wpseo-option-ms.php:231
+msgid "This must be an existing blog. Blog %s does not exist or has been marked as deleted."
+msgstr "ຕ້ອງເປັນບລັອກທີ່ມີຢູ່ແລ້ວ. ບລັອກ %s ບໍ່ມີຢູ່ ຫຼື ຖືກໝາຍວ່າລຶບແລ້ວ."
+
+#: inc/options/class-wpseo-option-ms.php:227
+#: inc/options/class-wpseo-option-ms.php:243
+msgid "The default blog setting must be the numeric blog id of the blog you want to use as default."
+msgstr "ການຕັ້ງຄ່າບລັອກເລີ່ມຕົ້ນຕ້ອງເປັນ ID ຕົວເລກຂອງບລັອກທີ່ທ່ານຕ້ອງການໃຊ້ເປັນຄ່າເລີ່ມຕົ້ນ."
+
+#. translators: %1$s expands to the option name and %2$sexpands to Yoast SEO
+#: inc/options/class-wpseo-option-ms.php:208
+msgid "%1$s is not a valid choice for who should be allowed access to the %2$s settings. Value reset to the default."
+msgstr "%1$s ບໍ່ແມ່ນຕົວເລືອກທີ່ຖືກຕ້ອງສຳລັບຜູ້ທີ່ສາມາດເຂົ້າເຖິງການຕັ້ງຄ່າ %2$s. ຄ່າຖືກປ່ຽນກັບເປັນຄ່າເລີ່ມຕົ້ນ."
+
+#. translators: %s expands to a taxonomy slug.
+#: inc/options/class-wpseo-option-titles.php:583
+msgid "Please select a valid post type for taxonomy \"%s\""
+msgstr "ກະລຸນາເລືອກປະເພດໂພສທີ່ຖືກຕ້ອງສຳລັບການຈັດໝວດໝູ່ \"%s\""
+
+#. translators: %s expands to a post type.
+#: inc/options/class-wpseo-option-titles.php:545
+msgid "Please select a valid taxonomy for post type \"%s\""
+msgstr "ກະລຸນາເລືອກການຈັດໝວດໝູ່ທີ່ຖືກຕ້ອງສຳລັບປະເພດໂພສ \"%s\""
+
+#: inc/options/class-wpseo-option-titles.php:282
+msgid "You searched for"
+msgstr "ທ່ານຄົ້ນຫາສຳລັບ"
+
+#: inc/options/class-wpseo-option-titles.php:281
+msgid "Home"
+msgstr "ໜ້າຫຼັກ"
+
+#: inc/options/class-wpseo-option-titles.php:280
+msgid "Archives for"
+msgstr "ຄັງເກັບສຳລັບ"
+
+#: inc/options/class-wpseo-option-titles.php:279
+msgid "Error 404: Page not found"
+msgstr "Error 404: ບໍ່ພົບໜ້າທີ່ຕ້ອງການ"
+
+#: admin/statistics/class-statistics-service.php:227
+#: inc/class-wpseo-rank.php:142 inc/class-wpseo-rank.php:186
+#: inc/class-wpseo-rank.php:218 inc/class-wpseo-rank.php:250
+#: src/task-list/application/tasks/child-tasks/improve-content-readability-child.php:50
+#: src/task-list/application/tasks/child-tasks/improve-content-seo-child.php:50
+#: js/dist/block-editor.js:498 js/dist/editor-modules.js:115
+#: js/dist/editor-modules.js:384 js/dist/externals-components.js:122
+#: js/dist/externals/analysis.js:409 js/dist/externals/dashboardFrontend.js:4
+#: js/dist/frontend-inspector-resources.js:1
+msgid "Good"
+msgstr "ດີ"
+
+#: inc/class-wpseo-replace-vars.php:1528
+msgid "Replaced with a custom taxonomies description"
+msgstr "ແທນທີ່ດ້ວຍຄຳອະທິບາຍຂອງໝວດໝູ່ທີ່ກຳນົດເອງ"
+
+#: inc/class-wpseo-replace-vars.php:1527
+msgid "Replaced with a posts custom taxonomies, comma separated."
+msgstr "ແທນທີ່ດ້ວຍໝວດໝູ່ທີ່ກຳນົດເອງຂອງໂພສ, ຂັ້ນດ້ວຍຈຸດ."
+
+#: inc/class-wpseo-replace-vars.php:1526
+msgid "Replaced with a posts custom field value"
+msgstr "ແທນທີ່ດ້ວຍຄ່າໃນຟິວທີ່ກຳນົດເອງຂອງໂພສ"
+
+#: inc/class-wpseo-replace-vars.php:1525
+msgid "Replaced with the slug which caused the 404"
+msgstr "ແທນທີ່ດ້ວຍສະລັກ (slug) ທີ່ເຮັດໃຫ້ເກີດຂໍ້ຜິດພາດ 404"
+
+#: inc/class-wpseo-replace-vars.php:1524
+msgid "Replaced with the posts focus keyphrase"
+msgstr "ແທນທີ່ດ້ວຍຄຳສຳຄັນຂອງໂພສ"
+
+#: inc/class-wpseo-replace-vars.php:1523
+msgid "Attachment caption"
+msgstr "ຄຳອະທິບາຍໄຟລ໌ແນບ"
+
+#: inc/class-wpseo-replace-vars.php:1522
+msgid "Replaced with the current page number"
+msgstr "ແທນທີ່ດ້ວຍເລກໜ້າປັດຈຸບັນ"
+
+#: inc/class-wpseo-replace-vars.php:1521
+msgid "Replaced with the current page total"
+msgstr "ແທນທີ່ດ້ວຍຈຳນວນໜ້າທັງໝົດ"
+
+#: inc/class-wpseo-replace-vars.php:1520
+msgid "Replaced with the current page number with context (i.e. page 2 of 4)"
+msgstr "ແທນທີ່ດ້ວຍເລກໜ້າປັດຈຸບັນພ້ອມບໍລິບົດ (ເຊັ່ນ: ໜ້າ 2 ຈາກ 4)"
+
+#: inc/class-wpseo-replace-vars.php:1489
+msgid "Replaced with the current year"
+msgstr "ແທນທີ່ດ້ວຍປີປັດຈຸບັນ"
+
+#: inc/class-wpseo-replace-vars.php:1490
+msgid "Replaced with the current month"
+msgstr "ແທນທີ່ດ້ວຍເດືອນປັດຈຸບັນ"
+
+#: inc/class-wpseo-replace-vars.php:1491
+msgid "Replaced with the current day"
+msgstr "ແທນທີ່ດ້ວຍວັນປັດຈຸບັນ"
+
+#: inc/class-wpseo-replace-vars.php:1488
+msgid "Replaced with the current date"
+msgstr "ແທນທີ່ດ້ວຍວັນທີປັດຈຸບັນ"
+
+#: inc/class-wpseo-replace-vars.php:1519
+msgid "Replaced with the post/page author's 'Biographical Info'"
+msgstr "ແທນທີ່ດ້ວຍ 'ຂໍ້ມູນປະຫວັດ' ຂອງຜູ້ຂຽນໂພສ/ໜ້າ"
+
+#: inc/class-wpseo-replace-vars.php:1518
+msgid "Replaced with the post/page author's 'nicename'"
+msgstr "ແທນທີ່ດ້ວຍ 'ຊື່ທີ່ສະແດງ' ຂອງຜູ້ຂຽນໂພສ/ໜ້າ"
+
+#: inc/class-wpseo-replace-vars.php:1517
+msgid "Replaced with the post/page ID"
+msgstr "ແທນທີ່ດ້ວຍ ID ຂອງໂພສ/ໜ້າ"
+
+#: inc/class-wpseo-replace-vars.php:1516
+msgid "Replaced with the post/page modified time"
+msgstr "ແທນທີ່ດ້ວຍເວລາແກ້ໄຂຂອງໂພສ/ໜ້າ"
+
+#: inc/class-wpseo-replace-vars.php:1515
+msgid "Replaced with the content type plural label"
+msgstr "ແທນທີ່ດ້ວຍຊື່ປະເພດເນື້ອຫາຮູບແບບພະຫູພົດ"
+
+#: inc/class-wpseo-replace-vars.php:1514
+msgid "Replaced with the content type single label"
+msgstr "ແທນທີ່ດ້ວຍຊື່ປະເພດເນື້ອຫາຮູບແບບເອກະພົດ"
+
+#: inc/class-wpseo-replace-vars.php:1485
+msgid "Replaced with the current search phrase"
+msgstr "ແທນທີ່ດ້ວຍຄຳຄົ້ນຫາປັດຈຸບັນ"
+
+#: inc/class-wpseo-replace-vars.php:1484
+msgid "Replaced with the term name"
+msgstr "ແທນທີ່ດ້ວຍຊື່ໝວດໝູ່"
+
+#: inc/class-wpseo-replace-vars.php:1483
+msgid "Replaced with the term description"
+msgstr "ແທນທີ່ດ້ວຍຄຳອະທິບາຍໝວດໝູ່"
+
+#: inc/class-wpseo-replace-vars.php:1482
+msgid "Replaced with the tag description"
+msgstr "ແທນທີ່ດ້ວຍຄຳອະທິບາຍແທັກ"
+
+#: inc/class-wpseo-replace-vars.php:1481
+msgid "Replaced with the category description"
+msgstr "ແທນທີ່ດ້ວຍຄຳອະທິບາຍໝວດ"
+
+#: inc/class-wpseo-replace-vars.php:1479
+msgid "Replaced with the post categories (comma separated)"
+msgstr "ແທນທີ່ດ້ວຍໝວດຂອງໂພສ (ຂັ້ນດ້ວຍຈຸດ)"
+
+#: inc/class-wpseo-replace-vars.php:1478
+msgid "Replaced with the current tag/tags"
+msgstr "ແທນທີ່ດ້ວຍແທັກປັດຈຸບັນ"
+
+#: inc/class-wpseo-replace-vars.php:1477
+msgid "Replaced with the post/page excerpt (without auto-generation)"
+msgstr "ແທນທີ່ດ້ວຍເນື້ອຫາຫຍໍ້ຂອງໂພສ/ໜ້າ (ໂດຍບໍ່ສ້າງອັດຕະໂນມັດ)"
+
+#: inc/class-wpseo-replace-vars.php:1476
+msgid "Replaced with the post/page excerpt (or auto-generated if it does not exist)"
+msgstr "ແທນທີ່ດ້ວຍເນື້ອຫາຫຍໍ້ຂອງໂພສ/ໜ້າ (ຫຼື ສ້າງອັດຕະໂນມັດຖ້າບໍ່ມີ)"
+
+#: inc/class-wpseo-replace-vars.php:1474
+msgid "The site's name"
+msgstr "ຊື່ຂອງເວັບໄຊ"
+
+#: inc/class-wpseo-replace-vars.php:1472
+msgid "Replaced with the title of the parent page of the current page"
+msgstr "ແທນທີ່ດ້ວຍຫົວຂໍ້ຂອງໜ້າຫຼັກຂອງໜ້າປັດຈຸບັນ"
+
+#: inc/class-wpseo-replace-vars.php:1471
+msgid "Replaced with the title of the post/page"
+msgstr "ແທນທີ່ດ້ວຍຫົວຂໍ້ຂອງໂພສ/ໜ້າ"
+
+#: inc/class-wpseo-replace-vars.php:1470
+msgid "Replaced with the date of the post/page"
+msgstr "ແທນທີ່ດ້ວຍວັນທີຂອງໂພສ/ໜ້າ"
+
+#. translators: 1: current page number, 2: total number of pages.
+#: inc/class-wpseo-replace-vars.php:1029
+msgid "Page %1$d of %2$d"
+msgstr "ໜ້າ %1$d ຈາກ %2$d"
+
+#: inc/class-wpseo-replace-vars.php:124
+msgid "You cannot overrule a WPSEO standard variable replacement by registering a variable with the same name. Use the \"wpseo_replacements\" filter instead to adjust the replacement value."
+msgstr "ທ່ານບໍ່ສາມາດຂ້າມການແທນທີ່ຕົວແປມາດຕະຖານຂອງ WPSEO ໂດຍການລົງທະບຽນຕົວແປທີ່ມີຊື່ດຽວກັນໄດ້. ກະລຸນາໃຊ້ຟິວເຕີ \"wpseo_replacements\" ແທນເພື່ອປັບຄ່າການແທນທີ່."
+
+#: inc/class-wpseo-replace-vars.php:120
+msgid "A replacement variable with the same name has already been registered. Try making your variable name unique."
+msgstr "ມີການລົງທະບຽນຕົວແປແທນທີ່ມີຊື່ນີ້ແລ້ວ. ກະລຸນາຕັ້ງຊື່ຕົວແປໃຫ້ບໍ່ຊ້ຳກັນ."
+
+#: inc/class-wpseo-replace-vars.php:110
+msgid "A replacement variable can not start with \"%%cf_\" or \"%%ct_\" as these are reserved for the WPSEO standard variable variables for custom fields and custom taxonomies. Try making your variable name unique."
+msgstr "ຕົວແປແທນບໍ່ສາມາດເລີ່ມຕົ້ນດ້ວຍ \"%%cf_\" ຫຼື \"%%ct_\" ເນື່ອງຈາກຖືກສະຫງວນໄວ້ສຳລັບຕົວແປມາດຕະຖານຂອງ WPSEO. ກະລຸນາຕັ້ງຊື່ຕົວແປໃຫ້ບໍ່ຊ້ຳກັນ."
+
+#: inc/class-wpseo-replace-vars.php:107
+msgid "A replacement variable can only contain alphanumeric characters, an underscore or a dash. Try renaming your variable."
+msgstr "ຕົວແປແທນສາມາດມີໄດ້ສະເພາະຕົວເລກ, ຕົວອັກສອນພາສາອັງກິດ, ຂີດກາງ ຫຼື ຂີດກ້ອງເທົ່ານັ້ນ."
+
+#: inc/options/class-wpseo-option-titles.php:275
+msgid "Page not found"
+msgstr "ບໍ່ພົບໜ້າ"
+
+#. translators: %s expands to the variable used for term title.
+#: inc/class-upgrade.php:1558 inc/options/class-wpseo-option-titles.php:345
+#: src/editors/framework/seo/terms/title-data-provider.php:27
+msgid "%s Archives"
+msgstr "ຄັງເກັບ %s"
+
+#. translators: %1$s resolves to Yoast SEO, %2$s resolves to the Settings
+#. submenu item.
+#: src/presenters/meta-description-presenter.php:35
+msgid "Admin only notice: this page does not show a meta description because it does not have one, either write it for this page specifically or go into the [%1$s - %2$s] menu and set up a template."
+msgstr "ແຈ້ງເຕືອນສະເພາະຜູ້ດູແລ: ໜ້ານີ້ບໍ່ສະແດງຄຳອະທິບາຍ meta ເນື່ອງຈາກບໍ່ມີຂໍ້ມູນ. ທ່ານສາມາດຂຽນຄຳອະທິບາຍສະເພາະໜ້ານີ້ ຫຼື ໄປທີ່ເມນູ [%1$s - %2$s] ເພື່ອຕັ້ງຄ່າແທັມເພລັດ."
+
+#: src/user-meta/framework/custom-meta/author-metadesc.php:97
+msgid "Meta description to use for Author page"
+msgstr "ຄຳອະທິບາຍ Meta ທີ່ຈະໃຊ້ສຳລັບໜ້າຜູ້ຂຽນ"
+
+#: src/user-meta/framework/custom-meta/author-title.php:97
+msgid "Title to use for Author page"
+msgstr "ຫົວຂໍ້ທີ່ຈະໃຊ້ສຳລັບໜ້າຜູ້ຂຽນ"
+
+#. translators: %1$s expands to Yoast SEO
+#: src/user-meta/user-interface/custom-meta-integration.php:100
+msgid "%1$s settings"
+msgstr "ຕັ້ງຄ່າ %1$s"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/views/tabs/tool/wpseo-export.php:15
+msgid "Export your %1$s settings"
+msgstr "ສົ່ງອອກການຕັ້ງຄ່າ %1$s ຂອງທ່ານ"
+
+#: admin/class-export.php:65 admin/views/tabs/tool/wpseo-import.php:25
+#: admin/views/tabs/tool/wpseo-import.php:45
+#: admin/views/tool-import-export.php:86
+msgid "Import settings"
+msgstr "ນຳເຂົ້າການຕັ້ງຄ່າ"
+
+#: admin/views/tabs/tool/import-seo.php:18
+#: admin/views/tabs/tool/import-seo.php:49
+#: admin/views/tool-import-export.php:92
+msgid "Import from other SEO plugins"
+msgstr "ນຳເຂົ້າຈາກປລັກອິນ SEO ອື່ນໆ"
+
+#: admin/views/tabs/tool/import-seo.php:88
+#: admin/views/tool-import-export.php:24
+msgid "Import"
+msgstr "ນຳເຂົ້າ"
+
+#. translators: %s expands to robots.txt.
+#. translators: %s expands to ".htaccess".
+#: admin/views/tool-file-editor.php:135 admin/views/tool-file-editor.php:235
+msgid "If you had a %s file and it was editable, you could edit it from here."
+msgstr "ຖ້າທ່ານມີໄຟລ໌ %s ແລະ ສາມາດແກ້ໄຂໄດ້, ທ່ານຈະສາມາດແກ້ໄຂມັນໄດ້ຈາກທີ່ນີ້."
+
+#. translators: %s expands to robots.txt.
+#. translators: %s expands to ".htaccess".
+#: admin/views/tool-file-editor.php:153 admin/views/tool-file-editor.php:203
+msgid "If your %s were writable, you could edit it from here."
+msgstr "ຖ້າ %s ຂອງທ່ານສາມາດຂຽນຂໍ້ມູນໄດ້, ທ່ານຈະສາມາດແກ້ໄຂມັນໄດ້ຈາກທີ່ນີ້."
+
+#. translators: %s expands to robots.txt.
+#: admin/views/tool-file-editor.php:116
+msgid "You don't have a %s file, create one here:"
+msgstr "ທ່ານບໍ່ມີໄຟລ໌ %s, ສ້າງໄດ້ທີ່ນີ້:"
+
+#: admin/statistics/class-statistics-service.php:80
+msgid "Below are your published posts' SEO scores. Now is as good a time as any to start improving some of your posts!"
+msgstr "ລຸ່ມນີ້ແມ່ນຄະແນນ SEO ຂອງໂພສທີ່ເຜີຍແຜ່ແລ້ວ. ຕອນນີ້ເປັນເວລາທີ່ດີທີ່ຈະເລີ່ມປັບປຸງບາງໂພສຂອງທ່ານ!"
+
+#: admin/views/tabs/dashboard/dashboard.php:40
+msgid "Credits"
+msgstr "ເຄຣດິດ"
+
+#: admin/pages/tools.php:77
+msgid "&laquo; Back to Tools page"
+msgstr "&laquo; ກັບໄປທີ່ໜ້າເຄື່ອງມື"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/pages/tools.php:49
+msgid "%1$s comes with some very powerful built-in tools:"
+msgstr "%1$s ມາພ້ອມກັບເຄື່ອງມືທີ່ມີປະສິດທິພາບສູງ:"
+
+#: admin/pages/tools.php:37
+msgid "This tool allows you to quickly change important files for your SEO, like your robots.txt and, if you have one, your .htaccess file."
+msgstr "ເຄື່ອງມືນີ້ຊ່ວຍໃຫ້ທ່ານແກ້ໄຂໄຟລ໌ທີ່ສຳຄັນຕໍ່ SEO ໄດ້ຢ່າງວ່ອງໄວ ເຊັ່ນ robots.txt ແລະ .htaccess."
+
+#: admin/pages/tools.php:36
+msgid "File editor"
+msgstr "ເຄື່ອງມືແກ້ໄຂໄຟລ໌"
+
+#: admin/pages/tools.php:31
+msgid "Import settings from other SEO plugins and export your settings for re-use on (another) site."
+msgstr "ນຳເຂົ້າການຕັ້ງຄ່າຈາກປລັກອິນ SEO ອື່ນໆ ແລະ ສົ່ງອອກການຕັ້ງຄ່າຂອງທ່ານເພື່ອໄປໃຊ້ກັບເວັບໄຊອື່ນ."
+
+#: admin/pages/tools.php:30
+msgid "Import and Export"
+msgstr "ນຳເຂົ້າ ແລະ ສົ່ງອອກ"
+
+#: admin/pages/tools.php:43
+msgid "This tool allows you to quickly change titles and descriptions of your posts and pages without having to go into the editor for each page."
+msgstr "ເຄື່ອງມືນີ້ຊ່ວຍໃຫ້ທ່ານປ່ຽນຫົວຂໍ້ ແລະ ຄຳອະທິບາຍຂອງໂພສ ແລະ ໜ້າຕ່າງໆ ໄດ້ຢ່າງວ່ອງໄວ ໂດຍບໍ່ຕ້ອງເຂົ້າໄປແກ້ໄຂເທື່ອລະໜ້າ."
+
+#: admin/pages/tools.php:42
+msgid "Bulk editor"
+msgstr "ເຄື່ອງມືແກ້ໄຂແບບກຸ່ມ"
+
+#: src/integrations/admin/import-integration.php:119
+msgid "Default settings"
+msgstr "ຄ່າເລີ່ມຕົ້ນ"
+
+#: admin/views/tool-bulk-editor.php:113 js/dist/new-settings.js:415
+msgid "Description"
+msgstr "ຄຳອະທິບາຍ"
+
+#: admin/views/tabs/network/restore-site.php:32
+msgid "Restore site to defaults"
+msgstr "ຄືນຄ່າເວັບໄຊເປັນຄ່າເລີ່ມຕົ້ນ"
+
+#: admin/views/tabs/network/restore-site.php:23
+#: admin/views/tabs/network/restore-site.php:28
+msgid "Site ID"
+msgstr "ໄອດີເວັບໄຊ"
+
+#: admin/views/tabs/network/restore-site.php:16
+msgid "Using this form you can reset a site to the default SEO settings."
+msgstr "ໃຊ້ຟອມນີ້ເພື່ອຕັ້ງຄ່າ SEO ຂອງເວັບໄຊໃຫ້ກັບເປັນຄ່າເລີ່ມຕົ້ນ."
+
+#: admin/views/tabs/network/general.php:54
+msgid "Privacy sensitive (FB admins and such), theme specific (title rewrite) and a few very site specific settings will not be imported to new sites."
+msgstr "ການຕັ້ງຄ່າທີ່ລະອຽດອ່ອນ (ເຊັ່ນ ຜູ້ດູແລ FB), ການຕັ້ງຄ່າສະເພາະທີມ (ການຂຽນຫົວຂໍ້ໃໝ່) ແລະ ບາງການຕັ້ງຄ່າສະເພາະເວັບໄຊ ຈະບໍ່ຖືກນຳເຂົ້າໄປຫາເວັບໄຊໃໝ່."
+
+#. translators: 1: link open tag; 2: link close tag.
+#: admin/views/tabs/network/general.php:47
+msgid "Enter the %1$sSite ID%2$s for the site whose settings you want to use as default for all sites that are added to your network. Leave empty for none (i.e. the normal plugin defaults will be used)."
+msgstr "ໃສ່ %1$sໄອດີເວັບໄຊ%2$s ທີ່ທ່ານຕ້ອງການໃຊ້ການຕັ້ງຄ່າເປັນຄ່າເລີ່ມຕົ້ນສຳລັບທຸກເວັບໄຊໃນເຄືອຂ່າຍ. ປະຫວ່າງໄວ້ຖ້າບໍ່ຕ້ອງການ."
+
+#: admin/views/tabs/network/general.php:40
+msgid "Choose the site whose settings you want to use as default for all sites that are added to your network. If you choose 'None', the normal plugin defaults will be used."
+msgstr "ເລືອກເວັບໄຊທີ່ທ່ານຕ້ອງການໃຊ້ການຕັ້ງຄ່າເປັນຄ່າເລີ່ມຕົ້ນສຳລັບທຸກເວັບໄຊໃນເຄືອຂ່າຍ. ຖ້າເລືອກ 'ບໍ່ມີ', ຈະໃຊ້ຄ່າເລີ່ມຕົ້ນປົກກະຕິຂອງປລັກອິນ."
+
+#: admin/views/tabs/network/general.php:37
+#: admin/views/tabs/network/general.php:43
+msgid "New sites in the network inherit their SEO settings from this site"
+msgstr "ເວັບໄຊໃໝ່ໃນເຄືອຂ່າຍຈະສືບທອດການຕັ້ງຄ່າ SEO ຈາກເວັບໄຊນີ້"
+
+#: admin/views/tabs/network/general.php:28
+msgid "Super Admins only"
+msgstr "ສະເພາະຜູ້ດູແລລະບົບສູງສຸດ"
+
+#: admin/views/tabs/network/general.php:27
+msgid "Site Admins (default)"
+msgstr "ຜູ້ດູແລເວັບໄຊ (ຄ່າເລີ່ມຕົ້ນ)"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/views/tabs/network/general.php:25
+msgid "Who should have access to the %1$s settings"
+msgstr "ຜູ້ທີ່ສາມາດເຂົ້າເຖິງການຕັ້ງຄ່າ %1$s ໄດ້"
+
+#: admin/class-yoast-network-admin.php:80
+msgid "spam"
+msgstr "ສະແປມ"
+
+#: admin/class-yoast-network-admin.php:79
+msgid "mature"
+msgstr "ເນື້ອຫາສຳລັບຜູ້ໃຫຍ່"
+
+#: admin/class-yoast-network-admin.php:78
+msgid "archived"
+msgstr "ຈັດເກັບແລ້ວ"
+
+#: admin/class-yoast-network-admin.php:77
+msgid "public"
+msgstr "ສາທາລະນະ"
+
+#. translators: %s expands to the name of a site within a multisite network.
+#: admin/class-yoast-network-admin.php:174
+msgid "%s restored to default SEO settings."
+msgstr "%s ຖືກຄືນຄ່າເປັນຄ່າເລີ່ມຕົ້ນ SEO ແລ້ວ."
+
+#: admin/class-yoast-network-admin.php:140
+msgid "Settings Updated."
+msgstr "ອັບເດດການຕັ້ງຄ່າແລ້ວ."
+
+#: admin/views/tool-bulk-editor.php:111 inc/class-wpseo-replace-vars.php:1471
+#: js/dist/externals-redux.js:1
+msgid "Title"
+msgstr "ຫົວຂໍ້"
+
+#: admin/views/tabs/network/general.php:54
+msgid "Take note:"
+msgstr "ໝາຍເຫດ:"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/class-plugin-availability.php:89
+msgid "Seamlessly integrate WooCommerce with %1$s and get extra features!"
+msgstr "ເຊື່ອມຕໍ່ WooCommerce ກັບ %1$s ໄດ້ຢ່າງໄຮ້ຮອຍຕໍ່ ພ້ອມຮັບຟີເຈີພິເສດ!"
+
+#: admin/class-plugin-availability.php:77
+msgid "Rank better locally and in Google Maps, without breaking a sweat!"
+msgstr "ຕິດອັນດັບໄດ້ດີຂຶ້ນໃນທ້ອງຖິ່ນ ແລະ Google Maps ໄດ້ຢ່າງງ່າຍດາຍ!"
+
+#: admin/class-plugin-availability.php:67
+msgid "Are you in Google News? Increase your traffic from Google News by optimizing for it!"
+msgstr "ທ່ານຢູ່ໃນ Google News ແລ້ວຫຼືບໍ່? ເພີ່ມຜູ້ເຂົ້າຊົມຈາກ Google News ໂດຍການປັບແຕ່ງເພື່ອມັນ!"
+
+#: admin/class-plugin-availability.php:57
+msgid "Optimize your videos to show them off in search results and get more clicks!"
+msgstr "ປັບແຕ່ງວິດີໂອຂອງທ່ານໃຫ້ສະແດງໃນຜົນການຄົ້ນຫາ ແລະ ເພີ່ມຍອດຄລິກ!"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/class-plugin-availability.php:45
+msgid "The premium version of %1$s with more features & support."
+msgstr "%1$s ເວີຊັນພຣີມຽມ ມາພ້ອມກັບຟີເຈີ ແລະ ການຊ່ວຍເຫຼືອທີ່ຫຼາຍກວ່າ."
+
+#: src/integrations/admin/first-time-configuration-integration.php:485
+#: js/dist/new-settings.js:542
+msgid "Person"
+msgstr "ບຸກຄົນ"
+
+#: inc/class-wpseo-replace-vars.php:1497
+msgid "Permalink"
+msgstr "ລິ້ງຖາວອນ"
+
+#. Translators: %1$s: expands to 'Yoast SEO Premium', %2$s: links to Yoast SEO
+#. Premium plugin page.
+#: admin/google_search_console/views/gsc-redirect-nopremium.php:22
+msgid "To be able to create a redirect and fix this issue, you need %1$s. You can buy the plugin, including one year of support and updates, on %2$s."
+msgstr "ເພື່ອສ້າງລິ້ງປ່ຽນທິດທາງ ແລະ ແກ້ໄຂບັນຫານີ້, ທ່ານຈຳເປັນຕ້ອງມີ %1$s. ທ່ານສາມາດຊື້ປລັກອິນລວມການຊ່ວຍເຫຼືອ ແລະ ອັບເດດ 1 ປີ ໄດ້ທີ່ %2$s."
+
+#. Translators: %s: expands to Yoast SEO Premium
+#: admin/google_search_console/views/gsc-redirect-nopremium.php:15
+msgid "Creating redirects is a %s feature"
+msgstr "ການສ້າງລິ້ງປ່ຽນທິດທາງແມ່ນຟີເຈີຂອງ %s"
+
+#. translators: %s: 'Facebook' plugin name of possibly conflicting plugin
+#: admin/class-yoast-plugin-conflict.php:184
+msgid "Deactivate %s"
+msgstr "ປິດການໃຊ້ງານ %s"
+
+#. translators: %1$s: 'Facebook & Open Graph' plugin name(s) of possibly
+#. conflicting plugin(s), %2$s to Yoast SEO
+#: admin/class-yoast-plugin-conflict.php:180
+msgid "The %1$s plugin might cause issues when used in conjunction with %2$s."
+msgstr "ປລັກອິນ %1$s ອາດເຮັດໃຫ້ເກີດບັນຫາເມື່ອໃຊ້ຮ່ວມກັບ %2$s."
+
+#. translators: %s is the plugin name
+#: admin/class-yoast-dashboard-widget.php:77
+msgid "%s Posts Overview"
+msgstr "ພາບລວມໂພສຂອງ %s"
+
+#: admin/google_search_console/views/gsc-redirect-nopremium.php:27
+#: js/dist/ai-consent.js:5 js/dist/ai-generator.js:6 js/dist/ai-generator.js:21
+#: js/dist/ai-generator.js:37 js/dist/ai-generator.js:55
+#: js/dist/ai-generator.js:61 js/dist/ai-generator.js:272
+#: js/dist/ai-generator.js:274 js/dist/ai-generator.js:276
+#: js/dist/editor-modules.js:116 js/dist/editor-modules.js:120
+#: js/dist/editor-modules.js:135 js/dist/editor-modules.js:151
+#: js/dist/editor-modules.js:169 js/dist/editor-modules.js:379
+#: js/dist/editor-modules.js:381 js/dist/editor-modules.js:383
+#: js/dist/externals-components.js:126 js/dist/externals-components.js:131
+#: js/dist/externals-components.js:146 js/dist/externals-components.js:162
+#: js/dist/externals-components.js:180 js/dist/externals-components.js:390
+#: js/dist/externals-components.js:392 js/dist/externals-components.js:394
+#: js/dist/externals/aiFrontend.js:170 js/dist/externals/aiFrontend.js:175
+#: js/dist/externals/componentsNew.js:626
+#: js/dist/externals/dashboardFrontend.js:6 js/dist/general-page.js:12
+#: js/dist/general-page.js:32 js/dist/integrations-page.js:28
+#: js/dist/introductions.js:2 js/dist/introductions.js:4
+#: js/dist/introductions.js:8 js/dist/introductions.js:12
+#: js/dist/introductions.js:13 js/dist/new-settings.js:12
+#: js/dist/new-settings.js:41
+msgid "Close"
+msgstr "ປິດ"
+
+#. translators: %1$s expands to Yoast SEO, %2$s: 'Google XML Sitemaps' plugin
+#. name of possibly conflicting plugin with regard to the creation of sitemaps.
+#: admin/class-plugin-conflict.php:78
+msgid "Both %1$s and %2$s can create XML sitemaps. Having two XML sitemaps is not beneficial for search engines and might slow down your site."
+msgstr "ທັງ %1$s ແລະ %2$s ສາມາດສ້າງ XML sitemaps ໄດ້. ການມີ XML sitemaps ສອງອັນບໍ່ເປັນຜົນດີຕໍ່ເຄື່ອງມືຄົ້ນຫາ ແລະ ອາດເຮັດໃຫ້ເວັບໄຊຊ້າລົງ."
+
+#. translators: %1$s expands to Yoast SEO.
+#: admin/class-plugin-conflict.php:71
+msgid "Configure %1$s's Open Graph settings"
+msgstr "ຕັ້ງຄ່າ Open Graph ຂອງ %1$s"
+
+#. translators: %1$s expands to Yoast SEO, %2$s: 'Facebook' plugin name of
+#. possibly conflicting plugin with regard to creating OpenGraph output.
+#: admin/class-plugin-conflict.php:67
+msgid "Both %1$s and %2$s create Open Graph output, which might make Facebook, X, LinkedIn and other social networks use the wrong texts and images when your pages are being shared."
+msgstr "ທັງ %1$s ແລະ %2$s ສ້າງ Open Graph, ເຊິ່ງອາດເຮັດໃຫ້ Facebook, X, LinkedIn ແລະ ໂຊຊຽວອື່ນໆ ສະແດງຂໍ້ຄວາມ ແລະ ຮູບພາບທີ່ບໍ່ຖືກຕ້ອງເມື່ອມີການແຊຣໜ້າເວັບ."
+
+#: admin/statistics/class-statistics-service.php:222
+#: inc/class-wpseo-rank.php:141 inc/class-wpseo-rank.php:181
+#: inc/class-wpseo-rank.php:213
+#: src/task-list/application/tasks/child-tasks/improve-content-readability-child.php:51
+#: src/task-list/application/tasks/child-tasks/improve-content-seo-child.php:51
+#: js/dist/block-editor.js:498 js/dist/editor-modules.js:115
+#: js/dist/editor-modules.js:384 js/dist/externals-components.js:122
+#: js/dist/externals/analysis.js:409 js/dist/externals/dashboardFrontend.js:4
+#: js/dist/frontend-inspector-resources.js:1
+msgid "OK"
+msgstr "ປານກາງ"
+
+#: admin/class-meta-columns.php:129
+msgid "Meta Desc."
+msgstr "ຄຳອະທິບາຍ Meta"
+
+#: admin/class-meta-columns.php:273
+msgid "All SEO Scores"
+msgstr "ຄະແນນ SEO ທັງໝົດ"
+
+#: admin/class-meta-columns.php:828
+msgid "Post is set to noindex."
+msgstr "ໂພສຖືກຕັ້ງຄ່າເປັນ noindex."
+
+#: admin/metabox/class-metabox.php:209
+msgid "The URL that this page should redirect to."
+msgstr "URL ທີ່ໜ້ານີ້ຄວນປ່ຽນທິດທາງໄປຫາ."
+
+#: admin/metabox/class-metabox.php:208
+msgid "301 Redirect"
+msgstr "301 Redirect"
+
+#. translators: 1: link open tag; 2: link close tag.
+#: admin/metabox/class-metabox.php:203
+msgid "The canonical URL that this page should point to. Leave empty to default to permalink. %1$sCross domain canonical%2$s supported too."
+msgstr "Canonical URL ທີ່ໜ້ານີ້ຄວນອ້າງອີງເຖິງ. ປະຫວ່າງໄວ້ເພື່ອໃຊ້ລິ້ງຖາວອນ. ຮອງຮັບ %1$sCross domain canonical%2$s ດ້ວຍ."
+
+#: admin/metabox/class-metabox.php:199 js/dist/block-editor.js:255
+#: js/dist/classic-editor.js:238
+msgid "Canonical URL"
+msgstr "Canonical URL"
+
+#: admin/metabox/class-metabox.php:197
+msgid "Title to use for this page in breadcrumb paths"
+msgstr "ຫົວຂໍ້ທີ່ຈະໃຊ້ສຳລັບໜ້ານີ້ໃນເສັ້ນທາງ breadcrumb"
+
+#: admin/metabox/class-metabox.php:196 js/dist/block-editor.js:254
+#: js/dist/classic-editor.js:237
+msgid "Breadcrumbs Title"
+msgstr "ຫົວຂໍ້ Breadcrumbs"
+
+#: admin/metabox/class-metabox.php:194 js/dist/block-editor.js:253
+#: js/dist/classic-editor.js:236
+msgid "No Snippet"
+msgstr "No Snippet"
+
+#: admin/metabox/class-metabox.php:193 js/dist/block-editor.js:253
+#: js/dist/classic-editor.js:236
+msgid "No Archive"
+msgstr "No Archive"
+
+#: admin/metabox/class-metabox.php:192 js/dist/block-editor.js:253
+#: js/dist/classic-editor.js:236
+msgid "No Image Index"
+msgstr "No Image Index"
+
+#: admin/class-yoast-network-admin.php:43 src/config/schema-types.php:163
+#: src/integrations/settings-integration.php:645 js/dist/new-settings.js:12
+#: js/dist/new-settings.js:594
+msgid "None"
+msgstr "ບໍ່ມີ"
+
+#: admin/metabox/class-metabox.php:190 js/dist/block-editor.js:253
+#: js/dist/classic-editor.js:236
+msgid "Meta robots advanced"
+msgstr "Meta robots ຂັ້ນສູງ"
+
+#: admin/metabox/class-metabox.php:178
+msgid "Warning: even though you can set the meta robots setting here, the entire site is set to noindex in the sitewide privacy settings, so these settings won't have an effect."
+msgstr "ຄຳເຕືອນ: ເຖິງແມ່ນວ່າທ່ານຈະຕັ້ງຄ່າ meta robots ຢູ່ນີ້ໄດ້, ແຕ່ເວັບໄຊທັງໝົດຖືກຕັ້ງເປັນ noindex ໃນການຕັ້ງຄ່າຄວາມເປັນສ່ວນຕົວຂອງເວັບໄຊ, ດັ່ງນັ້ນການຕັ້ງຄ່າຢູ່ນີ້ຈະບໍ່ມີຜົນ."
+
+#: admin/metabox/class-metabox.php:173
+#: js/dist/externals/replacementVariableEditor.js:71
+#: js/dist/externals/searchMetadataPreviews.js:102 js/dist/new-settings.js:21
+#: js/dist/new-settings.js:27 js/dist/new-settings.js:34
+#: js/dist/new-settings.js:38 js/dist/new-settings.js:91
+#: js/dist/new-settings.js:111 js/dist/new-settings.js:160
+#: js/dist/new-settings.js:207 js/dist/new-settings.js:312
+#: js/dist/new-settings.js:339 js/dist/new-settings.js:354
+#: js/dist/new-settings.js:412
+msgid "Meta description"
+msgstr "ຄຳອະທິບາຍ Meta"
+
+#: admin/class-meta-columns.php:128
+msgid "SEO Title"
+msgstr "ຫົວຂໍ້ SEO"
+
+#: inc/class-wpseo-replace-vars.php:1524
+msgid "Focus keyword"
+msgstr "ຄຳສຳຄັນຫຼັກ"
+
+#: admin/import/class-import-settings.php:121
+msgid "Settings successfully imported."
+msgstr "ນຳເຂົ້າການຕັ້ງຄ່າສຳເລັດແລ້ວ."
+
+#: admin/import/class-import-settings.php:85
+msgid "Settings could not be imported:"
+msgstr "ບໍ່ສາມາດນຳເຂົ້າການຕັ້ງຄ່າໄດ້:"
+
+#: admin/class-bulk-editor-list-table.php:1045
+msgid "Action"
+msgstr "ການດຳເນີນການ"
+
+#: admin/class-bulk-editor-list-table.php:1040
+msgid "Page URL/Slug"
+msgstr "URL/Slug ຂອງໜ້າ"
+
+#: admin/class-bulk-editor-list-table.php:1039
+msgid "Publication date"
+msgstr "ວັນທີເຜີຍແຜ່"
+
+#: admin/class-bulk-editor-list-table.php:1038
+msgid "Post Status"
+msgstr "ສະຖານະໂພສ"
+
+#: admin/class-bulk-editor-list-table.php:1036
+msgid "WP Page Title"
+msgstr "ຫົວຂໍ້ໜ້າຂອງ WP"
+
+#: admin/class-bulk-editor-list-table.php:866 js/dist/block-editor.js:83
+#: js/dist/classic-editor.js:66 js/dist/externals/dashboardFrontend.js:5
+#: js/dist/wincher-dashboard-widget.js:125
+msgid "View"
+msgstr "ເບິ່ງ"
+
+#. translators: Hidden accessibility text; %s: post title.
+#: admin/class-bulk-editor-list-table.php:865
+msgid "View &#8220;%s&#8221;"
+msgstr "ເບິ່ງ &#8220;%s&#8221;"
+
+#: admin/class-bulk-editor-list-table.php:856
+msgid "Preview"
+msgstr "ຕົວຢ່າງ"
+
+#. translators: Hidden accessibility text; %s: post title.
+#: admin/class-bulk-editor-list-table.php:855
+msgid "Preview &#8220;%s&#8221;"
+msgstr "ເບິ່ງຕົວຢ່າງ &#8220;%s&#8221;"
+
+#: admin/class-bulk-editor-list-table.php:844
+#: js/dist/externals/dashboardFrontend.js:4 js/dist/general-page.js:47
+#: js/dist/general-page.js:62
+msgid "Edit"
+msgstr "ແກ້ໄຂ"
+
+#: admin/class-bulk-editor-list-table.php:438
+msgid "Filter"
+msgstr "ກັ່ນຕອງ"
+
+#. translators: %s expands to the number of trashed posts in localized format.
+#: admin/class-bulk-editor-list-table.php:357
+msgctxt "posts"
+msgid "Trash <span class=\"count\">(%s)</span>"
+msgid_plural "Trash <span class=\"count\">(%s)</span>"
+msgstr[0] "ຖັງຂີ້ເຫຍື້ອ <span class=\"count\">(%s)</span>"
+
+#. translators: %s expands to the number of posts in localized format.
+#: admin/class-bulk-editor-list-table.php:308
+msgctxt "posts"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "ທັງໝົດ <span class=\"count\">(%s)</span>"
+
+#: admin/class-bulk-description-editor-list-table.php:47
+msgid "New Yoast Meta Description"
+msgstr "ຄຳອະທິບາຍ Meta ຂອງ Yoast ໃໝ່"
+
+#: admin/class-bulk-description-editor-list-table.php:46
+msgid "Existing Yoast Meta Description"
+msgstr "ຄຳອະທິບາຍ Meta ຂອງ Yoast ທີ່ມີຢູ່"
+
+#: admin/class-admin.php:308
+#: src/user-meta/framework/additional-contactmethods/facebook.php:28
+msgid "Facebook profile URL"
+msgstr "URL ໂປຣໄຟລ໌ Facebook"
+
+#: admin/class-admin.php:224 src/integrations/settings-integration.php:380
+#: src/presenters/meta-description-presenter.php:37 js/dist/how-to-block.js:7
+msgid "Settings"
+msgstr "ຕັ້ງຄ່າ"
+
+#: src/presenters/admin/search-engines-discouraged-presenter.php:33
+msgid "Huge SEO Issue: You're blocking access to robots."
+msgstr "ບັນຫາ SEO ຮ້າຍແຮງ: ທ່ານກຳລັງສະກັດກັ້ນການເຂົ້າເຖິງຂອງ robots."
+
+#: admin/class-admin.php:182
+msgid "Posts"
+msgstr "ໂພສ"
+
+#: admin/menu/class-network-admin-menu.php:63
+msgid "Edit Files"
+msgstr "ແກ້ໄຂໄຟລ໌"
+
+#: admin/menu/class-network-admin-menu.php:56 admin/pages/network.php:18
+#: src/general/user-interface/general-page-integration.php:213
+#: js/dist/new-settings.js:592
+msgid "General"
+msgstr "ທົ່ວໄປ"
+
+#: admin/menu/class-admin-menu.php:92
+msgid "Search Console"
+msgstr "Search Console"
+
+#: admin/menu/class-admin-menu.php:96 js/dist/new-settings.js:532
+msgid "Tools"
+msgstr "ເຄື່ອງມື"
+
+#: admin/views/class-yoast-feature-toggles.php:132 js/dist/new-settings.js:31
+#: js/dist/new-settings.js:526 js/dist/new-settings.js:529
+msgid "XML sitemaps"
+msgstr "XML sitemaps"
+
+#: admin/metabox/class-metabox.php:432
+#: admin/taxonomy/class-taxonomy-metabox.php:159 js/dist/new-settings.js:38
+msgid "Social"
+msgstr "ໂຊຊຽວ"
+
+#: admin/metabox/class-metabox.php:407
+#: admin/taxonomy/class-taxonomy-metabox.php:141
+#: inc/class-wpseo-admin-bar-menu.php:763
+#: src/services/health-check/report-builder.php:168
+msgid "SEO"
+msgstr "SEO"
+
+#. translators: %1$s expands to Yoast SEO, %2$s expands to the installed
+#. version, %3$s expands to Gutenberg
+#: admin/class-admin-gutenberg-compatibility-notification.php:88
+msgid "%1$s detected you are using version %2$s of %3$s, please update to the latest version to prevent compatibility issues."
+msgstr "%1$s ກວດພົບວ່າທ່ານໃຊ້ %3$s ເວີຊັນ %2$s, ກະລຸນາອັບເດດເປັນເວີຊັນຫຼ້າສຸດເພື່ອປ້ອງກັນບັນຫາການເຂົ້າກັນບໍ່ໄດ້."
+
+#: src/services/health-check/default-tagline-runner.php:32
+msgid "Just another WordPress site"
+msgstr "ພຽງແຕ່ເວັບໄຊ WordPress ອີກແຫ່ງໜຶ່ງ"
+
+#: admin/ajax.php:206
+msgid "You have used HTML in your value which is not allowed."
+msgstr "ທ່ານໃຊ້ HTML ໃນຄ່າທີ່ປ້ອນ ເຊິ່ງບໍ່ໄດ້ຮັບອະນຸຍາດ."
+
+#. translators: %s expands to the name of a post type (plural).
+#: admin/ajax.php:197
+msgid "You can't edit %s that aren't yours."
+msgstr "ທ່ານບໍ່ສາມາດແກ້ໄຂ %s ທີ່ບໍ່ແມ່ນຂອງທ່ານໄດ້."
+
+#. translators: %s expands to post type name.
+#: admin/ajax.php:185
+msgid "You can't edit %s."
+msgstr "ທ່ານບໍ່ສາມາດແກ້ໄຂ %s ໄດ້."
+
+#. translators: %s expands to post type.
+#: admin/ajax.php:173
+msgid "Post has an invalid Content Type: %s."
+msgstr "ໂພສມີປະເພດເນື້ອຫາທີ່ບໍ່ຖືກຕ້ອງ: %s."
+
+#: admin/ajax.php:162
+msgid "Post doesn't exist."
+msgstr "ບໍ່ມີໂພສນີ້ຢູ່."
+
+#: admin/class-admin.php:229 js/dist/externals-components.js:440
+msgid "FAQ"
+msgstr "ຄຳຖາມທີ່ພົບເລື້ອຍ (FAQ)"

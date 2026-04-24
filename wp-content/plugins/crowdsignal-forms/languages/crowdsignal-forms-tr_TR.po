@@ -1,0 +1,306 @@
+# Translation of Plugins - Crowdsignal Forms - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - Crowdsignal Forms - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-26 14:54:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - Crowdsignal Forms - Stable (latest release)\n"
+
+#. translators: %1$s is a link to Crowdsignal's home page.
+#: includes/admin/views/html-admin-setup-step-1.php:31
+msgid "To collect and manage responses you need to connect the plugin to <a href=\"%1$s\">Crowdsignal</a>. <br />It will take less than a minute and it’s free."
+msgstr "Yanıtlar toplamak ve bunları yönetmek için eklentiyi <a href=\"%1$s\">Crowdsignal</a>'a bağlayın. <br />Bu bir dakikadan kısa sürer ve ücretsizdir."
+
+#. translators: %1$s is a link to Crowdsignal's support page.
+#: includes/admin/views/html-admin-setup-step-3.php:40
+msgid "Do you want to know more about Crowdsignal and our blocks? <a href=\"%1$s\" target=\"_blank\">Learn more</a>."
+msgstr "Crowdsignal ve bloklarımız hakkında daha fazla bilgi edinmek ister misiniz? <a href=\"%1$s\" target=\"_blank\">Daha fazla bilgi edinin</a>."
+
+#: includes/admin/views/html-admin-setup-step-3.php:25
+msgid "You can use Crowdsignal blocks right in your editor. Search for Crowdsignal in the blocks library and add the blocks to your page. Here is a short video to get you started:"
+msgstr "Crowdsignal bloklarını doğrudan düzenleyicinizde kullanabilirsiniz. Blok kütüphanesinde Crowdsignal'ı arayın ve blokları sayfanıza ekleyin. İşte başlamanıza yardım edecek kısa bir video:"
+
+#: includes/admin/views/html-admin-setup-header.php:15 build/editor.js:7
+msgid "Crowdsignal Settings"
+msgstr "Crowdsignal Ayarları"
+
+#: includes/admin/views/html-admin-settings.php:61
+msgid "Your Crowdsignal API Key"
+msgstr "Crowdsignal API Anahtarınız"
+
+#: includes/admin/views/html-admin-settings.php:47
+msgid "Get API Key"
+msgstr "API Anahtarını Edinin"
+
+#: includes/admin/views/html-admin-settings.php:43
+msgid "If you have a Crowdsignal account, click the \"Get API Key\" button to connect. This will open a new window."
+msgstr "Bir Crowdsignal hesabınız varsa, bağlanmak için \"API Anahtarını Al\" düğmesini tıklayın. Yeni bir pencere açılır."
+
+#: includes/admin/views/html-admin-settings.php:37
+msgid "Crowdsignal account page"
+msgstr "Crowdsignal hesabı sayfası"
+
+#. translators: Placeholder is the text "Crowdsignal acount page".
+#: includes/admin/views/html-admin-settings.php:34
+msgid "Visit your %s to find out more about your settings."
+msgstr "Ayarlarınız hakkında daha fazla bilgi edinmek için %s adresini ziyaret edin."
+
+#. translators: Placeholder is the text "Crowdsignal".
+#: includes/admin/views/html-admin-settings.php:26
+msgid "Your website is connected to a %s account to collect responses and data from your visitors."
+msgstr "Web siteniz, ziyaretçilerinizden yanıt ve veri toplamak için bir %s hesabına bağlıdır."
+
+#: includes/admin/views/html-admin-settings.php:21
+msgid "API Key"
+msgstr "API Anahtarı"
+
+#: includes/admin/views/html-admin-settings.php:15
+msgid "Account Settings"
+msgstr "Hesap ayarları"
+
+#: includes/admin/views/html-admin-dashboard-teaser.php:59
+msgid "website plugins page"
+msgstr "web sitesi eklentileri sayfası"
+
+#. translators: Placeholder is the text "website plugins page".
+#: includes/admin/views/html-admin-dashboard-teaser.php:56
+msgid "Install the Crowdsignal Dashboard plugin directly from your %s."
+msgstr "Crowdsignal Pano eklentisini doğrudan %s adresinden yükleyin."
+
+#. translators: %1$s is a link to Crowdsignal's support page.
+#: includes/admin/views/html-admin-dashboard-teaser.php:43
+msgid "Do you want to know more about Crowdsignal? <a href=\"%1$s\" target=\"_blank\">Learn more</a>."
+msgstr "Crowdsignal hakkında daha fazla bilgi edinmek ister misiniz? <a href=\"%1$s\" target=\"_blank\">Daha fazla bilgi edinin</a>."
+
+#: includes/admin/views/html-admin-dashboard-teaser.php:31
+msgid "second plugin"
+msgstr "ikinci eklenti"
+
+#. translators: Placeholder is the text "second plugin".
+#: includes/admin/views/html-admin-dashboard-teaser.php:28
+msgid "We have a %s for you that allows you to manage all your Crowdsignal projects right in WP-Admin. Get an overview of all your active projects and get easy access to your results pages."
+msgstr "Sizin için tüm Crowdsignal projelerinizi doğrudan WP-Admin'den yönetmenize olanak tanıyan bir %s aracımız var. Tüm aktif projelerinizi gözden geçirin ve sonuç sayfalarınıza kolayca erişin."
+
+#: includes/admin/views/html-admin-dashboard-teaser.php:22
+msgid "The Crowdsignal Dashboard plugin"
+msgstr "Crowdsignal Pano eklentisi"
+
+#: includes/admin/views/html-admin-dashboard-teaser.php:16
+msgid "Manage your Crowdsignal projects inside WordPress"
+msgstr "Crowdsignal projelerinizi WordPress içinden yönetin"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-feedback-block.php:164
+#: build/editor.js:4
+msgid "Your Email"
+msgstr "E-postanız"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-feedback-block.php:192
+#: build/editor.js:4
+msgid "Thanks for letting us know!"
+msgstr "Bizi bilgilendirdiğiniz için teşekkür ederiz!"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-feedback-block.php:176
+#: build/editor.js:4
+msgid "👋 Hey there!"
+msgstr "👋 Merhaba!"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-feedback-block.php:172
+#: build/editor.js:4
+msgid "Please let us know how we can do better…"
+msgstr "Lütfen daha iyisini nasıl yapabileceğimizi bize bildirin…"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-feedback-block.php:211
+#: build/editor.js:3 build/editor.js:4
+msgid "Feedback"
+msgstr "Geri besleme"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-nps-block.php:162
+#: build/editor.js:3
+msgid "How likely is it that you would recommend this project to a friend or colleague?"
+msgstr "Bu projeyi bir arkadaşınıza veya meslektaşınıza tavsiye etme olasılığınız nedir?"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-nps-block.php:158
+#: build/editor.js:3
+msgid "Not likely at all"
+msgstr "Hiç mümkün değil"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-nps-block.php:154
+#: build/editor.js:3
+msgid "Extremely likely"
+msgstr "Büyük olasılıkla"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-nps-block.php:143
+#: build/editor.js:3
+msgid "Thanks so much for your response! How could we do better?"
+msgstr "Yanıtınız için çok teşekkür ederiz. Daha iyisini nasıl yapabiliriz?"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-nps-block.php:136
+#: build/editor.js:3
+msgid "Please help us understand your rating"
+msgstr "Lütfen derecenizi anlamamıza yardımcı olun"
+
+#: includes/admin/views/html-admin-setup-header.php:53
+msgid "Your API key has not been updated, please try again."
+msgstr "API anahtarınız güncellenmedi, lütfen tekrar deneyin."
+
+#: includes/admin/views/html-admin-setup-step-1.php:46
+msgid "Let’s get started"
+msgstr "Başlayalım"
+
+#: includes/admin/views/html-admin-setup-step-1.php:25
+msgid "Welcome to Crowdsignal Forms"
+msgstr "Crowdsignal Forms'a hoş geldiniz"
+
+#: includes/admin/views/html-admin-notice-core-setup.php:22
+msgid "Skip Setup"
+msgstr "Kurulumu Atla"
+
+#: includes/admin/views/html-admin-notice-core-setup.php:21
+msgid "Let's Get Started"
+msgstr "Başlayalım"
+
+#: includes/admin/views/html-admin-notice-core-setup.php:17
+msgid "You are nearly ready to start creating polls with <strong>Crowdsignal</strong>."
+msgstr "<strong>Crowdsignal</strong> ile kısa anket oluşturmaya neredeyse hazırsınız."
+
+#: includes/admin/views/html-admin-setup-step-2.php:28
+msgid "You're ready to start using Crowdsignal!"
+msgstr "Crowdsignal'ı kullanmaya hazırsınız."
+
+#: includes/admin/views/html-admin-setup-footer.php:29
+msgid "Privacy"
+msgstr "Gizlilik"
+
+#: includes/admin/views/html-admin-setup-footer.php:29
+msgid "Privacy Policy"
+msgstr "Gizlilik politikası"
+
+#: includes/admin/views/html-admin-setup-footer.php:28
+msgid "Terms"
+msgstr "Terimler"
+
+#: includes/admin/views/html-admin-setup-footer.php:28
+msgid "Terms of Service"
+msgstr "Hizmet şartları"
+
+#: includes/admin/views/html-admin-setup-footer.php:27
+msgid "Support"
+msgstr "Destek"
+
+#: includes/admin/views/html-admin-setup-footer.php:27
+msgid "Crowdsignal Support"
+msgstr "Crowdsignal Desteği"
+
+#: includes/admin/views/html-admin-setup-step-3.php:22
+msgid "First time using Crowdsignal?"
+msgstr "Crowdsignal'ı ilk kez mi kullanıyorsunuz?"
+
+#: includes/admin/views/html-admin-setup-header.php:46
+msgid "You have been connected to Crowdsignal."
+msgstr "Crowdsignal'a bağlandınız."
+
+#: includes/admin/views/html-admin-setup-header.php:39
+msgid "Success! Your Crowdsignal account is successfully connected! You are ready!"
+msgstr "Başarılı! Crowdsignal hesabınız başarıyla bağlandı!  Hazırsınız!"
+
+#: includes/admin/views/html-admin-setup-header.php:32
+msgid "Successfully disconnected from Crowdsignal."
+msgstr "Crowdsignal bağlantısı başarıyla kesildi."
+
+#: includes/admin/views/html-admin-setup-header.php:25
+msgid "Could not disconnect. Please try again."
+msgstr "Bağlantı kesilemedi. Lütfen yeniden deneyin."
+
+#: includes/admin/views/html-admin-settings.php:87
+msgid "Connect"
+msgstr "Bağlan"
+
+#: includes/admin/views/html-admin-settings.php:81
+msgid "Disconnect"
+msgstr "Bağlantıyı kes"
+
+#: includes/admin/views/html-admin-settings.php:54
+msgid "Settings successfully saved"
+msgstr "Ayarlar başarıyla kaydedildi"
+
+#: includes/admin/class-crowdsignal-forms-settings.php:143
+msgid "Enter Crowdsignal API Key"
+msgstr "Crowdsignal API Anahtarını Girin"
+
+#: includes/admin/class-crowdsignal-forms-settings.php:138
+msgid "General"
+msgstr "Genel"
+
+#: includes/admin/views/html-admin-setup-step-1.php:16
+#: includes/admin/views/html-admin-setup-step-3.php:16
+msgid "Getting Started"
+msgstr "Başlarken"
+
+#: includes/admin/class-crowdsignal-forms-admin.php:91 build/editor.js:3
+#: build/editor.js:7
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: includes/class-crowdsignal-forms.php:480
+msgid "Crowdsignal"
+msgstr "Crowdsignal"
+
+#: includes/admin/class-crowdsignal-forms-admin-notices.php:116
+msgid "You don&#8217;t have permission to do this."
+msgstr "Bu işlemi gerçekleştirme izniniz yok."
+
+#: includes/admin/class-crowdsignal-forms-admin-notices.php:112
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Eylem başarısız oldu. Lütfen sayfayı yenileyin ve tekrar deneyin."
+
+#: includes/rest-api/controllers/class-feedback-controller.php:100
+#: includes/rest-api/controllers/class-nps-controller.php:100
+#: includes/rest-api/controllers/class-polls-controller.php:278
+msgid "Resource not found"
+msgstr "Kaynak bulunamadı"
+
+#: includes/rest-api/controllers/class-polls-controller.php:187
+msgid "Invalid post ID"
+msgstr "Geçersiz yayın kimliği"
+
+#: includes/rest-api/controllers/class-polls-controller.php:138
+#: includes/rest-api/controllers/class-polls-controller.php:201
+msgid "Invalid poll ID"
+msgstr "Geçersiz kısa anket kimliği"
+
+#: includes/frontend/blocks/class-crowdsignal-forms-feedback-block.php:188
+#: includes/frontend/blocks/class-crowdsignal-forms-nps-block.php:169
+#: includes/frontend/blocks/class-crowdsignal-forms-poll-block.php:157
+#: build/editor.js:3 build/editor.js:4 build/editor.js:7
+msgid "Submit"
+msgstr "Gönder"
+
+#. Author URI of the plugin
+#: crowdsignal-forms.php
+msgid "https://automattic.com/"
+msgstr "https://automattic.com/"
+
+#. Author of the plugin
+#: crowdsignal-forms.php
+msgid "Automattic"
+msgstr "Otomatik"
+
+#. Description of the plugin
+#: crowdsignal-forms.php
+msgid "Crowdsignal Form Blocks"
+msgstr "Crowdsignal Form Blokları"
+
+#. Plugin URI of the plugin
+#: crowdsignal-forms.php
+msgid "https://crowdsignal.com/crowdsignal-forms/"
+msgstr "https://crowdsignal.com/crowdsignal-forms/"
+
+#. Plugin Name of the plugin
+#: crowdsignal-forms.php
+msgid "Crowdsignal Forms"
+msgstr "Crowdsignal Formları"

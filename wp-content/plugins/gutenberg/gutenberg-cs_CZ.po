@@ -1,0 +1,1728 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Czech
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-03-16 11:00:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: build/scripts/block-library/tabs-menu/block.json
+msgctxt "block description"
+msgid "Display the tab buttons for a tabbed interface."
+msgstr "Zobrazit tlačítka záložek pro rozhraní se záložkami."
+
+#: build/scripts/block-library/tabs-menu/block.json
+msgctxt "block title"
+msgid "Tabs Menu"
+msgstr "Záložky nabídky"
+
+#: build/scripts/block-library/tabs-menu-item/block.json
+msgctxt "block description"
+msgid "A single tab button in the tabs menu. Used as a template for styling all tab buttons."
+msgstr "Jediné tlačítko záložky v nabídce záložek. Používá se jako šablona pro stylování všech tlačítek záložek."
+
+#: build/scripts/block-library/tabs-menu-item/block.json
+msgctxt "block title"
+msgid "Tab Menu Item"
+msgstr "Karta položky nabídky"
+
+#: build/scripts/block-library/tab-panels/block.json
+msgctxt "block description"
+msgid "Container for tab panel content in a tabbed interface."
+msgstr "Kontejner pro obsah panelu záložek v rozhraní se záložkami."
+
+#: build/scripts/block-library/tab-panels/block.json
+msgctxt "block title"
+msgid "Tab Panels"
+msgstr "Panely karet"
+
+#: lib/experiments-page.php:231
+msgid "Enables editing media items (attachments) directly in the block editor with a dedicated media preview and metadata panel."
+msgstr "Umožňuje úpravy mediálních položek (příloh) přímo v editoru bloků pomocí speciálního panelu pro náhled médií a metadata."
+
+#: lib/experiments-page.php:226
+msgid "Media Editor"
+msgstr "Editor médií"
+
+#: lib/experimental/overlay-patterns.php:131
+msgctxt "Block pattern description"
+msgid "A navigation overlay with vertically and horizontally centered navigation"
+msgstr "Navigační překryv s vertikálně a horizontálně vycentrovanou navigací"
+
+#: lib/experimental/overlay-patterns.php:130
+msgid "Overlay with centered navigation"
+msgstr "Překrytí s vycentrovanou navigací"
+
+#: lib/experimental/overlay-patterns.php:113
+msgid "Get started today!"
+msgstr "Začněte ještě dnes!"
+
+#: lib/experimental/overlay-patterns.php:108
+msgid "Find out how we can help your business."
+msgstr "Zjistěte, jak můžeme pomoci vaší firmě."
+
+#: lib/experimental/overlay-patterns.php:89
+msgctxt "Block pattern description"
+msgid "A navigation overlay with vertically and horizontally centered navigation, site info, and a CTA"
+msgstr "Navigační překryv s vertikálně a horizontálně vycentrovanou navigací, informacemi o webu a výzvou k akci (CTA)"
+
+#: lib/experimental/overlay-patterns.php:88
+msgid "Overlay with site info and CTA"
+msgstr "Překrytí s informacemi o webu a výzvou k akci"
+
+#: lib/experimental/overlay-patterns.php:63
+msgctxt "Block pattern description"
+msgid "A navigation overlay with orange background site title and tagline"
+msgstr "Navigační překryv s oranžovým pozadím, názvem webu a sloganem"
+
+#: lib/experimental/overlay-patterns.php:62
+msgid "Overlay with orange background"
+msgstr "Překrytí s oranžovým pozadím"
+
+#: lib/experimental/overlay-patterns.php:47
+msgctxt "Block pattern description"
+msgid "A navigation overlay with black background and big white text"
+msgstr "Navigační překryv s černým pozadím a velkým bílým textem"
+
+#: lib/experimental/overlay-patterns.php:46
+msgid "Overlay with black background"
+msgstr "Překrytí s černým pozadím"
+
+#. translators: %s is the CSS that was provided.
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:765
+msgid "The CSS must not contain \"%s\"."
+msgstr "CSS nesmí obsahovat „%s“."
+
+#. translators: %s is the CSS that was provided.
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:753
+msgid "The CSS must not end in \"%s\"."
+msgstr "CSS nesmí končit znaky „%s“."
+
+#: build/scripts/block-library/navigation-overlay-close/block.json
+msgctxt "block keyword"
+msgid "overlay"
+msgstr "překrytí"
+
+#: build/scripts/block-library/navigation-overlay-close/block.json
+msgctxt "block keyword"
+msgid "close"
+msgstr "zavřít"
+
+#: build/scripts/block-library/navigation-overlay-close/block.json
+msgctxt "block description"
+msgid "A customizable button to close overlays."
+msgstr "Přizpůsobitelné tlačítko pro zavření překryvů."
+
+#: build/scripts/block-library/navigation-overlay-close/block.json
+msgctxt "block title"
+msgid "Navigation Overlay Close"
+msgstr "Navigační překryv Zavřít"
+
+#: build/scripts/block-library/breadcrumbs/block.json
+msgctxt "block description"
+msgid "Display a breadcrumb trail showing the path to the current page."
+msgstr "Zobrazit navigační lištu s cestou k aktuální stránce."
+
+#: lib/experiments-page.php:219
+msgid "Redirects the default site editor (Appearance > Design) to use the extensible site editor page."
+msgstr "Přesměruje výchozí editor stránek (Vzhled > Design) tak, aby používal rozšiřitelnou stránku editoru stránek."
+
+#: lib/experiments-page.php:214
+msgid "Extensible Site Editor"
+msgstr "Rozšiřitelný editor stránek"
+
+#: lib/experiments-page.php:183
+msgid "Enables editable block inspector fields that are generated using a dataform."
+msgstr "Umožňuje upravovat pole inspektora bloků, která jsou generována pomocí datového formuláře."
+
+#: lib/experiments-page.php:178
+msgid "Block fields: Show dataform driven inspector fields on blocks that support them"
+msgstr "Bloková pole: Zobrazit pole inspektora řízená datovým formulářem na blocích, které je podporují."
+
+#: lib/experimental/overlay-patterns.php:30
+msgctxt "Block pattern description"
+msgid "A simple pattern with a navigation block and a navigation overlay close button."
+msgstr "Jednoduchý vzor s navigačním blokem a tlačítkem pro zavření navigačního překryvu."
+
+#: lib/experimental/overlay-patterns.php:22
+msgctxt "Block pattern category"
+msgid "Display your website navigation."
+msgstr "Zobrazte navigaci na vašem webu."
+
+#: lib/experimental/overlay-patterns.php:21
+msgctxt "Block pattern category"
+msgid "Navigation"
+msgstr "Navigace"
+
+#: lib/compat/wordpress-7.0/rest-api.php:61
+#: lib/experimental/overlay-patterns.php:29
+#: lib/experimental/overlay-patterns.php:31
+#: lib/experimental/overlay-patterns.php:48
+#: lib/experimental/overlay-patterns.php:64
+#: lib/experimental/overlay-patterns.php:90
+#: lib/experimental/overlay-patterns.php:132
+msgid "Navigation Overlay"
+msgstr "Navigační překryv"
+
+#. translators: %s is the post type name.
+#: build/scripts/block-library/query-title.php:69
+msgid "Post Type: &#8220;%s&#8221;"
+msgstr "Typ příspěvku: „%s“"
+
+#. translators: %s is the search term.
+#: build/scripts/block-library/query-title.php:51
+msgid "Search results for: &#8220;%s&#8221;"
+msgstr "Výsledky hledání pro: „%s“"
+
+#. translators: %s: Post title.
+#: build/scripts/block-library/comments-title.php:70
+msgid "Responses to &#8220;%s&#8221;"
+msgstr "Odpovědi na „%s“"
+
+#. translators: %s: Post title.
+#: build/scripts/block-library/comments-title.php:67
+msgid "Response to &#8220;%s&#8221;"
+msgstr "Odpověď na „%s“"
+
+#. translators: %s: Post title.
+#: build/scripts/block-library/comments-title.php:42
+msgid "One response to &#8220;%s&#8221;"
+msgstr "Jedna odpověď na „%s“"
+
+#: lib/compat/wordpress-7.0/rest-api.php:62
+msgid "Custom overlay area for navigation overlays."
+msgstr "Vlastní překryvná oblast pro navigační překryvy."
+
+#. translators: Note notification email subject. 1: Site title, 2: Post title.
+#: lib/compat/wordpress-6.9/block-comments.php:310
+msgid "[%1$s] Note: \"%2$s\""
+msgstr "[%1$s] Poznámka: „%2$s“"
+
+#: lib/compat/wordpress-6.9/block-comments.php:281
+msgid "You can see all notes on this post here:"
+msgstr "Všechny poznámky k tomuto příspěvku najdete zde:"
+
+#. translators: %s: Note text.
+#: lib/compat/wordpress-6.9/block-comments.php:280
+msgid "resolved/reopened"
+msgstr "vyřešeno/znovu otevřeno"
+
+#. translators: %s: Note author email.
+#: lib/compat/wordpress-6.9/block-comments.php:278
+msgid "Email: %s"
+msgstr "E-mail: %s"
+
+#. translators: 1: Note author's name, 2: Note author's IP address, 3: Note
+#. author's hostname.
+#: lib/compat/wordpress-6.9/block-comments.php:276
+msgid "Author: %1$s (IP address: %2$s, %3$s)"
+msgstr "Autor: %1$s (IP adresa: %2$s, %3$s)"
+
+#. translators: %s: Post title.
+#: lib/compat/wordpress-6.9/block-comments.php:274
+msgid "New note on your post \"%s\""
+msgstr "Nová poznámka k vašemu příspěvku „%s“"
+
+#: lib/compat/wordpress-6.9/block-comments.php:167
+#: lib/compat/wordpress-6.9/block-comments.php:180
+msgid "Email me whenever anyone posts a note"
+msgstr "Pošlete mi e-mail, kdykoli někdo zveřejní poznámku."
+
+#. translators: %s: comment page number
+#: build/scripts/block-library/breadcrumbs.php:240
+msgid "Comments Page %s"
+msgstr "Komentáře Stránka %s"
+
+#: build/scripts/block-library/pullquote/block.json
+msgctxt "block description"
+msgid "This block is deprecated. Please use the Quote block instead."
+msgstr "Tento blok je zastaralý. Místo něj použijte blok Citace."
+
+#: build/scripts/block-library/pullquote/block.json
+msgctxt "block title"
+msgid "Pullquote (deprecated)"
+msgstr "Citát (zastaralé)"
+
+#: lib/experiments-page.php:207
+msgid "Enables custom mobile overlay design and content control for Navigation blocks, allowing you to create flexible, professional menu experiences."
+msgstr "Umožňuje přizpůsobení vzhledu mobilního překryvu a kontrolu obsahu navigačních bloků, což vám umožní vytvářet flexibilní a profesionální nabídky."
+
+#: lib/experiments-page.php:202
+msgid "Customizable Navigation Overlays"
+msgstr "Přizpůsobitelné navigační překryvy"
+
+#: lib/experiments-page.php:195
+msgid "Enables the Workflow Palette for running workflows composed of abilities, from a unified interface."
+msgstr "Aktivuje paletu Workflow pro spouštění pracovních postupů složených z funkcí z jednotného rozhraní."
+
+#: lib/experiments-page.php:190
+msgid "Workflow Palette"
+msgstr "Paleta pracovního postupu"
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:653
+msgid "Script modules to load into the import map."
+msgstr "Skriptové moduly, které se mají načíst do importní mapy."
+
+#: build/scripts/block-library/tabs/block.json
+msgctxt "block description"
+msgid "Display content in a tabbed interface to help users navigate detailed content with ease."
+msgstr "Zobrazujte obsah v rozhraní s kartami, aby uživatelé mohli snadno procházet podrobný obsah."
+
+#: build/scripts/block-library/tabs/block.json
+msgctxt "block title"
+msgid "Tabs"
+msgstr "Záložky"
+
+#: build/scripts/block-library/tab/block.json
+msgctxt "block description"
+msgid "Content for a tab in a tabbed interface."
+msgstr "Obsah pro kartu v rozhraní s kartami."
+
+#: build/scripts/block-library/tab/block.json
+msgctxt "block title"
+msgid "Tab"
+msgstr "Tab"
+
+#: lib/experiments-page.php:42
+msgid "Warning: when you deactivate this experiment, it is best to delete all created templates except for the active ones."
+msgstr "Upozornění: při deaktivaci tohoto experimentu je nejlepší smazat všechny vytvořené šablony kromě těch aktivních."
+
+#: lib/experiments-page.php:41
+msgid "Allows multiple templates of the same type to be created, of which one can be active at a time."
+msgstr "Umožňuje vytvořit více šablon stejného typu, z nichž může být aktivní vždy pouze jedna."
+
+#: lib/experiments-page.php:29
+msgid "Template Activation"
+msgstr "Aktivace šablony"
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:648
+msgid "Inline styles for editor assets."
+msgstr "Inline styly pro prostředky editoru."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:643
+msgid "Inline scripts for editor assets."
+msgstr "Inline skripty pro prostředky editoru."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:638
+msgid "Editor styles data."
+msgstr "Údaje o stylech editoru."
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:633
+msgid "Editor scripts data."
+msgstr "Skripty editoru dat."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-attachments-controller-6-9.php:122
+msgid "Limit result set to attachments of a particular MIME type or MIME types."
+msgstr "Omezit výsledek na přílohy konkrétního typu MIME nebo typů MIME."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-attachments-controller-6-9.php:112
+msgid "Limit result set to attachments of a particular media type or media types."
+msgstr "Omezit výsledek na přílohy určitého typu média nebo typů médií."
+
+#. translators: %s: page number
+#: build/scripts/block-library/breadcrumbs.php:249
+msgid "Page %s"
+msgstr "Stránka %s"
+
+#: build/scripts/block-library/breadcrumbs.php:72
+msgid "Page not found"
+msgstr "Stránka nebyla nalezena"
+
+#: build/scripts/block-library/post-date/block.json
+msgctxt "block description"
+msgid "Display a custom date."
+msgstr "Zobrazit vlastní datum."
+
+#: build/scripts/block-library/accordion/block.json
+msgctxt "block description"
+msgid "Displays a foldable layout that groups content in collapsible sections."
+msgstr "Zobrazí skládací rozvržení, které seskupuje obsah do sbalitelných sekcí."
+
+#: build/scripts/block-library/accordion-panel/block.json
+msgctxt "block description"
+msgid "Contains the hidden or revealed content beneath the heading."
+msgstr "Obsahuje skrytý nebo zobrazený obsah pod nadpisem."
+
+#: build/scripts/block-library/accordion-item/block.json
+msgctxt "block description"
+msgid "Wraps the heading and panel in one unit."
+msgstr "Zabalí záhlaví a panel do jedné jednotky."
+
+#: build/scripts/block-library/accordion-heading/block.json
+msgctxt "block description"
+msgid "Displays a heading that toggles the accordion panel."
+msgstr "Zobrazí nadpis, který přepíná panel akordeonu."
+
+#: lib/experiments-page.php:159
+msgid "Enables a new media modal experience powered by Data Views for improved media library management."
+msgstr "Umožňuje nový multimediální zážitek založený na Data Views pro lepší správu multimediální knihovny."
+
+#: lib/experiments-page.php:154
+msgid "Data Views: new media modal"
+msgstr "Zobrazení dat: nové mediální modální okno"
+
+#: build/scripts/block-library/term-name/block.json
+msgctxt "block keyword"
+msgid "term title"
+msgstr "název termínu"
+
+#: build/scripts/block-library/term-name/block.json
+msgctxt "block description"
+msgid "Displays the name of a taxonomy term."
+msgstr "Zobrazí název taxonomického termínu."
+
+#: build/scripts/block-library/term-name/block.json
+msgctxt "block title"
+msgid "Term Name"
+msgstr "Název termínu"
+
+#: build/scripts/block-library/term-count/block.json
+msgctxt "block description"
+msgid "Displays the post count of a taxonomy term."
+msgstr "Zobrazuje počet příspěvků daného taxonomického termínu."
+
+#: build/scripts/block-library/term-count/block.json
+msgctxt "block title"
+msgid "Term Count"
+msgstr "Počet termínů"
+
+#: build/scripts/block-library/math/block.json
+msgctxt "block keyword"
+msgid "mathematics"
+msgstr "matematika"
+
+#: build/scripts/block-library/math/block.json
+msgctxt "block keyword"
+msgid "latex"
+msgstr "latex"
+
+#: build/scripts/block-library/math/block.json
+msgctxt "block keyword"
+msgid "formula"
+msgstr "vzorec"
+
+#: build/scripts/block-library/math/block.json
+msgctxt "block description"
+msgid "Display mathematical notation using LaTeX."
+msgstr "Zobrazit matematický zápis pomocí LaTeXu."
+
+#: build/scripts/block-library/math/block.json
+msgctxt "block title"
+msgid "Math"
+msgstr "Matematika"
+
+#: build/scripts/block-library/breadcrumbs/block.json
+msgctxt "block title"
+msgid "Breadcrumbs"
+msgstr "Drobky"
+
+#: lib/compat/wordpress-6.9/block-comments.php:175
+#: build/scripts/editor/index.js:6810
+msgid "Notes"
+msgstr "Poznámky"
+
+#. translators: %s: Note text.
+#. translators: %s: note excerpt
+#: lib/compat/wordpress-6.9/block-comments.php:280
+#: build/scripts/editor/index.js:58670
+msgid "Note: %s"
+msgstr "Poznámka: %s"
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:557
+msgid "Type of the comment."
+msgstr "Typ komentáře."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:433
+msgid "Creating comment failed."
+msgstr "Vytvoření komentáře se nezdařilo."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:376
+msgid "Comment field exceeds maximum length allowed."
+msgstr "Pole pro komentář překračuje maximální povolenou délku."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:352
+msgid "Creating a comment requires valid author name and email values."
+msgstr "K vytvoření komentáře je nutné zadat platné jméno autora a e-mailovou adresu."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:322
+msgid "Invalid comment content."
+msgstr "Neplatný obsah komentáře."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:298
+msgid "Cannot create a comment with that type."
+msgstr "Nelze vytvořit komentář tohoto typu."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:118
+msgid "Sorry, you are not allowed to read this comment."
+msgstr "Omlouváme se, ale nemáte oprávnění číst tento komentář."
+
+#. translators: %s: List of forbidden parameters.
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:87
+msgid "Query parameter not permitted: %s"
+msgstr "Parametr dotazu není povolen: %s"
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:38
+msgid "Sorry, you are not allowed to read comments without a post."
+msgstr "Je nám líto, ale bez příspěvku nemáte oprávnění číst komentáře."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:24
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:232
+msgid "Sorry, this post type does not support notes."
+msgstr "Omlouváme se, tento typ příspěvku nepodporuje poznámky."
+
+#: lib/compat/wordpress-6.9/block-comments.php:38
+msgid "Note resolution status"
+msgstr "Poznámka: stav řešení"
+
+#: build/scripts/block-library/breadcrumbs.php:189
+#: build/routes/navigation-edit/content.js:124
+msgid "Breadcrumbs"
+msgstr "Drobky"
+
+#: build/scripts/block-library/post-time-to-read/block.json
+msgctxt "block description"
+msgid "Show minutes required to finish reading the post. Can also show a word count."
+msgstr "Zobrazit počet minut potřebných k dočtení příspěvku. Lze také zobrazit počet slov."
+
+#. translators: 1: minimum minutes, 2: maximum minutes to read the post.
+#: build/scripts/block-library/post-time-to-read.php:128
+#: build/scripts/block-library/index.js:50764
+msgctxt "Range of minutes to read"
+msgid "%1$s–%2$s minutes"
+msgstr "%1$s–%2$s minut"
+
+#. translators: %s: the number of characters in the post.
+#: build/scripts/block-library/post-time-to-read.php:151
+#: build/scripts/block-library/index.js:50787
+msgid "%s character"
+msgid_plural "%s characters"
+msgstr[0] "%s znak"
+msgstr[1] "%s znaky"
+msgstr[2] "%s znaků"
+
+#: build/scripts/block-library/terms-query/block.json
+msgctxt "block keyword"
+msgid "taxonomy"
+msgstr "Taxonomie"
+
+#: build/scripts/block-library/terms-query/block.json
+msgctxt "block keyword"
+msgid "terms"
+msgstr "podmínky"
+
+#: build/scripts/block-library/terms-query/block.json
+msgctxt "block title"
+msgid "Terms Query"
+msgstr "Vyhledávání termínů"
+
+#: build/scripts/block-library/term-template/block.json
+msgctxt "block description"
+msgid "Contains the block elements used to render a taxonomy term, like the name, description, and more."
+msgstr "Obsahuje blokové prvky používané k vykreslení termínu taxonomie, jako je název, popis a další."
+
+#: build/scripts/block-library/term-template/block.json
+msgctxt "block title"
+msgid "Term Template"
+msgstr "Šablona termínu"
+
+#: build/scripts/block-library/terms-query/block.json
+msgctxt "block keyword"
+msgid "tags"
+msgstr "štítky"
+
+#: lib/compat/wordpress-6.9/term-data-block-bindings.php:112
+msgctxt "block bindings source"
+msgid "Term Data"
+msgstr "Termínová data"
+
+#: build/scripts/block-library/accordion/block.json
+msgctxt "block title"
+msgid "Accordion"
+msgstr "Akordeon"
+
+#: build/scripts/block-library/accordion-panel/block.json
+msgctxt "block title"
+msgid "Accordion Panel"
+msgstr "Akordeonový panel"
+
+#: build/scripts/block-library/accordion-heading/block.json
+msgctxt "block title"
+msgid "Accordion Heading"
+msgstr "Nadpis akordeonu"
+
+#: build/scripts/block-library/accordion-item/block.json
+msgctxt "block title"
+msgid "Accordion Item"
+msgstr "Akordeonová položka"
+
+#: build/scripts/block-library/social-link.php:277
+#: build/scripts/block-library/index.js:60896
+msgctxt "social link block variation name"
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: build/scripts/block-library/social-link.php:333
+#: build/scripts/block-library/index.js:60975
+msgctxt "social link block variation name"
+msgid "YouTube"
+msgstr "YouTube"
+
+#: build/scripts/block-library/social-link.php:329
+#: build/scripts/block-library/index.js:60969
+msgctxt "social link block variation name"
+msgid "Yelp"
+msgstr "Yelp"
+
+#: build/scripts/block-library/social-link.php:325
+#: build/scripts/block-library/index.js:60963
+msgctxt "social link block variation name"
+msgid "X"
+msgstr "X"
+
+#: build/scripts/block-library/social-link.php:321
+#: build/scripts/block-library/index.js:60956
+msgctxt "social link block variation name"
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: build/scripts/block-library/social-link.php:317
+#: build/scripts/block-library/index.js:60689
+msgctxt "social link block variation name"
+msgid "WordPress"
+msgstr "WordPress"
+
+#: build/scripts/block-library/social-link.php:313
+#: build/scripts/block-library/index.js:60950
+msgctxt "social link block variation name"
+msgid "VK"
+msgstr "VK"
+
+#: build/scripts/block-library/social-link.php:309
+#: build/scripts/block-library/index.js:60944
+msgctxt "social link block variation name"
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: build/scripts/block-library/social-link.php:305
+#: build/scripts/block-library/index.js:60938
+msgctxt "social link block variation name"
+msgid "Twitter"
+msgstr "Twitter"
+
+#: build/scripts/block-library/social-link.php:301
+#: build/scripts/block-library/index.js:60932
+msgctxt "social link block variation name"
+msgid "Twitch"
+msgstr "Twitch"
+
+#: build/scripts/block-library/social-link.php:297
+#: build/scripts/block-library/index.js:60926
+msgctxt "social link block variation name"
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: build/scripts/block-library/social-link.php:293
+#: build/scripts/block-library/index.js:60920
+msgctxt "social link block variation name"
+msgid "TikTok"
+msgstr "TikTok"
+
+#: build/scripts/block-library/social-link.php:289
+#: build/scripts/block-library/index.js:60914
+msgctxt "social link block variation name"
+msgid "Threads"
+msgstr "Threads"
+
+#: build/scripts/block-library/social-link.php:285
+#: build/scripts/block-library/index.js:60908
+msgctxt "social link block variation name"
+msgid "Telegram"
+msgstr "Telegram"
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:266
+msgid "Sorry, comments are closed for this item."
+msgstr "Komentáře k tomuto příspěvku nejsou bohužel povoleny."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:32
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:126
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:257
+msgid "Sorry, you are not allowed to read the post for this comment."
+msgstr "Nemáte dostatečné oprávnění pro čtení příspěvku, ke kterému patří tento komentář."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:241
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:249
+msgid "Sorry, you are not allowed to create a comment on this post."
+msgstr "Nemáte dostatečné oprávnění pro vytvoření komentáře k tomuto příspěvku."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:213
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:223
+msgid "Sorry, you are not allowed to create this comment without a post."
+msgstr "Nemáte dostatečné oprávnění pro vytvoření komentáře bez příspěvku."
+
+#. translators: %s: Request parameter.
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:183
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:193
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:205
+msgid "Sorry, you are not allowed to edit '%s' for comments."
+msgstr "Nemáte dostatečné oprávnění pro úpravy „%s“ u komentářů."
+
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:141
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:150
+#: lib/compat/wordpress-6.9/class-gutenberg-rest-comment-controller-6-9.php:172
+msgid "Sorry, you must be logged in to comment."
+msgstr "Pro přidání komentáře se musíte nejdříve přihlásit."
+
+#: build/scripts/block-library/query/block.json
+msgctxt "block keyword"
+msgid "blogs"
+msgstr "blogy"
+
+#: build/scripts/block-library/query/block.json
+msgctxt "block keyword"
+msgid "blog"
+msgstr "blog"
+
+#: build/scripts/block-library/query/block.json
+msgctxt "block keyword"
+msgid "custom post types"
+msgstr "vlastní typy příspěvků"
+
+#: build/scripts/block-library/categories/block.json
+#: build/scripts/block-library/terms-query/block.json
+msgctxt "block keyword"
+msgid "categories"
+msgstr "rubriky"
+
+#: lib/experimental/media/class-gutenberg-rest-attachments-controller.php:37
+msgid "Unique identifier for the attachment."
+msgstr "Jedinečný identifikátor přílohy."
+
+#: build/scripts/block-library/comment-author-avatar/block.json
+msgctxt "block description"
+msgid "This block is deprecated. Please use the Avatar block instead."
+msgstr "Tento blok je zastaralý. Použijte místo něj blok Avatar."
+
+#: build/scripts/block-library/avatar/block.json
+msgctxt "block description"
+msgid "Add a user’s avatar."
+msgstr "Přidat avatara uživatele."
+
+#: build/scripts/block-library/avatar/block.json
+msgctxt "block title"
+msgid "Avatar"
+msgstr "Avatar"
+
+#. translators: %s is the Author name.
+#: build/scripts/block-library/avatar.php:65
+msgid "(%s author archive, opens in a new tab)"
+msgstr "(%s archiv autora, otevře se na nové kartě)"
+
+#. translators: %s: Comment author name.
+#: build/scripts/block-library/avatar.php:92
+msgid "(%s website link, opens in a new tab)"
+msgstr "(%s odkaz na webovou stránku, otevře se na nové kartě)"
+
+#: build/scripts/block-library/block/block.json
+msgctxt "block title"
+msgid "Pattern"
+msgstr "Vzor"
+
+#: build/scripts/block-library/comment-template/block.json
+msgctxt "block description"
+msgid "Contains the block elements used to display a comment, like the title, date, author, avatar and more."
+msgstr "Obsahuje prvky bloku používané k zobrazení komentáře, jako je název, datum, autor, avatar a další."
+
+#. translators: %s: Author name.
+#: build/scripts/block-library/avatar.php:50
+#: build/scripts/block-library/avatar.php:77
+#: build/scripts/block-library/comment-author-avatar.php:50
+#: build/scripts/block-library/index.js:6389
+#: build/scripts/block-library/index.js:6423
+msgid "%s Avatar"
+msgstr "%s Avatar"
+
+#: build/scripts/block-library/post-template/block.json
+msgctxt "block title"
+msgid "Post Template"
+msgstr "Šablona příspěvku"
+
+#: build/scripts/block-library/video/block.json
+msgctxt "block description"
+msgid "Embed a video from your media library or upload a new one."
+msgstr "Vložte video z knihovny médií, nebo nahrajte nové."
+
+#: build/scripts/block-library/table-of-contents/block.json
+msgctxt "block keyword"
+msgid "document outline"
+msgstr "Osnova dokumentu"
+
+#: build/scripts/block-library/table-of-contents/block.json
+msgctxt "block title"
+msgid "Table of Contents"
+msgstr "Tabulka obsahu"
+
+#: build/scripts/block-library/navigation-overlay-close/block.json
+#: build/scripts/block-library/navigation/block.json
+#: build/scripts/block-library/page-list-item/block.json
+#: build/scripts/block-library/page-list/block.json
+msgctxt "block keyword"
+msgid "navigation"
+msgstr "navigace"
+
+#: build/scripts/block-library/navigation-overlay-close/block.json
+#: build/scripts/block-library/navigation/block.json
+#: build/scripts/block-library/page-list-item/block.json
+#: build/scripts/block-library/page-list/block.json
+msgctxt "block keyword"
+msgid "menu"
+msgstr "menu"
+
+#: build/scripts/block-library/home-link/block.json
+msgctxt "block description"
+msgid "Create a link that always points to the homepage of the site. Usually not necessary if there is already a site title link present in the header."
+msgstr "Vytvořte odkaz, který vždy odkazuje na domovskou stránku webu. Obvykle to není nutné, pokud je již v záhlaví uveden název webu s odkazem."
+
+#: build/scripts/block-library/home-link/block.json
+msgctxt "block title"
+msgid "Home Link"
+msgstr "Odkaz domů"
+
+#: build/scripts/block-library/file/block.json
+msgctxt "block keyword"
+msgid "download"
+msgstr "stáhnout"
+
+#: build/scripts/block-library/button/block.json
+#: build/scripts/block-library/tag-cloud/block.json
+msgctxt "block style label"
+msgid "Outline"
+msgstr "Osnova"
+
+#: build/scripts/block-library/navigation.php:747
+#: build/scripts/block-library/index.js:38148
+msgid "Close menu"
+msgstr "Zavřít menu"
+
+#: lib/experimental/class-wp-rest-block-editor-settings-controller.php:287
+msgid "Maximum upload size in bytes allowed for the site."
+msgstr "Maximální velikost nahrávání v bajtech povolená pro daný web."
+
+#: build/scripts/block-library/navigation-link/block.json
+msgctxt "block title"
+msgid "Custom Link"
+msgstr "Vlastní odkaz"
+
+#: build/scripts/block-library/loginout/block.json
+msgctxt "block title"
+msgid "Login/out"
+msgstr "Přihlásit / Odhlásit"
+
+#: build/scripts/block-library/navigation-link.php:371
+msgid "Post Format Link"
+msgstr "Odkaz na formát příspěvku"
+
+#: build/scripts/block-library/navigation-link.php:372
+msgid "A link to a post format"
+msgstr "Odkaz na formát příspěvku"
+
+#: build/scripts/block-library/latest-posts.php:172
+#: build/scripts/block-library/latest-posts.php:187
+#: build/scripts/block-library/index.js:47751
+msgid "This content is password protected."
+msgstr "Tento obsah je chráněný heslem."
+
+#: build/scripts/block-library/template-part/block.json
+msgctxt "block description"
+msgid "Edit the different global regions of your site, like the header, footer, sidebar, or create your own."
+msgstr "Upravte různé globální oblasti svého webu, jako je záhlaví, zápatí, postranní panel, nebo si vytvořte vlastní."
+
+#: build/scripts/block-library/page-list/block.json
+msgctxt "block title"
+msgid "Page List"
+msgstr "Seznam stránek"
+
+#: build/scripts/block-library/post-navigation-link.php:40
+msgctxt "label for previous post link"
+msgid "Previous"
+msgstr "Předchozí"
+
+#: build/scripts/block-library/post-navigation-link.php:40
+msgctxt "label for next post link"
+msgid "Next"
+msgstr "Další"
+
+#. translators: %s: taxonomy's singular name
+#: build/scripts/block-library/categories.php:46
+#: build/scripts/block-library/index.js:10868
+msgid "Select %s"
+msgstr "Vybrat %s"
+
+#: build/scripts/block-library/query-pagination-previous.php:26
+#: build/scripts/block-library/index.js:55596
+msgid "Previous Page"
+msgstr "Předchozí stránka"
+
+#: build/scripts/block-library/query-pagination-next.php:29
+#: build/scripts/block-library/index.js:55336
+msgid "Next Page"
+msgstr "Další stránka"
+
+#: build/scripts/block-library/comments-pagination-numbers/block.json
+msgctxt "block title"
+msgid "Comments Page Numbers"
+msgstr "Čísla stránkování dotazu"
+
+#. translators: %s: Template part slug.
+#: build/scripts/block-library/template-part.php:122
+#: build/scripts/block-library/index.js:67598
+msgid "Template part has been deleted or is unavailable: %s"
+msgstr "Část šablony byla odstraněna nebo není k dispozici: %s"
+
+#: build/scripts/block-library/template-part/block.json
+msgctxt "block title"
+msgid "Template Part"
+msgstr "Části šablony"
+
+#: build/scripts/block-library/site-title/block.json
+msgctxt "block title"
+msgid "Site Title"
+msgstr "Nadpis stránky"
+
+#: build/scripts/block-library/site-tagline/block.json
+msgctxt "block title"
+msgid "Site Tagline"
+msgstr "Popis webu"
+
+#: build/scripts/block-library/site-logo/block.json
+msgctxt "block title"
+msgid "Site Logo"
+msgstr "Logo stránek"
+
+#: build/scripts/block-library/social-link/block.json
+msgctxt "block title"
+msgid "Social Icon"
+msgstr "Ikony sociálních sítí"
+
+#: build/scripts/block-library/social-links/block.json
+msgctxt "block title"
+msgid "Social Icons"
+msgstr "Ikony sociálních sítí"
+
+#: build/scripts/block-library/tag-cloud/block.json
+msgctxt "block title"
+msgid "Tag Cloud"
+msgstr "Shluk štítků"
+
+#: build/scripts/block-library/video/block.json
+msgctxt "block title"
+msgid "Video"
+msgstr "Video"
+
+#: build/scripts/block-library/more/block.json
+msgctxt "block title"
+msgid "More"
+msgstr "Více"
+
+#: build/scripts/block-library/missing/block.json
+msgctxt "block title"
+msgid "Unsupported"
+msgstr "Nepodporováno"
+
+#: build/scripts/block-library/list/block.json
+msgctxt "block title"
+msgid "List"
+msgstr "Seznam"
+
+#: build/scripts/block-library/latest-posts/block.json
+msgctxt "block title"
+msgid "Latest Posts"
+msgstr "Nejnovější příspěvky"
+
+#: build/scripts/block-library/latest-comments/block.json
+msgctxt "block title"
+msgid "Latest Comments"
+msgstr "Nejnovější komentáře"
+
+#: build/scripts/block-library/navigation/block.json
+msgctxt "block title"
+msgid "Navigation"
+msgstr "Navigace"
+
+#: build/scripts/block-library/media-text/block.json
+msgctxt "block title"
+msgid "Media & Text"
+msgstr "Média a text"
+
+#: build/scripts/block-library/html/block.json
+msgctxt "block title"
+msgid "Custom HTML"
+msgstr "Vlastní HTML"
+
+#: build/scripts/block-library/file/block.json
+msgctxt "block title"
+msgid "File"
+msgstr "Soubor"
+
+#: build/scripts/block-library/cover/block.json
+msgctxt "block title"
+msgid "Cover"
+msgstr "Úvodní obrázek"
+
+#: build/scripts/block-library/column/block.json
+msgctxt "block title"
+msgid "Column"
+msgstr "Sloupec"
+
+#: build/scripts/block-library/columns/block.json
+msgctxt "block title"
+msgid "Columns"
+msgstr "Sloupce"
+
+#: build/scripts/block-library/code/block.json
+msgctxt "block title"
+msgid "Code"
+msgstr "Kód"
+
+#: build/scripts/block-library/paragraph/block.json
+msgctxt "block title"
+msgid "Paragraph"
+msgstr "Odstavec"
+
+#: build/scripts/block-library/post-comments-count/block.json
+msgctxt "block title"
+msgid "Comments Count"
+msgstr "Počet komentářů"
+
+#: build/scripts/block-library/table/block.json
+msgctxt "block title"
+msgid "Table"
+msgstr "Tabulka"
+
+#: build/scripts/block-library/spacer/block.json
+msgctxt "block title"
+msgid "Spacer"
+msgstr "Oddělovač"
+
+#: build/scripts/block-library/shortcode/block.json
+msgctxt "block title"
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: build/scripts/block-library/separator/block.json
+msgctxt "block title"
+msgid "Separator"
+msgstr "Oddělovač"
+
+#: build/scripts/block-library/preformatted/block.json
+msgctxt "block title"
+msgid "Preformatted"
+msgstr "Zachovat formátování"
+
+#: build/scripts/block-library/calendar/block.json
+msgctxt "block title"
+msgid "Calendar"
+msgstr "Kalendář"
+
+#: build/scripts/block-library/buttons/block.json
+msgctxt "block title"
+msgid "Buttons"
+msgstr "Tlačítka"
+
+#: build/scripts/block-library/button/block.json
+msgctxt "block title"
+msgid "Button"
+msgstr "Tlačítko"
+
+#: build/scripts/block-library/audio/block.json
+msgctxt "block title"
+msgid "Audio"
+msgstr "Audio"
+
+#: build/scripts/block-library/archives/block.json
+msgctxt "block title"
+msgid "Archives"
+msgstr "Archivy"
+
+#: build/scripts/block-library/gallery/block.json
+msgctxt "block title"
+msgid "Gallery"
+msgstr "Galerie"
+
+#: build/scripts/block-library/quote/block.json
+msgctxt "block title"
+msgid "Quote"
+msgstr "Citace"
+
+#: build/scripts/block-library/heading/block.json
+msgctxt "block title"
+msgid "Heading"
+msgstr "Nadpis"
+
+#: build/scripts/block-library/image/block.json
+msgctxt "block title"
+msgid "Image"
+msgstr "Obrázek"
+
+#: build/scripts/block-library/search/block.json
+msgctxt "block title"
+msgid "Search"
+msgstr "Vyhledávání"
+
+#: build/scripts/block-library/rss/block.json
+msgctxt "block title"
+msgid "RSS"
+msgstr "RSS"
+
+#: build/scripts/block-library/verse/block.json
+msgctxt "block title"
+msgid "Verse"
+msgstr "Verš"
+
+#: build/scripts/block-library/nextpage/block.json
+msgctxt "block title"
+msgid "Page Break"
+msgstr "Konec stránky"
+
+#: build/scripts/block-library/post-comments-form/block.json
+msgctxt "block title"
+msgid "Comments Form"
+msgstr "Formulář pro komentáře"
+
+#: build/scripts/block-library/index.js:14028
+#: build/scripts/block-library/comment-date/block.json
+msgctxt "block title"
+msgid "Comment Date"
+msgstr "Datum komentáře"
+
+#: build/scripts/block-library/index.js:13818
+#: build/scripts/block-library/comment-content/block.json
+msgctxt "block title"
+msgid "Comment Content"
+msgstr "Obsah komentáře"
+
+#: build/scripts/block-library/query/block.json
+msgctxt "block title"
+msgid "Query Loop"
+msgstr "Smyčka dotazu"
+
+#: build/scripts/block-library/group/block.json
+msgctxt "block title"
+msgid "Group"
+msgstr "Skupina"
+
+#: lib/compat/wordpress-7.0/class-gutenberg-rest-static-templates-controller.php:102
+msgid "No templates exist with that id."
+msgstr "Neexistují žádné šablony s tímto ID."
+
+#: lib/class-wp-rest-global-styles-controller-gutenberg.php:118
+#: lib/compat/wordpress-7.0/class-gutenberg-rest-static-templates-controller.php:45
+#: lib/compat/wordpress-7.0/class-gutenberg-rest-templates-controller-7-0.php:99
+msgid "The id of a template"
+msgstr "ID šablony"
+
+#: lib/compat/wordpress-7.0/class-gutenberg-rest-templates-controller-7-0.php:126
+msgid "Whether to bypass Trash and force deletion."
+msgstr "Informace o tom, jestli lze obejít koš vynutit smazání."
+
+#: build/scripts/block-library/site-logo.php:78
+msgid "Site logo."
+msgstr "Logo webu"
+
+#. translators: byline. %s: author.
+#: build/scripts/block-library/latest-posts.php:130
+#: build/scripts/block-library/rss.php:86
+#: build/scripts/block-library/index.js:33027
+msgid "by %s"
+msgstr "Autor: %s"
+
+#: lib/experimental/pages/site-editor.php:30
+#: build/scripts/edit-site/index.js:20997
+#: build/scripts/edit-site/index.js:46634
+#: build/scripts/edit-site/index.js:46687
+msgid "Pages"
+msgstr "Stránky"
+
+#: build/scripts/block-library/query-title.php:46
+#: build/scripts/block-library/index.js:55929
+msgid "Search results"
+msgstr "Výsledky vyhledávání"
+
+#: lib/experimental/pages/site-editor.php:33
+#: build/routes/pattern-list/content.js:17432
+#: build/routes/pattern-list/route.js:37
+#: build/scripts/block-editor/index.js:28934
+#: build/scripts/block-editor/index.js:30569
+#: build/scripts/block-editor/index.js:39814
+#: build/scripts/edit-site/index.js:21028
+#: build/scripts/edit-site/index.js:23825
+msgid "Patterns"
+msgstr "Vzory"
+
+#. translators: 'menu' as in website navigation menu.
+#: build/scripts/block-library/navigation.php:743
+#: build/scripts/block-library/navigation.php:895
+#: build/scripts/block-library/index.js:38099
+#: build/scripts/block-library/index.js:38127
+#: build/scripts/block-library/index.js:39102
+#: build/scripts/block-library/index.js:39747
+#: build/scripts/block-library/index.js:41308
+#: build/scripts/core-data/index.js:13727 build/scripts/editor/index.js:30462
+msgid "Menu"
+msgstr "Menu"
+
+#. translators: accessibility text for the content landmark region.
+#: lib/experimental/navigation-theme-opt-in.php:347
+#: build/scripts/block-editor/index.js:54639
+#: build/scripts/block-editor/index.js:59798
+#: build/scripts/block-editor/index.js:70153
+#: build/scripts/block-library/index.js:10092
+#: build/scripts/block-library/index.js:28325
+#: build/scripts/block-library/index.js:34835
+#: build/scripts/block-library/index.js:37423
+#: build/scripts/block-library/index.js:46244
+#: build/scripts/block-library/index.js:51451
+#: build/scripts/block-library/index.js:52229
+#: build/scripts/block-library/index.js:69973
+#: build/scripts/edit-widgets/index.js:1269 build/scripts/editor/index.js:13569
+#: build/scripts/editor/index.js:57196 build/scripts/editor/index.js:57236
+msgid "Content"
+msgstr "Obsah"
+
+#. translators: 'Home' as in a website's home page.
+#: build/scripts/block-library/breadcrumbs.php:35
+#: build/scripts/block-library/breadcrumbs.php:39
+#: build/scripts/block-library/home-link.php:140
+#: lib/experimental/pages/site-editor.php:27 build/routes/home/route.js:37
+#: build/scripts/block-library/index.js:7818
+#: build/scripts/block-library/index.js:28443
+#: build/scripts/block-library/index.js:42923
+msgid "Home"
+msgstr "Úvodní stránka"
+
+#: lib/experimental/media/class-gutenberg-rest-attachments-controller.php:41
+msgid "Image size."
+msgstr "Velikost obrázku."
+
+#: build/scripts/block-library/navigation/block.json
+#: build/scripts/block-library/social-links/block.json
+msgctxt "block keyword"
+msgid "links"
+msgstr "odkazy"
+
+#: lib/experimental/pages/site-editor.php:32
+#: build/routes/template-part-list/route.js:233
+#: build/scripts/editor/index.js:36386
+msgid "Template Parts"
+msgstr "Části šablony"
+
+#: lib/experimental/pages/site-editor.php:29
+#: build/routes/navigation-edit/content.js:509
+#: build/routes/navigation-edit/route.js:95
+#: build/routes/navigation-list/content.js:16919
+#: build/routes/navigation-list/route.js:60
+#: build/scripts/block-library/index.js:37780
+#: build/scripts/block-library/index.js:37980
+#: build/scripts/edit-site/index.js:1144 build/scripts/edit-site/index.js:6308
+#: build/scripts/edit-site/index.js:20987
+#: build/scripts/edit-site/index.js:23128 build/scripts/editor/index.js:60245
+msgid "Navigation"
+msgstr "Navigace"
+
+#: lib/experimental/pages/site-editor.php:31
+#: build/routes/template-list/content.js:18785
+#: build/routes/template-list/content.js:19084
+#: build/routes/template-list/route.js:170
+#: build/scripts/block-library/index.js:67507
+#: build/scripts/edit-site/index.js:21007
+#: build/scripts/edit-site/index.js:42470
+#: build/scripts/edit-site/index.js:44215
+#: build/scripts/edit-site/index.js:45697 build/scripts/editor/index.js:6076
+#: build/scripts/editor/index.js:38045 build/scripts/editor/index.js:57030
+msgid "Templates"
+msgstr "Šablony"
+
+#: lib/experiments-page.php:20
+msgid "Experimental settings"
+msgstr "Nastavení experimentů"
+
+#: lib/init.php:52
+msgid "Experiments Settings"
+msgstr "Nastavení experimentálních funkcí"
+
+#: build/scripts/block-library/rss.php:25
+msgid "RSS Error:"
+msgstr "Chyba RSS:"
+
+#: build/scripts/block-library/rss.php:29
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Objevila se nečekaná chyba, RSS zdroj je pravděpodobně mimo provoz. Zkuste to prosím později."
+
+#: build/scripts/block-library/search.php:25
+#: build/scripts/block-library/search.php:26
+#: build/scripts/block-library/search.php:50
+#: build/routes/font-list/content.js:3991
+#: build/routes/navigation-list/content.js:10097
+#: build/routes/navigation-list/content.js:13154
+#: build/routes/pattern-list/content.js:10008
+#: build/routes/pattern-list/content.js:13065
+#: build/routes/post-list/content.js:9987
+#: build/routes/post-list/content.js:13044
+#: build/routes/template-list/content.js:10142
+#: build/routes/template-list/content.js:13199
+#: build/routes/template-part-list/content.js:10032
+#: build/routes/template-part-list/content.js:13089
+#: build/scripts/block-editor/index.js:28028
+#: build/scripts/block-editor/index.js:28029
+#: build/scripts/block-editor/index.js:29884
+#: build/scripts/block-editor/index.js:30415
+#: build/scripts/block-editor/index.js:30416
+#: build/scripts/block-editor/index.js:30687
+#: build/scripts/block-editor/index.js:30688
+#: build/scripts/block-library/index.js:53855
+#: build/scripts/block-library/index.js:53856
+#: build/scripts/block-library/index.js:58201
+#: build/scripts/block-library/index.js:58498
+#: build/scripts/block-library/index.js:58509
+#: build/scripts/block-library/index.js:66985
+#: build/scripts/block-library/index.js:66986
+#: build/scripts/components/index.js:44773
+#: build/scripts/components/index.js:44774
+#: build/scripts/edit-site/index.js:32882
+#: build/scripts/edit-site/index.js:35939 build/scripts/editor/index.js:16427
+#: build/scripts/editor/index.js:16428 build/scripts/editor/index.js:18693
+#: build/scripts/editor/index.js:38037 build/scripts/editor/index.js:38038
+#: build/scripts/media-utils/index.js:10518
+#: build/scripts/media-utils/index.js:13544
+msgid "Search"
+msgstr "Hledat"
+
+#: build/scripts/block-library/freeform/block.json
+msgctxt "block title"
+msgid "Classic"
+msgstr "Klasický editor"
+
+#: build/scripts/block-library/index.js:21155
+#: build/scripts/block-library/embed/block.json
+msgctxt "block title"
+msgid "Embed"
+msgstr "Vložení"
+
+#: build/scripts/block-library/quote/block.json
+msgctxt "block description"
+msgid "Give quoted text visual emphasis. \"In quoting others, we cite ourselves.\" — Julio Cortázar"
+msgstr "Zvýrazněte citovaný text. „Při citování ostatních, citujeme sami sebe.“ — Julio Cortázar"
+
+#: build/scripts/block-library/heading/block.json
+msgctxt "block description"
+msgid "Introduce new sections and organize content to help visitors (and search engines) understand the structure of your content."
+msgstr "Uveďte nové oddíly a uspořádejte návštěvníkům (a vyhledávačům) obsah tak, aby pochopili strukturu textu."
+
+#: lib/experimental/pages/site-editor.php:28 build/routes/styles/content.js:280
+#: build/routes/styles/route.js:37 build/scripts/block-editor/index.js:39677
+#: build/scripts/block-editor/index.js:43819
+#: build/scripts/block-editor/index.js:54633
+#: build/scripts/edit-site/index.js:20977
+#: build/scripts/edit-site/index.js:21018
+#: build/scripts/edit-site/index.js:22247
+#: build/scripts/edit-site/index.js:46737 build/scripts/editor/index.js:44447
+#: build/scripts/editor/index.js:59689 build/scripts/editor/index.js:59699
+msgid "Styles"
+msgstr "Styly"
+
+#: lib/class-wp-theme-json-gutenberg.php:4374
+#: build/scripts/block-editor/index.js:7705
+#: build/scripts/components/index.js:42776
+msgid "Medium"
+msgstr "Střední"
+
+#: build/scripts/block-library/archives.php:101
+msgid "No archives to show."
+msgstr "Žádné archivy k zobrazení. "
+
+#: post-content.php:40
+msgid "Beautiful landscape"
+msgstr "Nádherné hory"
+
+#: post-content.php:207
+msgid "Thanks for testing Gutenberg!"
+msgstr "Děkujeme za testování Gutenbergu!"
+
+#: post-content.php:179 build/scripts/block-library/index.js:28282
+msgid "Code is Poetry"
+msgstr "Code is Poetry"
+
+#: post-content.php:101
+msgid "Matt Mullenweg, 2017"
+msgstr "Matt Mullenweg, 2017"
+
+#: post-content.php:132
+msgid "Media Rich"
+msgstr "Bohaté na média"
+
+#: post-content.php:106
+msgid "The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It&#8217;s always easy to add it back."
+msgstr "Informace příslušné ke zdroji citace jsou v odděleném textovém poli, podobně jako jsou odděleny popisky obrázků. Struktura citace je tak chráněna i když vyberete, upravíte nebo odstraníte zdroj. Je vždy jednoduché jej přidat zpět."
+
+#: post-content.php:99
+msgid "The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery."
+msgstr "Editor se pokusí vytvářet lepší zkušenosti při tvorbě nových stránek a příspěvků, což zjednoduší psaní formátovaného textu. Bude používat „bloky“, aby šlo jednodušeji používat zkrácený zápis, vlastní HTML nebo vkládat „mystery meat“."
+
+#: post-content.php:199
+msgid "Help build Gutenberg"
+msgstr "Pomozte vyvíjet plugin Gutenberg"
+
+#: post-content.php:181
+msgid "The WordPress community"
+msgstr "Komunita WordPressu"
+
+#: post-content.php:140
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "Dostupnost je důležitá &mdash; nezapomeň na atribut alt u obrázků"
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:190
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "Pokud se chcete dozvědět více o tom, jak vytvořit další bloky nebo máte-li zájem o pomoc s tímto projektem, přejděte do <a href=\"%s\">GitHub úložiště</a>."
+
+#: post-content.php:163
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "Jakýkoliv blok můžete takto zarovnat. Vložený blok je také zarovnaný, a je ihned responzivní:"
+
+#: post-content.php:159
+msgid "The above is a gallery with just two images. It&#8217;s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher."
+msgstr "Výše je galerie jen se dvěma obrázky. Je to jednoduchý způsob, jak vytvořit vizuálně příjemné rozvržení, aniž byste museli řešit obtékání textu. Galerii můžete také snadno převést zpět na jednotlivé obrázky pomocí přepínače bloků."
+
+#: post-content.php:144
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "Jistě, obrázek na celou šířku může být někdy hodně veliký. Ale občas to za to stojí."
+
+#: post-content.php:136
+msgid "If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:"
+msgstr "Pokud kombinujete nové uspořádání (<strong>velmi široké</strong> a <strong>na plnou šířku</strong>) s galeriemi, můžete velmi rychle vytvořit formátovaný vzhled:"
+
+#: post-content.php:128
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "Množství sloupců v galeriích můžete změnit přetažením posuvníku v nastavení bloku, v postranním panelu."
+
+#: post-content.php:110
+msgid "Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter."
+msgstr "Bloky mohou být vše, co potřebujete. Například můžete chtít přidat decentní citaci jako součást kompozice textu. Nebo byste radši zobrazovali obří stylizovanou citaci? Všechny tyto možnosti teď jsou k dispozici."
+
+#: post-content.php:89
+msgid "Visual Editing"
+msgstr "Vizuální úpravy"
+
+#: post-content.php:70
+msgid "Galleries"
+msgstr "Galerie"
+
+#: lib/demo.php:61
+msgid "Welcome to the Gutenberg Editor"
+msgstr "Vítejte v editoru Gutenberg"
+
+#: post-content.php:11
+msgid "Of Mountains &amp; Printing Presses"
+msgstr "Z hor a knihtisku"
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "Obrázek je lepší než tisíc slov"
+
+#: post-content.php:28
+msgid "Headings are separate blocks as well, which helps with the outline and organization of your content."
+msgstr "Nadpisy jsou také samostatné bloky, které zlepšují přehlednost a uspořádání vašeho obsahu."
+
+#: post-content.php:93
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "Obrovská výhoda bloků spočívá v tom, že je můžete upravit na místě a manipulovat s obsahem přímo. Namísto toho abyste měli pole na úpravu věcí jako je zdroj citace nebo text tlačítka, můžete přímo změnit obsah. Zkuste upravit následující citaci:"
+
+#: post-content.php:76
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "Bloky zobrazení jako jsou tlačítka, hlavní obrázky, oddělovače, atd."
+
+#: post-content.php:64
+msgid "Text &amp; Headings"
+msgstr "Text a nadpisy"
+
+#: post-content.php:41
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "Pokud vaše šablona podporuje nové rozložení, v nástrojové liště obrázku uvidíte tlačítko „Velká šířka“. Vyzkoušejte ho."
+
+#: post-content.php:50
+msgid "The <em>Inserter</em> Tool"
+msgstr "Nástroj pro <em>přidávání</em> bloků"
+
+#: post-content.php:54
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "Představte si, že vše, co WordPress dokáže, je k dispozici jednoduše a stále na stejném místě. Není třeba zjišťovat HTML značky, třídy nebo si pamatovat komplikovanou syntaxi zkráceného zápisu. To je cílem přidávání bloků - tlačítko <code>(+)</code>, které uvidíte v editoru - umožní vám procházet všechny dostupné bloky obsahu a přidat je do příspěvku. Pluginy a šablony mohou zaregistrovat své vlastní, čímž se otevírají veškeré možnosti pro formátovanou úpravu a publikování."
+
+#: post-content.php:46
+msgid "Try selecting and removing or editing the caption, now you don&#8217;t have to be careful about selecting the image or other text by mistake and ruining the presentation."
+msgstr "Zkuste vybrat a odstranit, nebo upravit titulek, nyní se nebudete muset bát, že omylem vyberete obrázek, nebo jiný text a zkazíte si tak celou prezentaci."
+
+#: post-content.php:20
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "Nyní čtete <strong>odstavec</strong>, nejzákladnější blok ze všech. Odstavec má vlastní ovládací prvky, které umožňují volné umístění kdekoliv v příspěvku..."
+
+#: post-content.php:67
+msgid "Images &amp; Videos"
+msgstr "Obrázky a Videa"
+
+#: post-content.php:79
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "A jistě <em>seznamy</em> jako je tenhle :)"
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "... jako tento, který je zarovnaný vpravo."
+
+#: post-content.php:58
+msgid "Go give it a try, you may discover things WordPress can already add into your posts that you didn&#8217;t know about. Here&#8217;s a short list of what you can currently find there:"
+msgstr "Vyzkoušejte to, můžete objevit funkce, které WordPress může již dlouho přidávat do vašich příspěvků. Tady je krátký seznam toho, co můžete najít:"
+
+#: post-content.php:36
+msgid "Handling images and media with the utmost care is a primary focus of the new editor. Hopefully, you&#8217;ll find aspects of adding captions or going full-width with your pictures much easier and robust than before."
+msgstr "Velmi pečlivé zacházení s obrázky a médii je primárním cílem nového editoru. Doufáme, že některé aspekty přidání titulků nebo plné šířky obrázků budou mnohem lepší a jednodušší než dříve."
+
+#: post-content.php:73
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "Vložené prvky, jako YouTube, Tweety, nebo jiné WordPress příspěvky."
+
+#: post-content.php:16
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "Cílem tohoto nového editoru je přidat do WordPressu formátovaný obsah jednoduše a příjemně. Celý tento příspěvek se skládá z <em>částí obsahu</em> (jako LEGO z kostiček), které můžete přesouvat a ovlivňovat je. Pohybujte kurzorem a zjistěte, jak se různé bloky zvýrazní pomocí obrysů a šipek. Stiskněte šipky pro rychlé přesunutí bloků, aniž byste se museli bát, že něco ztratíte při kopírování a vkládání."
+
+#: lib/experimental/overlay-patterns.php:108 lib/experiments-page.php:30
+#: build/scripts/edit-post/index.js:2066
+#: build/scripts/edit-widgets/index.js:4012 build/scripts/editor/index.js:5096
+#: build/scripts/editor/index.js:59596
+msgid "Learn more"
+msgstr "Zjistit více"
+
+#. translators: %s: Digit to indicate multiple of sizing, eg. 2X-Small.
+#: lib/class-wp-theme-json-gutenberg.php:4355
+#: build/scripts/block-library/index.js:61129
+#: build/scripts/components/index.js:42776
+msgid "Small"
+msgstr "Malé"
+
+#: build/scripts/block-library/archives.php:62
+msgid "Select Post"
+msgstr "Vybrat příspěvek"
+
+#: build/scripts/block-library/archives.php:59
+msgid "Select Week"
+msgstr "Vybrat týden"
+
+#: build/scripts/block-library/archives.php:56
+msgid "Select Day"
+msgstr "Vybrat den"
+
+#: build/scripts/block-library/archives.php:53
+msgid "Select Month"
+msgstr "Vybrat měsíc"
+
+#: build/scripts/block-library/archives.php:50
+msgid "Select Year"
+msgstr "Vybrat rok"
+
+#: build/scripts/block-library/archives.php:30
+msgid "Archives"
+msgstr "Archivy"
+
+#: build/scripts/block-library/latest-comments.php:153
+msgid "No comments to show."
+msgstr "Žádné komentáře."
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/scripts/block-library/latest-comments.php:109
+msgid "%1$s on %2$s"
+msgstr "%1$s: %2$s"
+
+#: lib/init.php:39
+msgid "https://wordpress.org/support/plugin/gutenberg/"
+msgstr "https://wordpress.org/support/plugin/gutenberg/"
+
+#: lib/init.php:36 lib/init.php:37
+msgid "Support"
+msgstr "Rozcestník podpory"
+
+#. translators: %s: Digit to indicate multiple of sizing, eg. 2X-Large.
+#: lib/class-wp-theme-json-gutenberg.php:4392
+#: build/scripts/block-editor/index.js:7706
+#: build/scripts/block-library/index.js:61131
+#: build/scripts/components/index.js:42776
+msgid "Large"
+msgstr "Velká"
+
+#: build/scripts/block-library/embed/block.json
+msgctxt "block description"
+msgid "Add a block that displays content pulled from other sites, like Twitter or YouTube."
+msgstr "Přidejte blok zobrazující obsah získaný z jiných webů, například z Twitteru nebo z YouTube."
+
+#: build/scripts/block-library/query-pagination.php:26
+#: build/scripts/editor/index.js:31439
+msgid "Pagination"
+msgstr "Stránkování"
+
+#: build/scripts/block-library/table-of-contents.php:22
+#: build/scripts/block-library/index.js:64846
+msgid "Table of Contents"
+msgstr "Obsah"
+
+#. translators: displayed when a page has an empty title.
+#: build/scripts/block-library/breadcrumbs.php:289
+#: build/scripts/block-library/latest-comments.php:31
+#: build/scripts/block-library/latest-posts.php:79
+#: build/scripts/block-library/page-list.php:195
+#: build/scripts/block-library/rss.php:52
+#: build/routes/navigation-list/content.js:1717
+#: build/routes/navigation-list/content.js:4852
+#: build/routes/pattern-list/content.js:1628
+#: build/routes/pattern-list/content.js:4763
+#: build/routes/post-list/content.js:1607
+#: build/routes/post-list/content.js:4742
+#: build/routes/template-list/content.js:1762
+#: build/routes/template-list/content.js:4897
+#: build/routes/template-list/content.js:18396
+#: build/routes/template-part-list/content.js:1652
+#: build/routes/template-part-list/content.js:4787
+#: build/scripts/block-library/index.js:32985
+#: build/scripts/block-library/index.js:33022
+#: build/scripts/block-library/index.js:45048
+#: build/scripts/block-library/index.js:45052
+#: build/scripts/block-library/index.js:51047
+#: build/scripts/block-library/index.js:51059
+#: build/scripts/block-library/index.js:51072
+#: build/scripts/block-library/index.js:51086
+#: build/scripts/core-commands/index.js:379
+#: build/scripts/core-commands/index.js:464
+#: build/scripts/core-data/index.js:16327
+#: build/scripts/core-data/index.js:16351
+#: build/scripts/core-data/index.js:16375
+#: build/scripts/core-data/index.js:16397 build/scripts/edit-post/index.js:2691
+#: build/scripts/edit-site/index.js:22015
+#: build/scripts/edit-site/index.js:24502
+#: build/scripts/edit-site/index.js:27637
+#: build/scripts/edit-site/index.js:43607
+#: build/scripts/edit-site/index.js:44168
+#: build/scripts/edit-site/index.js:45418
+#: build/scripts/edit-site/index.js:46098 build/scripts/editor/index.js:5025
+#: build/scripts/editor/index.js:5220 build/scripts/editor/index.js:41902
+#: build/scripts/media-utils/index.js:2256
+#: build/scripts/media-utils/index.js:5273
+#: build/scripts/media-utils/index.js:17804
+#: build/scripts/core-commands/index.js:384
+#: build/scripts/core-commands/index.js:492
+#: build/scripts/core-commands/index.min.js:384
+#: build/scripts/core-commands/index.min.js:492
+msgid "(no title)"
+msgstr "(bez názvu)"
+
+#: build/scripts/block-library/image.php:307
+#: build/scripts/block-library/navigation-overlay-close.php:16
+#: build/scripts/block-library/navigation-overlay-close.php:34
+#: build/scripts/block-library/navigation.php:745
+#: build/scripts/block-editor/index.js:53634
+#: build/scripts/block-editor/index.js:60592
+#: build/scripts/block-editor/index.js:68044
+#: build/scripts/block-library/index.js:38152
+#: build/scripts/block-library/index.js:39103
+#: build/scripts/block-library/index.js:44357
+#: build/scripts/block-library/index.js:44366
+#: build/scripts/components/index.js:29467
+#: build/scripts/components/index.js:39545
+#: build/scripts/components/index.js:46215
+#: build/scripts/edit-site/index.js:39640
+#: build/scripts/edit-widgets/index.js:3744 build/scripts/editor/index.js:14586
+#: build/scripts/editor/index.js:35453 build/scripts/editor/index.js:44724
+#: build/scripts/editor/index.js:45801 build/scripts/editor/index.js:53872
+msgid "Close"
+msgstr "Zavřít"
+
+#: build/scripts/block-library/comment-edit-link.php:47
+#: build/routes/navigation-list/content.js:16696
+#: build/routes/post-edit/route.js:99 build/scripts/block-editor/index.js:50809
+#: build/scripts/block-library/index.js:11288
+#: build/scripts/block-library/index.js:13070
+#: build/scripts/block-library/index.js:14216
+#: build/scripts/block-library/index.js:38969
+#: build/scripts/block-library/index.js:44909
+#: build/scripts/block-library/index.js:45178
+#: build/scripts/block-library/index.js:45189
+#: build/scripts/block-library/index.js:45191
+#: build/scripts/block-library/index.js:70383
+#: build/scripts/edit-post/index.js:2698 build/scripts/edit-site/index.js:21591
+#: build/scripts/edit-site/index.js:22022
+#: build/scripts/edit-site/index.js:22464
+#: build/scripts/edit-site/index.js:41881
+#: build/scripts/edit-site/index.js:44175 build/scripts/editor/index.js:58893
+msgid "Edit"
+msgstr "Upravit"
+
+#: lib/experimental/navigation-theme-opt-in.php:93
+#: lib/experimental/navigation-theme-opt-in.php:98
+#: build/scripts/edit-widgets/index.js:2686 build/scripts/editor/index.js:57144
+msgid "Block"
+msgstr "Blok"
+
+#: build/scripts/block-library/read-more.php:39
+#: build/scripts/block-library/index.js:27574
+#: build/scripts/block-library/index.js:37272
+#: build/scripts/block-library/index.js:57454
+#: build/scripts/block-library/index.js:57472
+msgid "Read more"
+msgstr "Pokračovat ve čtení"
+
+#: lib/init.php:53
+msgid "Experiments"
+msgstr "Experimenty"
+
+#: gutenberg.php:40
+msgid "Gutenberg development mode requires files to be built. Run <code>npm install</code> to install dependencies, <code>npm run build</code> to build the files or <code>npm run dev</code> to build the files and watch for changes. Read the <a href=\"https://github.com/WordPress/gutenberg/blob/HEAD/docs/contributors/code/getting-started-with-code-contribution.md\">contributing</a> file for more information."
+msgstr "Gutenberg režim pro vývojáře vyžaduje sestavení souborů. Spusťte příkaz <code>npm install</code> pro instalaci závislostí, <code>npm run build</code> pro sestavení souborů, nebo <code>npm run dev</code> pro sestavení souborů a pro sledování změn. Více informací naleznete v dokumentu pro <a href=\"https://github.com/WordPress/gutenberg/blob/master/docs/contributors/getting-started.md\">přispívání</a> (anglicky)."
+
+#. translators: %s: human-readable time difference.
+#: build/scripts/block-library/post-date.php:65
+msgid "%s from now"
+msgstr "za %s"
+
+#. translators: %s: human-readable time difference.
+#: build/scripts/block-library/comment-date.php:33
+#: build/scripts/block-library/post-date.php:68
+msgid "%s ago"
+msgstr "před %s"
+
+#: lib/init.php:43 lib/init.php:44
+msgid "Documentation"
+msgstr "Manuál (anglicky)"
+
+#. Plugin URI of the plugin
+#: gutenberg.php
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin
+#: gutenberg.php lib/init.php:17 lib/init.php:18
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: lib/init.php:27 lib/init.php:28
+msgid "Demo"
+msgstr "Demo"
+
+#. Author of the plugin
+#: gutenberg.php
+msgid "Gutenberg Team"
+msgstr "Tým Gutenberg"
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:27
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "Pro správnou funkčnost Gutenbergu potřebujete alespoň WordPress %s. Před aktivací Gutenbergu proveďte aktualizaci WordPressu."
