@@ -1,0 +1,315 @@
+/* ============================================================
+   marketing-pages.css — aligned with spark-factor-theme Home
+   Tokens: style.css + theme.json (do NOT redefine them here)
+   ============================================================ */
+
+/* ---- Page wrapper ------------------------------------------ */
+
+.spark-page {
+  background: #fff;
+  color: #121c2a;
+  font-family: var(--wp--preset--font-family--header), var(--wp--preset--font-family--body);
+  font-size: var(--wp--preset--font-size--p);
+  overflow-x: hidden;
+}
+
+/* ---- Centered container (same breakpoints as Home) --------- */
+
+.spark-page .container {
+  width: 100%;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+@media (min-width: 640px)  { .spark-page .container { max-width: 640px; } }
+@media (min-width: 768px)  { .spark-page .container { max-width: 768px; } }
+@media (min-width: 1024px) { .spark-page .container { max-width: 1280px; } }
+@media (min-width: 1280px) { .spark-page .container { max-width: 1360px; } }
+
+/* ---- Typography (use theme tokens, don't import new fonts) - */
+
+.spark-page h1,
+.spark-page h2,
+.spark-page h3,
+.spark-page h4,
+.spark-page h5,
+.spark-page h6 {
+  font-family: var(--wp--preset--font-family--header);
+  color: var(--wp--preset--color--primary-dark);
+  margin: 0 0 0.75rem;
+  line-height: 1;
+}
+
+.spark-page h1 { font-size: var(--wp--preset--font-size--h1); }
+.spark-page h2 {
+  font-size: var(--wp--preset--font-size--h2);
+  text-transform: uppercase;
+}
+.spark-page h3 { font-size: var(--wp--preset--font-size--h3); }
+.spark-page h4 { font-size: var(--wp--preset--font-size--h4); }
+.spark-page h5 { font-size: var(--wp--preset--font-size--h5); }
+
+.spark-page p {
+  font-family: var(--wp--preset--font-family--body), var(--wp--preset--font-family--header);
+  color: #444652;
+  line-height: 1.7;
+  margin: 0 0 0.75rem;
+}
+
+/* Eyebrow label — matches Home section h2 (uppercase + primary) */
+.spark-eyebrow {
+  display: inline-block;
+  font-family: var(--wp--preset--font-family--header);
+  font-size: var(--wp--preset--font-size--h5);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--wp--preset--color--primary);
+  margin-bottom: 0.75rem;
+}
+
+/* ---- Hero Section ------------------------------------------ */
+
+.spark-hero {
+  background-color: var(--wp--preset--color--foreground);
+  width: 100%;
+  padding: 3.75rem 0;
+  text-align: center;
+}
+
+.spark-hero .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.spark-hero h1 {
+  color: var(--wp--preset--color--primary-dark);
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.spark-hero p {
+  max-width: 600px;
+  font-size: var(--wp--preset--font-size--h5);
+}
+
+@media (min-width: 768px) {
+  .spark-hero { padding: 5.625rem 0; }
+}
+
+/* ---- Section spacing --------------------------------------- */
+
+.spark-page > section {
+  padding-top: 3.75rem;
+  padding-bottom: 3.75rem;
+}
+
+.spark-page > .container {
+  padding-top: 3.75rem;
+  padding-bottom: 3.75rem;
+}
+
+@media (min-width: 768px) {
+  .spark-page > section,
+  .spark-page > .container {
+    padding-top: 5.625rem;
+    padding-bottom: 5.625rem;
+  }
+}
+
+/* Named section heading pattern: h2 (label EN) + h3 (Thai sub) */
+.spark-section-heading {
+  text-align: center;
+  margin-bottom: 2.625rem;
+}
+
+.spark-section-heading h2 {
+  color: var(--wp--preset--color--primary);
+}
+
+/* ---- Grid -------------------------------------------------- */
+
+.spark-grid {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.spark-grid.cols-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.spark-grid.cols-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+
+@media (max-width: 767px) {
+  .spark-grid.cols-2,
+  .spark-grid.cols-3 {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ---- Card — matches contact-us-container from Home --------- */
+
+.spark-card {
+  background: #fff;
+  border-radius: 2.5rem;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+  padding: 2.5rem 1.5625rem;
+}
+
+.spark-card h2,
+.spark-card h3 {
+  color: var(--wp--preset--color--primary-dark);
+}
+
+/* Dark variant — brand blue gradient */
+.spark-card.dark {
+  background: linear-gradient(
+    135deg,
+    var(--wp--preset--color--primary-dark),
+    var(--wp--preset--color--primary)
+  );
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.spark-card.dark h2,
+.spark-card.dark h3,
+.spark-card.dark p {
+  color: #fff;
+}
+
+/* ---- Stack (vertical card list) ---------------------------- */
+
+.spark-stack {
+  display: grid;
+  gap: 2.5rem;
+}
+
+/* ---- Stats ------------------------------------------------- */
+
+.spark-stat {
+  font-family: var(--wp--preset--font-family--header);
+  color: var(--wp--preset--color--primary);
+  font-size: var(--wp--preset--font-size--h1);
+  font-weight: 700;
+  line-height: 1;
+}
+
+/* ---- CTA Section ------------------------------------------- */
+
+.spark-cta {
+  background-color: var(--wp--preset--color--foreground);
+  width: 100%;
+  padding: 3.75rem 0;
+  text-align: center;
+}
+
+.spark-cta h2 {
+  color: var(--wp--preset--color--primary);
+}
+
+.spark-cta p {
+  font-size: var(--wp--preset--font-size--h5);
+  max-width: 560px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (min-width: 768px) {
+  .spark-cta { padding: 5.625rem 0; }
+}
+
+/* ---- Buttons — matches .navigation-item__content:hover ----- */
+
+.spark-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  border-radius: 20px;
+  height: 40px;
+  padding: 0 21px;
+  font-family: var(--wp--preset--font-family--header);
+  font-size: 18px;
+  font-weight: 500;
+  text-transform: uppercase;
+  cursor: pointer;
+  border: none;
+  transition: opacity 0.15s;
+}
+
+.spark-btn:hover { opacity: 0.85; }
+
+.spark-btn.primary {
+  background-color: var(--wp--preset--color--primary);
+  color: #fff;
+}
+
+.spark-btn.ghost {
+  background: transparent;
+  border: 2px solid var(--wp--preset--color--primary);
+  color: var(--wp--preset--color--primary);
+}
+
+.spark-btn + .spark-btn { margin-left: 12px; }
+
+/* ---- Legal Pages (terms / privacy) ------------------------- */
+
+/* Target only the inner content sections inside .spark-stack, not hero/container sections */
+.spark-legal .spark-stack > section {
+  background: #fff;
+  border-radius: 2.5rem;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+  padding: 2.5rem 1.5625rem;
+  margin-bottom: 1.5rem;
+}
+
+.spark-legal .spark-stack > section h2 {
+  color: var(--wp--preset--color--primary);
+  font-size: var(--wp--preset--font-size--h3);
+  text-transform: none;
+}
+
+/* ---- Contact Form — matches Home contact form style -------- */
+
+.spark-contact-form label {
+  display: block;
+  font-family: var(--wp--preset--font-family--header);
+  color: var(--wp--preset--color--primary-dark);
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.spark-contact-form input,
+.spark-contact-form select,
+.spark-contact-form textarea {
+  width: 100%;
+  border: 0;
+  border-bottom: 1px solid var(--wp--preset--color--primary-dark);
+  padding: 10px 0;
+  background: transparent;
+  font-family: var(--wp--preset--font-family--body), var(--wp--preset--font-family--header);
+  font-size: var(--wp--preset--font-size--p);
+  color: #121c2a;
+  outline: none;
+  box-sizing: border-box;
+}
+
+.spark-contact-form textarea {
+  min-height: 100px;
+  resize: vertical;
+}
+
+.spark-contact-form .spark-grid {
+  margin-top: 1rem;
+}
+
+.spark-full {
+  grid-column: 1 / -1;
+}
+
+.spark-mt-16 {
+  margin-top: 16px;
+}

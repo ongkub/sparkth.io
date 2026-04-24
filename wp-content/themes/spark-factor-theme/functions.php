@@ -96,5 +96,24 @@ function spark_factor_wordpress_scripts() {
       get_template_directory_uri() . "/blog-style.css"
     );
   }
+
+  if (
+    is_page([
+      "contact-us",
+      "services",
+      "about-us",
+      "industries",
+      "case-studies",
+      "terms-of-service",
+      "privacy-policy",
+    ])
+  ) {
+    wp_enqueue_style(
+      "spark-factor-marketing-pages",
+      get_template_directory_uri() . "/marketing-pages.css",
+      ["style"],
+      SPARK_FACTOR_WORDPRESS_VERSION
+    );
+  }
 }
 add_action("wp_enqueue_scripts", "spark_factor_wordpress_scripts");
